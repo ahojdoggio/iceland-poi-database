@@ -1,0 +1,28 @@
+{
+  "name": "Deildartunguhver",
+  "description": "Deildartunguhver is a powerful hot spring located in Borgarfjörður district in West Iceland, approximately 40 kilometers from Borgarnes. It is Europe's highest-flow hot spring, with water emerging at a scorching 97°C (207°F) and flowing at a remarkable rate of 180 liters per second. The spring has been harnessed to provide hot water to the towns of Borgarnes and Akranes, located 64 and 34 kilometers away respectively, making it one of the world's longest geothermal water distribution systems. Visitors can walk along elevated wooden platforms and boardwalks to safely observe the bubbling, steaming vents and colorful mineral deposits created by the superheated water. The site features informative signs explaining the geology and practical uses of geothermal energy. Two geothermal spas, Krauma and Húsafell, use water from Deildartunguhver, offering visitors a chance to experience its warming properties firsthand.",
+  "address": "Road 50, near Kleppjarnsreykir, West Iceland",
+  "coordinates": {
+    "longitude": -21.4106216,
+    "latitude": 64.663584,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Hot Spring",
+  "website": "https://guidetoiceland.is/book-holiday-trips/2-day-snaefellsnes-borgarfjordur-ice-cave",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRkaQWESGByPVr-SmzUhbOSEPWm3kkEvZLZPxkOSsp5dJsdFfxLmlONdc4pTB15TtSM1nRvZkw-3ni8IlDMOCLf2Vur-hl2veydkaG-LF1JXEGxLrtFLQ-2cDq6Aq5et9FoNOYwKjN7ng_5DH-P5fgmrdzk4xq_8MGgysWt5M_s9lWSk2F1AdAlgFr8oPy7_Pck250?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSzQmbBHVLWm0Nrs1rox9idId97fzpxyOFYpHE19OAzCZ_sgV2E2Gz--bwsoOzzbJIC-LRn-WohfZvaidKsz4w_SGQxi8uz2rQuEvfJGDCgPMmjuFJpH0awzC5m1621JSlC2sfThgQSyGFumG9G_pCjnNhryZ-_2f3Rx_i4E2Ig585nIPb7g1eTDLyXKBIS8VJBwQs?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7 (Viewing platforms and paths are accessible year-round)"
+  }
+}

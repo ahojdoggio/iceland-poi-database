@@ -1,0 +1,25 @@
+{
+  "name": "Akureyri Botanical Garden",
+  "description": "These are one of the world's northernmost botanical gardens, located just 50 kilometers (31 miles) south of the Arctic Circle. Established in 1957 within a city park that originated in 1912, the gardens now span 3.6 hectares. They host over 7,000 plant species, serving as a peaceful oasis for locals and visitors, and a site for scientific research.",
+  "address": "Between Þórunnarstræti and Eyrarlandsvegur, Akureyri",
+  "coordinates": {
+    "longitude": -18.0934126,
+    "latitude": 65.6751302,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 4008,
+  "category": "Botanical Garden",
+  "website": "https://www.lystigardur.akureyri.is/en",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eyrarlandsstofa_S%C3%BCdseite_6193.JPG"
+    }
+  ],
+  "opening_hours": {
+    "general": "Open year-round with free entrance",
+    "gates/toilets": "Summer: 08:00 - 22:00. Winter: Gates open, toilets closed."
+  }
+}

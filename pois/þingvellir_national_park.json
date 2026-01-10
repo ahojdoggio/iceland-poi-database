@@ -1,0 +1,29 @@
+{
+  "name": "Þingvellir National Park",
+  "description": "Þingvellir (anglicized as Thingvellir) National Park is a UNESCO World Heritage Site of immense historical, cultural, and geological significance, located approximately 40 kilometers northeast of Reykjavík. This is the site where Iceland's parliament, the Alþingi, was established in 930 AD, making it one of the world's oldest parliaments and a cornerstone of Icelandic national identity. For centuries, Icelanders gathered here annually to settle disputes, pass laws, and conduct trade. Geologically, Þingvellir sits in a rift valley marking the boundary between the North American and Eurasian tectonic plates, which are drifting apart at a rate of about 2 centimeters per year. This creates dramatic fissures, canyons, and cliffs throughout the landscape, including the famous Almannagjá gorge where visitors can literally walk between two continents. The park contains the crystal-clear Silfra fissure, one of the world's top diving and snorkeling sites, where visibility exceeds 100 meters in glacial meltwater. Lake Þingvallavatn, Iceland's largest natural lake, dominates the eastern part of the park and is home to unique fish species.",
+  "address": "Þingvellir, 801 Selfoss, Iceland",
+  "coordinates": {
+    "longitude": -21.1303621,
+    "latitude": 64.255857,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "National Park",
+  "website": "https://guidetoiceland.is/book-holiday-trips/snorkeling-and-the-golden-circle",
+  "phone": "+354 488 1800",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR4_9fnEH7IUTWEMsOdjLE7uU3JsB61-0mkFyIBvsV34MTXr2AQu4e1syVQDGypfnhNjdAFjr4JZs6EoLAwRcgTAXnNUdjhfEcJ656ehVJzQK3h4uSUdw959Mb37saNGI5HR1QW8opS7rC-QCqmNq5x8GOq28NTG0DTvKFkMtvVTkaJ9xOgtLBnis8aUPL-KlwtS44?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQsv6-Qzq4fT5CHQNTXyXr2HIz6ree2vLfubBYPTKgTE0VHyqz-cpYECe0-MRejg-HZpjIYRo358Xz3FCSQuBEqrZa2Kt3fmzXSWPTO6395cqX9jvZcpxcp8IYqM1pax8ufYYvUlxbG2r-gCnah7tyGpcHFiAs0IK7Ggmz-x122kllHLpf17c9b-JgYXhkfCD30boI?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "park": "Open 24 hours a day, year-round",
+    "visitor_center": "Daily: 09:00 - 18:00 (Apr-Oct), 09:00 - 17:00 (Nov-Mar)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Kirkjufell",
+  "description": "Kirkjufell, meaning \"Church Mountain,\" is arguably Iceland's most photographed mountain, rising 463 meters from the northern shore of the Snæfellsnes Peninsula near the town of Grundarfjörður. The mountain's distinctive cone shape and symmetrical profile make it instantly recognizable, though its appearance varies dramatically depending on viewing angle. From the classic viewpoint near Kirkjufellsfoss waterfall, the mountain presents an almost perfect pyramid shape, while from other angles it reveals a more complex, asymmetrical form. The mountain is actually a nunatak - a mountain that protruded above the glaciers during the last ice age - and its shape was sculpted by erosion from ice flowing around it from multiple directions.\n\nKirkjufell has achieved worldwide fame through its appearance in HBO's Game of Thrones as \"Arrowhead Mountain\" where the White Walkers' symbol appeared, and it features prominently in countless travel publications and social media posts. The mountain's popularity stems from the perfect composition it creates with Kirkjufellsfoss waterfall in the foreground, especially when the Northern Lights dance overhead during winter months. The mountain is part of a volcanic system approximately 700,000 years old, and geological studies have revealed its complex formation through volcanic activity and subsequent glacial erosion. The western face features dramatic stratification showing ancient lava layers.\n\nWhile Kirkjufell can be hiked to the summit, the ascent is steep, difficult, and potentially dangerous, requiring proper equipment and experience. The hike takes 1.5-2 hours one way with very steep sections including short scrambles over loose rock. Most visitors are content to photograph the mountain from the classic viewpoint at Kirkjufellsfoss or from various points around Grundarfjörður town. The mountain is accessible year-round and offers spectacular photo opportunities at sunrise, sunset, and during Northern Lights season (September-April). The location has become so popular that it can be crowded during peak season, particularly at the Kirkjufellsfoss viewpoint. For different perspectives, exploring the coastline around Grundarfjörður reveals many alternative viewpoints.",
+  "address": "Route 54, 350 Grundarfjörður, Iceland",
+  "coordinates": {
+    "longitude": -23.305556,
+    "latitude": 64.923889,
+    "altitude": 463.0
+  },
+  "rating": 4.9,
+  "reviews_count": 11200,
+  "category": "Mountain",
+  "website": "https://www.west.is/en/place/kirkjufell-mountain",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kirkjufell_mountain.jpg"
+    },
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/kirkjufell-mountain"
+    }
+  ],
+  "opening_hours": {
+    "viewing": "Accessible 24/7 year-round from multiple viewpoints",
+    "classic_viewpoint": "Kirkjufellsfoss area, free parking",
+    "summit_hike": "1.5-2 hours one way, steep and difficult, proper equipment required",
+    "best_viewing": "Sunrise/sunset for photography, September-April for Northern Lights",
+    "safety": "Summit hike dangerous in wet/icy conditions, several accidents reported, experienced hikers only"
+  }
+}

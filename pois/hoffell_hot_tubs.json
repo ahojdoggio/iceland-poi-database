@@ -1,0 +1,24 @@
+{
+  "name": "Hoffell Hot Tubs",
+  "description": "Hoffell Hot Tubs are a cluster of man-made concrete tubs fed by natural geothermal hot water, located near the spectacular Hoffell glacier area in Southeast Iceland, close to the town of Höfn. Surrounded by dramatic mountains, sweeping open landscapes, and views toward nearby glaciers descending from the vast Vatnajökull ice cap, these tubs offer a peaceful and scenic soaking spot away from large tourist crowds. The facility consists of several small pools maintaining different temperatures, typically ranging from warm (around 36°C/97°F) to quite hot (42°C/108°F), allowing bathers to find their preferred comfort level. The setting provides excellent opportunities for stargazing on clear nights and potential Northern Lights viewing during winter months. A small entrance fee is collected, usually paid at the nearby Glacier World accommodation via an honesty box system during off-hours. Basic changing facilities are available. The tubs are particularly popular with hikers exploring the nearby Hoffellsjökull glacier and the surrounding Vatnajökull National Park, offering a perfect way to relax tired muscles after a day of adventure in Iceland's stunning glacial landscape.",
+  "address": "Hoffell, 781 Höfn í Hornafirði, Iceland",
+  "coordinates": {
+    "longitude": -15.4065692,
+    "latitude": 64.4143802,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Natural Hot Pool",
+  "website": "https://glacierworld.is",
+  "phone": "+354 478 1514",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...SYgGMbWvZ7EYM1sKZZy09ox6NSAj1p8X_58aA-g?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Typically open daily roughly 07:00–22:00 in season; access may depend on Glacier World opening times."
+  }
+}

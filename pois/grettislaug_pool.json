@@ -1,0 +1,24 @@
+{
+  "name": "Grettislaug pool",
+  "description": "Grettislaug is a natural geothermal hot pool located on the shore at Reykir in Skagafjörður, North Iceland, approximately 15 kilometers north of Sauðárkrókur. The pool is steeped in Icelandic saga history - according to the legendary Saga of Grettir the Strong, the famous outlaw Grettir Ásmundarson warmed himself in this very pool after making an incredible 7-kilometer swim from the island of Drangey in freezing waters around the year 1031. Today, visitors can soak in two stone-lined hot pools with views over the sea, Drangey island, and the surrounding mountains. The larger pool maintains a temperature around 39-43°C (102-109°F) while a smaller, cooler pool provides a place to refresh. The pools are simple and natural, with minimal development to preserve their authentic character. A small changing hut provides basic facilities. The site is managed by the adjacent Reykir guesthouse and campsite, which collects a modest entrance fee during the summer season. This is one of Iceland's most historically significant bathing sites, offering visitors a chance to literally follow in the footsteps of legendary saga heroes while enjoying stunning coastal scenery.",
+  "address": "Reykir, 551 Sauðárkrókur, Iceland",
+  "coordinates": {
+    "longitude": -19.7431626,
+    "latitude": 65.9660237,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Natural Hot Pool",
+  "website": "https://www.northiceland.is/en/experiences/bathing-wellness/geothermal-baths/reykir-reykjastrond-guesthouse",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...NGdi9UyGfIGp_fu-QtnRgMi7XGAd5T0-CawG-Q?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Typically open daily in summer with a small entrance fee collected by the adjacent campsite/guesthouse."
+  }
+}

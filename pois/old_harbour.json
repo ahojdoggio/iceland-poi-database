@@ -1,0 +1,31 @@
+{
+  "name": "Old Harbour (Gamla Höfnin)",
+  "description": "Reykjavík's Old Harbour (Gamla Höfnin) is a vibrant waterfront district that has transformed from a working fishing harbor into one of the city's most popular entertainment and dining areas. Located just minutes from downtown, the harbor area spans several piers including Geirsgata, Tryggvagata, and Ægisgarður, offering a blend of maritime heritage, modern culture, and stunning coastal views. The area remains an active fishing port while simultaneously serving as the departure point for whale watching tours, Northern Lights boat trips, and puffin excursions during summer.\n\nThe Old Harbour district is home to numerous restaurants specializing in fresh seafood, craft breweries, coffee shops, and cultural attractions including the Maritime Museum, Whales of Iceland exhibition, and Saga Museum. The area has retained its industrial character with converted warehouses and maritime buildings now housing galleries, shops, and creative businesses. Street art adorns many buildings, and the harbor offers excellent views of Mount Esja, Harpa Concert Hall, and the surrounding mountains. The harbor promenade is perfect for leisurely walks with numerous photo opportunities.\n\nVisitors can explore the working harbor atmosphere, watch fishing boats unload their catch, dine at waterfront restaurants, or embark on various boat tours. The area hosts markets, festivals, and cultural events throughout the year, particularly during summer. The Old Harbour has become a hub for Reykjavík's creative community while maintaining its authentic maritime character, offering a unique blend of tradition and modernity that captures the essence of Iceland's capital.",
+  "address": "Geirsgata, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.941417,
+    "latitude": 64.152044,
+    "altitude": 2.0
+  },
+  "rating": 4.4,
+  "reviews_count": 6800,
+  "category": "Neighborhood",
+  "website": "https://www.visitreykjavik.is/reykjavik-old-harbour",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Reykjavik_Old_Harbour.jpg"
+    },
+    {
+      "source": "Visit Reykjavík",
+      "url": "https://www.visitreykjavik.is/reykjavik-old-harbour"
+    }
+  ],
+  "opening_hours": {
+    "area": "Accessible 24/7 year-round",
+    "restaurants": "Vary by establishment, most open 11:00-23:00",
+    "whale_watching": "Tours depart daily, schedules vary by season",
+    "museums": "Generally 10:00-17:00, check individual venues"
+  }
+}

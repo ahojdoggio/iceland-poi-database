@@ -1,0 +1,25 @@
+{
+  "name": "Akureyrarkirkja",
+  "description": "This prominent church, designed by state architect Guðjón Samúelsson, was consecrated in 1940 and towers over the town center. Its notable features include a large pipe organ with 3,200 pipes and an opaque central window from England's Coventry Cathedral. A model ship is suspended from the ceiling, reflecting an old tradition for the welfare of loved ones at sea.",
+  "address": "Við Eyrarlandsveg 600, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.090781,
+    "latitude": 65.6799121,
+    "altitude": 0.0
+  },
+  "rating": 4.3,
+  "reviews_count": 1100,
+  "category": "Church",
+  "website": "https://www.akureyrarkirkja.is/",
+  "phone": "+354 462 7700",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Akureyrarkirkja.jpg"
+    }
+  ],
+  "opening_hours": {
+    "summer": "Mon-Fri: 15:00 - 18:00 (Approx. June 1 - August 30)",
+    "winter": "Varies (often closed to general visitors outside of services)"
+  }
+}

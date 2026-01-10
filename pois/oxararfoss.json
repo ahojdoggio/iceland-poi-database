@@ -1,0 +1,32 @@
+{
+  "name": "Öxarárfoss",
+  "description": "Öxarárfoss is a picturesque waterfall located in Þingvellir National Park, cascading approximately 13 meters into the Almannagjá gorge. The waterfall is fed by the Öxará river, which flows from the nearby lake Þingvallavatn. Set within the dramatic landscape of the North American and Eurasian tectonic plates, Öxarárfoss sits in one of Iceland's most historically and geologically significant locations. The waterfall's name translates to \"Axe River Falls,\" and according to legend, the river's course was artificially diverted in the 10th century to provide drinking water for the Alþingi (national parliament) gatherings that took place at Þingvellir from 930 AD onwards.\n\nThe waterfall flows through columnar basalt rock formations typical of the region, creating a striking visual contrast between the dark volcanic rock and the white cascading water. During winter, Öxarárfoss partially freezes, forming dramatic ice sculptures and icicles that frame the flowing water, making it a favorite subject for photographers year-round. The surrounding canyon walls display clear evidence of tectonic activity, with visible fissures and rock formations telling the story of Iceland's volcanic origins. The combination of historical significance, geological wonders, and natural beauty makes Öxarárfoss an essential stop when exploring Þingvellir.\n\nÖxarárfoss is easily accessible via a short 10-15 minute walk from the Öxarárfoss parking area (P5) or as part of the longer Almannagjá walking trail through the rift valley. The trail is well-maintained with wooden walkways and viewing platforms offering excellent vantage points. The waterfall can be visited year-round, though winter visitors should be prepared for icy conditions. Being part of Þingvellir National Park, a UNESCO World Heritage Site, the area around Öxarárfoss is protected, and visitors are reminded to stay on marked paths to preserve the fragile environment.",
+  "address": "Þingvellir National Park, 801 Selfoss, Iceland",
+  "coordinates": {
+    "longitude": -21.122928,
+    "latitude": 64.263611,
+    "altitude": 50.0
+  },
+  "rating": 4.6,
+  "reviews_count": 2400,
+  "category": "Waterfall",
+  "website": "https://www.thingvellir.is",
+  "phone": "+354 482 2660",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Oxararfoss_Thingvellir.jpg"
+    },
+    {
+      "source": "Þingvellir National Park",
+      "url": "https://www.thingvellir.is/en"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "trail": "10-15 minute walk from P5 parking",
+    "parking": "500 ISK parking fee at Þingvellir (all day)",
+    "visitor_center": "Daily 09:00-17:00 (extended summer hours)",
+    "notes": "Part of Þingvellir National Park, UNESCO World Heritage Site"
+  }
+}

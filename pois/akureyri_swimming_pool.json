@@ -1,0 +1,25 @@
+{
+  "name": "Akureyri Swimming Pool",
+  "description": "This is one of Akureyri's most popular attractions, open all year round and heated by natural geothermal water. The facility includes two 25-meter outdoor pools, water slides, hot tubs, a cold tub, an indoor pool, and a steam bath. It is a well-maintained space for both relaxation and fun, catering to the strong Icelandic social swimming culture.",
+  "address": "Skólastígur 4, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0971579,
+    "latitude": 65.6793562,
+    "altitude": 0.0
+  },
+  "rating": 4.8,
+  "reviews_count": 648,
+  "category": "Swimming Pool",
+  "website": "https://sundlaugar.is/en/sundlaugasafn/akureyri-swimming-pool/",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Akureyri_pool.jpg"
+    }
+  ],
+  "opening_hours": {
+    "general": "Open year-round",
+    "note": "Hours are seasonal; check the official website for the exact current schedule."
+  }
+}

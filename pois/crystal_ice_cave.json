@@ -1,0 +1,32 @@
+{
+  "name": "Crystal Ice Cave",
+  "description": "The Crystal Ice Cave is a natural ice cave formation located within the Breiðamerkurjökull outlet glacier of Vatnajökull, near Jökulsárlón glacier lagoon in southeast Iceland. These caves form naturally when glacial meltwater carves tunnels through the ice during summer, then freezes solid in winter, creating stunning blue ice chambers. The \"Crystal Cave\" name refers to the most famous and photographed cave, though the exact location and formation changes each year as the glacier shifts and melts. The caves typically feature brilliant sapphire blue ice walls created by compressed glacial ice that absorbs all light wavelengths except blue, smooth ice floors, and occasional ice formations resembling frozen waterfalls or crystal formations.\n\nIce caves are temporary natural phenomena that exist only during winter months (November-March) when temperatures are cold enough to stabilize the cave structures. Each season produces different caves in different locations, as summer meltwater carves new passages and old caves collapse or melt away. Guides must scout for safe, accessible caves before each season begins. The intense blue color is most vivid on overcast days when diffused light penetrates the ice evenly. On sunny days, light streaming through openings creates dramatic beams and highlights. The caves can range from small chambers to extensive tunnel systems, with ceiling heights varying from barely crawlable to cathedral-like domes several meters high.\n\nVisiting ice caves is only possible through guided tours with certified operators, as entering glaciers carries significant risks including collapse, flooding, and disorientation. Tours typically depart from Jökulsárlón area and require super jeep transportation to reach the glacier, followed by short walks on the ice with crampons. Tours last 2-4 hours total and must be booked well in advance, especially during peak season (December-February). Weather conditions can cause tour cancellations for safety reasons. The experience of standing inside a glacier, surrounded by ancient blue ice, ranks among Iceland's most extraordinary natural experiences, though visitors should understand that no two visits are ever the same due to the caves' constantly changing nature.",
+  "address": "Breiðamerkurjökull, Vatnajökull Glacier, 781 Höfn, Iceland",
+  "coordinates": {
+    "longitude": -16.3,
+    "latitude": 64.03,
+    "altitude": 50.0
+  },
+  "rating": 4.9,
+  "reviews_count": 7800,
+  "category": "Ice Cave",
+  "website": "https://www.vatnajokulsthjodgardur.is",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Crystal_Ice_Cave_Iceland.jpg"
+    },
+    {
+      "source": "Vatnajökull National Park",
+      "url": "https://www.vatnajokulsthjodgardur.is/en"
+    }
+  ],
+  "opening_hours": {
+    "season": "November-March only (winter when caves are stable)",
+    "access": "Guided tours only, no independent access permitted",
+    "booking": "Advance reservation essential, tours fill up weeks ahead",
+    "duration": "2-4 hour tours including transport and cave time",
+    "safety": "CRITICAL: Extremely dangerous without certified guide, cave collapses possible"
+  }
+}

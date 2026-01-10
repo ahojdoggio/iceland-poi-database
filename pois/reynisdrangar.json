@@ -1,0 +1,31 @@
+{
+  "name": "Reynisdrangar",
+  "description": "Reynisdrangar is a formation of dramatic basalt sea stacks rising approximately 66 meters from the Atlantic Ocean off the coast of Reynisfjara black sand beach near Vík in southern Iceland. The two main pinnacles, along with a third smaller stack, stand as striking vertical columns of hexagonal basalt visible for miles along the coastline. According to Icelandic folklore, these formations are two trolls who were caught by sunrise while trying to drag a ship ashore, turning them to stone. The geological reality is that these are remnants of ancient volcanic basalt that has been eroded by the relentless Atlantic waves, with the harder basalt columns resisting erosion better than surrounding rock.\n\nThe basalt columns display the characteristic hexagonal and pentagonal patterns formed by slow-cooling lava from ancient volcanic eruptions. The stacks provide important nesting sites for seabirds including puffins, fulmars, and guillemots during breeding season. The formations are best viewed from Reynisfjara beach, where they create a dramatic composition with the black sand beach, powerful Atlantic waves, and the Dyrhólaey promontory in the background. The interplay of dark basalt rock, white waves, and stormy skies creates moody, dramatic photography opportunities that have made Reynisdrangar one of Iceland's most iconic coastal features.\n\nReynisdrangar is viewed from Reynisfjara beach, accessed via Route 215 off the Ring Road near Vík. The formations stand roughly 600-800 meters offshore and cannot be reached on foot. The beach viewing area can be extremely dangerous due to sneaker waves - visitors must maintain safe distance from the water and never turn their backs on the ocean. The view is spectacular year-round, particularly dramatic during storms when massive waves crash against the stacks, though such conditions are also most dangerous. Winter visits may coincide with Northern Lights displays overhead. The site is freely accessible 24/7, but visitors should be aware of the critical safety warnings associated with Reynisfjara beach.",
+  "address": "Off Reynisfjara Beach, Route 215, 870 Vík, Iceland",
+  "coordinates": {
+    "longitude": -19.044167,
+    "latitude": 63.404722,
+    "altitude": 0.0
+  },
+  "rating": 4.8,
+  "reviews_count": 5100,
+  "category": "Sea Stack",
+  "website": "https://www.south.is/en/place/reynisdrangar",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Reynisdrangar_sea_stacks.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/reynisdrangar"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "viewpoint": "Viewed from Reynisfjara beach",
+    "parking": "Parking available at Reynisfjara (may have fee)",
+    "safety": "CRITICAL: Viewed from Reynisfjara beach which has deadly sneaker waves - never turn back on ocean, stay far from water's edge"
+  }
+}

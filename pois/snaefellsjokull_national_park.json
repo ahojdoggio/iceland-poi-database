@@ -1,0 +1,31 @@
+{
+  "name": "Snæfellsjökull National Park",
+  "description": "Snæfellsjökull National Park encompasses 170 square kilometers at the western tip of the Snæfellsnes Peninsula, extending from the iconic Snæfellsjökull glacier-capped stratovolcano down to dramatic coastal cliffs and black pebble beaches. Established as Iceland's fourth national park in 2001, it is the only Icelandic national park that extends from the mountains to the sea. The centerpiece is the 1,446-meter Snæfellsjökull volcano, crowned with a small glacier that has been slowly disappearing due to climate change. This mystical mountain inspired Jules Verne's novel \"Journey to the Center of the Earth\" (1864) and is considered one of the world's energy centers by spiritual practitioners, attracting those seeking its purported mystical powers.\n\nThe park features diverse landscapes including lava fields, moss-covered craters, sea caves, black and golden sand beaches, and rich birdlife. Notable attractions within the park include Djúpalónssandur black pebble beach with its famous lifting stones, Vatnshellir lava cave (8,000 years old), Londrangar basalt cliffs, Arnarstapi and Hellnar coastal villages, and the Saxhóll crater with its accessible summit stairs. The coastline provides habitat for various seabirds, and seals are commonly spotted on the rocks. The area's geology spans millions of years, with some of the oldest rock formations in Iceland visible alongside relatively recent lava flows from the 1,000-year-old Saxhóll crater.\n\nThe national park is accessed via Routes 54 and 574 around the Snæfellsnes Peninsula, approximately 2-3 hours drive from Reykjavík. The Snæfellsjökull Visitor Center in Hellissandur provides information, exhibitions, and guidance for exploring the park. Numerous hiking trails of varying difficulty wind through the park, from short coastal walks to challenging mountain ascents. Summer offers wildflowers and midnight sun, while winter brings Northern Lights opportunities and snow-capped mountain views. The glacier summit can be climbed with guides, though the glacier has receded significantly and may disappear entirely within decades. The park is one of the few locations where you can stand with a glacier behind you and the ocean ahead, capturing Iceland's dramatic landscape diversity in a single panorama.",
+  "address": "Snæfellsnes Peninsula, West Iceland",
+  "coordinates": {
+    "longitude": -23.776111,
+    "latitude": 64.806111,
+    "altitude": 1446.0
+  },
+  "rating": 4.8,
+  "reviews_count": 4200,
+  "category": "National Park",
+  "website": "https://www.snaefellsjokull.is/en",
+  "phone": "+354 436 6860",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Snaefellsjokull_National_Park.jpg"
+    },
+    {
+      "source": "Snæfellsjökull National Park",
+      "url": "https://www.snaefellsjokull.is/en"
+    }
+  ],
+  "opening_hours": {
+    "park": "Accessible 24/7 year-round",
+    "visitor_center": "Summer 10:00-17:00, winter hours vary, check website",
+    "attractions": "Individual sites have varying accessibility, some winter closures",
+    "admission": "Free park entry, some attractions have fees (Vatnshellir cave tour)"
+  }
+}

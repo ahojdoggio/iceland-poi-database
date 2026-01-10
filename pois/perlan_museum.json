@@ -1,0 +1,31 @@
+{
+  "name": "Perlan Museum",
+  "description": "Perlan (The Pearl) is one of Reykjavík's most distinctive landmarks, featuring a glass dome atop six massive hot water tanks on Öskjuhlíð hill. Originally built in 1991 as a hot water storage facility, it was transformed into a world-class museum and observation deck showcasing Iceland's natural wonders. The building's innovative design, with its revolving restaurant under a glass dome, has made it an architectural icon visible from across the city. Perlan stands 25.7 meters tall and offers panoramic 360-degree views of Reykjavík, Mount Esja, and the Atlantic Ocean.\n\nThe museum features immersive exhibitions exploring Iceland's glaciers, volcanoes, geology, and wildlife. Highlights include a 100-meter-long real ice cave carved from over 350 tons of snow, an interactive glaciers and ice exhibition, a planetarium showing Northern Lights displays, and exhibits on Iceland's volcanic systems and unique ecosystems. The Wonders of Iceland exhibition uses cutting-edge technology, including virtual reality and 4D experiences, to bring Iceland's natural phenomena to life in engaging ways.\n\nVisitors can access the observation deck for stunning city views, dine in the rotating restaurant, and explore the surrounding Öskjuhlíð forest with its walking paths. The museum is family-friendly with interactive displays suitable for all ages. Night visits offer spectacular illuminated views of Reykjavík's cityscape. Perlan serves as both an educational center and one of the capital's premier tourist attractions, combining scientific content with architectural beauty.",
+  "address": "Öskjuhlíð, 105 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.920933,
+    "latitude": 64.130783,
+    "altitude": 61.0
+  },
+  "rating": 4.5,
+  "reviews_count": 8900,
+  "category": "Museum",
+  "website": "https://www.perlan.is",
+  "phone": "+354 566 9000",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Perlan_Reykjavik.jpg"
+    },
+    {
+      "source": "Perlan Official",
+      "url": "https://www.perlan.is"
+    }
+  ],
+  "opening_hours": {
+    "museum": "Daily 09:00-19:00 (last entry 18:00)",
+    "observation_deck": "Daily 09:00-22:00",
+    "admission": "Adults 6,990 ISK, Children 7-15 years 3,490 ISK, Under 7 free",
+    "restaurant": "Daily 11:30-21:00, reservations recommended"
+  }
+}

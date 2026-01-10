@@ -1,0 +1,24 @@
+{
+  "name": "Mývatn Nature Baths",
+  "description": "Mývatn Nature Baths, often called the \"Blue Lagoon of the North,\" is a spectacular geothermal bathing lagoon located near Lake Mývatn in Northeast Iceland, one of the country's most geologically active and scenic regions. The large outdoor lagoon contains milky-blue alkaline water naturally heated to 36-40°C (97-104°F) by underground hot springs drawing from the powerful Krafla geothermal area. The water is rich in beneficial minerals including sulfur, silica, and various other elements that are believed to have healing and rejuvenating properties for the skin. The lagoon covers an area of approximately 5,000 square meters and can accommodate numerous bathers while still feeling spacious and uncrowded compared to some of Iceland's busier spas. Two natural steam baths built into the lava field provide an additional relaxation option, where temperatures reach sauna-like levels. The surrounding landscape is stunning, featuring dramatic lava formations, volcanic craters, and views across the otherworldly Mývatn area. The modern facility includes changing rooms with lockers, showers, and a café serving light refreshments. Opened in 2004, Mývatn Nature Baths offers visitors an authentic Icelandic geothermal experience in one of the country's most fascinating volcanic landscapes, far from the tourist crowds of South Iceland.",
+  "address": "Jarðbaðshólar, 660 Mývatn, Iceland",
+  "coordinates": {
+    "longitude": -16.8483535,
+    "latitude": 65.6409489,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Geothermal Spa",
+  "website": "https://www.earthlagoon.is",
+  "phone": "+354 464 4411",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Pm7l3K6GQHY_OJCftPdmbASYngY8tv5lhCSWmi8?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "High season (Jun–Aug) usually 09:00–24:00, low season (Sep–May) roughly 12:00–22:00. Check official website for exact hours."
+  }
+}

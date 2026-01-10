@@ -1,0 +1,28 @@
+{
+  "name": "Snæfellsjökull",
+  "description": "Snæfellsjökull is a 700,000-year-old glacier-capped stratovolcano standing 1,446 meters tall at the western tip of the Snæfellsnes Peninsula. The mountain gained international fame as the entrance to the subterranean journey in Jules Verne's classic 1864 novel \"Journey to the Centre of the Earth.\" On clear days, the glacier can be seen from Reykjavík, over 120 kilometers away, appearing as a gleaming white cone on the horizon. Snæfellsjökull is considered one of Iceland's most mystical and energetically powerful sites, regarded by many as one of the world's seven primary \"energy centers.\" The glacier sits within Snæfellsjökull National Park, Iceland's only national park that extends from seashore to mountaintop. Unfortunately, due to climate change, the glacier has been rapidly shrinking and may disappear within decades. Visitors can explore the area via hiking trails, and experienced mountaineers can climb to the summit, though guided tours are strongly recommended due to crevasses and unpredictable weather.",
+  "address": "Snæfellsjökull National Park, Iceland",
+  "coordinates": {
+    "longitude": -23.7730967,
+    "latitude": 64.8057023,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Volcano",
+  "website": "https://guidetoiceland.is/book-trips-holiday/day-tours/snaefellsnes-tours",
+  "phone": "+354 436 6888",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTpr0fGQJOcBTXipETo-OXXW7G_27aKBsLO6f4-4FwuPYJw0RG-jP1LqTNk6_k1OyDu2vG119OMFVX-jny3oee5LhMfZ-SnEGnY7x-5EEEZ2xEozrTbg8eDAaPKbHVT3XKHMahJUKnizwMf4GkUc2ibhEIXxXoy36ofugonJPoW0JikTxN5J1gGrCbgOEZcLNuetkQ?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQOYhrO4IUW2Hof0vEg9EFumSZOH9kFTwRR5QnEcmddD1T-iLaTUrc_MhWDxuykN1HXAUUU78JyRB92o3UKHetI0sEabSo_36tFJ8itUggQaE2uSAcReBzgPMWI0I1gRpZD78Mem4oXrVw61QKf6_c_M6LTKGWGvnfeW5Fn0zgesxbRrUSxQLcf3LUGPun6aLbUwLI?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "national_park": "Open 24/7 (glacier access is weather dependent)"
+  }
+}

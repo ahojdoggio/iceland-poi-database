@@ -1,0 +1,37 @@
+{
+  "name": "Blue Lagoon",
+  "description": "The Blue Lagoon is Iceland's most famous geothermal spa and one of the country's most visited attractions, located in a dramatic black lava field on the Reykjanes Peninsula, approximately 39 kilometers from Reykjavík and 23 kilometers from Keflavík International Airport. The lagoon was formed accidentally in 1976 during operations at the nearby Svartsengi geothermal power plant, when superheated water from deep underground was discharged onto the surrounding lava field. People soon discovered the water's beneficial properties, and the site evolved into a world-class spa facility. The milky-blue, mineral-rich waters maintain a comfortable temperature between 37-39°C (98-102°F) year-round and are rich in silica, algae, and minerals that are believed to benefit the skin, particularly for those with skin conditions like psoriasis. The lagoon covers an area of approximately 8,700 square meters, with depths reaching 1.4 meters at the deepest point. Modern facilities include in-water bars, a silica mud mask station, shallow relaxation areas, saunas, a steam room, and a premium spa offering various treatments. The lagoon's otherworldly setting, surrounded by black volcanic rock and white silica deposits, creates a unique and photogenic experience. Advance booking is mandatory, with various ticket packages available.",
+  "address": "Norðurljósavegur 9, 240 Grindavík, Iceland",
+  "coordinates": {
+    "longitude": -22.4495084,
+    "latitude": 63.8807554,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Geothermal Spa",
+  "website": "https://www.bluelagoon.com",
+  "phone": "+354 420 8800",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQVsxvKJZQrQZLfcVXV_RNg3C5s2irAaeG7VRzEHCKSh51ZgNSfNLeulBDAVA778rAT357wdzu10XpYFle6tUxn5GimamsRTu_nmHpkOhAQDeTRrwTznVXUxyic3up1sJIpM5tZOQYuxT8MOqe3wShsj31D_AVbBBEOPapVHew6gJu5a40CT4IR3dzgUzCG1cphEAI?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTjOvuf6VOktkVxblC74BcrXNXr69xABwpQv6fK80oXYtMTz1WHNHqIK85W8cynTPb0wzJrn5bV5daJKymWSeR8p-09pNfnXJ7Ht6L1zCfZAbVGwQfrSQJjaM8KsspB872s9YDBo6ZlxwoLQVz9oczuoKz3fo2z7OstcIVLMaS5WCb29wFqlO0ul7YNHv2CiZNQOhU?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTdQuPD2xeYmy2KsSHJsEbAkcouJnw3zOKMa-gYOsEmut_0A-54JGXi1S96sU3YRrzfK1qDB8geOzOGwDaI-CFYiRRtxuNkTihKjQ3z9qlEn-jog9RwK43pwfzTBS820GeqnjTDQj0gFPQECLE-n_-PzbrGFX-zDJl_H2k4Cev901i4TUeVIKY0pXTl4kVqDt5lm84?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://lh3.googleusercontent.com/-789Ei6rWUbM/VGupuV83nOI/AAAAAAAAAbc/XTRF2eAYIFA-s0d20K8LGhuDKz4NywQEwCJkC/s1600-w791-h529/blue-lagoon-iceland-travel-63.jpg"
+    }
+  ],
+  "opening_hours": {
+    "summer": "Daily: 07:00 - 00:00 (June 1 - August 20)",
+    "winter": "Daily: 08:00 - 22:00 (August 21 - May 31)"
+  }
+}

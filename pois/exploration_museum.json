@@ -1,0 +1,24 @@
+{
+  "name": "Exploration Museum",
+  "description": "A small but fascinating museum dedicated to the history of human exploration, from early polar journeys and Viking voyages to the space age. The main exhibition focuses on the Apollo astronauts who trained on Icelandic lava fields near Húsavík in the 1960s. Artefacts, photographs and stories make it an engaging stop for families and curious travellers.",
+  "address": "Héðinsbraut 3a, 640 Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.3533135,
+    "latitude": 66.0484494,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Museum",
+  "website": "https://www.explorationmuseum.com",
+  "phone": "+354 848 7600",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Exploration_Museum_interior.jpg"
+    }
+  ],
+  "opening_hours": {
+    "general": "Typically open daily around 09:00–18:00; hours may vary by season. Check the museum website for up-to-date times."
+  }
+}

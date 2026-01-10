@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iceland POI Database</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🇮🇸 Iceland Points of Interest</h1>
+            <p class="subtitle">Explore Iceland's attractions, landmarks, and destinations</p>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search POIs by name, description, or category...">
+                <span class="search-icon">🔍</span>
+            </div>
+            <div class="stats">
+                <span id="totalCount">0</span> POIs loaded
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Loading POIs from database...</p>
+        </div>
+
+        <div id="poiGrid" class="poi-grid"></div>
+
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>No POIs found matching your search.</p>
+        </div>
+    </div>
+
+    <!-- POI Detail Modal -->
+    <div id="poiModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+

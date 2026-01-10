@@ -1,0 +1,24 @@
+{
+  "name": "Drangsnes Hot Tubs",
+  "description": "Drangsnes Hot Tubs are three free, naturally heated geothermal hot tubs located in the tiny fishing village of Drangsnes in the remote Strandir region of the Westfjords. These simple concrete pools sit right on the rocky shoreline, offering stunning views across Steingrímsfjörður fjord toward the dramatic mountains beyond. The hot tubs are fed by natural geothermal water that maintains a comfortable bathing temperature year-round, typically around 38-42°C (100-108°F). Each of the three tubs accommodates 4-6 people, creating an intimate and communal bathing experience. The pools are completely free to use and accessible 24/7, embodying Iceland's tradition of making geothermal bathing available to all. Changing facilities are minimal - a small wooden shack provides basic shelter for changing clothes. Drangsnes is one of Iceland's most remote communities with fewer than 70 inhabitants, and the hot tubs offer visitors a rare glimpse into authentic Icelandic coastal life. The village itself is charming, with colorful houses, a small harbor, and the peculiar rock formation called Kerling (\"The Troll Woman\") standing offshore, which according to legend is a petrified troll caught by the sunrise.",
+  "address": "Drangsnes, 524 Árneshreppur, Iceland",
+  "coordinates": {
+    "longitude": -21.461903,
+    "latitude": 65.697437,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Natural Hot Pool",
+  "website": null,
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/..."
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7, free access"
+  }
+}

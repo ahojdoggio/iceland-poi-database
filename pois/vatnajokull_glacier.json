@@ -1,0 +1,31 @@
+{
+  "name": "Vatnajökull Glacier",
+  "description": "Vatnajökull is Europe's largest glacier by volume and Iceland's largest ice cap, covering approximately 7,900 square kilometers (roughly 8% of Iceland's total land area) across the southeast of the country. The glacier reaches a maximum thickness of about 1,000 meters, with an average thickness of 400 meters, containing around 3,000 cubic kilometers of ice. The name translates to \"Glacier of Lakes,\" referencing the numerous lakes formed by glacial meltwater. Vatnajökull feeds over 30 outlet glaciers, including famous tongues like Breiðamerkurjökull (which creates Jökulsárlón glacier lagoon), Skaftafellsjökull, and Svínafellsjökull.\n\nBeneath Vatnajökull's ice lies a volcanic landscape featuring several active volcanoes, including Bárðarbunga, Grímsvötn, and Öræfajökull. This unique combination of fire and ice creates spectacular natural phenomena, with subglacial volcanic eruptions causing massive meltwater floods called jökulhlaups. The most recent major eruption occurred in 2014-2015 from Bárðarbunga, creating Iceland's largest lava field since the Laki eruption of 1783. The glacier is also home to the country's highest peak, Hvannadalshnjúkur, rising 2,110 meters above sea level. Like glaciers worldwide, Vatnajökull has been retreating significantly due to climate change, losing mass at an accelerating rate over recent decades.\n\nVisitors can experience Vatnajökull through multiple access points within Vatnajökull National Park, including Skaftafell, Jökulsárlón, and Höfn areas. Activities include guided glacier hikes, ice climbing, snowmobiling, and visiting natural ice caves that form seasonally in the glacier's outlet tongues. The famous Crystal Ice Cave near Jökulsárlón attracts thousands of visitors each winter. All glacier activities require experienced guides due to dangerous crevasses, unstable ice, and rapidly changing conditions. The glacier is best visited year-round, with different seasons offering unique experiences from midnight sun summer hikes to winter ice cave explorations.",
+  "address": "Vatnajökull, Southeast Iceland",
+  "coordinates": {
+    "longitude": -16.8,
+    "latitude": 64.4,
+    "altitude": 900.0
+  },
+  "rating": 4.9,
+  "reviews_count": 8500,
+  "category": "Glacier",
+  "website": "https://www.vatnajokulsthjodgardur.is",
+  "phone": "+354 470 8300",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Vatnajokull_Glacier.jpg"
+    },
+    {
+      "source": "Vatnajökull National Park",
+      "url": "https://www.vatnajokulsthjodgardur.is/en"
+    }
+  ],
+  "opening_hours": {
+    "glacier": "Visible year-round from multiple viewpoints",
+    "access": "Multiple access points: Skaftafell, Jökulsárlón, Höfn area",
+    "activities": "Guided glacier tours required, book in advance",
+    "safety": "CRITICAL: Never walk on glacier without certified guide, hidden crevasses deadly"
+  }
+}

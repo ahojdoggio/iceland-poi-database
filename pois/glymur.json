@@ -1,0 +1,28 @@
+{
+  "name": "Glymur",
+  "description": "Glymur is Iceland's second-highest waterfall with a dramatic drop of 198 meters (650 feet), located at the rear end of Hvalfjörður fjord in West Iceland. For many years it was believed to be the highest waterfall in Iceland until the 2011 measurement of Morsárfoss in Vatnajökull National Park surpassed it. The waterfall cascades down a narrow canyon carved over millennia by the Botnsá river, which flows from the Hvalvatn lake above. Reaching Glymur requires a moderately challenging 7-kilometer round-trip hike that includes river crossings (via a log or by wading), a climb through a cave, and steep ascents with chains and ropes installed to assist hikers. The trail offers breathtaking views of the fjord and surrounding mountains. The hike typically takes 3-4 hours and is best attempted from late May to September when conditions are safest.",
+  "address": "Hvalfjörður, West Iceland",
+  "coordinates": {
+    "longitude": -21.251961,
+    "latitude": 64.391022,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Waterfall",
+  "website": "https://guidetoiceland.is/book-holiday-trips/geothermal-helicopter-tour-glymur-waterfall-and-thingvellir-national-park",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSWhjlfoFjdjQhNzsrUJE_QMf-AnQQMeCU_iF-w4-6dKrOTq6TywaGfu_kmMivgIclsFOLNrRBCsK8X5nS8p8QjVnP9_kC_ECvTr1rF0HhILyHdEIFtx-dqX2aRMpWA0oqbpSpXaBZh5yyWQXAEyruuJdjs4R5PnbXGZXcT68auxyxewJwByuzp4XlHu1sg2Wi3L4w?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTHXMRIGSnkopnU3fPes1b9HXXsKQZDMekR9-SFnSNQRvLJOaByYijVocDWr2o2DrQBzvF59VrFvcjuio3tDftLpKbdpIBzInekj0RA_5ji_lo1tMWBYvoifBCcAhoN7XWGWb4DyrdjtD7GSJ6W_EzdliKph-2WE4lg5xGg69d_WFConk9NP1DIM1CGA7wbc1GxC38?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7 (natural area, accessibility depends on hiking conditions)"
+  }
+}

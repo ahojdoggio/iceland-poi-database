@@ -1,0 +1,31 @@
+{
+  "name": "Langjökull Glacier",
+  "description": "Langjökull, meaning \"Long Glacier,\" is Iceland's second-largest ice cap, covering approximately 935 square kilometers in the western highlands. The glacier measures about 50 kilometers in length and 15-20 kilometers wide at its broadest point, with ice reaching maximum thickness of 580 meters. Situated between 400 and 1,450 meters elevation, Langjökull feeds several rivers including Hvítá (which creates Gullfoss waterfall) and supplies water to the Þingvellir area. The glacier sits atop an active volcanic system, with the most recent eruption occurring in the 10th century. Like all Icelandic glaciers, Langjökull has been losing mass significantly due to climate change, retreating and thinning at an accelerating rate over recent decades.\n\nThe glacier's surface is characterized by numerous crevasse fields, ice ridges, and two significant volcanic craters beneath the ice - Þórisjökull and Eiríksjökull. The western part of the glacier features more accessible terrain, making it popular for snowmobile tours and the famous Into the Glacier tunnel, a man-made ice tunnel carved into the glacier allowing visitors to walk inside the ice. The glacier offers spectacular views of surrounding highlands, with clear days providing vistas of other major ice caps including Hofsjökull and Vatnajökull. The white expanse of Langjökull dominates the highland landscape and can be seen from many locations across western Iceland, including from Reykjavík on exceptionally clear days.\n\nLangjökull is accessed via highland F-roads (F35 and F550) that are only open during summer months (typically June-September) and require 4WD vehicles. The glacier cannot be accessed independently - all activities require joining guided tours with certified operators offering glacier snowmobiling, super jeep excursions, ice cave visits, and glacier hiking. The Into the Glacier tunnel is the most popular attraction, accessible year-round via specially modified vehicles from Húsafell or Klaki base camp. Other activities depart from various base camps including Geyser area. The glacier is best experienced during summer for easier access, though winter offers Northern Lights opportunities. All glacier surface activities carry inherent risks from crevasses and changing weather conditions - professional guides with proper safety equipment are mandatory.",
+  "address": "West Iceland Highlands, accessed via F35 and F550",
+  "coordinates": {
+    "longitude": -20.016667,
+    "latitude": 64.6,
+    "altitude": 925.0
+  },
+  "rating": 4.7,
+  "reviews_count": 3500,
+  "category": "Glacier",
+  "website": "https://www.west.is/en/place/langjokull",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Langjokull_glacier.jpg"
+    },
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/langjokull"
+    }
+  ],
+  "opening_hours": {
+    "access_roads": "F-roads open June-September only, 4WD required",
+    "tours": "Year-round guided tours available, book in advance",
+    "activities": "Snowmobiling, Into the Glacier tunnel, glacier hiking",
+    "safety": "CRITICAL: Guided tours mandatory, crevasse danger, rapidly changing weather"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Djúpalónssandur",
+  "description": "Djúpalónssandur is a striking black pebble beach located on the southwestern foot of Snæfellsjökull glacier on the Snæfellsnes Peninsula. The beach is famous for its smooth, rounded black lava stones of various sizes, polished over centuries by Atlantic waves. A short walking path from the parking area leads visitors through a dramatic lava field dotted with twisted rock formations and arches sculpted by wind and water. On the beach, you'll find four ancient \"lifting stones\" (Amlóði, Hálfdrættingur, Hálfsterkur, and Fullsterkur) weighing between 23 and 154 kilograms, traditionally used to test the strength of fishermen seeking employment on boats. Only those who could lift Hálfsterkur (54 kg) onto a ledge at hip height would be hired. The beach is also the site of a 1948 British trawler shipwreck, with scattered remnants still visible among the rocks, serving as a somber reminder of the ocean's power.",
+  "address": "Djúpalónssandur, Snæfellsnes Peninsula, Iceland",
+  "coordinates": {
+    "longitude": -23.9121817,
+    "latitude": 64.7492971,
+    "altitude": 0.0
+  },
+  "rating": 3.3,
+  "reviews_count": 7,
+  "category": "Beach",
+  "website": "https://guidetoiceland.is/connect-with-locals/regina/djupalonssandur-beach---a-lava-wonderland",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSOnnjGQPTp0CZO-kvqwABEB1G2juo__D37xMx962ALdV9knUczOAFiMedNcJ50zr7C7eWp0SNT7boOnV5h7gJra74pwApGSZZisbLyYhQNTd4obWGB-C0G3vlqqqKbBI5aMtFhYY1Mrw3XMEkzJPDYtZmP0ZWIbloAHXn7L_obMSrVyT7b2bWCVNI0slO6Md4bz_E?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRvI5sPiYqg5PpXb9_9GXicajUnQY8SrLNpxbHFPVfuhkwhbvPfcX6KMnrWTIjG2GbZDFV1gQsFSM9yE8GDyZKGiONh8s1qDiarupS6JABvbAQWQktqGko-Ct7WflFuSTfiifEHdLB0hY23KeukOuXfqtJQD3OK1kGlc5SdoD1emgUJrbN2skxUBMUGVSvc3FWcfU4?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7 (public space)"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rif",
+  "description": "Rif is a small, quiet fishing village located on the northern coast of the Snæfellsnes Peninsula in West Iceland, with a population of approximately 100-150 residents. The village has a good natural harbor and has served as a fishing community for centuries, with fish processing remaining an important local industry. Rif is particularly known as a major nesting ground for Arctic terns during the summer months (May through August), and visitors should exercise caution as these protective birds are known to dive-bomb anyone who ventures too close to their nests. The village offers peaceful coastal scenery, black pebble beaches, and views across Breiðafjörður bay toward the Westfjords. Despite its small size, Rif has essential services including a small grocery store and guesthouse accommodation. The village serves as a quiet base for exploring the dramatic landscapes of the Snæfellsnes Peninsula, including nearby Snæfellsjökull glacier and the charming villages of Hellnar and Arnarstapi.",
+  "address": "Rif, Snæfellsnes Peninsula, Iceland",
+  "coordinates": {
+    "longitude": -23.8211609,
+    "latitude": 64.9234164,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Village",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "all_year": "Open 24/7 (public space)"
+  }
+}

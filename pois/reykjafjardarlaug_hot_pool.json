@@ -1,0 +1,24 @@
+{
+  "name": "Reykjafjardarlaug Hot Pool",
+  "description": "Reykjafjardarlaug is a traditional roadside geothermal bathing site located in the remote Westfjords, offering both a concrete swimming pool and a natural hot spring experience. The site consists of a rectangular concrete pool with basic but functional changing rooms, situated beside a small river that carries geothermal water from its source. Closer to the hot spring source, visitors can find a more primitive natural rock pool where the water emerges at higher temperatures directly from the earth. The concrete pool is maintained at comfortable swimming temperatures around 35-40°C (95-104°F), while the natural source pool can be significantly hotter. This dual-pool setup allows visitors to experience both developed and wild Icelandic geothermal bathing in one location. The site is a popular rest stop for travelers navigating the scenic but challenging gravel roads of the Westfjords, providing a welcome opportunity to soak tired muscles while enjoying views of the dramatic fjord landscape. There is no staff on site and no entrance fee - access is free and based on the honor system. The changing facilities are simple but adequate. Being far from major population centers, Reykjafjardarlaug offers an authentic, uncrowded bathing experience characteristic of Iceland's remote geothermal sites.",
+  "address": "Reykjafjarðarlaug, 451 Bíldudalur, Westfjords, Iceland",
+  "coordinates": {
+    "longitude": -23.5074768,
+    "latitude": 65.6536583,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Swimming Pool",
+  "website": "https://icelandtravelguide.is/locations/reykjafjardarlaug-hot-spring/",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...FrUD5g2QiAFBMNRewWgGUX95CmX9ctBh-qYSNYA?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Open year-round with no formal staff; concrete pool with nearby natural hot spring and simple changing facilities."
+  }
+}

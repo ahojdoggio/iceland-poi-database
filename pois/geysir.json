@@ -1,0 +1,28 @@
+{
+  "name": "Geysir",
+  "description": "The Geysir geothermal area in Haukadalur Valley is one of Iceland's most famous natural wonders and an essential stop on the Golden Circle route. The site gave the English language the word \"geyser\" through its namesake, the Great Geysir, which was first documented in 1294 and once erupted to heights of 70-80 meters. Although the original Great Geysir is now largely dormant (erupting only occasionally after earthquakes), its neighbor Strokkur (\"The Churn\") has become the main attraction. Strokkur is remarkably reliable, erupting every 5-10 minutes and shooting boiling water 15-20 meters into the air, occasionally reaching heights of 30-40 meters. The geothermal area spans several acres and features numerous hot springs, fumaroles, mud pots, and colorful mineral deposits created by the mineral-rich water. The ground temperature can reach 100°C just below the surface, and visitors must stay on marked paths for safety. Boardwalks allow safe viewing of the bubbling hot pools with their vibrant blue and turquoise colors. A visitor center on site provides information about geothermal activity, and there are facilities including a restaurant and gift shop.",
+  "address": "Haukadalur Valley, 801 Selfoss, Iceland",
+  "coordinates": {
+    "longitude": -20.3023605,
+    "latitude": 64.3103719,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Geothermal Area",
+  "website": "https://guidetoiceland.is/book-trips-holiday/nature-tours/golden-circle",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTg1LhKO6DZCYyHvALvOSv1uo-NWKkGtZxZMPT4GRxi-0wrWr1oHgGYVmgaELVpuradjmxMb912M6OZwo6QhCEqYFH2SulD7lwqdCDXUtBCORLpaGBsdf4ZAoQVjwj2JtJyGdmcD5OkzWm8hxYQqYSidcK6OUnUdv2p4ZSob2UjIfs6q94BPmAVksZ3GiQgxV1U0Rc?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSX2xY7Ov29ByPW8YFrF2gkPTwH5IhsCfDv_9_iVpt4fvb6Izp-SaD1nMn4DPP2wZBHrcsddUuJgbjYVsOn4KYPRxvtE3FfAzqGjR6-Bw3Atu6Qvvu81dq2yDu_ji82RCkBucmlHcxPg-Gz17G7HuEw3DWB7fX6hNs6fsQcQil1DnFHPXLa81Q6bbAR8ia42THnuM?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7 (geothermal area)"
+  }
+}

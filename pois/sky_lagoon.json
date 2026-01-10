@@ -1,0 +1,32 @@
+{
+  "name": "Sky Lagoon",
+  "description": "Sky Lagoon is a spectacular oceanside geothermal spa opened in 2021 on the Kársnes peninsula in Kópavogur, just 15 minutes from central Reykjavík. The infinity-edge lagoon features dramatic views over the North Atlantic Ocean, with the 70-meter infinity edge creating a seamless visual connection between the warm geothermal water and the ocean beyond. The lagoon's water temperature is maintained at 38-40°C (100-104°F), sourced from geothermal boreholes reaching 1,000 meters depth. The facility spans 650 square meters of water surface, designed with a unique seven-step ritual inspired by traditional Icelandic bathing culture, including a cold plunge, sauna, steam room, body scrub, and relaxation areas carved into the cliffside.\n\nSky Lagoon distinguishes itself from other Icelandic spas through its architectural integration with the dramatic coastal landscape. The facility is built directly into volcanic rock cliffs, with the infinity edge suspended 15 meters above sea level. The design by Basalt Architects incorporates sustainable materials including driftwood and volcanic rock, creating a modern interpretation of Icelandic vernacular architecture. The spa features a 75-meter-long infinity pool, a swim-up bar serving Icelandic craft beer and cocktails, a cold plunge pool fed by North Atlantic seawater, and the Skjól bath with its atmospheric cave-like ambiance. The facility offers both \"Sér\" (private changing facilities) and \"Saman\" (communal changing facilities) admission options, with the premium Sér package including a dedicated lounge and enhanced privacy.\n\nSky Lagoon is located on Vesturvör 44-48 in Kópavogur, easily reached via Route 41 from Reykjavík. Free parking is available at the facility. The spa operates year-round with advance booking strongly recommended as it frequently sells out weeks ahead during peak season. The experience is designed for adults 12+ (children under 12 not permitted). The seven-step ritual takes approximately 2-3 hours to complete leisurely. Evening visits offer spectacular sunset views and potential Northern Lights sightings during winter. The combination of natural setting, thoughtful design, and geothermal tradition makes Sky Lagoon one of Iceland's premier spa experiences, offering an alternative to the more distant Blue Lagoon with equally stunning scenery mere minutes from the capital.",
+  "address": "Vesturvör 44-48, 200 Kópavogur, Iceland",
+  "coordinates": {
+    "longitude": -22.01,
+    "latitude": 64.09,
+    "altitude": 15.0
+  },
+  "rating": 4.6,
+  "reviews_count": 4800,
+  "category": "Geothermal Spa",
+  "website": "https://www.skylagoon.com",
+  "phone": "+354 527 6800",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Sky_Lagoon.jpg"
+    },
+    {
+      "source": "Sky Lagoon",
+      "url": "https://www.skylagoon.com"
+    }
+  ],
+  "opening_hours": {
+    "daily": "10:00-22:00 year-round (last entry 21:00)",
+    "admission": "Saman (standard) from 9,990 ISK, Sér (premium) from 14,990 ISK",
+    "booking": "Advance booking required, often sells out weeks ahead",
+    "age_limit": "12+ years only, children under 12 not permitted",
+    "duration": "Recommended 2-3 hours for full seven-step ritual"
+  }
+}

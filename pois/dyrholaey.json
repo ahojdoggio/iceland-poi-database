@@ -1,0 +1,32 @@
+{
+  "name": "Dyrhólaey",
+  "description": "Dyrhólaey is a dramatic 120-meter high promontory and former island located on Iceland's south coast near the village of Vík. The name translates to \"Door Hill Island,\" referring to the massive natural arch formation at the southernmost point that is large enough for small boats to sail through. Formed from volcanic rock approximately 100,000 years ago during a submarine eruption, Dyrhólaey juts into the Atlantic Ocean, creating Iceland's southernmost point. The promontory offers spectacular panoramic views of the black sand coastline, Reynisfjara beach, Reynisdrangar sea stacks to the east, and the Mýrdalsjökull glacier to the north, with the Westman Islands visible on clear days to the southeast.\n\nDyrhólaey is one of Iceland's premier locations for viewing Atlantic puffins during breeding season (mid-May to mid-August), with thousands of puffins nesting in burrows on the cliffsides. The promontory also hosts other seabirds including fulmars, guillemots, and kittiwakes. The area features a distinctive white lighthouse built in 1927 that stands dramatically at the cliff's edge, though it's not open to public interior visits. The dramatic black volcanic cliffs, crashing Atlantic waves, and the iconic arch create one of Iceland's most photographed landscapes. The arch itself measures approximately 43 feet in height and is best viewed from Reynisfjara beach across the bay.\n\nDyrhólaey is accessed via Route 218 off the Ring Road (Route 1), with two viewing areas: an upper platform near the lighthouse offering the best panoramic views, and a lower area providing closer access to the arch. The road to the upper viewpoint is often closed during puffin nesting season (May 1 - June 25) to protect breeding birds, though the lower area remains accessible year-round. The site can be extremely windy - visitors should stay well back from cliff edges and supervise children closely. Parking is available at both levels. Dyrhólaey offers stunning views at all times of day, particularly spectacular at sunset when the arch is backlit, and during winter when Northern Lights may be visible overhead.",
+  "address": "Route 218, 870 Vík, Iceland",
+  "coordinates": {
+    "longitude": -19.120556,
+    "latitude": 63.392778,
+    "altitude": 120.0
+  },
+  "rating": 4.8,
+  "reviews_count": 6700,
+  "category": "Cliff",
+  "website": "https://www.south.is/en/place/dyrholaey",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Dyrholaey_Arch.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/dyrholaey"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "upper_viewpoint": "Closed May 1 - June 25 during puffin nesting season",
+    "lower_area": "Open year-round",
+    "puffin_viewing": "Mid-May to mid-August",
+    "safety": "CRITICAL: Extremely windy, stay back from cliff edges, supervise children closely"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Svartifoss",
+  "description": "Svartifoss, meaning \"Black Falls,\" is a spectacular 20-meter waterfall located in Vatnajökull National Park within the Skaftafell area of southeast Iceland. The waterfall is renowned for its striking backdrop of dark basalt columns that frame the cascading water, creating a dramatic natural amphitheater. These hexagonal columnar basalt formations were created by slow-cooling lava, forming geometric patterns that have inspired Icelandic architecture, most notably the design of Hallgrímskirkja church in Reykjavík and the National Theatre. The contrast between the white water and black columns, particularly beautiful in winter when ice formations add another layer of texture, makes Svartifoss one of Iceland's most photographed waterfalls.\n\nThe basalt column formations surrounding Svartifoss are among the finest examples of this geological phenomenon in Iceland. The columns formed approximately 3-4 million years ago when lava flows from ancient eruptions cooled slowly and evenly, creating the distinctive hexagonal and pentagonal patterns. As the softer rock eroded over millennia, the harder basalt columns remained, with fallen columns visible at the waterfall's base. The name \"Black Falls\" refers to the dark color of these basalt formations, which create a stunning backdrop against the white glacial water from Svartá river.\n\nReaching Svartifoss requires a moderate 1.8-kilometer hike from the Skaftafell Visitor Center, taking approximately 45 minutes one way with an elevation gain of 150 meters. The well-maintained trail passes through birch woodlands and offers viewpoints of the surrounding glaciers including Skaftafellsjökull. The hike can be extended to form longer loops visiting other waterfalls in the area. Best visited during summer months (May-September) when trails are accessible, though the waterfall is stunning year-round. Winter visitors should be prepared for icy conditions and should check trail status at the visitor center.",
+  "address": "Skaftafell, Vatnajökull National Park, 785 Öræfi, Iceland",
+  "coordinates": {
+    "longitude": -16.975278,
+    "latitude": 64.027500,
+    "altitude": 230.0
+  },
+  "rating": 4.7,
+  "reviews_count": 3800,
+  "category": "Waterfall",
+  "website": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell",
+  "phone": "+354 470 8300",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Svartifoss_Waterfall.jpg"
+    },
+    {
+      "source": "Vatnajökull National Park",
+      "url": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/svartifoss"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible year-round, conditions permitting",
+    "trail": "1.8km one way, 45 minutes, moderate difficulty",
+    "parking": "Free at Skaftafell Visitor Center",
+    "visitor_center": "Daily 09:00-17:00 (extended hours in summer)",
+    "notes": "Check trail conditions in winter, can be icy"
+  }
+}

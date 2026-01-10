@@ -1,0 +1,24 @@
+{
+  "name": "Lake Viti",
+  "description": "Lake Viti (meaning \"Hell\" in Icelandic) is a vivid turquoise-blue crater lake located in the dramatic Krafla volcanic caldera area near Lake Mývatn in North Iceland. The lake formed during a major volcanic eruption in 1724 known as the \"Mývatn Fires,\" when the Viti crater was created by a powerful explosion. The lake measures approximately 300 meters in diameter and reaches depths of about 40 meters. The water is geothermally heated from below, maintaining warm temperatures around 27-29°C (81-84°F), though this can vary. The lake's striking color comes from minerals and algae in the water. The surrounding landscape is otherworldly, featuring colorful rhyolite rock formations in shades of red, orange, yellow, and brown, along with numerous steaming fumaroles and geothermal vents that release sulfurous steam. Visitors can walk along the crater rim on a well-maintained path, offering spectacular views down into the crater and across the stark volcanic landscape. Important safety note: Swimming in Lake Viti is strictly prohibited due to the unstable shoreline, dangerous water chemistry, and scalding temperatures at the lake bottom where geothermal water enters. The site is accessible year-round, though winter conditions can limit access.",
+  "address": "Víti crater, Krafla area, 650 Mývatn, Iceland",
+  "coordinates": {
+    "longitude": -16.719501,
+    "latitude": 65.718807,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Crater",
+  "website": null,
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...4By46BGshYtD3KNcID-wnEMYIzS0QDrQW6XbPeVA?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Accessible year-round as a natural site with no formal facilities; weather and road conditions can limit access, and bathing is not allowed."
+  }
+}

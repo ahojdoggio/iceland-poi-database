@@ -1,0 +1,25 @@
+{
+  "name": "Húsavík Whale Museum",
+  "description": "One of the few museums in the world dedicated entirely to whales, located by the harbour in Húsavík. Exhibitions cover whale biology, conservation and Iceland's whaling history, with 11 full skeletons including a blue whale and a narwhal. Interactive displays, films and kids' areas make it engaging for both adults and children.",
+  "address": "Hafnarstétt 1, 640 Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.344575,
+    "latitude": 66.046885,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 793,
+  "category": "Museum",
+  "website": "https://www.hvalasafn.is/en",
+  "phone": "+354 414 2800",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Husavikwhalemuseum.jpg"
+    }
+  ],
+  "opening_hours": {
+    "summer": "April–October: 09:00–18:00",
+    "winter": "November–March: 10:00–16:00"
+  }
+}

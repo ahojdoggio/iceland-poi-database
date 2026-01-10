@@ -1,0 +1,30 @@
+{
+  "name": "Sun Voyager (Sólfar)",
+  "description": "The Sun Voyager (Sólfar) is a striking steel sculpture located on Reykjavík's waterfront, created by Icelandic artist Jón Gunnar Árnason and unveiled in 1990. The gleaming stainless steel structure resembles a Viking ship skeleton and measures approximately 4 meters tall and 11 meters long. Positioned on the Sæbraut coastal road with views across Faxaflói Bay toward Mount Esja, the sculpture has become one of Reykjavík's most photographed landmarks and a symbol of hope, progress, and freedom.\n\nContrary to popular belief, the sculpture is not meant to represent a Viking ship, but rather a dreamboat or ode to the sun. Árnason described it as a vessel of dreams, containing within it the promise of undiscovered territory, a dream of hope, progress, and freedom. The artist, who passed away in 1989 before the sculpture's completion, won a competition in 1986 to create a monument commemorating Reykjavík's 200th anniversary as a chartered city. The sculpture was completed by his workshop according to his vision.\n\nSun Voyager is a must-visit photo spot at all times of day, particularly stunning at sunset when the sculpture glows golden against the bay, and during winter when the Northern Lights dance overhead. The location offers unobstructed views of Mount Esja, Faxaflói Bay, and on clear days, the Snæfellsjökull glacier. It's freely accessible year-round and located within walking distance of downtown Reykjavík, making it a perfect stop for visitors exploring the city's waterfront path.",
+  "address": "Sæbraut, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.922089,
+    "latitude": 64.147535,
+    "altitude": 3.0
+  },
+  "rating": 4.5,
+  "reviews_count": 15200,
+  "category": "Landmark",
+  "website": "https://www.visitreykjavik.is/sun-voyager",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Sun_Voyager_Reykjavik_Iceland.jpg"
+    },
+    {
+      "source": "Visit Reykjavík",
+      "url": "https://www.visitreykjavik.is/sun-voyager"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "parking": "Street parking available nearby",
+    "admission": "Free"
+  }
+}

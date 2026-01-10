@@ -1,0 +1,32 @@
+{
+  "name": "Hengifoss",
+  "description": "Hengifoss is Iceland's third-highest waterfall at 128 meters, located in the Fljótsdalshérað region of East Iceland near Lake Lagarfljót, about 25 kilometers southwest of Egilsstaðir. The waterfall cascades over distinctly layered basalt cliffs featuring striking red clay strata interspersed between black basalt layers, creating a dramatic striped appearance unique among Icelandic waterfalls. These red layers are fossilized forests from ancient volcanic activity - the clay formed when lava flows burned through forests approximately 3 million years ago, oxidizing the organic material and creating the distinctive red bands. The cliff face displays millions of years of geological history through its clearly visible stratification, offering a spectacular natural lesson in volcanic processes.\n\nThe waterfall drops from Hengifossá river in a single powerful cascade that maintains steady flow year-round, fed by highlands to the east. The name \"Hengifoss\" translates to \"hanging waterfall,\" referring to how it hangs from the cliff edge. During winter, ice formations build up around the falls creating stunning blue and white sculptures, though the falls rarely freeze completely due to strong flow. The red and black stratification is best visible during summer when the cliff face is free of ice and snow. Along the hiking trail, visitors also pass the smaller Litlanesfoss waterfall, notable for its surrounding basalt columns similar to Svartifoss, providing a complementary geological feature to Hengifoss itself.\n\nReaching Hengifoss requires a 2.5-kilometer hike (each way) from the parking area off Route 931, taking approximately 60-90 minutes round trip with 300 meters elevation gain. The trail was significantly upgraded in 2019 with new steps, boardwalks, and viewing platforms making it more accessible, though it remains moderately strenuous. The path climbs steadily through birch woodlands and open terrain, offering increasingly spectacular views of Lake Lagarfljót and the surrounding valleys. Multiple viewing platforms provide rest stops and photography opportunities. The site is accessible from late April through October; winter access is possible but challenging due to ice and snow. The waterfall is one of East Iceland's premier natural attractions, offering both geological interest and scenic beauty in a less-visited region of Iceland.",
+  "address": "Route 931, 701 Egilsstaðir, Iceland",
+  "coordinates": {
+    "longitude": -14.815556,
+    "latitude": 65.086944,
+    "altitude": 400.0
+  },
+  "rating": 4.8,
+  "reviews_count": 2200,
+  "category": "Waterfall",
+  "website": "https://www.east.is/en/place/hengifoss",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Hengifoss_waterfall.jpg"
+    },
+    {
+      "source": "East Iceland",
+      "url": "https://www.east.is/en/place/hengifoss"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible May-October (winter access difficult)",
+    "trail": "2.5km each way, 60-90 minutes round trip, 300m elevation gain",
+    "parking": "Free parking at Route 931 trailhead",
+    "difficulty": "Moderate, upgraded trail with steps and boardwalks",
+    "notes": "Pass Litlanesfoss on the way, multiple viewing platforms"
+  }
+}

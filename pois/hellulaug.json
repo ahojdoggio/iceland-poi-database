@@ -1,0 +1,24 @@
+{
+  "name": "Hellulaug",
+  "description": "Hellulaug is a small, picturesque natural hot pool set dramatically right by the sea in the Westfjords region of Iceland, specifically in Vatnsfjörður near Flókalundur. The pool is stone-lined, shallow, and maintains a comfortably warm temperature around 38-41°C (100-106°F) year-round, heated by natural geothermal springs bubbling up from beneath. The setting is spectacular - bathers can soak in the warm water while gazing out over the stunning fjord, with views of the surrounding mountains and the Atlantic Ocean just meters away. There are no changing facilities, services, or staff at this site, giving it a very natural, wild, and authentic feel that appeals to adventurous travelers. This complete lack of development means visitors should come prepared with towels and be ready to change outdoors or in their vehicles. The pool fits approximately 4-6 people comfortably, making it an intimate bathing experience. Access is free and available 24/7 throughout the year. Hellulaug exemplifies Iceland's tradition of wild hot springs accessible to all, offering a genuine connection to nature and a memorable bathing experience in one of the country's most remote and beautiful regions.",
+  "address": "Hellulaug, Vatnsfjörður, 451 Flókalundur, Iceland",
+  "coordinates": {
+    "longitude": -23.1608127,
+    "latitude": 65.577546,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Natural Hot Pool",
+  "website": "https://www.westfjords.is/en/place/hellulaug",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...viCb4FzaPExNGJeVP7lmFefSqCv2WWeRU-AJPw?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Natural seaside hot pool open all year with no facilities or staff."
+  }
+}

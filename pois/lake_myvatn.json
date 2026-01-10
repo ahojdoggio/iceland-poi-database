@@ -1,0 +1,32 @@
+{
+  "name": "Lake Mývatn",
+  "description": "Lake Mývatn is a shallow volcanic lake covering approximately 37 square kilometers in northern Iceland, situated at 277 meters elevation in an active volcanic zone. The name translates to \"Midge Lake,\" named after the massive swarms of midges (tiny non-biting flies) that emerge during summer months and form an essential part of the lake's remarkable ecosystem. Formed by a massive basaltic lava eruption approximately 2,300 years ago that dammed the Laxá river, the lake averages only 2-3 meters deep with a maximum depth of 4.5 meters. Mývatn is renowned as one of Europe's premier bird-watching destinations, hosting Iceland's greatest variety of breeding waterfowl including 15 duck species, several of which are rare in Europe.\n\nThe lake and surrounding area showcase extraordinary volcanic features including pseudocraters (Skútustaðir), lava formations (Dimmuborgir), the Krafla volcanic system, Hverfjall tephra crater, and numerous hot springs. The Mývatn area experienced major volcanic eruptions in 1724-1729 (Mývatn Fires) and 1975-1984 (Krafla Fires), reshaping the landscape and demonstrating ongoing volcanic activity. The lake's shallow, nutrient-rich waters support abundant algae and invertebrates, particularly midges, which in turn support the dense bird populations. The lake features unique underwater hot springs that create warm spots attracting waterfowl even during winter. The surrounding wetlands, marshes, and pseudocrater-studded lava fields create a landscape unlike anywhere else on Earth.\n\nLake Mývatn is accessed via Route 1 (Ring Road), approximately 90 kilometers east of Akureyri and 50 kilometers from Húsavík. The small village of Reykjahlíð on the northeastern shore serves as the area's service center. A 36-kilometer scenic route circles the lake, taking 1-2 hours to drive with multiple stops at key attractions including Skútustaðir pseudocraters, Dimmuborgir lava fields, Grjótagjá cave, and Hverfjall crater. The area offers numerous hiking trails, the famous Mývatn Nature Baths geothermal spa, and boat tours during summer. Peak visitation is June-August, though the area is spectacular year-round - winter offers Northern Lights viewing with frozen lake reflections. The midge season (June-July) can be intense but the midges don't bite and are harmless.",
+  "address": "Mývatn, 660 Mývatn, North Iceland",
+  "coordinates": {
+    "longitude": -16.9167,
+    "latitude": 65.6167,
+    "altitude": 277.0
+  },
+  "rating": 4.8,
+  "reviews_count": 7600,
+  "category": "Lake",
+  "website": "https://www.visitmyvatn.is",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Lake_Myvatn.jpg"
+    },
+    {
+      "source": "Visit Mývatn",
+      "url": "https://www.visitmyvatn.is"
+    }
+  ],
+  "opening_hours": {
+    "lake": "Accessible 24/7 year-round",
+    "circuit_route": "36km scenic drive around lake, 1-2 hours",
+    "bird_watching": "Best May-August, 15 duck species breed here",
+    "midge_season": "June-July (harmless, do not bite)",
+    "attractions": "Numerous sites around lake with varying access"
+  }
+}

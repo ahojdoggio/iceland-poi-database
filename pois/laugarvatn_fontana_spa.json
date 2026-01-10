@@ -1,0 +1,36 @@
+{
+  "name": "Laugarvatn Fontana Spa",
+  "description": "Laugarvatn Fontana is a charming geothermal spa located on the scenic shore of Lake Laugarvatn in South Iceland, positioned conveniently on the famous Golden Circle tourist route between Þingvellir National Park and Geysir. The spa features a diverse range of bathing options including three outdoor mineral baths with varying temperatures (between 36-43°C/97-109°F), two natural steam rooms built directly over geothermal hot springs where visitors can experience temperatures up to 50°C (122°F), and access to the adjacent Lake Laugarvatn for refreshing cold-water dips. The contrast between the hot pools and the cool lake creates an invigorating Nordic bathing experience. A unique highlight is the traditional Icelandic rye bread baking demonstration - the spa's staff bury rye bread dough in the geothermal sand overnight, where natural heat slowly bakes it to perfection. Visitors can taste this delicious bread, often served with butter and smoked trout. The modern facilities include comfortable changing rooms, showers, a relaxation area, and a café. The spa opened in 2011 and has become a popular alternative to the more crowded Blue Lagoon, offering a more intimate and authentic Icelandic geothermal experience with stunning lake views.",
+  "address": "Hverabraut 1, 840 Laugarvatn, Iceland",
+  "coordinates": {
+    "longitude": -20.730172,
+    "latitude": 64.2147063,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Geothermal Spa",
+  "website": "https://www.fontana.is",
+  "phone": "+354 486 1400",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...fZb9iXWAafRrui-GrC8QR_treJQ2l35kNTpESgA?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...CE-kRLcyrRvgP--u4MC2BpObbdA4Sioi_TI7qGw?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...dXJrpgC08WD4mfkyeFd4PrCPz2WMlP9szfrdhVM?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...xbsAn1jPbunk8jEGhdXwPilRVqETJgt3RlusEA?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Usually open daily around 10:00–21:00; hours can vary by season, check official website."
+  }
+}

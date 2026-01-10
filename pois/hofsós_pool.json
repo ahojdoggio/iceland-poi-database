@@ -1,0 +1,24 @@
+{
+  "name": "Hofsós Pool",
+  "description": "Hofsós Pool is a stunning modern infinity-style geothermal swimming pool built into a hillside above the picturesque village of Hofsós, overlooking the expansive Skagafjörður fjord in North Iceland. Often called Iceland's most beautifully located pool, it features a 25-meter outdoor infinity pool that appears to merge seamlessly with the ocean horizon, creating breathtaking photo opportunities and an unforgettable swimming experience. From the pool, swimmers can enjoy spectacular panoramic views over the fjord toward the distinctive island of Drangey, which rises dramatically from the sea, and the mountains of the Tröllaskagi peninsula beyond. The facility includes two hot tubs maintaining temperatures around 38-41°C (100-106°F), modern changing rooms with showers, and well-maintained grounds. The pool is heated using natural geothermal energy and operated as a municipal swimming facility, keeping admission prices very affordable. The village of Hofsós itself is charming and historic, known for its beautiful old buildings and the excellent Icelandic Emigration Center museum. The pool is open year-round, though hours vary significantly between summer and winter seasons.",
+  "address": "Suðurbraut, 565 Hofsós, Iceland",
+  "coordinates": {
+    "longitude": -19.4113432,
+    "latitude": 65.8890723,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Swimming Pool",
+  "website": "https://sundlaugar.is/en/sundlaugasafn/hofsos-2/",
+  "phone": "+354 455 6070",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...9FX_zEA9Cn4cI3z0hVCxK37QT-G0BdWFzA44zQ?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Municipal outdoor pool with hours that vary by season; typically open daily in summer and limited hours in winter."
+  }
+}

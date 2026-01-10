@@ -1,0 +1,19 @@
+{
+  "name": "Keflavík International Airport",
+  "description": "Keflavík International Airport (IATA: KEF, ICAO: BIKF) is Iceland's largest airport and the country's main international gateway, serving as the primary hub for international flights to and from Iceland. Located approximately 50 kilometers (31 miles) southwest of Reykjavík on the Reykjanes Peninsula near the town of Keflavík, the airport handles over 90% of Iceland's international air traffic. Originally built by the United States military in 1943 during World War II, it served as a NATO base during the Cold War before transitioning to civilian use. The airport underwent major expansions in the 2000s and 2010s to accommodate Iceland's booming tourism industry, now handling over 7 million passengers annually. KEF serves as a major transatlantic hub, with Icelandair and other carriers offering convenient connections between North America and Europe. The modern terminal features duty-free shopping, restaurants, art installations, and tourist information services. The airport is connected to Reykjavík via the FlyBus and other shuttle services.",
+  "address": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
+  "coordinates": {
+    "longitude": -22.6324971,
+    "latitude": 63.9933523,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Airport",
+  "website": null,
+  "phone": "+354 519 9300",
+  "images": [],
+  "opening_hours": {
+    "all_year": "Open 24/7 (operating hours for flights vary)"
+  }
+}

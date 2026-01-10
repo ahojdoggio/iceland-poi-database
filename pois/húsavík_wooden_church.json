@@ -1,0 +1,24 @@
+{
+  "name": "Húsavík Wooden Church",
+  "description": "Historic wooden Lutheran church in the centre of Húsavík, built in 1907 in a distinctive Swiss-chalet style. Its white timber walls, green roof and 26-metre tower make it one of the town's most recognisable landmarks. Inside, visitors find a bright wooden interior and an altarpiece depicting the resurrection of Lazarus, creating a peaceful space for quiet reflection.",
+  "address": "Garðarsbraut 11, 640 Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.342306,
+    "latitude": 66.045951,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": null,
+  "category": "Church",
+  "website": "https://husavikurkirkja.is",
+  "phone": "+354 835 1907",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HusavikChurch.jpg"
+    }
+  ],
+  "opening_hours": {
+    "general": "Generally open daily in daytime during the main season; hours may vary with services and events."
+  }
+}

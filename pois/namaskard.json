@@ -1,0 +1,32 @@
+{
+  "name": "Námaskarð (Hverir)",
+  "description": "Námaskarð, also known as Hverir or Hverarönd, is one of Iceland's most impressive high-temperature geothermal areas, located at the base of Mount Námafjall near Lake Mývatn in northern Iceland. The site features a surreal landscape of bubbling mud pots, steaming fumaroles, sulfur deposits, and solfataras across a barren, mineral-stained hillside painted in vivid colors - yellow sulfur, red iron oxide, white silica, and pale grey mud. The area extends across approximately 3 square kilometers with surface temperatures reaching 100-200°C in active vents. The powerful smell of hydrogen sulfide (rotten eggs) permeates the area, and the constant hissing, bubbling, and boiling creates an otherworldly soundscape reminiscent of a planetary surface rather than Earth.\n\nThe geothermal activity at Námaskarð is driven by the Krafla volcanic system and the Mid-Atlantic Ridge that runs through Iceland. The area sits on a major fissure swarm that has produced numerous eruptions throughout history, most recently during the Krafla Fires (1975-1984). The geothermal field demonstrates the intense volcanic forces beneath the region, with underground temperatures exceeding 300°C at shallow depths. Historical evidence suggests the area has been utilized for sulfur mining since the 13th century. The barren, Mars-like landscape with its steaming vents and mineral deposits has attracted scientists studying extremophile organisms and volcanic processes, and has been used as an Earth analogue for studying potential life on other planets.\n\nNámaskarð is easily accessed directly from Route 1, about 5 kilometers east of Reykjahlíð village, with a large parking area and marked walking paths through the geothermal field. The main trail loops through the most active areas in about 20-30 minutes. The site is free to enter and accessible year-round 24/7, though winter visits require caution due to ice and steam reducing visibility. CRITICAL SAFETY: Stay strictly on marked paths - the ground can be thin crust over boiling mud and breaking through causes severe burns. The area is fully exposed to weather with no shelter, so strong winds can make visits uncomfortable. Despite the harsh conditions, Námaskarð ranks among Iceland's most spectacular and easily accessible geothermal sites, offering a raw, powerful demonstration of Earth's volcanic energy.",
+  "address": "Route 1, 660 Mývatn, North Iceland",
+  "coordinates": {
+    "longitude": -16.808056,
+    "latitude": 65.640278,
+    "altitude": 330.0
+  },
+  "rating": 4.7,
+  "reviews_count": 6800,
+  "category": "Geothermal Area",
+  "website": "https://www.visitmyvatn.is/en/place/namaskard-hverir",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Namaskard_Hverir.jpg"
+    },
+    {
+      "source": "Visit Mývatn",
+      "url": "https://www.visitmyvatn.is/en/place/namaskard-hverir"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "trail": "20-30 minute loop through geothermal area",
+    "parking": "Free parking directly off Route 1",
+    "admission": "Free",
+    "safety": "CRITICAL: Stay on marked paths, ground unstable with thin crusts over boiling mud, temperatures 100-200°C, severe burn risk"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Christmas House",
+  "description": "The Christmas House is a charming, year-round specialty gift shop dedicated entirely to the festive spirit, located about 12 kilometers south of Akureyri. It is filled with Christmas decorations, gifts, and treats, sourcing items globally while also focusing on unique Icelandic traditions and folklore. The grounds also feature the world's largest advent calendar tower, a Christmas Garden, and a wishing well.",
+  "address": "Sveinsbær, Hrafnagil, 601 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.092157,
+    "latitude": 65.5802038,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 900,
+  "category": "Themed Attraction",
+  "website": null,
+  "phone": "+354 463 1433",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jólahúsið_2016.jpg"
+    }
+  ],
+  "opening_hours": {
+    "summer": "Daily: 10:00 - 18:00 (Approx. June - August)",
+    "winter": "Hours vary; advised to call ahead or check their schedule."
+  }
+}

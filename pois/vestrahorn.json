@@ -1,0 +1,31 @@
+{
+  "name": "Vestrahorn",
+  "description": "Vestrahorn is a dramatic 454-meter mountain on the Stokksnes peninsula in southeast Iceland, approximately 10 kilometers east of Höfn. The mountain features distinctive jagged peaks and steep, serrated ridges that create one of Iceland's most recognizable and photographed silhouettes. Nicknamed \"Batman Mountain\" due to its bat-wing appearance when viewed from certain angles, Vestrahorn consists of gabbro and granophyre rock approximately 6-8 million years old, making it one of Iceland's older rock formations. The mountain's dark, nearly black appearance contrasts dramatically with the surrounding landscape, creating stunning compositions particularly when reflected in the shallow waters and black sand dunes of Stokksnes beach.\n\nVestrahorn's popularity has surged in recent years, becoming a favorite location for landscape photographers worldwide. The combination of the jagged mountain peaks, black sand beach, reflecting tidal pools, wind-shaped sand dunes, and often stormy skies creates atmospheric and moody photography opportunities. The area's Viking Village film set, built for a movie that was never completed, remains on site and adds an additional element for photography, though it can appear artificial in an otherwise pristine natural landscape. The mountain is particularly photogenic during sunrise and sunset when the peaks catch golden light, and during winter when snow caps the summits and Northern Lights may appear overhead.\n\nVestrahorn is located on private land, and access requires paying an entrance fee at the Stokksnes gate (approximately 800-1,000 ISK per person). The short drive from the gate leads to parking areas near the beach. Visitors can walk across the black sand beach and among the sand dunes, with multiple photography vantage points offering different perspectives of the mountain. The area can be extremely windy - the dunes are actively shifting and wind can reach dangerous speeds during storms. Climbing Vestrahorn itself requires mountaineering experience and is not recommended for casual hikers due to loose rock and steep faces. The site is accessible year-round, though the access road may become difficult in severe winter weather.",
+  "address": "Stokksnes, Route 1, 780 Höfn, Iceland",
+  "coordinates": {
+    "longitude": -14.968333,
+    "latitude": 64.248333,
+    "altitude": 454.0
+  },
+  "rating": 4.8,
+  "reviews_count": 5900,
+  "category": "Mountain",
+  "website": "https://www.east.is/en/place/vestrahorn",
+  "phone": "+354 478 1717",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn_mountain.jpg"
+    },
+    {
+      "source": "East Iceland",
+      "url": "https://www.east.is/en/place/vestrahorn"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round (weather permitting)",
+    "gate": "Pay entrance fee at gate, 800-1,000 ISK per person",
+    "parking": "Multiple parking areas near beach",
+    "safety": "CRITICAL: Extremely windy area, stay away from cliff edges, mountain climbing dangerous without experience"
+  }
+}

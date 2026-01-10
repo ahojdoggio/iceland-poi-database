@@ -1,0 +1,31 @@
+{
+  "name": "Diamond Beach (Breiðamerkursandur)",
+  "description": "Diamond Beach, officially named Breiðamerkursandur or Fellsfjara, is one of Iceland's most photographed natural wonders where crystalline icebergs wash ashore on jet-black volcanic sand, creating a stunning contrast that resembles scattered diamonds. Located directly across from Jökulsárlón Glacier Lagoon, this unique beach receives massive ice chunks that have calved from Breiðamerkurjökull Glacier, drifted through the lagoon, and been carried out to the Atlantic Ocean before washing back to shore. The icebergs range from small sparkling fragments to towering sculptures taller than a person, displaying colors from transparent crystal to deep blue to white, some with black volcanic ash embedded from ancient eruptions. Each visit offers a completely different experience as the ice formations constantly change with tides, weather, and ocean currents - no two days ever look the same. The name 'Diamond Beach' was coined around 2015 by travel writers and quickly became more popular than its Icelandic name. The beach serves as an important breeding ground for Arctic terns and Great Skuas, and occasionally orcas can be spotted hunting offshore. The south-facing orientation provides spectacular sunrise and sunset photography opportunities when golden light refracts through the ice, creating rainbow effects.",
+  "address": "Route 1, 781 Höfn, Iceland",
+  "coordinates": {
+    "longitude": -16.176340,
+    "latitude": 64.043790,
+    "altitude": 1.0
+  },
+  "rating": 4.8,
+  "reviews_count": 22000,
+  "category": "Black Sand Beach",
+  "website": "https://www.south.is/en/place/diamond-beach",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Diamond_Beach_Iceland_Icebergs.jpg"
+    },
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/place/diamond-beach"
+    }
+  ],
+  "opening_hours": {
+    "beach": "Accessible 24/7 year-round",
+    "parking": "Two parking lots - one on each side of Jökulsá river bridge, free access",
+    "best_time": "Year-round icebergs, best light at sunrise/sunset, winter for dramatic low sun angles",
+    "safety": "NEVER climb on icebergs (they can flip), stay back from water (dangerous waves), swimming strictly prohibited, watch feet while photographing"
+  }
+}

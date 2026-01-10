@@ -1,0 +1,33 @@
+{
+  "name": "Goðafoss (Waterfall of the Gods)",
+  "description": "Goðafoss, known as the 'Waterfall of the Gods', is one of Iceland's most historically significant and visually spectacular waterfalls. Located in North Iceland along the Ring Road, this magnificent horseshoe-shaped cascade drops 12 meters (39 feet) with a width of 30 meters (98 feet), earning it the nickname 'mini Niagara'. Fed by the glacial river Skjálfandafljót flowing from Vatnajökull ice cap, the waterfall is divided by a central rock formation creating dramatic twin cascades. The name commemorates a pivotal moment in Icelandic history: in the year 1000 AD, lawspeaker Þorgeir Ljósvetningagoði decided Iceland should convert to Christianity to avoid conflict with Christian European powers. Upon returning home, legend says he symbolically threw his pagan Norse god statues into the waterfall, marking Iceland's peaceful transition from paganism to Christianity. This historic act is depicted in a stained-glass window at Akureyrarkirkja church in nearby Akureyri. Designated a protected natural monument in 2020, Goðafoss offers excellent accessibility with parking on both sides of the river, paved walking paths, and multiple viewing platforms along a 1.8-mile loop trail. The waterfall is a key stop on the famous Diamond Circle route alongside Lake Mývatn, Dettifoss, Ásbyrgi Canyon, and Húsavík.",
+  "address": "Route 1, 641 Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.550200,
+    "latitude": 65.682800,
+    "altitude": 12.0
+  },
+  "rating": 4.7,
+  "reviews_count": 15000,
+  "category": "Waterfall",
+  "website": "https://www.northiceland.is/en/place/godafoss-waterfall",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Godafoss_Waterfall,_Iceland.jpg"
+    },
+    {
+      "source": "Visit North Iceland",
+      "url": "https://www.northiceland.is/en/place/godafoss-waterfall"
+    }
+  ],
+  "opening_hours": {
+    "waterfall": "Accessible 24/7 year-round",
+    "parking": "Free parking on both sides of river",
+    "facilities": "Fosshóll café, bistro, gift shop nearby (500m), public toilets, camping available",
+    "trail": "1.8-mile (2.9km) loop trail with multiple viewpoints, paved paths",
+    "best_time": "Year-round beautiful, summer for Northern Lights, winter for dramatic ice formations",
+    "distance": "50km (31 miles) from Akureyri, 438km from Reykjavík (5.5 hours drive)"
+  }
+}

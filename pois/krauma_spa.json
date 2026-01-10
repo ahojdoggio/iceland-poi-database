@@ -1,0 +1,24 @@
+{
+  "name": "Krauma Spa",
+  "description": "Krauma Spa is a modern, upscale geothermal bath complex located next to Deildartunguhver in West Iceland, Europe's most powerful hot spring, which produces an astounding 180 liters of boiling water per second. The spa cleverly uses water from this powerful spring, mixing the scalding 97°C (207°F) geothermal water with ice-cold water from the nearby Ok glacier river to create perfectly temperature-controlled bathing pools. The facility features six different bathing experiences: five naturally heated hot pools maintaining various temperatures from warm to quite hot (37-41°C/99-106°F), and one invigorating cold plunge pool kept at around 5-8°C (41-46°F) for contrast therapy. Additional amenities include two relaxation saunas and a tranquil relaxation room where guests can unwind between bathing sessions. The modern design incorporates sustainable materials and large windows offering views of the steaming geothermal area and surrounding landscape. An on-site restaurant, KRÁNIR, serves delicious meals focused on fresh Icelandic ingredients. Advance booking is recommended, especially during peak season. Krauma opened in 2017 and has quickly become one of West Iceland's premier geothermal bathing destinations.",
+  "address": "Deildartunguhver, 320 Reykholt, Iceland",
+  "coordinates": {
+    "longitude": -21.4149636,
+    "latitude": 64.6649114,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Geothermal Spa",
+  "website": "https://www.krauma.is",
+  "phone": "+354 555 6066",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...57OKzErwVQs5-HIRUmDiXUu3iIZmzF9zt4uubg?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Open daily; typical hours around 11:00–21:00, with seasonal variations listed on official website."
+  }
+}

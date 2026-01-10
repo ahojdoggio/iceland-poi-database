@@ -1,0 +1,24 @@
+{
+  "name": "Hotel Heydalur + Pools",
+  "description": "Hotel Heydalur is a unique accommodation and bathing destination located in an exceptionally remote and beautiful valley in the Westfjords region of Iceland, accessible via a narrow gravel road through stunning mountain scenery. The property features both an indoor swimming pool and outdoor natural hot springs fed by geothermal water, providing guests and day visitors with multiple bathing options. The valley setting is extraordinarily peaceful and isolated, offering a true escape from modern life with limited cell phone coverage and no light pollution. This makes it an ideal location for experiencing Iceland's pristine nature, with opportunities for hiking through untouched landscapes, wildlife watching (including Arctic foxes), birdwatching, and Northern Lights viewing during winter months. The hot springs maintain natural temperatures perfect for soaking after a day of outdoor adventures. The hotel also operates as a working farm and offers horseback riding tours through the dramatic surrounding terrain. Day visitors are welcome to use the pools during the hotel's operating season, typically from spring through autumn. The remote location means visitors should plan ahead and come prepared, but those who make the journey are rewarded with an unforgettable experience in one of Iceland's most spectacular and undisturbed regions.",
+  "address": "Heydalur, 401 Ísafjörður, Iceland",
+  "coordinates": {
+    "longitude": -22.6798038,
+    "latitude": 65.8436775,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Swimming Pool",
+  "website": "https://www.heydalur.is",
+  "phone": "+354 456 4824",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Gs0fCDlO3cglA5nMTiK3QCk0uUIZQ-e513Vwxg?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Hotel guests have access to indoor pool and natural hot spring; day visitors usually welcome during hotel opening season."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Reynisfjara Black Sand Beach",
+  "description": "Reynisfjara is Iceland's most famous black sand beach and one of the most stunning non-tropical beaches in the world, ranked 6th best beach globally in 2021. Located on the South Coast near Vík village, this dramatic beach features jet-black volcanic sand formed from eroded lava that cooled when it met the Atlantic Ocean. The beach is renowned for its spectacular hexagonal basalt columns at Hálsanefshellir Cave, resembling giant organ pipes or a natural cathedral. Offshore, the iconic Reynisdrangar sea stacks rise dramatically from the ocean - according to legend, these 66-meter tall basalt pillars are petrified trolls caught by sunrise while trying to drag a ship ashore. The beach showcases the raw power of nature with towering 340-meter Reynisfjall mountain, puffin colonies on nearby cliffs, and views of Dyrhólaey promontory. Featured in Game of Thrones, Star Wars, and Star Trek productions. CRITICAL SAFETY WARNING: Reynisfjara is extremely dangerous due to unpredictable sneaker waves that have caused 5 deaths and 12+ emergency rescues since 2007. Never turn your back on the ocean, stay far from the water's edge, obey all warning signs and the color-coded safety zones, and never climb on rocks. Swimming is absolutely prohibited.",
+  "address": "Reynishverfisvegur 215, 871 Vík, Iceland",
+  "coordinates": {
+    "longitude": -19.049165,
+    "latitude": 63.404271,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 19000,
+  "category": "Black Sand Beach",
+  "website": "https://www.south.is/en/place/reynisfjara",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Reynisfjara_Black_Sand_Beach,_Iceland.jpg"
+    },
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/place/reynisfjara"
+    }
+  ],
+  "opening_hours": {
+    "beach": "Accessible 24/7 year-round",
+    "safety": "WARNING: Dangerous sneaker waves - stay minimum 30m from water, obey red/yellow/green safety zones",
+    "facilities": "Black Beach Restaurant nearby, parking available (may have fees)",
+    "cave": "Hálsanefshellir Cave accessible only at low tide with calm conditions (rockfall danger)",
+    "closed_areas": "Eastern section permanently closed due to 2019 rockslide"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Skógafoss",
+  "description": "Skógafoss is one of Iceland's largest and most spectacular waterfalls, plunging 60 meters (197 feet) down ancient sea cliffs with a width of 25 meters (82 feet). Located in the village of Skógar on Iceland's South Coast, this powerful cascade originates from the Skógá River, fed by meltwater from the Eyjafjallajökull and Mýrdalsjökull glaciers. The waterfall creates massive amounts of spray that produce stunning single or double rainbows on sunny days - some of the most beautiful rainbows visible anywhere in Iceland. Visitors can walk right up to the base of the falls and climb a staircase of approximately 370 steps to a viewing platform at the top for breathtaking coastal views. According to legend, the first Viking settler Þrasi Þórólfsson buried a treasure chest behind the waterfall, and locals claim to have once glimpsed its golden ring. The nearby Skógar Museum displays this very ring. Skógafoss marks the starting point of the famous Fimmvörðuháls hiking trail between two glaciers. The waterfall has been featured in films including Thor: The Dark World, The Secret Life of Walter Mitty, and the TV series Vikings.",
+  "address": "Skógar 861, Iceland",
+  "coordinates": {
+    "longitude": -19.511400,
+    "latitude": 63.532100,
+    "altitude": 60.0
+  },
+  "rating": 4.8,
+  "reviews_count": 31000,
+  "category": "Waterfall",
+  "website": "https://www.south.is/en/place/skogafoss-waterfall",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Skogafoss_Waterfall,_Iceland.jpg"
+    },
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/place/skogafoss-waterfall"
+    }
+  ],
+  "opening_hours": {
+    "waterfall": "Accessible 24/7 year-round",
+    "facilities": "Parking lot, campsite, coffee shop, restrooms and showers available",
+    "museum": "Skógar Museum - Daily 09:00-18:00 (Jun-Aug), 10:00-17:00 (Sep-May)",
+    "parking": "Free parking available",
+    "staircase": "370 steps to top viewing platform (accessible year-round, may be icy in winter)"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gvendarlaug",
+  "description": "Gvendarlaug is a historic geothermal swimming pool and hot spring complex located next to Hotel Laugarhóll in the remote Strandir region of the Westfjords, one of Iceland's most isolated areas. The site features both a medieval stone-lined pool dating back centuries and several modern hot spring pools, all fed by naturally heated geothermal water emerging from the ground at comfortable bathing temperatures. The name \"Gvendarlaug\" translates to \"Gvendur's pool,\" named after a local chieftain mentioned in medieval sources. The complex sits in a peaceful valley surrounded by dramatic mountains, offering visitors a tranquil bathing experience far from tourist crowds. The water is naturally heated and rich in minerals, and the place is renowned for its serene atmosphere and connection to Iceland's bathing heritage. The medieval pool is particularly special, as it has been used for bathing for over 900 years, making it one of Iceland's oldest continuously used bathing sites. The facility includes changing rooms and is maintained by the adjacent hotel. A small entrance fee is charged for day visitors, though hotel guests have free access.",
+  "address": "Laugarhóll, Bjarnarfjörður, 520 Drangsnes, Iceland",
+  "coordinates": {
+    "longitude": -21.6099663,
+    "latitude": 65.7364073,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Natural Hot Pool",
+  "website": "https://www.laugarholl.is",
+  "phone": "+354 451 3380",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...D7dDqjf51M5cCZL_yFzIPXUf-aOZnPGlS28NVw?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Outdoor geothermal swimming pool and adjacent hot spring next to Hotel Laugarhóll; pool usually open daily roughly 08:00–22:00 in season."
+  }
+}

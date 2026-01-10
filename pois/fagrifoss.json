@@ -1,0 +1,32 @@
+{
+  "name": "Fagrifoss",
+  "description": "Fagrifoss, meaning \"Beautiful Falls,\" is a stunning 80-meter waterfall located in East Iceland along the Lagarfljót river (also called Jökulsá á Dal), approximately 20 kilometers north of Egilsstaðir. The waterfall cascades powerfully from a narrow gorge, dropping in two main tiers through dark columnar basalt cliffs into a churning pool below. The falls are particularly impressive during spring and summer when glacial meltwater from Vatnajökull swells the river flow. The surrounding canyon walls rise dramatically on both sides, creating an enclosed amphitheater effect that amplifies the thunderous roar of falling water. The combination of massive water volume, significant height, and dramatic geological setting makes Fagrifoss one of East Iceland's most impressive natural features.\n\nFagrifoss sits within the Jökulsárgljúfur canyon system (not to be confused with the identically named canyon in North Iceland near Dettifoss) carved by powerful glacial floods over millennia. The waterfall is surrounded by pristine wilderness with minimal human development, offering an authentic wild Iceland experience far from major tourist routes. The basalt formations surrounding the falls display clear columnar jointing similar to other famous Icelandic geological features, though Fagrifoss remains relatively unknown to international visitors. The waterfall's remote location and difficult access have preserved its pristine character, making it a favorite among adventurous travelers and photographers seeking less-visited Iceland destinations.\n\nReaching Fagrifoss requires driving Route 923 north from Egilsstaðir, then turning onto a rough 4WD track (Road 923B) for approximately 6-7 kilometers. The final section requires a high-clearance 4WD vehicle and should only be attempted in good weather conditions, typically mid-June through early September. From the parking area, a 15-20 minute hike leads to viewpoints above the waterfall. The path can be muddy and slippery, particularly near the canyon edge where caution is essential. There are no facilities, railings, or maintained paths - this is raw Icelandic wilderness. The remote location and access challenges mean Fagrifoss rarely sees crowds, offering solitude and unspoiled nature. Best visited during summer when roads are passable; winter access is effectively impossible without specialized vehicles and equipment.",
+  "address": "Road 923B, 701 Egilsstaðir, East Iceland",
+  "coordinates": {
+    "longitude": -14.75,
+    "latitude": 65.2,
+    "altitude": 350.0
+  },
+  "rating": 4.8,
+  "reviews_count": 820,
+  "category": "Waterfall",
+  "website": "https://www.east.is/en/place/fagrifoss",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Fagrifoss_waterfall.jpg"
+    },
+    {
+      "source": "East Iceland",
+      "url": "https://www.east.is/en/place/fagrifoss"
+    }
+  ],
+  "opening_hours": {
+    "access": "Summer only (mid-June to early September), 4WD required",
+    "road": "Rough 4WD track (923B), 6-7km from Route 923",
+    "hike": "15-20 minute hike from parking to viewpoints",
+    "facilities": "None - remote wilderness location",
+    "safety": "Caution near canyon edge, no railings, slippery conditions"
+  }
+}

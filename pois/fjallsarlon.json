@@ -1,0 +1,32 @@
+{
+  "name": "Fjallsárlón",
+  "description": "Fjallsárlón is a stunning glacier lagoon located in southeast Iceland, just 10 kilometers west of the famous Jökulsárlón along Route 1. The lagoon was formed by the retreating Fjallsjökull outlet glacier, which descends from the Vatnajökull ice cap. Fjallsárlón covers approximately 9.1 square kilometers and is significantly smaller and quieter than its famous neighbor, offering a more intimate glacier lagoon experience with fewer crowds. The lagoon's proximity to the glacier face provides dramatic views of the ice wall and calving icebergs, with some icebergs displaying brilliant blue hues from compressed glacial ice alongside white and black (volcanic ash-streaked) ice formations.\n\nWhat makes Fjallsárlón particularly special is its proximity to the glacier terminus - visitors can get much closer views of the actively calving glacier face compared to Jökulsárlón, where the glacier has retreated further back. The lagoon is surrounded by mountains on three sides, creating a more enclosed, intimate setting than the expansive Jökulsárlón. The reflection of the glacier and mountains in the calm lagoon waters creates mirror-like photography opportunities, particularly striking during golden hour. Icebergs of various sizes float through the lagoon, some reaching the shore where visitors can walk among them. The lagoon has been growing steadily as Fjallsjökull glacier retreats approximately 100-200 meters per year.\n\nFjallsárlón is accessed via a short turnoff from Route 1, with a parking area and café adjacent to the lagoon. The site is far less crowded than Jökulsárlón, making it ideal for peaceful contemplation of glacial landscapes. Zodiac boat tours operate during summer months (May-October), offering close-up views of the glacier face and icebergs - these tours are more intimate than the larger boat tours at Jökulsárlón. The site is accessible year-round and offers excellent Northern Lights viewing opportunities in winter when icebergs create foreground interest. Walking along the shoreline is possible, though visitors should stay clear of the water's edge as submerged ice can make water levels unpredictable.",
+  "address": "Route 1, 781 Höfn, Iceland",
+  "coordinates": {
+    "longitude": -16.379444,
+    "latitude": 64.019722,
+    "altitude": 5.0
+  },
+  "rating": 4.7,
+  "reviews_count": 3200,
+  "category": "Glacier Lagoon",
+  "website": "https://www.south.is/en/place/fjallsarlon",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Fjallsarlon_glacier_lagoon.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/fjallsarlon"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "boat_tours": "May-October, weather dependent, advance booking recommended",
+    "parking": "Free parking at lagoon",
+    "cafe": "Summer season only, hours vary",
+    "notes": "Less crowded alternative to Jökulsárlón"
+  }
+}

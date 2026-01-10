@@ -1,0 +1,31 @@
+{
+  "name": "Tjörnin (The Pond)",
+  "description": "Tjörnin, meaning \"The Pond\" in Icelandic, is a picturesque lake in the heart of Reykjavík, covering approximately 0.16 square kilometers in the city center. This tranquil urban lake is bordered by Reykjavík City Hall (Ráðhús), the National Gallery, Fríkirkjan church, and charming residential areas with colorful houses. The lake serves as a habitat for over 40 species of birds, including ducks, geese, swans, and Arctic terns, making it one of the world's most accessible and diverse waterfowl populations. During summer, the pond attracts families and visitors who come to feed the birds, while in winter it often freezes over, transforming into a natural ice skating rink.\n\nTjörnin has historical significance as it was originally part of a larger tidal inlet that has gradually been reduced through land reclamation since the 18th century. The lake is fed by hot spring water from the city's geothermal system, which helps prevent complete freezing during winter and maintains a healthier environment for the birds. A scenic walking path of about 1.4 kilometers circumnavigates the lake, offering peaceful strolls with views of the city's architectural landmarks, including the distinctive modern City Hall built partially over the water.\n\nThe pond is a beloved gathering place for locals and visitors year-round, offering a serene escape in the middle of the bustling capital. In summer, Tjörnin hosts various cultural events and serves as a popular picnic spot. The surrounding area features benches, sculptures including the \"Reykjavík Family\" statue, and well-maintained gardens. Feeding the birds is a cherished Reykjavík tradition, though visitors are encouraged to use appropriate bird food available at nearby shops rather than bread, which can harm the waterfowl.",
+  "address": "Tjarnargata, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.943344,
+    "latitude": 64.145928,
+    "altitude": 4.0
+  },
+  "rating": 4.5,
+  "reviews_count": 4200,
+  "category": "Lake",
+  "website": "https://www.visitreykjavik.is/tjornin-the-pond",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tjornin_Reykjavik.jpg"
+    },
+    {
+      "source": "Visit Reykjavík",
+      "url": "https://www.visitreykjavik.is/tjornin-the-pond"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "walking_path": "1.4km loop, wheelchair accessible",
+    "ice_skating": "Winter only when ice thickness permits (typically January-February)",
+    "bird_feeding": "Year-round, appropriate bird food available at nearby shops"
+  }
+}

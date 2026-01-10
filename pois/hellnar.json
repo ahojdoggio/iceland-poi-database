@@ -1,0 +1,28 @@
+{
+  "name": "Hellnar",
+  "description": "Hellnar is a tiny, picturesque seaside hamlet located on the southern coast of the Snæfellsnes Peninsula, approximately 2.5 kilometers west of Arnarstapi village. With only a handful of permanent residents, Hellnar was once a thriving fishing village and major commercial center beneath the Snæfellsjökull ice cap, dating back to the 16th century. Today, it's known for its spectacular coastal rock formations, sea caves, and dramatic cliffs sculpted by Atlantic storms. The most famous feature is Baðstofa, a large sea cave with ever-changing colors caused by light reflecting off minerals and algae. Visitors can explore the rocky shoreline via marked walking paths, observe nesting seabirds including fulmars and arctic terns, and enjoy refreshments at the charming Fjöruhúsið café, which serves homemade soup and cakes in a cozy setting with ocean views. The scenic coastal trail between Hellnar and Arnarstapi is one of Iceland's most beautiful short hikes.",
+  "address": "Hellnar, Snæfellsnes Peninsula, Iceland",
+  "coordinates": {
+    "longitude": -23.67584,
+    "latitude": 64.745796,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Village",
+  "website": "https://guidetoiceland.is/travel-iceland/drive/hellnar",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQeEggXDv9KJ-1d26ctUkEZYdcjqEkJrq51t3nLikl-dAHLViMj2fQi6iPuh_iLcYrcU4KaBzf8QRYTcBZtQmSzLf8NgDN7kXEk3oK-mWUaXcP5WGi0hipUkzWsu7chqoJuy-UEPH2RzUWBbrQ_4A6Nf_tmqXtHlPApNfAJGHWDSutdZHOI4A0P_UTxZdkL5rJKXlI?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTiV9c-iGclYp5S1lrbyxUD89OPXIb0xDDYkFo7Li9oy053KCP9cKE7d_sMWFUHpuRKLiV6AnFYKEVaFBViXWqaJ4gQH-9mkP6dMvUzRoj1f8xI5mqmKd3vQTL4GbRU4wdEG9v4OqGtg_Zp3I2tCkCFrh_F3IBtivLAvIWQhyZw_VTYFNxEaKDgEo_pP2C8AuXBqm0?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7 (public space)"
+  }
+}

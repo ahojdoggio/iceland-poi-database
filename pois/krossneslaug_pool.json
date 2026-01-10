@@ -1,0 +1,24 @@
+{
+  "name": "Krossneslaug Pool",
+  "description": "Krossneslaug is an exceptionally remote seaside geothermal pool located in the far northern reaches of the Westfjords, near the village of Norðurfjörður in Árneshreppur, one of Iceland's least populated municipalities. The pool sits dramatically right above the rocky Arctic Ocean shoreline, offering unobstructed and spectacular views out over the vast expanse of the northern sea, with waves crashing on the rocks just meters below. On clear days, visitors can see the distinctive Grímsey island in the distance. The facility consists of a main geothermal pool approximately 12.5 meters long and a smaller hot tub, both heated by nearby natural hot springs that maintain comfortable temperatures year-round, typically around 38-42°C (100-108°F). A basic changing building with showers is available on-site. The pool's extreme northern location (at approximately 66°N latitude, near the Arctic Circle) makes it an exceptional spot for midnight sun viewing in summer and Northern Lights watching in winter. The journey to reach Krossneslaug is part of the adventure, involving driving on remote gravel roads through some of Iceland's most pristine and uninhabited landscapes, but those who make the trek are rewarded with an unforgettable bathing experience in one of the most isolated and beautiful settings imaginable.",
+  "address": "Norðurfjörður, Árneshreppur, Iceland",
+  "coordinates": {
+    "longitude": -21.5034569,
+    "latitude": 66.0533493,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Swimming Pool",
+  "website": "https://www.facebook.com/krossneslaug/",
+  "phone": "+354 888 5077",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...kFmDRcsAkDBMGybKpHA-sw0p-iZYOF6dwXG5Bw?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Generally open daily during summer (roughly May–August); closed or limited access in winter."
+  }
+}

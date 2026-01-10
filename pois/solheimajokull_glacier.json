@@ -1,0 +1,32 @@
+{
+  "name": "Sólheimajökull Glacier",
+  "description": "Sólheimajökull is an accessible outlet glacier tongue extending from the Mýrdalsjökull ice cap in southern Iceland, located between Skógafoss and Vík along Route 1. The glacier stretches approximately 8 kilometers long and 2 kilometers wide, descending from the main ice cap to about 100-150 meters elevation where it terminates at a glacial lagoon. Sólheimajökull translates to \"Sun Home Glacier,\" and offers one of Iceland's most accessible opportunities to experience a glacier up close. The glacier's terminus is easily reached via a short 10-minute walk from a dedicated parking area off Route 221, making it popular for both independent visitors and guided tours.\n\nThe glacier displays dramatic features including deep crevasses, ice caves, moulins (vertical shafts), and moraines. The ice exhibits striking colors ranging from brilliant white to deep blue, with black volcanic ash layers from past eruptions creating dramatic striations throughout the ice. Like many Icelandic glaciers, Sólheimajökull has been retreating rapidly due to climate change - the terminus has receded approximately 1 kilometer since 1930, with retreat accelerating in recent years. Markers along the approach path show previous positions of the glacier terminus, providing a sobering illustration of glacial retreat. The glacier flows over Katla volcano's flanks, and volcanic ash from historical eruptions remains visible in the ice layers.\n\nSólheimajökull is one of Iceland's most popular locations for glacier hiking and ice climbing tours, with numerous operators offering guided experiences ranging from 2-hour walks to full-day climbing adventures. The glacier is accessible year-round, though conditions vary seasonally. While the glacier terminus can be viewed from a safe distance independently, walking on the ice requires crampons, ice axes, and professional guides due to hidden crevasses and unstable ice conditions. The glacial lagoon at the terminus contains icebergs and is continually growing as the glacier retreats, creating new photographic opportunities but also visible evidence of climate change impacts.",
+  "address": "Route 221, 861 Hvolsvöllur, Iceland",
+  "coordinates": {
+    "longitude": -19.36,
+    "latitude": 63.53,
+    "altitude": 150.0
+  },
+  "rating": 4.7,
+  "reviews_count": 5400,
+  "category": "Glacier",
+  "website": "https://www.south.is/en/place/solheimajokull-glacier",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Solheimajokull_glacier.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/solheimajokull-glacier"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "viewpoint": "10-minute walk from parking to glacier terminus viewpoint",
+    "parking": "Free parking at Route 221 turnoff",
+    "glacier_tours": "Multiple daily departures, advance booking recommended",
+    "safety": "CRITICAL: Do not walk on glacier without guide, hidden crevasses deadly"
+  }
+}

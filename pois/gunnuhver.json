@@ -1,0 +1,32 @@
+{
+  "name": "Gunnuhver",
+  "description": "Gunnuhver is the largest mud pool in Iceland and one of the most powerful geothermal areas on the Reykjanes Peninsula, located near the southwestern tip of Iceland close to Reykjanesviti lighthouse. The geothermal field features violently bubbling mud pools, powerful steam vents, and fumaroles that eject superheated steam columns reaching 10-20 meters high. The temperature of the steam reaches approximately 300°C (572°F), making Gunnuhver one of Iceland's hottest geothermal areas. The site is named after Gunna, a female ghost from Icelandic folklore who was allegedly trapped in the hot springs by a priest in the 17th century - her spirit is said to power the fierce geothermal activity. The area covers several hectares of steaming, barren landscape painted in vibrant yellow, orange, and white from sulfur and silica deposits.\n\nThe geothermal activity at Gunnuhver is driven by the Reykjanes volcanic system and its location on the Mid-Atlantic Ridge. The area has been used for geothermal energy production since the 1970s, with the nearby Svartsengi geothermal power station (which supplies the Blue Lagoon) and Reykjanes power station tapping into the underground heat. The geothermal field is dynamic and constantly changing - new vents open while others close, mud pools shift location, and steam intensity varies. In 2005, the original viewing platform collapsed into a newly opened vent, leading to improved safety infrastructure including the current elevated boardwalks. The powerful steam and dramatic landscape make Gunnuhver one of the most photogenic and impressive geothermal sites in Iceland.\n\nGunnuhver is accessed via Route 425 near Reykjanes lighthouse, approximately 40 minutes drive from Reykjavík or 20 minutes from Grindavík. The site features well-maintained wooden boardwalks and viewing platforms that allow safe observation of the geothermal activity from multiple vantage points. A complete circuit takes 15-20 minutes at a leisurely pace. The site is exposed to strong Atlantic winds which can make the experience challenging but also dramatic as wind disperses the steam clouds revealing the boiling mud below. CRITICAL SAFETY: Winds can suddenly shift steam direction causing extremely hot conditions - stay on designated paths and be prepared to move quickly if steam blows toward you. The ground outside boardwalks is unstable and can collapse. Despite strong smells of sulfur, the site is accessible year-round and offers a raw, powerful geothermal experience different from more tame tourist sites.",
+  "address": "Route 425, near Reykjanesviti, 240 Grindavík, Iceland",
+  "coordinates": {
+    "longitude": -22.3,
+    "latitude": 63.82,
+    "altitude": 20.0
+  },
+  "rating": 4.7,
+  "reviews_count": 5300,
+  "category": "Geothermal Area",
+  "website": "https://www.visitreykjanes.is/en/place/gunnuhver",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Gunnuhver_geothermal_area.jpg"
+    },
+    {
+      "source": "Visit Reykjanes",
+      "url": "https://www.visitreykjanes.is/en/place/gunnuhver"
+    }
+  },
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "boardwalk": "15-20 minute loop, multiple viewing platforms",
+    "parking": "Free parking at site",
+    "admission": "Free",
+    "safety": "CRITICAL: Stay on boardwalks, steam temperatures 300°C, winds can shift steam unpredictably, ground unstable and may collapse"
+  }
+}

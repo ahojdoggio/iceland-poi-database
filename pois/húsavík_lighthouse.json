@@ -1,0 +1,24 @@
+{
+  "name": "Húsavík Lighthouse",
+  "description": "Brightly painted yellow lighthouse standing on the cape above Húsavík, next to the GeoSea Geothermal Sea Baths. Built in 1956, it once guided fishing boats safely into the harbour and now serves mainly as a local landmark. The short walk up to the lighthouse offers broad views over Skjálfandi Bay and the Arctic coastline.",
+  "address": "Cape above Húsavík by GeoSea Baths, 640 Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.3621777,
+    "latitude": 66.0521278,
+    "altitude": 0.0
+  },
+  "rating": 4.0,
+  "reviews_count": 7,
+  "category": "Lighthouse",
+  "website": "https://www.northiceland.is/en/place/husavik-lighthouse",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%BAsav%C3%ADk_lighthouse.jpg"
+    }
+  ],
+  "opening_hours": {
+    "general": "Accessible at all times by foot; no staffed opening hours."
+  }
+}

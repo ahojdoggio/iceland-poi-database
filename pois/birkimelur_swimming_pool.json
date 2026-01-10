@@ -1,0 +1,24 @@
+{
+  "name": "Birkimelur Swimming Pool",
+  "description": "Birkimelur is a small but charming geothermal swimming pool located in the remote Westfjords region of Iceland, specifically in the Barðaströnd area near the village of Patreksfjörður. The pool features a single small geothermal pool heated by natural hot springs, offering stunning panoramic views across the dramatic fjord landscape and out to the Atlantic Ocean. Despite its modest size, Birkimelur provides an authentic Icelandic swimming experience away from tourist crowds, where visitors can soak in warm, naturally heated water while surrounded by breathtaking scenery. The facility is simple and rustic, maintaining the traditional character of Iceland's countryside swimming culture. There is a small entrance fee required to access the pool. The pool is typically open daily during the summer season from June through mid-August, though hours may vary. In addition to the main pool, there is a nearby natural hot tub located right by the shoreline, providing an even more intimate bathing experience with direct ocean views. This hidden gem is perfect for travelers exploring the remote Westfjords who want to experience authentic Icelandic geothermal bathing in a peaceful, unspoiled setting.",
+  "address": "Laugarneslaug, Barðaströnd, 451 Patreksfjörður, Iceland",
+  "coordinates": {
+    "longitude": -23.4053381,
+    "latitude": 65.519615,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Swimming Pool",
+  "website": "https://www.westfjords.is/en/service/birkimelur-swimming-pool",
+  "phone": "+354 846 9474",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Ls2_nYXEdyNgeFaEm5KDc5V2iOtgcghCVZSJbzcrx5KFswktqEtgmOshSJheYzixLniTzr2OHuia0973Je0N4?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Usually open daily in summer (June–mid August); small geothermal pool and nearby natural hot tub by the shore."
+  }
+}

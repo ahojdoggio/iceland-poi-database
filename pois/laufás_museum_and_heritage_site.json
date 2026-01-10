@@ -1,0 +1,25 @@
+{
+  "name": "Laufás Museum and heritage site",
+  "description": "Laufás is a picturesque heritage site featuring a large, restored 19th-century turf farmhouse and a beautiful church. The farmstead was a prominent vicarage since 1047, with the current buildings dating from the mid-19th century. It is now part of the National Museum's Historic Buildings Collection and is managed by the Akureyri Museum.",
+  "address": "Laufás, 601 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0716667,
+    "latitude": 65.8940505,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Heritage Site",
+  "website": "https://www.minjasafnid.is/en/moya/page/laufas_heritage",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Laufas.jpg"
+    }
+  ],
+  "opening_hours": {
+    "summer": "Daily: 11:00 - 17:00 (Approx. June 1 - mid-September)",
+    "winter": "Closed (Open for pre-booked groups only)"
+  }
+}

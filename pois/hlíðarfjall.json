@@ -1,0 +1,25 @@
+{
+  "name": "Hlíðarfjall",
+  "description": "Hlíðarfjall mountain hosts the largest ski area in northern Iceland, with the highest elevation ski lift in the country. It offers 24 ski runs with a total of 14.9 km of pistes and operates eight ski lifts. In summer, the mountain is used for mountain biking and hiking trails, with a chairlift providing great views of the Eyjafjörður fjord and Akureyri.",
+  "address": "Hlíðarfjall Ski Area, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.2112122,
+    "latitude": 65.6625548,
+    "altitude": 0.0
+  },
+  "rating": 3.7,
+  "reviews_count": 2,
+  "category": "Ski Resort",
+  "website": "http://www.hlidarfjall.is",
+  "phone": "+354 460 2280",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hl%C3%AD%C3%B0arfjall%2C_Akureyri%2C_Iceland.png"
+    }
+  ],
+  "opening_hours": {
+    "winter": "Seasonal operation for skiing, dependent on snow conditions.",
+    "summer": "Closed for skiing; open for hiking and mountain biking (chairlift may operate on selected days)."
+  }
+}

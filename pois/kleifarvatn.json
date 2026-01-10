@@ -1,0 +1,31 @@
+{
+  "name": "Kleifarvatn",
+  "description": "Kleifarvatn is Iceland's third-largest lake, covering approximately 10 square kilometers in the Reykjanes Peninsula's volcanic landscape, situated between Route 42 and Route 427. The lake reaches a maximum depth of 97 meters, making it one of Iceland's deepest lakes despite its relatively modest surface area. Kleifarvatn sits at 137 meters elevation surrounded by dark volcanic mountains and barren lava fields, creating a dramatic and somewhat eerie atmosphere. The name translates to \"Clay Water Lake,\" though the origin is debated. Unlike many Icelandic lakes, Kleifarvatn has no visible surface outlet - water seeps through porous lava underground into the ocean, making the lake level highly variable and susceptible to changes in underground water flow.\n\nThe lake experienced a remarkable transformation in 2000 when earthquakes opened new fissures in the lake bottom, causing water levels to drop by approximately 20% and reducing surface area by 18%. This event exposed previously submerged landscapes including hot springs along the shoreline and revealed the lake's sensitivity to seismic activity. The surrounding area features dramatic volcanic features including Seltún geothermal area, Grænavatn green crater lake, and numerous lava fields. According to local folklore, the lake is home to a mysterious creature similar to Loch Ness Monster, adding to the area's mystique. The lake's dark, often moody appearance with steam sometimes rising from shoreline hot springs creates atmospheric photography opportunities.\n\nKleifarvatn is accessed via Route 42, which runs along its eastern shore, approximately 30 minutes south of Reykjavík. The lake is a popular stop on Reykjanes Peninsula explorations, often combined with nearby Seltún geothermal area and Krýsuvík. Several unmarked parking areas along Route 42 allow access to the shoreline for photography and contemplation. The lake area offers hiking opportunities with trails leading into surrounding lava fields and mountains. Swimming is possible but not common due to cold water temperatures. The exposed location means weather can change rapidly - wind is frequent and strong. The lake's desolate beauty, surrounded by black lava deserts and volcanic peaks, offers quintessential Icelandic highland scenery just minutes from the capital area.",
+  "address": "Route 42, Reykjanes Peninsula, Southwest Iceland",
+  "coordinates": {
+    "longitude": -22.0333,
+    "latitude": 63.9333,
+    "altitude": 137.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1800,
+  "category": "Lake",
+  "website": "https://www.visitreykjanes.is/en/place/kleifarvatn",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kleifarvatn_lake.jpg"
+    },
+    {
+      "source": "Visit Reykjanes",
+      "url": "https://www.visitreykjanes.is/en/place/kleifarvatn"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "access": "Route 42 runs along eastern shore, multiple parking areas",
+    "activities": "Photography, hiking, shoreline walks",
+    "notes": "Often combined with Seltún geothermal area visit"
+  }
+}

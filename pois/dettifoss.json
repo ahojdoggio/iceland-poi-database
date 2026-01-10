@@ -1,0 +1,34 @@
+{
+  "name": "Dettifoss",
+  "description": "Dettifoss is Europe's most powerful waterfall and Iceland's most formidable natural wonder, earning its nickname 'The Beast' from the thunderous roar and ground-shaking vibrations created by its massive water flow. Located in Vatnajökull National Park in Northeast Iceland, this spectacular waterfall plunges 44 meters (144 feet) down into the dramatic Jökulsárgljúfur Canyon with a width of 100 meters (328 feet). Fed by the glacial river Jökulsá á Fjöllum flowing from Vatnajökull Glacier, Europe's largest ice cap, the waterfall unleashes an average flow of 193 cubic meters per second, sometimes surging to 500 cubic meters per second during peak melt - equivalent to 16.6 million espresso cups per second. The sediment-rich glacial water gives the falls a distinctive greyish-white color, and the spray creates mist visible from miles away. Dettifoss is part of the famous Diamond Circle tourist route alongside Húsavík, Lake Mývatn, and Ásbyrgi Canyon. The waterfall gained international fame as the stunning backdrop for the opening scene of Ridley Scott's 2012 film Prometheus. Nearby, visitors can hike to Selfoss waterfall (1km upstream) and Hafragilsfoss (downstream), both fed by the same powerful glacial river.",
+  "address": "Route 862, 671 Kópasker, Iceland",
+  "coordinates": {
+    "longitude": -16.384600,
+    "latitude": 65.814700,
+    "altitude": 44.0
+  },
+  "rating": 4.8,
+  "reviews_count": 8500,
+  "category": "Waterfall",
+  "website": "https://www.vatnajokulsthjodgardur.is",
+  "phone": "+354 470 7100",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Dettifoss_Waterfall,_Iceland.jpg"
+    },
+    {
+      "source": "Vatnajökull National Park",
+      "url": "https://www.vatnajokulsthjodgardur.is"
+    }
+  ],
+  "opening_hours": {
+    "waterfall": "Accessible 24/7",
+    "west_access": "Route 862 (paved) - open year-round, recommended for all vehicles",
+    "east_access": "Route 864 (gravel) - summer only, 4WD recommended, rough road with potholes",
+    "parking": "Free parking on both sides, toilets available at west parking",
+    "hiking": "15-minute walk from west parking lot, well-maintained flat trail",
+    "best_season": "Summer for strongest flow from glacier melt, accessible year-round via west side",
+    "drone_permit": "Required - must obtain permit from Vatnajökull National Park authorities"
+  }
+}

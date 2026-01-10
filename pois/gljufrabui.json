@@ -1,0 +1,31 @@
+{
+  "name": "Gljúfrabúi",
+  "description": "Gljúfrabúi, meaning \"the one who lives in the canyon,\" is a hidden waterfall located just 500 meters from the famous Seljalandsfoss in southern Iceland. Standing approximately 40 meters tall, this waterfall is partially concealed within a narrow canyon, creating a mystical and intimate viewing experience. Unlike its famous neighbor, Gljúfrabúi requires visitors to wade through a shallow stream and enter the rocky gorge to fully appreciate its beauty. Inside the canyon, the waterfall cascades into a small pool, with mist filling the enclosed space and sunlight filtering through the opening above, creating an almost cathedral-like atmosphere with dramatic lighting effects.\n\nThe waterfall is fed by the Gljúfurá river, which originates from the Eyjafjallajökull glacier. The narrow canyon walls, covered in moss and vegetation during summer months, frame the falling water beautifully, while the enclosed space amplifies the sound of the cascade. The unique setting makes Gljúfrabúi feel like a secret grotto, offering a more intimate experience compared to the open exposure of nearby Seljalandsfoss. The partial concealment by the rock face means many visitors pass by without noticing it, earning it the nickname \"the secret waterfall.\" Photography inside the canyon is challenging but rewarding, with the contrast between the dark rock walls and bright waterfall creating stunning compositions.\n\nAccessing Gljúfrabúi requires walking through shallow water (ankle to knee-deep depending on season and rainfall) at the canyon entrance, so waterproof footwear is essential. The path from Seljalandsfoss parking area takes about 5-10 minutes. During winter, the entrance can be icy and more challenging to navigate. Visitors can either wade through the stream or walk along a narrow ledge on the right side, though getting wet is nearly unavoidable. The enclosed space means you'll get sprayed by mist, so waterproof clothing and camera protection are recommended. Despite these challenges, Gljúfrabúi offers one of Iceland's most unique waterfall experiences.",
+  "address": "Route 249, 861 Hvolsvöllur, Iceland",
+  "coordinates": {
+    "longitude": -19.988056,
+    "latitude": 63.615556,
+    "altitude": 60.0
+  },
+  "rating": 4.7,
+  "reviews_count": 4100,
+  "category": "Waterfall",
+  "website": "https://www.south.is/en/place/gljufrabui",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Gljufrabui_waterfall.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/gljufrabui"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "trail": "5-10 minute walk from Seljalandsfoss parking",
+    "parking": "Shared with Seljalandsfoss, 800 ISK daily fee",
+    "notes": "Waterproof footwear essential, expect to get wet, narrow canyon entrance"
+  }
+}

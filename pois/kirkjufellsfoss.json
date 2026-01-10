@@ -1,0 +1,31 @@
+{
+  "name": "Kirkjufellsfoss",
+  "description": "Kirkjufellsfoss is a small but incredibly photogenic waterfall on the Snæfellsnes Peninsula in western Iceland, famous for its position directly in front of the iconic Kirkjufell mountain. The waterfall consists of three parallel cascades, each approximately 5 meters high, flowing from the Kirkjufellsá river into the sea. While modest in size, Kirkjufellsfoss has become one of Iceland's most photographed locations, particularly when captured with the distinctive cone-shaped Kirkjufell (Church Mountain) rising 463 meters in the background. This composition has made the location famous worldwide, featured in HBO's Game of Thrones as \"Arrowhead Mountain\" and countless travel publications.\n\nThe waterfall's setting offers one of nature's most perfect compositions, with the foreground cascades leading the eye toward the symmetrical mountain peak beyond. During winter, the scene becomes even more magical when the Northern Lights dance above the mountain, creating opportunities for spectacular night photography. The surrounding area features a wooden viewing platform with multiple angles for photography, and the short distance from the main road makes it accessible to all visitors. The combination of the three-tiered waterfall, reflective pools, and the striking mountain backdrop creates an almost surreal landscape that epitomizes Iceland's dramatic scenery.\n\nKirkjufellsfoss is located just off Route 54 near the town of Grundarfjörður, with a parking area directly adjacent to the site. A short 2-3 minute walk on well-maintained paths leads to viewing platforms offering various perspectives of both waterfall and mountain. The site is accessible year-round and is particularly popular during sunrise and sunset when the light illuminates Kirkjufell beautifully. Winter visits offer Northern Lights viewing opportunities, while summer provides 24-hour daylight for midnight sun photography. The location can get crowded during peak tourist season, so visiting early morning or late evening is recommended for photographers seeking solitude.",
+  "address": "Route 54, 350 Grundarfjörður, Iceland",
+  "coordinates": {
+    "longitude": -23.313056,
+    "latitude": 64.924722,
+    "altitude": 10.0
+  },
+  "rating": 4.8,
+  "reviews_count": 9200,
+  "category": "Waterfall",
+  "website": "https://www.west.is/en/place/kirkjufellsfoss",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kirkjufellsfoss_and_Kirkjufell.jpg"
+    },
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/kirkjufellsfoss"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "trail": "2-3 minute walk from parking, wheelchair accessible boardwalk",
+    "parking": "Free parking lot adjacent to site",
+    "notes": "Can be crowded during peak season, best light at sunrise/sunset"
+  }
+}

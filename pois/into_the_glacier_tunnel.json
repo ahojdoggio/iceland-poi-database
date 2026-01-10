@@ -1,0 +1,32 @@
+{
+  "name": "Into the Glacier Tunnel",
+  "description": "Into the Glacier is a man-made ice tunnel system carved into Langjökull glacier, Iceland's second-largest ice cap, located in the western highlands. This unique attraction features approximately 500 meters of tunnels extending up to 200 meters into the glacier, including a large ceremonial hall capable of hosting weddings and events. The tunnel reaches depths of 30-40 meters below the glacier's surface, providing access to ice that is estimated to be several hundred years old. The project, completed in 2015, represents one of the world's largest glacier tunnels, offering visitors the unprecedented opportunity to walk inside a living glacier and observe compressed blue ice, annual ice layers, and glacial formations from within.\n\nThe tunnel system includes exhibition spaces explaining glacier formation, climate change impacts, and Iceland's glacial history. LED lighting illuminates the ice walls, highlighting the spectacular blue color created by compressed glacial ice. The temperature inside remains constant at around 0°C (-32°F) year-round, requiring warm clothing even during summer visits. The tunnel features a chapel area where weddings are occasionally held, small exhibition spaces, and viewing areas where the glacial ice layers are visible. Educational displays explain how glaciers form, move, and respond to climate change, making this both an adventure and learning experience about one of Earth's most important climate indicators.\n\nAccess to Into the Glacier requires joining a guided tour departing from either Húsafell or Klaki base camp. The journey involves a 30-45 minute ride in specially modified 8-wheel-drive vehicles capable of navigating glacier terrain, followed by the tunnel exploration itself. Tours last approximately 3-4 hours total including transportation. Advance booking is essential as tours operate year-round but with limited daily departures. Warm clothing, waterproof jacket, and sturdy shoes are required - temperatures inside hover around freezing. While the tunnel itself is wheelchair accessible, the glacier vehicle ride is not suitable for those with mobility issues. This unique experience offers perspectives on glaciers impossible to achieve through traditional glacier hiking, providing an inside-out view of these massive ice formations.",
+  "address": "Langjökull Glacier, accessed from Húsafell or Klaki base camp, West Iceland",
+  "coordinates": {
+    "longitude": -20.2,
+    "latitude": 64.65,
+    "altitude": 1200.0
+  },
+  "rating": 4.6,
+  "reviews_count": 2800,
+  "category": "Ice Cave",
+  "website": "https://www.intotheglacier.is",
+  "phone": "+354 578 2550",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Into_the_Glacier_tunnel.jpg"
+    },
+    {
+      "source": "Into the Glacier",
+      "url": "https://www.intotheglacier.is"
+    }
+  ],
+  "opening_hours": {
+    "season": "Year-round tours, weather permitting",
+    "tours": "Multiple daily departures, advance booking required",
+    "duration": "3-4 hours total including glacier vehicle transport",
+    "admission": "Tours from approximately 25,000-35,000 ISK per person",
+    "requirements": "Warm clothing essential, temperature 0°C inside tunnel"
+  }
+}

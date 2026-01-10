@@ -1,0 +1,32 @@
+{
+  "name": "Dynjandi",
+  "description": "Dynjandi (also called Fjallfoss) is the most magnificent waterfall in the Westfjords, cascading a total of 100 meters down a mountainside in a spectacular series of cascades. The main waterfall features a unique fan-shape formation, widening from 30 meters at the top to 60 meters at the base, resembling a bridal veil or pyramid of water. This distinctive wedge shape makes Dynjandi instantly recognizable and one of Iceland's most photographed waterfalls. The name \"Dynjandi\" translates to \"thunderous\" or \"resounding,\" referring to the powerful roar of water echoing through the valley. The waterfall is fed by the lake Dynjandisvatn above, with water cascading through seven distinct tiers, each with its own name: Dynjandi (the main fall), followed downstream by Háifoss, Strompgljúfrafoss, Göngumannafoss, Hrísvaðsfoss, Sjóarfoss, and finally Bæjarfoss at the base.\n\nDynjandi serves as the crown jewel of the Westfjords and holds special cultural significance for the region. The waterfall appears on the municipal coat of arms for Ísafjarðarbær and symbolizes Westfjords identity. The seven-tiered cascade system creates a spectacular natural amphitheater with each falls contributing to the overall composition. The main Dynjandi falls drops approximately 60 meters with its characteristic fan shape, while the combined height of all seven tiers reaches 100 meters. The waterfall maintains impressive flow year-round, though peak flow occurs during spring and early summer when snowmelt swells the volume. The surrounding landscape of steep mountains, green valleys (in summer), and the fjord below creates a dramatic setting worthy of the waterfall's majesty.\n\nDynjandi is accessed via Route 60 in the Westfjords, approximately 16 kilometers south of Þingeyri and 25 kilometers north of Hrafnseyri. The route requires driving on unpaved roads typical of the Westfjords. A parking area at the base provides access to the hiking trail, which climbs approximately 100 meters elevation over 15-20 minutes, passing all seven waterfalls with viewing platforms at each tier. The trail is well-maintained with steps and boardwalks but can be steep and slippery. The hike to the main Dynjandi falls is moderate and suitable for most fitness levels. The site includes basic facilities at the parking area. Visiting Dynjandi requires dedicating time for the Westfjords detour - the remoteness is part of its charm, and visitors are often rewarded with solitude despite its status as the region's premier natural attraction. Best visited June-September when roads are clear; winter access is very difficult or impossible.",
+  "address": "Route 60, Westfjords, Iceland",
+  "coordinates": {
+    "longitude": -23.2,
+    "latitude": 65.73,
+    "altitude": 100.0
+  },
+  "rating": 4.9,
+  "reviews_count": 3600,
+  "category": "Waterfall",
+  "website": "https://www.westfjords.is/en/place/dynjandi",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Dynjandi_waterfall.jpg"
+    },
+    {
+      "source": "Westfjords",
+      "url": "https://www.westfjords.is/en/place/dynjandi"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible June-September (winter access very difficult)",
+    "trail": "15-20 minute hike to main falls, 100m elevation gain",
+    "parking": "Free parking at base, basic facilities available",
+    "cascades": "Seven tiers total, viewing platforms at each level",
+    "notes": "Remote Westfjords location, unpaved access road"
+  }
+}

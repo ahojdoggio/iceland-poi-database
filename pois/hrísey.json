@@ -1,0 +1,25 @@
+{
+  "name": "Hrísey",
+  "description": "Hrísey is the second-largest island in Iceland and is known as a peaceful, well-known paradise for bird watchers, with about 40 species nesting there. Located in the middle of Eyjafjörður, it features a tidy fishing village with about 150 inhabitants and offers marked hiking routes for visitors. It is connected to the mainland via a 15-minute ferry ride from Ásskógssandur, which can be ordered by phone.",
+  "address": "Hrísey, 630 Hrísey, Iceland",
+  "coordinates": {
+    "longitude": -18.3837407,
+    "latitude": 65.9953605,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 26,
+  "category": "Island",
+  "website": "https://www.hrisey.is/en",
+  "phone": "Ferry Phone: +354 695 5544",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hrisey.JPG"
+    }
+  ],
+  "opening_hours": {
+    "ferry_summer": "Daily scheduled departures (Approx. June 1 - August 31).",
+    "ferry_winter": "Reduced or on-demand service; certain departures require pre-booking (Approx. Sept 1 - May 31)."
+  }
+}

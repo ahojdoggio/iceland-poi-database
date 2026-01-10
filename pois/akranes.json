@@ -1,0 +1,29 @@
+{
+  "name": "Akranes",
+  "description": "Akranes is a port town in West Iceland with approximately 7,400 residents, making it the ninth-largest urban area in the country. It was settled by two Irish brothers, Þormóður and Ketill, in the 9th century, and to honor them, the town hosts annually 'Irish Days' celebrating all things Irish. The town features two prominent lighthouses at Breið Mountain, making the area a popular spot for photographers. Akranes is also home to one of Iceland's largest cement factories, which has been a major employer since 1954. The town offers beautiful coastal views, local museums showcasing maritime history and folk culture, and serves as a peaceful alternative to larger cities while still providing modern amenities. Located just a short drive from Reykjavík via the undersea Hvalfjarðargöng tunnel, Akranes is easily accessible for day trips.",
+  "address": "300 Akranes, Iceland",
+  "coordinates": {
+    "longitude": -22.0702847,
+    "latitude": 64.3219244,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Town",
+  "website": "https://guidetoiceland.is/travel-iceland/drive/akranes",
+  "phone": "+354 894 2500",
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTU-xdA3hUTRMK35rFe2XEJA6kmjaN-HrTeb7tJwAoEG6uzNMJfylYjMUss1NggSu6RnC-1k71qt26yubIKRWhWGkz5vjtFI3ZhgDn2ZzfaXKMn8xiUKKC0Ov8qrBDGuT8d5iHz0lZyjniwC-OuZ-JvXuCQSGlq3Pv-d2G8njLaPky_tiNw6pxqzrMfPIoYB41EmNQ?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQstBDghq2pC4bbBwR0VHock-PusBuGqULqjZpyabp-YJzuqso2N4Yl8QROVakBM7WZ13P6IQ8eYlOQWcV7qidZVEE4jfi3X8C_T5BuRTmFxNqMxQMvnsQPJHwxOIEAXOCYjN0Lj5ZLCU2qamLnAu2CheIEc0pPa8Zs4IrZ74Z3PaHEAUVUna_5d2zQpGTlOGQxVvU?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "tourist_info_summer": "Daily: 12:00 - 16:00 (May 1 - Sep 15, located in Akranes Lighthouse)",
+    "tourist_info_winter": "Daily: 13:00 - 15:00 (Sep 16 - Apr 30, located in Akranes Lighthouse)"
+  }
+}

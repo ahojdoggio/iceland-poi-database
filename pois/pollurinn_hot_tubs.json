@@ -1,0 +1,24 @@
+{
+  "name": "Pollurinn Hot Tubs",
+  "description": "Pollurinn is a set of three small concrete hot tubs situated on a scenic hillside above the charming fishing village of Tálknafjörður in the Westfjords region of Iceland. The tubs are filled with natural geothermal water that maintains comfortable bathing temperatures around 38-42°C (100-108°F), perfect for relaxation after exploring the dramatic Westfjords landscape. From the tubs, bathers enjoy panoramic views over Tálknafjörður fjord, the village below, and the surrounding mountains that characterize this remote region. Entry to Pollurinn is completely free, embodying Iceland's generous tradition of providing public access to geothermal bathing facilities. Basic changing facilities are available, consisting of a simple wooden shelter where visitors can leave their clothes and belongings. The site is maintained by local residents as a community amenity, and visitors are expected to treat it with respect and leave no trace. Each of the three tubs can accommodate 4-6 people, creating an intimate and social bathing experience. The hot tubs are accessible 24/7 throughout the year. Tálknafjörður itself is a peaceful village with fewer than 300 inhabitants, offering an authentic glimpse into Icelandic coastal life away from major tourist routes.",
+  "address": "Pollurinn, 461 Tálknafjörður, Westfjords, Iceland",
+  "coordinates": {
+    "longitude": -23.1893085,
+    "latitude": 65.6023126,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Natural Hot Pool",
+  "website": "https://icelandtravelguide.is/locations/pollurinn-hot-spring-westfjords/",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Zuqk-kL9_HGbopom78QbQ2yozGNm2No3J3Eg9X4?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "general": "Open 24/7; three small concrete hot pools above Tálknafjörður maintained by locals."
+  }
+}

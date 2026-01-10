@@ -1,0 +1,33 @@
+{
+  "name": "Hallgrímskirkja",
+  "description": "Hallgrímskirkja is Iceland's tallest and most iconic church, dominating Reykjavík's skyline with its distinctive 74.5-meter (244-foot) tower. Designed by state architect Guðjón Samúelsson in 1937 and built between 1945-1986, this expressionist Lutheran church was inspired by Iceland's dramatic basalt column formations, particularly those at Svartifoss waterfall. Named after 17th-century poet Hallgrímur Pétursson, author of the Passion Hymns, the church features a striking stepped concrete facade that resembles volcanic 'organ pipe' basalt columns and glacial formations. Inside, the minimalist sanctuary houses one of the world's largest pipe organs with 5,275 pipes and 15 meters in height, used for acclaimed weekly concerts during summer. The observation deck at the top of the tower provides breathtaking 360-degree panoramic views of Reykjavík, Faxaflói Bay, Mount Esja, and surrounding mountains. Outside stands Alexander Stirling Calder's statue of explorer Leif Erikson, gifted by the United States in 1930 to commemorate the 1000th anniversary of Iceland's parliament. The church hosts regular Sunday services, organ concerts, and religious festivals, and serves as a congregation point for Reykjavík's New Year's Eve celebrations.",
+  "address": "Hallgrímstorg 1, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.926638,
+    "latitude": 64.141716,
+    "altitude": 74.5
+  },
+  "rating": 4.7,
+  "reviews_count": 38000,
+  "category": "Church, Landmark",
+  "website": "https://en.hallgrimskirkja.is",
+  "phone": "+354 510 1000",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Hallgr%C3%ADmskirkja,_Reykjavik.jpg"
+    },
+    {
+      "source": "Visit Reykjavík",
+      "url": "https://visitreykjavik.is/hallgrimskirkja-church-tower"
+    }
+  ],
+  "opening_hours": {
+    "church": "Daily 10:00 - 17:00 (free admission)",
+    "tower": "Daily 10:00 - 16:30 (last entrance, may close without notice for events)",
+    "services": "Sunday Mass at 11:00, Wednesday at 10:30, English service last Sunday of month at 14:00",
+    "tower_admission": "Adults 1000 ISK (~$7), Children 7-16 years 100 ISK (~$0.70)",
+    "organ_concerts": "Weekly summer concerts June-August, Advent/Christmas concerts Nov-Dec",
+    "note": "Active church - may close for services, baptisms, weddings, funerals"
+  }
+}

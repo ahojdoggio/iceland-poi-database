@@ -1,0 +1,31 @@
+{
+  "name": "Mýrdalsjökull Glacier",
+  "description": "Mýrdalsjökull is Iceland's fourth-largest ice cap, covering approximately 596 square kilometers in southern Iceland between the towns of Vík and Kirkjubæjarklaustur. The glacier reaches a maximum thickness of about 750 meters, with its highest point at 1,493 meters elevation at Goðabunga peak. Mýrdalsjökull translates to \"Mire Valley Glacier,\" named after the valley of Mýrdalur beneath it. The ice cap feeds several outlet glaciers, with Sólheimajökull being the most accessible and frequently visited. From many vantage points along the South Coast, particularly near Vík, Mýrdalsjökull dominates the northern skyline as a massive white dome.\n\nWhat makes Mýrdalsjökull particularly significant is the Katla volcano hidden beneath its ice, one of Iceland's most active and powerful volcanic systems. Katla has erupted approximately 20 times in recorded history, with major eruptions occurring roughly every 40-80 years. The most recent confirmed eruption was in 1918, making volcanologists closely monitor the volcano for signs of activity. When Katla erupts, the interaction between volcanic heat and glacial ice produces massive glacial floods (jökulhlaups) that can reach the ocean within hours, carrying icebergs, volcanic debris, and massive amounts of meltwater. The potential threat of a Katla eruption influences settlement patterns and emergency planning across southern Iceland.\n\nVisitors can experience Mýrdalsjökull through guided glacier tours departing from Vík or Skógar, including glacier hiking, ice climbing, and snowmobile excursions on the ice cap. The Sólheimajökull outlet glacier offers the most accessible glacier experiences. The glacier is visible from numerous viewpoints along Route 1, and several hiking trails in the surrounding area provide spectacular views of the ice cap. All activities on the glacier itself require professional guides due to crevasse danger and volcanic hazards. The combination of volcanic activity beneath thick ice makes Mýrdalsjökull one of Iceland's most geologically fascinating and potentially dangerous glaciers.",
+  "address": "South Iceland, between Vík and Kirkjubæjarklaustur",
+  "coordinates": {
+    "longitude": -19.1,
+    "latitude": 63.63,
+    "altitude": 1493.0
+  },
+  "rating": 4.7,
+  "reviews_count": 2100,
+  "category": "Glacier",
+  "website": "https://www.south.is/en/place/myrdalsjokull-glacier",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Myrdalsjokull_glacier.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/myrdalsjokull-glacier"
+    }
+  ],
+  "opening_hours": {
+    "glacier": "Visible year-round from Route 1 and surrounding areas",
+    "access": "Glacier tours from Vík or Skógar",
+    "activities": "Guided tours required, book with certified operators",
+    "safety": "CRITICAL: Active volcano beneath ice, never access without professional guide"
+  }
+}

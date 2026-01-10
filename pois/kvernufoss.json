@@ -1,0 +1,31 @@
+{
+  "name": "Kvernufoss",
+  "description": "Kvernufoss is a beautiful yet relatively unknown 30-meter waterfall located near the famous Skógafoss in southern Iceland. Despite being only a short walk from one of Iceland's most visited waterfalls, Kvernufoss remains remarkably peaceful and crowd-free, offering visitors a more intimate waterfall experience. The waterfall cascades over a curved cliff face into a small canyon, and like Seljalandsfoss, it features a cave-like hollow behind the falling water that visitors can access, allowing for unique behind-the-waterfall photography. The surrounding cliffs are covered in lush green moss during summer, creating a verdant amphitheater around the cascade.\n\nThe waterfall is fed by the Kverná river, which flows from the Eyjafjallajökull and Mýrdalsjökull glaciers. The horseshoe-shaped cliff surrounding the waterfall creates excellent acoustics, amplifying the sound of the falling water. The path behind the waterfall is narrower and more adventurous than the one at Seljalandsfoss, requiring some scrambling over rocks, but the reward is a spectacular view looking out through the curtain of water toward the canyon entrance. During winter, ice formations create an additional layer of beauty, though the path behind becomes inaccessible and potentially dangerous due to ice.\n\nKvernufoss is accessed via a 15-20 minute walk from the Skógafoss parking area, following a marked trail east along the base of the cliffs. The trailhead is somewhat inconspicuous, beginning near the Skógar Museum, which contributes to the waterfall remaining less crowded. The path follows the Kverná river upstream through a scenic canyon with high cliffs on both sides. Visitors should wear appropriate footwear as the trail can be muddy, and rocks behind the waterfall can be slippery. The relative isolation and natural beauty make Kvernufoss an excellent alternative for those seeking a quieter waterfall experience away from tour bus crowds.",
+  "address": "Skógar, 861 Hvolsvöllur, Iceland",
+  "coordinates": {
+    "longitude": -19.506389,
+    "latitude": 63.531667,
+    "altitude": 50.0
+  },
+  "rating": 4.8,
+  "reviews_count": 1200,
+  "category": "Waterfall",
+  "website": "https://www.south.is/en/place/kvernufoss",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kvernufoss_waterfall.jpg"
+    },
+    {
+      "source": "South Iceland",
+      "url": "https://www.south.is/en/place/kvernufoss"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "trail": "15-20 minute walk from Skógafoss parking",
+    "parking": "Shared with Skógafoss, 700 ISK daily fee",
+    "notes": "Trail can be muddy, behind-waterfall path slippery, less crowded than nearby Skógafoss"
+  }
+}

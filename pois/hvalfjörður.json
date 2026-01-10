@@ -1,0 +1,28 @@
+{
+  "name": "Hvalfjörður",
+  "description": "Hvalfjörður, meaning \"Whale Fjord,\" is a scenic fjord in southwest Iceland stretching approximately 30 kilometers inland from Faxaflói Bay. The fjord is surrounded by dramatic mountains reaching heights of up to 1000 meters and features both wide areas of flat land as well as majestic peaks. It is home to the famous Glymur waterfall, Iceland's second-highest at 198 meters. During World War II, Hvalfjörður served as an important Allied naval base, hosting British and American forces who used it as a staging point for Arctic convoys. Remnants of this military presence, including old Quonset huts and bunkers, can still be seen today. The fjord got its name from the abundance of whales that once frequented its waters. Today, visitors can explore hiking trails, visit the historic whaling station at Hvalfjörður, and enjoy the peaceful scenery away from the busy Ring Road.",
+  "address": "Hvalfjörður, West Iceland",
+  "coordinates": {
+    "longitude": -21.7103544,
+    "latitude": 64.3565281,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Fjord",
+  "website": "https://guidetoiceland.is/travel-iceland/drive/hvalfjordur",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgSe6wbM01jmpNHi3Go4dpN28-dU2HV9la2CJu9RDzgfjOxBQ-AnFuA5UkCembVxFw1JLgA0cXOtNjUJh2iqAwJhPX5Yv4XGl7OZ0QOz9MaldOg8yGIwInsmR0zGo2jCbx4oBQP_o2ET0Gp1pLK4R6kGh03BTrOtz7vYt_iwfmZh8Csg25c7ol-k4WAlRfX6ahlaI?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRYp7b4W6J6EKtm0CE48rNprXSEJunF-TDSZOt4EbEOwDKgKr_hEXIMTMkX4cndBsEfusa4WJTEvRDhCEZr33NvoQV-gNqFGbfKQkZruh0K032lFktet3NMdNCqBawmTLyghNFTJqFBX-4qZ1P_nvTbAGM9NQ6PnKhBqTdJbZzIdAxAG49JunMg7nHl4Svd3OnmF80?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "all_year": "Open 24/7 (natural area)"
+  }
+}

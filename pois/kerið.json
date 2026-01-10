@@ -1,0 +1,29 @@
+{
+  "name": "Kerið",
+  "description": "Kerið is a volcanic crater lake located in the Grímsnes area, approximately 15 kilometers north of Selfoss and close to the famous Golden Circle tourist route. The crater is about 6,500 years old and measures roughly 55 meters deep, 170 meters wide, and 270 meters across. It is believed that Kerið was once a caldera that emptied its magma chamber in an eruption and collapsed once the cone was completed. The lake's distinctive aquamarine-blue water contrasts beautifully with the red and black volcanic rock walls, while the crater's steep sides are covered with green moss and small shrubs. Visitors can walk around the crater rim on a well-maintained path or descend the stairs to the water's edge for a closer look. Kerið is one of three crater lakes in the area, but it is the most accessible and popular among tourists.",
+  "address": "Kerid Crater, South Iceland",
+  "coordinates": {
+    "longitude": -20.8851466,
+    "latitude": 64.0412785,
+    "altitude": 0.0
+  },
+  "rating": null,
+  "reviews_count": null,
+  "category": "Crater",
+  "website": "https://guidetoiceland.is/nature-info/lakes-in-iceland",
+  "phone": null,
+  "images": [
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRYiAGVTuXiFFYGuTwk8V9j-PBhTJTeCDd1oo8Vxy3L86j81GXQldKZu1BPCo8vTgesIRB2SpiqPdD3woLuGVZyacWx97p2Qe4l0OaipW_hluYUlKYhVHW68uUfbCGj02BpmJmTcnO4b_LRXBR7-ZCAdvsLYEVJOlt0BOadr1FUhKKDhfW5JM-h4RMD2RFMKwA2-lI?authuser=0&fife=s16383"
+    },
+    {
+      "source": "Google My Maps",
+      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ72n0W_ynXoux7JiZHeJXy2Q9xyRCvwyPDUS598VoJUAOU4yKBsJUdJDfs4yn4m-FW-B7sINjXwNiUuwjP98sBCeZfMGs87jHQaatMLnNkrraJlMB8uVVYne4xd5c3dMQ06dYOU6xdT6W3LaOcHq-EdoivDsXqRXfdEjyhOOAWgeRyH38_8UttBca8GNXTsgN7Swg?authuser=0&fife=s16383"
+    }
+  ],
+  "opening_hours": {
+    "summer": "Daily: 08:00 - 22:00 (daylight hours)",
+    "winter": "Daily: 10:00 - 17:00 (daylight hours)"
+  }
+}

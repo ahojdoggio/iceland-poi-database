@@ -1,0 +1,32 @@
+{
+  "name": "Svínafellsjökull Glacier",
+  "description": "Svínafellsjökull is a stunning outlet glacier extending from the Vatnajökull ice cap in southeast Iceland, located within Vatnajökull National Park near the Skaftafell area. The glacier tongue stretches approximately 10 kilometers from the main ice cap, descending through dramatic mountain scenery with peaks reaching over 1,000 meters on either side. The glacier's name translates to \"Swine Mountain Glacier,\" derived from the Svínafell farm at its base. Svínafellsjökull has gained international fame as a filming location for numerous productions including HBO's Game of Thrones, James Bond films, and Christopher Nolan's Interstellar, where it doubled for extraterrestrial ice worlds.\n\nThe glacier displays spectacular features including deep blue crevasses, towering ice formations, and dramatic icefalls where the glacier descends steep slopes. The interplay of white ice, blue crevasses, and black volcanic ash creates a visually striking landscape that photographers find irresistible. The glacier is flanked by distinctive mountain peaks including Hvannadalshnúkur (Iceland's highest peak at 2,110m) to the east. Like other Icelandic glaciers, Svínafellsjökull has been retreating significantly - the terminus has receded several hundred meters in recent decades, leaving behind a growing moraine field and small glacial lakes. The retreat has actually improved access for glacier tours while providing stark evidence of climate change.\n\nSvínafellsjökull is accessed via a 30-40 minute hike from a parking area off Route 1, following a well-marked trail through the glacial outwash plain. The approach offers spectacular views of the glacier terminus and surrounding mountains. Multiple tour operators offer guided glacier hikes ranging from basic 2-hour walks to advanced ice climbing experiences and multi-hour expeditions. The glacier is suitable for beginners with proper guidance, making it one of the more accessible glaciers for first-time glacier hikers. All activities on the ice require professional guides with appropriate safety equipment including crampons, helmets, and ice axes. The glacier can be visited year-round, with each season offering unique conditions and lighting.",
+  "address": "Skaftafell, Vatnajökull National Park, 785 Öræfi, Iceland",
+  "coordinates": {
+    "longitude": -16.877778,
+    "latitude": 64.016667,
+    "altitude": 200.0
+  },
+  "rating": 4.8,
+  "reviews_count": 4900,
+  "category": "Glacier",
+  "website": "https://www.vatnajokulsthjodgardur.is/en",
+  "phone": "+354 470 8300",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Svinafellsjokull_glacier.jpg"
+    },
+    {
+      "source": "Vatnajökull National Park",
+      "url": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible year-round",
+    "trail": "30-40 minute hike from parking to glacier terminus",
+    "parking": "Free at turnoff from Route 1",
+    "glacier_tours": "Multiple operators, advance booking essential in summer",
+    "safety": "CRITICAL: Professional guide required for ice access, crevasses present"
+  }
+}

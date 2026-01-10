@@ -1,0 +1,31 @@
+{
+  "name": "Seljalandsfoss",
+  "description": "Seljalandsfoss is one of Iceland's most iconic waterfalls, famous for its unique walk-behind feature that allows visitors to completely encircle the cascade. Located along the Ring Road on Iceland's South Coast, this stunning waterfall drops 60 meters (197 feet) from a cliff that once marked the ancient coastline. Fed by meltwater from the Eyjafjallajökull glacier, the Seljalands River creates a narrow but powerful curtain of water surrounded by lush green landscapes and volcanic rock formations. The waterfall is especially photogenic during golden hour when rainbows frequently appear in the mist. Visitors should bring waterproof clothing as the spray is substantial, and the path behind the waterfall can be slippery. The site is illuminated at night by powerful floodlights, making it spectacular for nighttime photography and Northern Lights viewing. Nearby, the hidden Gljúfrabúi waterfall offers a more intimate experience just 200 meters away. Seljalandsfoss has been featured in numerous films and music videos, including Justin Bieber's 'I'll Show You' and Star Trek: Discovery.",
+  "address": "861 Hvolsvöllur, Iceland",
+  "coordinates": {
+    "longitude": -19.988569,
+    "latitude": 63.615623,
+    "altitude": 60.0
+  },
+  "rating": 4.7,
+  "reviews_count": 24000,
+  "category": "Waterfall",
+  "website": "https://seljalandsfoss.org",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Iceland.jpg"
+    },
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/place/seljalandsfoss-waterfall"
+    }
+  ],
+  "opening_hours": {
+    "waterfall": "Accessible 24/7 year-round",
+    "walk_behind": "Accessible in summer (May-September), closed in winter due to ice hazards",
+    "parking_fee": "800 ISK (~$6) per day",
+    "lighting": "Illuminated nightly by floodlights for evening viewing"
+  }
+}

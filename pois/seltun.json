@@ -1,0 +1,32 @@
+{
+  "name": "Seltún (Krýsuvík)",
+  "description": "Seltún is a spectacular geothermal area located in the Krýsuvík volcanic system on the Reykjanes Peninsula, approximately 60 kilometers south of Reykjavík. The site features vibrant, otherworldly landscapes of bubbling mud pools, steaming fumaroles, and brilliantly colored sulfur deposits in shades of yellow, orange, red, and green. The area covers several square kilometers of active geothermal activity, with surface temperatures reaching up to 100°C (212°F) in some areas. Seltún sits within a geothermal field that has been producing energy for centuries - the name means \"Salty Lake\" referring to historical salt mining operations. The vivid colors are created by various sulfur compounds, iron oxide, and other minerals deposited by the escaping steam.\n\nThe geothermal field demonstrates the powerful volcanic forces beneath Reykjanes Peninsula, which sits directly on the Mid-Atlantic Ridge where the North American and Eurasian tectonic plates are actively pulling apart. Seltún's activity intensified following increased seismic activity in the area starting in 2020, with new fumaroles opening and existing ones becoming more vigorous. The area produces distinctive sulfurous (rotten egg) smells from hydrogen sulfide gas, and the sound of bubbling mud and hissing steam creates an immersive multisensory experience. The surrounding landscape features barren, Mars-like terrain that has been used by NASA for astronaut training and serves as an analogue for extraterrestrial volcanic environments.\n\nSeltún is accessed via Route 42 and Route 427, with a marked parking area and well-maintained wooden boardwalks guiding visitors safely through the geothermal area. The boardwalks extend approximately 300 meters through the most active zones, with information signs explaining the geological processes. Visiting takes 20-30 minutes for a standard walk, though photographers often spend longer. The site is accessible year-round and free to visit. CRITICAL SAFETY WARNING: Stay strictly on marked boardwalks - the ground is unstable, thin crusts conceal boiling water, and breaking through can cause severe burns. The area can be slippery when wet or icy. Strong winds can blow hot steam unpredictably. Seltún offers one of Iceland's most accessible and visually spectacular geothermal experiences, often visited as part of Reykjanes Peninsula explorations.",
+  "address": "Route 427, Krýsuvík, 240 Grindavík, Iceland",
+  "coordinates": {
+    "longitude": -22.05,
+    "latitude": 63.895,
+    "altitude": 134.0
+  },
+  "rating": 4.6,
+  "reviews_count": 4100,
+  "category": "Geothermal Area",
+  "website": "https://www.visitreykjanes.is/en/place/seltun-krysuvik-geothermal-area",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Seltun_Krysuvik.jpg"
+    },
+    {
+      "source": "Visit Reykjanes",
+      "url": "https://www.visitreykjanes.is/en/place/seltun-krysuvik-geothermal-area"
+    }
+  ],
+  "opening_hours": {
+    "site": "Accessible 24/7 year-round",
+    "boardwalk": "Approximately 300m loop, 20-30 minutes",
+    "parking": "Free parking at site",
+    "admission": "Free",
+    "safety": "CRITICAL: Stay on boardwalks, ground unstable with thin crusts over boiling water, severe burn risk, toxic gases present"
+  }
+}

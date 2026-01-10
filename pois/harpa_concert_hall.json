@@ -1,0 +1,31 @@
+{
+  "name": "Harpa Concert Hall",
+  "description": "Harpa is Reykjavík's premier concert hall and conference center, located on the waterfront in the Old Harbour district. Opened in 2011, this striking building features a distinctive facade of geometric glass panels designed by artist Ólafur Elíasson, inspired by Iceland's basalt columns and Northern Lights. The 28,000-square-meter structure stands as one of the city's most iconic modern landmarks, rising dramatically from the harbor with its shimmering, multicolored exterior that reflects the surrounding sea and sky.\n\nHarpa serves as home to the Iceland Symphony Orchestra and Icelandic Opera, housing four performance halls with seating capacities ranging from 200 to 1,800. The largest venue, Eldborg (Main Hall), hosts international concerts, operas, and major cultural events. The building has received numerous architectural awards, including the prestigious Mies van der Rohe Award in 2013 for contemporary European architecture.\n\nVisitors can explore Harpa's stunning interior through guided tours or simply admire the architectural design from public areas. The glass facade creates spectacular light displays, particularly beautiful at sunset and when illuminated at night. The building also houses restaurants, shops, and offers panoramic views of Mount Esja and Faxaflói Bay from its upper floors. Harpa has become a symbol of Iceland's cultural renaissance and resilience following the 2008 financial crisis.",
+  "address": "Austurbakki 2, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.932005,
+    "latitude": 64.150215,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 12500,
+  "category": "Landmark",
+  "website": "https://www.harpa.is/en",
+  "phone": "+354 528 5000",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Harpa_Concert_Hall.jpg"
+    },
+    {
+      "source": "Visit Reykjavík",
+      "url": "https://www.visitreykjavik.is/harpa-concert-hall-and-conference-centre"
+    }
+  ],
+  "opening_hours": {
+    "building": "Daily 08:00-24:00",
+    "box_office": "Monday-Friday 12:00-18:00, Performance days until show start",
+    "tours": "Daily tours available, check website for schedule",
+    "admission": "Building access free, tour prices vary, concert tickets separate"
+  }
+}
