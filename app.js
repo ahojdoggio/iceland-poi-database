@@ -8,7 +8,7 @@ const BASE_PATH = window.location.pathname.includes('/iceland-poi-database')
     : '';
 
 // CORS proxy for Google My Maps images
-const CORS_PROXY = 'https://corsproxy.io/?';
+const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
 
 // Function to proxy image URLs that need CORS bypass
 function proxyImageUrl(url) {
@@ -327,10 +327,6 @@ function openModal(poi) {
     const modal = document.getElementById('poiModal');
     const modalBody = document.getElementById('modalBody');
 
-    console.log('Opening modal for POI:', poi.name);
-    console.log('POI images:', poi.images);
-    console.log('Description length:', poi.description ? poi.description.length : 0);
-
     const name = escapeHtml(poi.name || 'Unnamed POI');
     const fullDescription = poi.description || 'No description available.';
     const isLongDescription = fullDescription.length > 500;
@@ -362,7 +358,6 @@ function openModal(poi) {
     
     let imagesHtml = '';
     if (poi.images && poi.images.length > 0) {
-        console.log('Generating images HTML for', poi.images.length, 'images');
         imagesHtml = `
             <div class="modal-images">
                 ${poi.images.map(img => {
@@ -370,12 +365,10 @@ function openModal(poi) {
                     return `
                     <img src="${escapeHtml(proxiedUrl)}" alt="${name}" class="modal-image"
                          onclick="openImageModal('${escapeHtml(proxiedUrl)}')"
-                         onerror="console.error('Image failed to load:', this.src); this.style.display='none'">
+                         onerror="this.style.display='none'">
                 `}).join('')}
             </div>
         `;
-    } else {
-        console.log('No images found for this POI');
     }
     
     let websiteLink = '';
