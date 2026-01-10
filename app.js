@@ -311,6 +311,10 @@ function openModal(poi) {
     const modal = document.getElementById('poiModal');
     const modalBody = document.getElementById('modalBody');
 
+    console.log('Opening modal for POI:', poi.name);
+    console.log('POI images:', poi.images);
+    console.log('Description length:', poi.description ? poi.description.length : 0);
+
     const name = escapeHtml(poi.name || 'Unnamed POI');
     const fullDescription = poi.description || 'No description available.';
     const isLongDescription = fullDescription.length > 500;
