@@ -346,15 +346,18 @@ function openModal(poi) {
     
     let imagesHtml = '';
     if (poi.images && poi.images.length > 0) {
+        console.log('Generating images HTML for', poi.images.length, 'images');
         imagesHtml = `
             <div class="modal-images">
                 ${poi.images.map(img => `
                     <img src="${escapeHtml(img)}" alt="${name}" class="modal-image"
                          onclick="openImageModal('${escapeHtml(img)}')"
-                         onerror="this.style.display='none'">
+                         onerror="console.error('Image failed to load:', this.src); this.style.display='none'">
                 `).join('')}
             </div>
         `;
+    } else {
+        console.log('No images found for this POI');
     }
     
     let websiteLink = '';

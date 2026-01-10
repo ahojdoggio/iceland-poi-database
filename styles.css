@@ -269,17 +269,17 @@ header h1 {
     color: #000;
 }
 
-.modal-body {
+#modalBody {
     margin-top: 20px;
 }
 
-.modal-body h2 {
+#modalBody h2 {
     font-size: 2rem;
     margin-bottom: 20px;
     color: #333;
 }
 
-.modal-body .poi-description {
+#modalBody .poi-description {
     font-size: 1.1rem;
     margin-bottom: 25px;
     -webkit-line-clamp: unset;
