@@ -2,6 +2,11 @@
 let allPOIs = [];
 let filteredPOIs = [];
 
+// Base path for GitHub Pages (empty for root, or '/repo-name' for project pages)
+const BASE_PATH = window.location.pathname.includes('/iceland-poi-database')
+    ? '/iceland-poi-database'
+    : '';
+
 // Normalize POI data to handle different formats
 function normalizePOI(poi) {
     // Handle images - can be strings or objects with url property
@@ -47,7 +52,7 @@ async function tryLoadJSON(url) {
 // Load POI files from manifest
 async function loadManifestFiles() {
     try {
-        const response = await fetch('manifest.json');
+        const response = await fetch(`${BASE_PATH}/manifest.json`);
         if (!response.ok) {
             console.log('No manifest.json found, skipping manifest-based loading');
             return [];
@@ -58,7 +63,7 @@ async function loadManifestFiles() {
 
         // Load POI files from /pois/ directory
         if (manifest.poi_files && Array.isArray(manifest.poi_files)) {
-            const poiPromises = manifest.poi_files.map(filepath => tryLoadJSON(filepath));
+            const poiPromises = manifest.poi_files.map(filepath => tryLoadJSON(`${BASE_PATH}/${filepath}`));
             const results = await Promise.all(poiPromises);
             results.forEach(data => {
                 if (data) allFiles.push(data);
@@ -67,7 +72,7 @@ async function loadManifestFiles() {
 
         // Load app folder files
         if (manifest.app_folder_files && Array.isArray(manifest.app_folder_files)) {
-            const appPromises = manifest.app_folder_files.map(filename => tryLoadJSON(filename));
+            const appPromises = manifest.app_folder_files.map(filename => tryLoadJSON(`${BASE_PATH}/${filename}`));
             const results = await Promise.all(appPromises);
             results.forEach(data => {
                 if (data) allFiles.push(data);
