@@ -7,6 +7,22 @@ const BASE_PATH = window.location.pathname.includes('/iceland-poi-database')
     ? '/iceland-poi-database'
     : '';
 
+// CORS proxy for Google My Maps images
+const CORS_PROXY = 'https://corsproxy.io/?';
+
+// Function to proxy image URLs that need CORS bypass
+function proxyImageUrl(url) {
+    if (!url) return url;
+
+    // Check if it's a Google My Maps or other CORS-restricted URL
+    if (url.includes('mymaps.usercontent.google.com') ||
+        url.includes('googleusercontent.com')) {
+        return CORS_PROXY + encodeURIComponent(url);
+    }
+
+    return url;
+}
+
 // Normalize POI data to handle different formats
 function normalizePOI(poi) {
     // Handle images - can be strings or objects with url property
@@ -287,7 +303,7 @@ function createPOICard(poi) {
             ${hasImages ? `
                 <div class="poi-images">
                     ${images.map(img => `
-                        <img src="${escapeHtml(img)}" alt="${name}" class="poi-image" 
+                        <img src="${escapeHtml(proxyImageUrl(img))}" alt="${name}" class="poi-image"
                              onerror="this.style.display='none'">
                     `).join('')}
                 </div>
@@ -349,11 +365,13 @@ function openModal(poi) {
         console.log('Generating images HTML for', poi.images.length, 'images');
         imagesHtml = `
             <div class="modal-images">
-                ${poi.images.map(img => `
-                    <img src="${escapeHtml(img)}" alt="${name}" class="modal-image"
-                         onclick="openImageModal('${escapeHtml(img)}')"
+                ${poi.images.map(img => {
+                    const proxiedUrl = proxyImageUrl(img);
+                    return `
+                    <img src="${escapeHtml(proxiedUrl)}" alt="${name}" class="modal-image"
+                         onclick="openImageModal('${escapeHtml(proxiedUrl)}')"
                          onerror="console.error('Image failed to load:', this.src); this.style.display='none'">
-                `).join('')}
+                `}).join('')}
             </div>
         `;
     } else {
