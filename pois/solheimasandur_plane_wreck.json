@@ -1,0 +1,33 @@
+{
+  "name": "Sólheimasandur Plane Wreck",
+  "description": "The Sólheimasandur plane wreck is the remains of a United States Navy Douglas C-117D transport aircraft that crashed on the black sand beach of Sólheimasandur in southern Iceland on November 21, 1973. Often misidentified as a DC-3, the aircraft was actually a modified Super DC-3, one of 100 Douglas Dakota planes upgraded by the US Navy and Marine Corps for improved take-off and single-engine performance. The plane was flying from Höfn to Keflavík Airport when it encountered severe weather and icing conditions over the remote south coast. When both engines failed due to fuel starvation—the pilot had inadvertently switched to the wrong fuel tank—the crew executed an emergency landing on the barren black sand beach. Miraculously, all five crew members survived the crash without serious injury, and the pilot, Commander James T. Fletcher, was later awarded an Air Medal Bronze Star for his successful emergency landing. The US Navy deemed recovering the aircraft from the remote crash site too difficult and costly, located 3.5 kilometers from the nearest road. After stripping the plane of all valuable equipment, the empty aluminum fuselage was abandoned on the sand where it has remained for over 50 years. The wreck has become one of Iceland's most iconic and photographed sites, appearing in numerous music videos, films, and television productions. Its stark, haunting appearance against the black volcanic sand has made it a pilgrimage site for photographers and tourists worldwide. Located approximately 165 kilometers from Reykjavík along the south coast between Skógafoss waterfall and Vík village, the wreck sits on the vast black sand plain of Sólheimasandur. Access requires a 3.5 to 4-kilometer walk (approximately 45 minutes each way) from the designated parking area off Route 1, covering 7 to 8 kilometers round-trip. Driving to the wreck has been prohibited since 2016 due to environmental damage and safety concerns. A shuttle bus service operates every 30 minutes for those who prefer not to walk, covering the distance in just 10 minutes for 3,200 ISK per person return. The walk follows a flat, well-marked trail indicated by yellow reflective sticks, though conditions can be challenging in strong winds or bad weather. The area experiences powerful winds and sandstorms, particularly in winter months, making summer visits (May to August) highly recommended for safer, more pleasant conditions.",
+  "address": "Sólheimasandur, 871 Vík, Iceland",
+  "coordinates": {
+    "longitude": -19.3648,
+    "latitude": 63.4591,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 18500,
+  "category": "Historic Site",
+  "website": "https://www.south.is/en/place/solheimasandur",
+  "phone": null,
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:1973_S%C3%B3lheimasandur_Douglas_DC-3_crash"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Sólheimasandur_Plane_Wreck,_South_Iceland_(37872346766).jpg"
+    }
+  ],
+  "opening_hours": {
+    "access": "24/7 year-round, walking or shuttle only (no driving allowed since 2016)",
+    "parking_fee": "750 ISK per car per day at designated parking lot off Route 1",
+    "shuttle_service": "Buses every 30 minutes, 3,200 ISK per person return, 10-minute ride",
+    "walking_distance": "3.5-4 km each way (45 minutes), 7-8 km round-trip (2-3 hours total)",
+    "best_season": "May to August for calmer weather, avoid winter due to snow, limited daylight, and severe winds",
+    "safety_warning": "Strong winds and sandstorms common year-round. Check weather forecast before visiting. Trail marked with yellow reflective sticks. Not recommended in bad weather, heavy snow, or limited daylight. Inform someone of your plans before hiking."
+  }
+}
