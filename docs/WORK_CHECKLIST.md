@@ -1,7 +1,7 @@
 # Iceland POI Work Checklist
 **Complete Task List & Progress Tracker**
 
-*Last Updated: 2026-01-10*
+*Last Updated: 2026-01-16*
 
 ---
 
@@ -10,14 +10,14 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 88 (22%) |
-| **Remaining** | 305 (78%) |
-| **Time Invested** | ~16 hours |
-| **Time Remaining** | ~82 hours |
+| **Completed** | 99 (25%) |
+| **Remaining** | 294 (75%) |
+| **Time Invested** | ~20 hours |
+| **Time Remaining** | ~78 hours |
 
 ---
 
-## ✅ COMPLETED POIs (88)
+## ✅ COMPLETED POIs (99)
 
 ### Golden Circle & Southwest (17)
 1. ✅ **Gullfoss** - Golden Falls, 32m double cascade (ENRICHED)
@@ -38,12 +38,22 @@
 16. ✅ **Keflavík International Airport** - Main gateway
 17. ✅ **Rif** - Small fishing village, Arctic tern nesting
 
-### South Coast (5)
+### South Coast (15) - PRIORITY 2 COMPLETE ✓
 18. ✅ **Jökulsárlón** - Deepest lake, 284m, floating icebergs
 19. ✅ **Diamond Beach** - Black sand with ice chunks
 20. ✅ **Seljalandsfoss** - 60m waterfall, walk-behind feature
 21. ✅ **Skógafoss** - 60m × 25m, 370 steps to top
 22. ✅ **Reynisfjara** - Black sand beach ⚠️ DANGEROUS WAVES
+23. ✅ **Skaftafell** - Nature reserve, Vatnajökull gateway, hiking trails
+24. ✅ **Fjaðrárgljúfur Canyon** - 2km serpentine canyon, 100m deep
+25. ✅ **Vík í Mýrdal** - Southernmost village, lobster capital vibes, Víkurkirkja church
+26. ✅ **Sólheimasandur Plane Wreck** - 1973 US Navy DC-3, black sand crash site
+27. ✅ **Eyjafjallajökull** - 2010 eruption volcano, 1,651m glacier-capped stratovolcano
+28. ✅ **LAVA Centre** - Award-winning interactive volcano museum, Hvolsvöllur
+29. ✅ **Hjörleifshöfði** - 221m Viking settlement promontory, Yoda Cave (Gígjagjá)
+30. ✅ **Stokksnes** - Vestrahorn "Batman Mountain", Viking village film set
+31. ✅ **Hofskirkja** - Last turf church built 1884, protected monument
+32. ✅ **Höfn** - Lobster capital, 2,200 residents, Vatnajökull views
 
 ### North Iceland & Akureyri (14)
 23. ✅ **Dettifoss** - Europe's most powerful, 44m drop
@@ -254,21 +264,21 @@
 ## 📋 PRIORITY 2: Major Routes (50 remaining)
 
 ### South Coast (15)
-- [ ] Skaftafell
-- [ ] Fjaðrárgljúfur Canyon
-- [ ] Vík town
-- [ ] Dyrhólaey Lighthouse
-- [ ] Kvernufoss
-- [ ] Gljúfrabúi
-- [ ] Sólheimasandur Plane Wreck
-- [ ] Solheimajokull Glacier
-- [ ] Eyjafjallajökull
-- [ ] Lava Centre
-- [ ] DC-3 Wreck
-- [ ] Hjörleifshöfði
-- [ ] Stokksnes
-- [ ] Hofskirkja
-- [ ] Höfn town
+- [x] Skaftafell
+- [x] Fjaðrárgljúfur Canyon
+- [x] Vík town
+- [x] Dyrhólaey Lighthouse (exists as dyrholaey.json)
+- [x] Kvernufoss (exists as kvernufoss.json)
+- [x] Gljúfrabúi (exists as gljufrabui.json)
+- [x] Sólheimasandur Plane Wreck
+- [x] Solheimajokull Glacier (exists as solheimajokull_glacier.json)
+- [x] Eyjafjallajökull
+- [x] Lava Centre
+- [x] DC-3 Wreck (same as Sólheimasandur)
+- [x] Hjörleifshöfði
+- [x] Stokksnes
+- [x] Hofskirkja
+- [x] Höfn town
 
 ### Snæfellsnes (12)
 - [ ] Snæfellsjökull Glacier
