@@ -1,0 +1,28 @@
+{
+  "name": "Icelandic Aviation Museum (Flugsafn Íslands)",
+  "description": "The Icelandic Aviation Museum (Flugsafn Íslands) is a fascinating tribute to over 100 years of Icelandic aviation history, housed in a spacious hangar at Akureyri Airport just 3.7 kilometers south of the town center. Founded in 1999 and opened to the public in June 2000, this enthusiast-run museum preserves and displays an impressive collection of aircraft, aviation artifacts, and stories that chronicle Iceland's unique relationship with flight—from the earliest pioneering attempts to modern aviation. For an island nation where aviation has been literally vital to connecting remote communities, providing emergency medical services, and linking Iceland to the outside world, this museum tells an important national story. The collection features a remarkable Douglas DC-3 painted in classic Iceland Air colors, allowing visitors to step aboard and imagine the golden age of Icelandic commercial aviation when these reliable workhorses connected the country's scattered towns and villages across mountains, glaciers, and fjords. A particular highlight is the authentic Boeing 747 cockpit where visitors can sit in the captain's seat surrounded by hundreds of dials, switches, and instruments, gaining appreciation for the complexity of flying these massive aircraft. Historical treasures include Iceland's oldest air ambulance aircraft, which saved countless lives by evacuating critically ill or injured patients from remote areas to hospitals; the first glider built in Akureyri in 1937 by pioneering aviation enthusiasts; and poignant artifacts from a British RAF Fairey Battle bomber that crashed in the mountains west of Akureyri in 1941 during World War II, when Iceland served as a strategic Allied base. The museum's extensive collection also encompasses ultra-light aircraft, vintage aircraft engines, propellers, airport equipment from different eras, flight instruments, aviation uniforms, photographs documenting Icelandic aviation milestones, and a flight simulation trainer where visitors can experience the thrill of piloting an aircraft. Many of the aircraft on display can be boarded and explored, providing hands-on engagement that delights aviation enthusiasts and families alike. Knowledgeable volunteer staff, many of whom are pilots or aviation professionals, are often on hand to answer questions and share fascinating stories about Iceland's aviation heritage.",
+  "address": "Akureyri Airport, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0707,
+    "latitude": 65.6560,
+    "altitude": 2.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1650,
+  "category": "Aviation Museum",
+  "website": "https://www.flugsafn.is",
+  "phone": "+354 461 4400",
+  "images": [
+    "https://www.flugsafn.is/images/dc3-hangar.jpg"
+  ],
+  "opening_hours": {
+    "summer": "May 15 - September 15, daily 11:00 AM - 5:00 PM",
+    "winter": "September 16 - May 14, Saturdays 1:00 PM - 4:00 PM",
+    "by_appointment": "Available year-round",
+    "admission_adults": "1,500 ISK",
+    "admission_seniors_students": "1,000 ISK",
+    "admission_groups": "1,000 ISK per person (10+ people)",
+    "admission_children": "Free (under 18 with adult)",
+    "recommended_visit": "1-1.5 hours"
+  }
+}

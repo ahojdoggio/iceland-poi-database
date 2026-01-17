@@ -1,0 +1,27 @@
+{
+  "name": "Akureyri Museum (Minjasafnið á Akureyri)",
+  "description": "The Akureyri Museum (Minjasafnið á Akureyri) is Northern Iceland's premier local history museum, offering comprehensive exhibitions that bring to life the fascinating story of Akureyri and the surrounding Eyjafjörður region from Viking settlement through modern times. Located in the heart of the town, this well-curated museum serves as the cultural memory keeper for North Iceland, preserving artifacts, photographs, documents, and stories that illuminate how people lived, worked, and thrived in this challenging subarctic environment over the past 1,100 years. The museum's main exhibition, 'Akureyri, the Town by the Pool' (referring to the geothermal pool that gave the town its name), guides visitors through the development of Akureyri from a small agricultural settlement to Iceland's second-largest urban area and the undisputed capital of the north. Meticulously recreated period rooms include an authentic early 20th-century merchant's store complete with vintage products, packaging, and sales counters; a traditional parlor showcasing middle-class domestic life with period furniture, decorative arts, and household items; and a nostalgic playroom filled with toys, games, and children's possessions from bygone eras. An extensive photograph collection captures daily life in Akureyri throughout the decades, showing the town's evolution through images of street scenes, notable residents, businesses, festivals, and significant events. The exhibition 'Eyjafjörður in the Early Period' explores the region's Viking Age settlement and medieval history through archaeological finds including the excavated remains of ancient burial mounds containing grave goods, boats used for water transport, medieval trading goods that reveal commercial connections with Europe, and a reconstructed warp-weighted loom demonstrating traditional textile production techniques. A particularly engaging exhibition features historical maps of Iceland and the North from the 16th to 19th centuries, showing how European cartographers gradually refined their understanding of Iceland's geography. An interactive cartographer's room allows visitors to explore map-making techniques and see how Iceland was depicted in different eras. Another highlight is an exhibition dedicated to the Aurora Borealis, explaining the scientific phenomena behind the Northern Lights while also exploring their significance in Icelandic folklore and culture. The museum manages several historic buildings beyond the main exhibition space, including period houses that can be visited as part of a multi-museum pass.",
+  "address": "Aðalstræti 58, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0893,
+    "latitude": 65.6801,
+    "altitude": 3.0
+  },
+  "rating": 4.4,
+  "reviews_count": 1450,
+  "category": "History Museum",
+  "website": "https://www.minjasafnid.is/en",
+  "phone": "+354 462 4162",
+  "images": [
+    "https://www.minjasafnid.is/images/main-building.jpg"
+  ],
+  "opening_hours": {
+    "summer": "June 1 - September 30, daily 10:00 AM - 5:00 PM",
+    "winter": "October 1 - May 31, daily 1:00 PM - 4:00 PM",
+    "admission_adults": "1,800 ISK",
+    "admission_seniors": "900 ISK",
+    "admission_children": "Free",
+    "multi_museum_pass": "2,200 ISK (5 museums)",
+    "recommended_visit": "1-1.5 hours"
+  }
+}

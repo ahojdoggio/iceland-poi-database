@@ -1,0 +1,25 @@
+{
+  "name": "Nonni's House (Nonnahús)",
+  "description": "Nonni's House (Nonnahús) is a charming literary museum dedicated to the life and work of Jón Sveinsson (1857-1944), affectionately known as 'Nonni,' one of Iceland's most beloved children's authors whose adventure stories captivated generations of young readers worldwide. This well-preserved black wooden house, built in 1850, is among Akureyri's oldest buildings and served as Nonni's childhood home during his formative years in northern Iceland. The museum opened in 1957 on the occasion of what would have been Nonni's 100th birthday, transforming his family home into a memorial celebrating his extraordinary life journey from a small Icelandic fishing town to international literary fame. Jón Sveinsson's remarkable story began when he left Iceland at age 12 to study in France, eventually joining the Jesuit order and becoming a Catholic priest. Despite spending most of his adult life in Europe, Nonni never forgot his Icelandic roots, and his 12 semi-autobiographical children's books vividly depict his adventures growing up in 19th-century Iceland, capturing the harsh beauty of the landscape, the challenges of rural life, and the warmth of Icelandic family and community. Though written in German, Nonni's books achieved phenomenal international success and have been translated into more than 40 languages, including Chinese, Japanese, Esperanto, and numerous European languages, selling millions of copies and inspiring several film adaptations. The museum's exhibition rooms recreate the atmosphere of 19th-century Icelandic domestic life with period furniture, household items, photographs, and personal belongings that belonged to the Sveinsson family. Visitors can view first editions of Nonni's books in various languages, original illustrations, correspondence, and memorabilia from his life in Europe. A particularly special artifact is rare moving picture footage of Nonni filmed in Valkenburg, Netherlands, in 1942—the only known video recording of the author. The museum also explores Nonni's work as a Jesuit priest and educator, his travels throughout Europe, and his enduring connection to Akureyri, which named him an honorary citizen. For Icelandic visitors, Nonni's stories are treasured childhood memories, while international visitors discover a fascinating literary figure whose gentle adventure tales transcended cultural boundaries.",
+  "address": "Aðalstræti 54, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0897,
+    "latitude": 65.6798,
+    "altitude": 3.0
+  },
+  "rating": 4.3,
+  "reviews_count": 980,
+  "category": "Literary Museum",
+  "website": "https://www.nonni.is",
+  "phone": "+354 462 3555",
+  "images": [
+    "https://www.akureyri.is/nonnabus-exterior.jpg"
+  ],
+  "opening_hours": {
+    "summer": "June 1 - August 31, daily 10:00 AM - 5:00 PM",
+    "winter": "By appointment only",
+    "admission": "Adults 1,000 ISK, Children free",
+    "languages": "Exhibits in Icelandic, English, and German",
+    "recommended_visit": "30-45 minutes"
+  }
+}

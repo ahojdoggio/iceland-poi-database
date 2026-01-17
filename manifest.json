@@ -2,16 +2,20 @@
   "poi_files": [
     "pois/akranes.json",
     "pois/akureyrarkirkja.json",
+    "pois/akureyri_art_museum.json",
     "pois/akureyri_botanical_garden.json",
+    "pois/akureyri_museum.json",
     "pois/akureyri_swimming_pool.json",
     "pois/arbaer_open_air_museum.json",
     "pois/arnarstapi.json",
+    "pois/aviation_museum_iceland.json",
     "pois/berserkjahraun.json",
     "pois/birkimelur_swimming_pool.json",
     "pois/blue_lagoon.json",
     "pois/borgarnes.json",
     "pois/budakirkja.json",
     "pois/christmas_house.json",
+    "pois/christmas_house_akureyri.json",
     "pois/crystal_ice_cave.json",
     "pois/deildartunguhver.json",
     "pois/dettifoss.json",
@@ -28,6 +32,7 @@
     "pois/faxi.json",
     "pois/fjadrargljufur_canyon.json",
     "pois/fjallsarlon.json",
+    "pois/forest_lagoon_akureyri.json",
     "pois/geysir.json",
     "pois/gljufrabui.json",
     "pois/glymur.json",
@@ -82,6 +87,7 @@
     "pois/namaskard.json",
     "pois/national_gallery_of_iceland.json",
     "pois/national_museum_of_iceland.json",
+    "pois/nonnis_house.json",
     "pois/old_harbour.json",
     "pois/oxararfoss.json",
     "pois/perlan_museum.json",
@@ -130,5 +136,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 127
+  "total_files": 133
 }

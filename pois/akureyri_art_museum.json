@@ -1,0 +1,27 @@
+{
+  "name": "Akureyri Art Museum (Listasafnið á Akureyri)",
+  "description": "The Akureyri Art Museum (Listasafnið á Akureyri) is Northern Iceland's premier contemporary art institution, showcasing an impressive collection of Icelandic and international art across multiple gallery spaces in the heart of Akureyri. Founded in 1993, the museum has established itself as a vital cultural hub for the north, presenting ambitious exhibitions that range from historical Icelandic art to cutting-edge contemporary works by emerging and established artists. The museum's permanent collection features works by many of Iceland's most important 20th and 21st-century artists, with particular strength in landscape paintings, abstract works, and conceptual art that reflects Iceland's unique cultural identity and dramatic natural environment. The building itself spans three levels with bright, modern gallery spaces designed to provide optimal viewing conditions for paintings, sculptures, photographs, video installations, and multimedia art. The museum's exhibition program is remarkably dynamic for a regional institution, hosting approximately 24 exhibitions and cultural events annually, including solo shows by prominent Icelandic artists, group exhibitions exploring thematic concepts, international collaborations, and special installations that push the boundaries of contemporary art practice. Educational programming includes guided tours, artist talks, workshops for children and adults, and lectures that contextualize the artworks within broader art historical and cultural frameworks. The museum actively engages with the local community through outreach programs and school partnerships that introduce young people to visual arts and creative expression. Special exhibitions have featured everything from traditional Icelandic textile art and design to provocative contemporary photography and experimental video art. The museum shop offers art books, exhibition catalogs, prints by Icelandic artists, and locally designed gifts. Visitors can expect to spend 1-2 hours exploring the galleries, and the rotating exhibitions ensure that return visits always offer fresh artistic perspectives and discoveries.",
+  "address": "Kaupvangsstræti 8, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0918,
+    "latitude": 65.6792,
+    "altitude": 5.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1800,
+  "category": "Art Museum",
+  "website": "https://www.listak.is/en",
+  "phone": "+354 461 2610",
+  "images": [
+    "https://www.listak.is/images/museum-exterior.jpg"
+  ],
+  "opening_hours": {
+    "summer": "June - August, daily 10:00 AM - 5:00 PM",
+    "winter": "September - May, daily 12:00 PM - 5:00 PM",
+    "closed": "December 24, 25, 31 and January 1",
+    "admission_adults": "2,300 ISK",
+    "admission_seniors_students": "1,200 ISK",
+    "exhibitions": "Approximately 24 exhibitions annually (rotating)",
+    "recommended_visit": "1-2 hours"
+  }
+}

@@ -1,25 +1,25 @@
 {
-  "name": "Akureyrarkirkja",
-  "description": "This prominent church, designed by state architect Guðjón Samúelsson, was consecrated in 1940 and towers over the town center. Its notable features include a large pipe organ with 3,200 pipes and an opaque central window from England's Coventry Cathedral. A model ship is suspended from the ceiling, reflecting an old tradition for the welfare of loved ones at sea.",
-  "address": "Við Eyrarlandsveg 600, 600 Akureyri, Iceland",
+  "name": "Akureyrarkirkja (Akureyri Church)",
+  "description": "Akureyrarkirkja is the iconic Lutheran church that dominates the skyline of Akureyri, Iceland's northern capital, perched majestically atop a hill overlooking the town. Designed by renowned Icelandic architect Guðjón Samúelsson (who also designed Hallgrímskirkja in Reykjavík) and completed in 1940, this architectural masterpiece represents a unique fusion of Art Deco and traditional Nordic design elements. The church's innovative geometric twin-tower design was inspired by the natural basalt columns of Iceland's Svartifoss waterfall, creating a structure that resembles a stylized 1920s American skyscraper more than a conventional European church. Visitors must climb an impressive stairway of 112 steps to reach the entrance, and the climb is rewarded with panoramic views of the charming town of Akureyri, Eyjafjörður fjord, and the surrounding mountains. Inside, the church features a notably large pipe organ with 3,200 pipes that fills the space with magnificent sound during services and concerts. The central stained-glass window above the altar has a remarkable history—it originally graced Coventry Cathedral in England before being relocated to Iceland. The bas-reliefs decorating the nave balcony were created by celebrated Icelandic sculptor Ásmundur Sveinsson (1893-1982), while the beautiful altarpiece dates to 1863 and was designed by Danish artist Edvard Lehmann (1815-1892). Following an old Nordic maritime tradition, a suspended model ship hangs from the ceiling as a votive offering for the protection of seafarers and loved ones at sea. The church's interior combines modernist simplicity with traditional sacred art, creating a contemplative atmosphere enhanced by natural light filtering through the unique windows. Akureyrarkirkja remains an active place of worship while also serving as one of Akureyri's most photographed landmarks and a venue for classical music concerts.",
+  "address": "Eyrarlandsvegur, 600 Akureyri, Iceland",
   "coordinates": {
-    "longitude": -18.090781,
-    "latitude": 65.6799121,
-    "altitude": 0.0
+    "longitude": -18.0908,
+    "latitude": 65.6835,
+    "altitude": 45.0
   },
-  "rating": 4.3,
-  "reviews_count": 1100,
+  "rating": 4.6,
+  "reviews_count": 2400,
   "category": "Church",
-  "website": "https://www.akureyrarkirkja.is/",
+  "website": "https://www.akureyrarkirkja.is",
   "phone": "+354 462 7700",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Akureyrarkirkja.jpg"
-    }
+    "https://commons.wikimedia.org/wiki/File:Akureyrarkirkja.jpg"
   ],
   "opening_hours": {
-    "summer": "Mon-Fri: 15:00 - 18:00 (Approx. June 1 - August 30)",
-    "winter": "Varies (often closed to general visitors outside of services)"
+    "summer": "June 2 - August 28, daily 10:00 AM - 4:00 PM",
+    "winter": "Check board outside for current hours (closed for services/funerals)",
+    "admission": "Free (donations welcome)",
+    "accessibility": "112 steps to entrance (steep climb)",
+    "services": "Sunday worship services held regularly"
   }
 }
