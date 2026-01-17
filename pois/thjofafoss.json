@@ -1,0 +1,27 @@
+{
+  "name": "Þjófafoss - The Thieves' Waterfall",
+  "description": "Þjófafoss, translating to \"Thieves' Waterfall\" or \"Thief Falls,\" is a historically significant and visually impressive waterfall on Iceland's longest river, the Þjórsá, which stretches approximately 230 kilometers (143 miles) from its glacial source to the Atlantic Ocean. Located in South Iceland on the eastern edge of the Merkurhraun lava field beneath the imposing bulk of Mount Búrfell, Þjófafoss bears a dark and memorable name derived from Iceland's harsh medieval justice system—thieves convicted of crimes were traditionally executed here by drowning in the waterfall's turbulent pool, making the site both a natural wonder and a reminder of Iceland's stern historical code. The waterfall itself features multiple channels of milky glacial water cascading over dark volcanic rock ledges in a broad, powerful display that spans the full width of the substantial Þjórsá river. However, visitors should understand that Þjófafoss exists in a state of dramatic flux due to modern hydroelectric operations: the flow can vary from a thunderous full-river cascade to a reduced trickle or even complete absence of water, depending on the operational needs of Landsvirkjun's Búrfellsvirkjun hydroelectric power station which has operated at the base of Mount Búrfell since 1972. This power plant diverts a large proportion—sometimes nearly all—of the Þjórsá's water flow for electricity generation, meaning that visitors may encounter anything from a spectacular rushing waterfall to virtually dry rocks, with the water's presence or absence determined by power grid demand rather than natural seasonal variation. This makes Þjófafoss an unusual attraction: a waterfall that effectively disappears on command, offering a stark illustration of how Iceland harnesses its powerful rivers for renewable energy. When water does flow over Þjófafoss, it creates an impressive white veil against the black volcanic rock, particularly beautiful when backlit by Iceland's low-angle sunlight. The surrounding Merkurhraun lava field features fascinating volcanic formations including caves, twisted lava rock, and the characteristic moss-covered appearance that makes Icelandic lava fields so otherworldly. Access to Þjófafoss is relatively straightforward via paved roads (Route 1 to Route 26 to Route 32), making it accessible to regular passenger vehicles without requiring 4x4 capabilities. The waterfall sits in the same general area as other Þjórsárdalur valley attractions including Hjálparfoss and the route to Háifoss, allowing visitors to experience multiple waterfalls in a single excursion. The Þjórsá river itself is renowned for salmon fishing, though access and fishing rights are carefully controlled. The view of Mount Búrfell rising behind the waterfall adds dramatic scale to photographs. While the variability in water flow may frustrate some visitors hoping for guaranteed spectacle, others find the hydroelectric aspect adds an interesting dimension to understanding Iceland's balance between preserving natural beauty and harnessing renewable energy resources.",
+  "address": "Þjórsá River, Route 32, South Iceland (near Mount Búrfell)",
+  "coordinates": {
+    "longitude": -19.7833,
+    "latitude": 64.2400,
+    "altitude": 140.0
+  },
+  "rating": 4.2,
+  "reviews_count": 1320,
+  "category": "Waterfall",
+  "website": "https://www.south.is/en/thjofafoss",
+  "phone": null,
+  "images": [
+    "https://www.south.is/images/thjofafoss-waterfall.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round (paved roads)",
+    "road": "Route 1 → Route 26 → Route 32 (accessible to regular cars)",
+    "admission": "Free",
+    "water_flow_warning": "Variable flow due to hydroelectric diversion - may be reduced or absent",
+    "power_station": "Búrfellsvirkjun (operating since 1972) controls river flow",
+    "historical_note": "Named for medieval practice of drowning convicted thieves here",
+    "nearby": "Hjálparfoss, route to Háifoss, Merkurhraun lava field"
+  }
+}

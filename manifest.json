@@ -39,8 +39,10 @@
     "pois/fjadrargljufur_canyon.json",
     "pois/fjallsarlon.json",
     "pois/forest_lagoon_akureyri.json",
+    "pois/foss_a_sidu.json",
     "pois/geysir.json",
     "pois/gljufrabui.json",
+    "pois/gluggafoss.json",
     "pois/glymur.json",
     "pois/godafoss.json",
     "pois/grettislaug_pool.json",
@@ -137,9 +139,12 @@
     "pois/sun_voyager.json",
     "pois/svartifoss.json",
     "pois/svinafellsjokull_glacier.json",
+    "pois/systrafoss.json",
     "pois/thingvellir_national_park.json",
+    "pois/thjofafoss.json",
     "pois/thjorsardalur.json",
     "pois/tjornin.json",
+    "pois/urridafoss.json",
     "pois/vatnajokull_glacier.json",
     "pois/vatnajokull_national_park.json",
     "pois/vestrahorn.json",
@@ -150,5 +155,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 147
+  "total_files": 152
 }
