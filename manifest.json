@@ -10,6 +10,7 @@
     "pois/arbaer_open_air_museum.json",
     "pois/arnarstapi.json",
     "pois/aviation_museum_iceland.json",
+    "pois/baejarfoss.json",
     "pois/berserkjahraun.json",
     "pois/birkimelur_swimming_pool.json",
     "pois/blue_lagoon.json",
@@ -40,6 +41,7 @@
     "pois/fjallsarlon.json",
     "pois/forest_lagoon_akureyri.json",
     "pois/foss_a_sidu.json",
+    "pois/geitafoss.json",
     "pois/geysir.json",
     "pois/gljufrabui.json",
     "pois/gluggafoss.json",
@@ -120,6 +122,7 @@
     "pois/reynisdrangar.json",
     "pois/reynisfjara_black_sand_beach.json",
     "pois/rif.json",
+    "pois/rjukandi.json",
     "pois/saga_museum.json",
     "pois/saxholl_crater.json",
     "pois/secret_lagoon.json",
@@ -160,5 +163,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 157
+  "total_files": 160
 }
