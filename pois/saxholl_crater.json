@@ -1,0 +1,37 @@
+{
+  "name": "Saxhóll Crater",
+  "description": "Saxhóll is a striking volcanic scoria cone rising 45 meters high and 100 meters above the surrounding lava fields near the westernmost tip of the Snæfellsnes Peninsula within Snæfellsjökull National Park. This cinder cone formed between 3,000 and 4,000 years ago during mildly explosive eruptions from a single vent that shot molten rock fragments high into the air, which then fell back to earth and solidified into the loose volcanic material—scoria and ash—that characterizes the cone today. The crater consists almost entirely of basaltic tephra ejected from lava fountains, with a central depression filled with black sand and scattered volcanic rocks. What makes Saxhóll particularly accessible and popular is the award-winning metal staircase consisting of 396 steps that spirals from the parking area at the base to an observation platform at the crater's rim. This solid, safe structure wraps around the crater in a gradual ascent, making it manageable for visitors of most ages and fitness levels, typically taking just 5 to 10 minutes to climb. The staircase itself has become an architectural landmark, winning the prestigious Rosa Barba International Landscape Prize in 2018—the fourth award the project received since 2017—for its elegant integration of modern infrastructure with Iceland's dramatic natural landscape. The shallow gradient of the metal stairs ensures accessibility while minimizing environmental impact on the fragile volcanic terrain. Upon reaching the summit observation platform, visitors are rewarded with spectacular 360-degree panoramic views encompassing the surrounding black lava fields of Búðahraun and Neshraun that stretch toward the ocean, the majestic Snæfellsjökull glacier crown visible on clear days, distant mountain ranges, and the Atlantic Ocean glistening to the west. The crater interior reveals the characteristic black sand-filled depression typical of scoria cones, while the rim provides an excellent vantage point for understanding the volcanic processes that shaped the Snæfellsnes Peninsula. The hike is classified as easy, covering just 0.4 miles with a modest 49 feet of elevation gain, typically requiring 30 minutes to 1 hour including time at the summit for photography and taking in the views. A large, free parking lot at the base makes access convenient directly from Route 574 (Útnesvegur), with the distinctive orange-red scoria cone clearly visible from the main road. However, visitors should note that no restroom facilities exist at the crater, so planning stops at nearby villages is advisable. As the site lies within Snæfellsjökull National Park, drone flights are prohibited without special permits to protect the natural environment and wildlife.",
+  "address": "Útnesvegur 574, 356 Snæfellsbær, Iceland",
+  "coordinates": {
+    "longitude": -23.9271,
+    "latitude": 64.8514,
+    "altitude": 100.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1850,
+  "category": "Volcano Crater",
+  "website": "https://www.snaefellsjokull.is",
+  "phone": null,
+  "images": [
+    {
+      "source": "Snæfellsjökull National Park",
+      "url": "https://www.snaefellsjokull.is"
+    },
+    {
+      "source": "Guide to Iceland",
+      "url": "https://guidetoiceland.is/travel-iceland/drive/saxholl"
+    }
+  ],
+  "opening_hours": {
+    "access": "Open 24/7 year-round, free admission",
+    "parking": "Large free parking lot at base, directly off Route 574",
+    "hiking_time": "5-10 minutes to ascend stairs, 30 minutes to 1 hour total visit",
+    "trail_difficulty": "Easy, 0.4 miles, 49 ft elevation gain, 396 metal steps to summit",
+    "summit_views": "360° panoramas: Atlantic Ocean, Snæfellsjökull glacier, lava fields, distant mountains",
+    "facilities": "No restrooms available on-site, use facilities at nearby villages",
+    "restrictions": "Drones prohibited without permit (within Snæfellsjökull National Park)",
+    "best_for": "All ages and fitness levels, photography, panoramic views, accessible volcano experience",
+    "awards": "Metal staircase won Rosa Barba International Landscape Prize 2018",
+    "formation": "Scoria cone formed 3,000-4,000 years ago from basaltic tephra eruptions"
+  }
+}

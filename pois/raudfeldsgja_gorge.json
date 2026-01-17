@@ -1,0 +1,37 @@
+{
+  "name": "Rauðfeldsgjá Gorge",
+  "description": "Rauðfeldsgjá is a dramatic narrow gorge carved into the face of Botnsfjall Mountain on the southern coast of the Snæfellsnes Peninsula, approximately 2 kilometers east of the village of Arnarstapi. This tight crevasse in the rugged volcanic landscape offers an adventurous hiking experience that combines natural beauty with ancient Icelandic folklore. The gorge derives its name and legend from the tragic saga of Bárður Snæfellsás, a half-human, half-troll figure who, according to Icelandic mythology, protected the Snæfellsnes Peninsula. The tale recounts how Rauðfeldur, the nephew of Bárður, accidentally pushed his cousin Helga onto an iceberg while playing, and she drifted away to Greenland. In uncontrollable rage and grief, Bárður took revenge by throwing Rauðfeldur into the gorge that now bears his name, and hurled his other nephew Sölvi off a nearby cliff called Sölvahamar. Both boys perished, but their names live on in the landscape. Legend holds that Bárður still watches over the area from atop Snæfellsjökull glacier, helping those who become lost on the peninsula. The hike to the gorge entrance takes 10 to 15 minutes along a moderate 0.7-mile trail with 269 feet of elevation gain, typically requiring 30 minutes to 1 hour depending on how deeply into the canyon visitors venture. From the parking area, a well-marked path leads across rocky terrain to the narrow entrance of the gorge, where moss-covered basalt walls tower overhead, creating an enclosed, cathedral-like atmosphere. Exploring the interior requires wading through shallow streams and scrambling over wet rocks, with conditions becoming increasingly slick and challenging as visitors progress deeper into the crevasse. Just a short distance into the gorge, a small cascading waterfall tumbles down the inner wall—a hidden gem visible only to those willing to wade further in. A rope assists climbers ascending to the waterfall, though caution is essential due to wet, slippery conditions. The enclosed space narrows progressively, with water flowing through much of the year, creating an otherworldly environment of dripping moss, dark basalt, and filtered light. Visitors should come prepared with waterproof clothing and sturdy hiking boots with excellent grip, as the terrain demands careful footing and occasional use of hands for balance. The gorge is most safely accessible from June to September when temperatures range between 11°C and 13°C during the day, with 20 to 22 hours of daylight in June providing ample time for exploration. Winter visits are strongly discouraged due to ice accumulation inside the canyon, which makes passage extremely hazardous. No entrance or parking fees apply, and the site typically takes under 30 minutes to visit for those who stay near the entrance, though adventurous explorers may spend an hour or more navigating the interior passages.",
+  "address": "Road 574, 356 Snæfellsbær, Iceland",
+  "coordinates": {
+    "longitude": -23.6565,
+    "latitude": 64.7967,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 2400,
+  "category": "Gorge",
+  "website": "https://www.snaefellsjokull.is",
+  "phone": null,
+  "images": [
+    {
+      "source": "Snæfellsjökull National Park",
+      "url": "https://www.snaefellsjokull.is"
+    },
+    {
+      "source": "Guide to Iceland",
+      "url": "https://guidetoiceland.is/travel-iceland/drive/raudfeldsgja-gorge"
+    }
+  ],
+  "opening_hours": {
+    "access": "Open 24/7 year-round, free admission and free parking",
+    "parking": "Dedicated parking area near trailhead on Road 574",
+    "hiking_time": "10-15 minutes to gorge entrance, 30 minutes to 1 hour total depending on exploration depth",
+    "trail_difficulty": "Moderate, 0.7 miles, 269 ft elevation gain, requires wading and scrambling",
+    "best_season": "June to September for safest conditions (11-13°C daytime, 20-22 hours daylight in June)",
+    "winter_warning": "NOT RECOMMENDED in winter due to ice - extremely hazardous conditions",
+    "required_gear": "Waterproof clothing, sturdy hiking boots with excellent grip, flashlight recommended",
+    "features": "Small waterfall inside gorge accessible via rope, narrow passages, wading required",
+    "safety_notes": "Slick wet rocks, enclosed narrow space, careful footing essential. Rope assists climbing to waterfall.",
+    "nearby": "2 km from Arnarstapi village, 189 km from Reykjavík via Route 1 to Route 54"
+  }
+}

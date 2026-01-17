@@ -7,6 +7,7 @@
     "pois/arnarstapi.json",
     "pois/birkimelur_swimming_pool.json",
     "pois/blue_lagoon.json",
+    "pois/budakirkja.json",
     "pois/christmas_house.json",
     "pois/crystal_ice_cave.json",
     "pois/deildartunguhver.json",
@@ -65,6 +66,7 @@
     "pois/lauf\u00e1s_museum_and_heritage_site.json",
     "pois/laugarvatn_fontana_spa.json",
     "pois/lava_centre.json",
+    "pois/londrangar.json",
     "pois/myrdalsjokull_glacier.json",
     "pois/m\u00fdvatn_nature_baths.json",
     "pois/namaskard.json",
@@ -72,11 +74,13 @@
     "pois/oxararfoss.json",
     "pois/perlan_museum.json",
     "pois/pollurinn_hot_tubs.json",
+    "pois/raudfeldsgja_gorge.json",
     "pois/reykjafjardarlaug_hot_pool.json",
     "pois/reykjav\u00edk.json",
     "pois/reynisdrangar.json",
     "pois/reynisfjara_black_sand_beach.json",
     "pois/rif.json",
+    "pois/saxholl_crater.json",
     "pois/secret_lagoon.json",
     "pois/seljalandsfoss.json",
     "pois/seljavallalaug_pool.json",
@@ -98,9 +102,10 @@
     "pois/vatnajokull_national_park.json",
     "pois/vestrahorn.json",
     "pois/vik.json",
+    "pois/ytri_tunga.json",
     "pois/\u00feingvellir_national_park.json"
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 99
+  "total_files": 104
 }
