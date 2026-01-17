@@ -1,0 +1,39 @@
+{
+  "name": "Reykholt",
+  "description": "Reykholt is a historic settlement in Borgarfjörður, West Iceland, renowned as the medieval home of Snorri Sturluson (1179-1241), Iceland's most influential historical figure and one of the most important writers of medieval Scandinavia. Snorri settled in Reykholt in 1206 and from this remote cultural center wove a dense network of power and influence extending across Iceland and all the way to the Norwegian royal court. A man of extraordinary talents, Snorri served simultaneously as lawspeaker at the Alþingi (Iceland's parliament), powerful chieftain, prolific writer, and accomplished skaldic poet. At Reykholt, he authored two of medieval literature's most important works: the Prose Edda, an invaluable guide to Norse mythology and poetic techniques that preserved pagan myths that would otherwise have been lost to Christianity's spread, and Heimskringla, a comprehensive saga chronicling the lives of Norwegian kings from legendary times through the 12th century. These literary masterpieces, composed in Old Norse, remain fundamental sources for understanding Viking Age culture, Norse mythology, and medieval Scandinavian history. Snorri's life ended violently at Reykholt on September 23, 1241, when he was assassinated in his cellar on orders from the Norwegian king Hákon Hákonarson, who had grown suspicious of Snorri's political maneuvering. The site preserves Snorralaug, a circular geothermal pool measuring approximately 4 meters in diameter that Snorri used for bathing in the 13th century. Fed by natural hot springs, this historic pool is believed to be connected to Snorri's residence via an underground tunnel—a wooden door at the pool's edge marks the tunnel entrance where the chieftain could move safely between his house and the warm waters. Snorralaug is now preserved as a protected historical monument from Iceland's medieval period and bathing is strictly prohibited to prevent damage to this irreplaceable artifact. Snorrastofa, the Snorri Sturluson Research Center and Medieval Studies Institute, stands adjacent to the historic site and serves as both a research facility dedicated to Old Norse literature and medieval studies and a public museum interpreting Snorri's life, works, and lasting cultural impact. The modern Reykholtskirkja church, built near the site of Snorri's medieval estate, contains exhibitions about the scholar's legacy. Archaeological excavations have uncovered the foundations of Snorri's 13th-century estate, including his residence where he wrote his masterworks and the cellar where he met his death. The medieval turf church that stood in Snorri's time has long since disappeared, replaced by later structures. Reykholt remains an active center for Old Norse studies, regularly hosting international scholars, conferences, and educational programs exploring medieval Icelandic literature, sagas, and Viking Age culture. The settlement sits in the geothermally active Borgarfjörður region, surrounded by the dramatic landscapes of West Iceland.",
+  "address": "Reykholt, 320 Reykholt í Borgarfirði, Iceland",
+  "coordinates": {
+    "longitude": -21.2922,
+    "latitude": 64.6649,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 2100,
+  "category": "Historic Site",
+  "website": "https://www.snorrastofa.is",
+  "phone": "+354 433 8000",
+  "images": [
+    {
+      "source": "Snorrastofa",
+      "url": "https://www.snorrastofa.is/en/reykholt"
+    },
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/reykholt"
+    }
+  ],
+  "opening_hours": {
+    "site_access": "Exterior grounds and Snorralaug viewable 24/7 year-round",
+    "snorrastofa_museum": "Hours vary seasonally, check website for current schedule",
+    "snorralaug_hot_spring": "Preserved historic site - NO BATHING ALLOWED, viewing only",
+    "reykholtskirkja_church": "Open for services and visitors, hours vary",
+    "tunnel": "Wooden door visible at pool edge marking underground passage to Snorri's residence",
+    "snorri_sturluson": "Lived 1179-1241, settled Reykholt 1206, assassinated on-site September 23, 1241",
+    "major_works": "Prose Edda (Norse mythology guide), Heimskringla (Norwegian kings' sagas)",
+    "archaeological_site": "Foundations of 13th-century estate, residence where works written, assassination cellar",
+    "snorrastofa_activities": "Research center, medieval studies institute, exhibitions, conferences, educational programs",
+    "unesco_memory": "Heimskringla and Prose Edda recognized for cultural importance",
+    "distance_from_reykjavik": "Approximately 100 km northeast via Route 1",
+    "best_for": "Medieval history, Old Norse literature, saga heritage, geothermal pool history"
+  }
+}

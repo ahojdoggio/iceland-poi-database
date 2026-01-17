@@ -1,0 +1,39 @@
+{
+  "name": "Stykkishólmur",
+  "description": "Stykkishólmur is a charming historic town of approximately 1,100 residents located on the northern coast of the Snæfellsnes Peninsula, serving as the largest settlement and commercial center of the region. Situated on a natural harbor overlooking the island-studded waters of Breiðafjörður bay, the town has served as an important trading post and fishing center since the 16th century. Stykkishólmur gained international recognition as a filming location for The Secret Life of Walter Mitty (2013), where it stood in for Greenland in Ben Stiller's adventure film. The town's most distinctive landmark is Stykkishólmskirkja Church, designed by architect Jón Haraldsson and inaugurated on May 6, 1990. This modernist architectural marvel features a sweeping concrete bell tower resembling a whale vertebra or ship's prow, rising dramatically above the colorful houses of the old town. The interior showcases hundreds of suspended lights creating a starlit effect and features a striking painting of the Madonna and child floating in the night sky. The Norwegian House (Norska Húsið), built in 1832, holds the distinction of being Iceland's first two-story wood-frame residence, constructed with timber imported from Norway. Today it serves as the regional museum for Snæfellsnes, housing rotating exhibitions on the ground floor and an extensive open storage collection on the upper level, alongside a well-curated museum shop. The building opens daily from 11:00 to 17:00 during summer (June 1 to August 31) and 13:00 to 16:00 in May. The Library of Water (Vatnasafn) is a permanent art installation created by American artist Roni Horn, featuring a constellation of 24 tall glass columns each containing water collected from different glaciers across Iceland, including tongues from Vatnajökull, Hofsjökull, Langjökull, and Snæfellsjökull. This contemplative space invites visitors to reflect on Iceland's glaciers and their critical role in the country's identity and climate. Tickets are purchased at the Norwegian House, which provides the access code for the key box. The Volcano Museum, housed in the town's old cinema building, showcases the life work of vulcanologist Haraldur Sigurðsson through volcanic rock specimens, eruption documentation, and art depicting volcanic phenomena. The town's colorful harbor area features the bookshop Bókaverzlun Breiðafjarðar, which served as the Greenland bar filming location in The Secret Life of Walter Mitty. Stykkishólmur serves as the departure point for the Baldur Ferry, which operates daily crossings of Breiðafjörður bay to the Westfjords, offering spectacular views of countless islands and abundant birdlife during the 2.75-hour journey. Accommodation options include Fosshotel Stykkishólmur, located within walking distance of all major attractions, Hotel Egilsen in a beautifully restored historic building, and Hotel Breiðafjörður. The town provides essential services including supermarkets, restaurants specializing in fresh seafood from local waters, a swimming pool with geothermal hot tubs, and a small airport with seasonal flights.",
+  "address": "Stykkishólmur, 340 Stykkishólmur, Iceland",
+  "coordinates": {
+    "longitude": -22.7275,
+    "latitude": 65.0741,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 4200,
+  "category": "Town",
+  "website": "https://www.visitstykkisholmur.is",
+  "phone": "+354 433 8120",
+  "images": [
+    {
+      "source": "Visit Stykkishólmur",
+      "url": "https://www.visitstykkisholmur.is"
+    },
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/stykkisholmur"
+    }
+  ],
+  "opening_hours": {
+    "town_access": "Open 24/7 year-round",
+    "stykkisholmskirkja_church": "Inaugurated 1990, designed by Jón Haraldsson, open for services and visits",
+    "norwegian_house_museum": "June 1-August 31: Daily 11:00-17:00; May: Daily 13:00-16:00",
+    "library_of_water": "Access via code from Norwegian House ticket purchase, 24 glass columns with glacier water",
+    "volcano_museum": "Hours vary seasonally, housed in old cinema building",
+    "baldur_ferry": "Daily departures to Westfjords, 2.75-hour crossing of Breiðafjörður",
+    "film_location": "The Secret Life of Walter Mitty (2013) - town portrayed Greenland",
+    "walter_mitty_bar": "Filmed at Bókaverzlun Breiðafjarðar bookshop in harbor area",
+    "hotels": "Fosshotel Stykkishólmur, Hotel Egilsen, Hotel Breiðafjörður, various guesthouses",
+    "services": "Supermarkets, seafood restaurants, swimming pool, small airport with seasonal flights",
+    "population": "Approximately 1,100 residents, largest town on Snæfellsnes Peninsula",
+    "distance_from_reykjavik": "177 km north via Route 1 and Route 54, approximately 2.5 hours drive"
+  }
+}

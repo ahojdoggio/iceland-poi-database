@@ -5,8 +5,10 @@
     "pois/akureyri_botanical_garden.json",
     "pois/akureyri_swimming_pool.json",
     "pois/arnarstapi.json",
+    "pois/berserkjahraun.json",
     "pois/birkimelur_swimming_pool.json",
     "pois/blue_lagoon.json",
+    "pois/borgarnes.json",
     "pois/budakirkja.json",
     "pois/christmas_house.json",
     "pois/crystal_ice_cave.json",
@@ -75,6 +77,7 @@
     "pois/perlan_museum.json",
     "pois/pollurinn_hot_tubs.json",
     "pois/raudfeldsgja_gorge.json",
+    "pois/reykholt.json",
     "pois/reykjafjardarlaug_hot_pool.json",
     "pois/reykjav\u00edk.json",
     "pois/reynisdrangar.json",
@@ -85,6 +88,7 @@
     "pois/seljalandsfoss.json",
     "pois/seljavallalaug_pool.json",
     "pois/seltun.json",
+    "pois/settlement_center.json",
     "pois/skaftafell.json",
     "pois/skogafoss.json",
     "pois/sky_lagoon.json",
@@ -93,6 +97,7 @@
     "pois/solheimajokull_glacier.json",
     "pois/solheimasandur_plane_wreck.json",
     "pois/stokksnes.json",
+    "pois/stykkisholmur.json",
     "pois/sun_voyager.json",
     "pois/svartifoss.json",
     "pois/svinafellsjokull_glacier.json",
@@ -107,5 +112,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 104
+  "total_files": 109
 }
