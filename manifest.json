@@ -4,6 +4,7 @@
     "pois/akureyrarkirkja.json",
     "pois/akureyri_botanical_garden.json",
     "pois/akureyri_swimming_pool.json",
+    "pois/arbaer_open_air_museum.json",
     "pois/arnarstapi.json",
     "pois/berserkjahraun.json",
     "pois/birkimelur_swimming_pool.json",
@@ -73,6 +74,7 @@
     "pois/langjokull_glacier.json",
     "pois/lauf\u00e1s_museum_and_heritage_site.json",
     "pois/laugarvatn_fontana_spa.json",
+    "pois/laugavegur_street.json",
     "pois/lava_centre.json",
     "pois/londrangar.json",
     "pois/myrdalsjokull_glacier.json",
@@ -89,6 +91,8 @@
     "pois/reykjadalur.json",
     "pois/reykjafjardarlaug_hot_pool.json",
     "pois/reykjavik_art_museum.json",
+    "pois/reykjavik_botanic_garden.json",
+    "pois/reykjavik_maritime_museum.json",
     "pois/reykjav\u00edk.json",
     "pois/reynisdrangar.json",
     "pois/reynisfjara_black_sand_beach.json",
@@ -120,10 +124,11 @@
     "pois/vatnajokull_national_park.json",
     "pois/vestrahorn.json",
     "pois/vik.json",
+    "pois/whales_of_iceland.json",
     "pois/ytri_tunga.json",
     "pois/\u00feingvellir_national_park.json"
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 122
+  "total_files": 127
 }

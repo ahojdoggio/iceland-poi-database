@@ -1,0 +1,26 @@
+{
+  "name": "Reykjavík Botanic Garden",
+  "description": "The Reykjavík Botanic Garden (Grasagarður Reykjavíkur) is a lush 5-hectare urban oasis in the Laugardalur valley, cultivating over 5,000 plant species from around the Arctic and temperate regions. Established in 1961, the garden serves as both a public park and scientific institution, preserving native Icelandic flora alongside exotic specimens that thrive in Iceland's unique climate. Eight specialized plant collections showcase diverse ecosystems: native Icelandic plants that survived the Ice Age, Arctic and alpine species from Greenland and Svalbard, perennials from Europe and North America, and a comprehensive collection of cultivated Icelandic plants developed over centuries of farming. The garden's layout creates intimate spaces with winding paths through meadows, ponds, rock gardens, and wooded groves that provide shelter from Reykjavík's winds. The central greenhouse displays tropical and subtropical species, offering a striking contrast to Iceland's northern environment. A charming gazebo serves as a peaceful retreat for reading or meditation. The garden is particularly beautiful in summer when midnight sun illuminates colorful blooms, though each season offers unique perspectives—spring brings delicate wildflowers, autumn showcases vibrant foliage, and winter transforms the landscape with frost and occasional snow. Free admission makes the garden accessible to all visitors, and during summer months, complimentary guided tours in English help visitors understand Iceland's botanical heritage. Café Flóra operates seasonally, serving coffee, pastries, and light meals in a sunny conservatory setting. The garden is popular with families, photographers, and anyone seeking respite from urban life, with ducks on the ponds and occasional Arctic terns nesting in summer. Located near Laugardalur's geothermal swimming pool and sports facilities, the garden is easily reached by local bus or bicycle.",
+  "address": "Laugardalur, 104 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.8945,
+    "latitude": 64.1415,
+    "altitude": 0.0
+  },
+  "rating": 4.4,
+  "reviews_count": 2200,
+  "category": "Garden",
+  "website": "https://reykjavik.is/en/grasagardur-reykjavikur",
+  "phone": "+354 411 8650",
+  "images": [
+    "https://reykjavik.is/sites/default/files/2020-06/grasagardur_summer.jpg"
+  ],
+  "opening_hours": {
+    "admission": "Free",
+    "garden_summer": "Open 24/7 year-round",
+    "greenhouse_summer": "10:00 AM - 7:00 PM (May-September)",
+    "greenhouse_winter": "10:00 AM - 3:00 PM (October-April)",
+    "cafe_flora": "10:00 AM - 6:00 PM daily (seasonal, May-September)",
+    "guided_tours": "Free tours in English available during summer months"
+  }
+}

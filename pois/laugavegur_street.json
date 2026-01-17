@@ -1,0 +1,25 @@
+{
+  "name": "Laugavegur Street",
+  "description": "Laugavegur is Reykjavík's main shopping street and cultural artery, stretching approximately two kilometers from Lækjartorg Square in the city center to Kringlan Shopping Mall in the east. Constructed in 1885, this historic thoroughfare takes its name from the old 'Washing Road' where Icelandic women once carried laundry to be cleaned in the hot springs of Laugardalur Valley. Today, Laugavegur bustles with activity as Iceland's most vibrant street, lined with colorful Nordic architecture, independent boutiques, international fashion brands, cozy cafés, and diverse restaurants. The street serves as the heart of Reykjavík's shopping district, offering everything from traditional Icelandic wool sweaters (lopapeysa) and handcrafted jewelry to modern Scandinavian design and outdoor gear. Local designers showcase their work in small galleries and concept stores, while vintage shops treasure hunt enthusiasts with Nordic antiques and retro fashion. The street's culinary scene ranges from classic Icelandic restaurants serving fermented shark and lamb to trendy bistros, vegan cafés, and international cuisine. Laugavegur transforms after dark into the epicenter of Reykjavík's legendary nightlife, with bars, clubs, and live music venues drawing locals and tourists until the early morning hours. Street art and colorful murals adorn building facades, creating an open-air gallery atmosphere. The street connects to smaller side streets like Skólavörðustígur, which leads uphill to the iconic Hallgrímskirkja church. During the annual Reykjavík Culture Night in August, Laugavegur becomes a pedestrian-only festival zone with performances, art installations, and celebrations. The street experiences the highest foot traffic of any location in Iceland, making it the pulse of the nation's capital.",
+  "address": "Laugavegur, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9270,
+    "latitude": 64.1445,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 6500,
+  "category": "Shopping District",
+  "website": "https://www.visitreykjavik.is",
+  "phone": null,
+  "images": [
+    "https://guidetoiceland.is/image/285762/x/0/laugavegur-street-reykjavik.jpg"
+  ],
+  "opening_hours": {
+    "street_access": "24/7 open",
+    "shop_hours": "Typically 10:00 AM - 6:00 PM (varies by store)",
+    "weekend_hours": "Many shops open 10:00 AM - 5:00 PM Saturdays, some closed Sundays",
+    "restaurant_hours": "Most open 11:00 AM - 11:00 PM or later",
+    "nightlife": "Bars and clubs open until 1:00 AM - 4:30 AM on weekends"
+  }
+}

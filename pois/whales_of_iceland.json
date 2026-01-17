@@ -1,0 +1,24 @@
+{
+  "name": "Whales of Iceland",
+  "description": "Whales of Iceland is Europe's largest whale exhibition, located in Reykjavík's historic Grandi harbor area. This immersive museum features life-size models of all 23 whale species found in Icelandic coastal waters, suspended from the ceiling to recreate the experience of diving beneath the ocean surface. The exhibition spans 1,500 square meters and includes the magnificent blue whale model stretching 25 meters in length, alongside sperm whales, orcas, humpbacks, and minke whales rendered in stunning anatomical detail. Interactive displays provide insights into whale behavior, migration patterns, and conservation efforts, while multimedia installations feature underwater recordings of whale songs and communication. A documentary theater screens films about Iceland's whaling history and marine research. The museum offers free audio guides in 17 languages, making the experience accessible to international visitors. Daily guided tours provide deeper insights into cetacean biology and the threats facing whale populations. The exhibition also explores the cultural significance of whales in Icelandic history and folklore, from ancient Norse mythology to modern eco-tourism. Located just a 15-minute walk from downtown Reykjavík, the museum complements whale-watching tours that depart from the nearby Old Harbor, allowing visitors to learn about these magnificent creatures before or after seeing them in their natural habitat. The Grandi area surrounding the museum has become a hub for Icelandic seafood restaurants and maritime culture.",
+  "address": "Fiskislóð 23-25, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9570,
+    "latitude": 64.1556,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 5200,
+  "category": "Museum",
+  "website": "https://www.whalesoficeland.is",
+  "phone": "+354 571 0077",
+  "images": [
+    "https://www.whalesoficeland.is/wp-content/uploads/2019/06/whales-of-iceland-exhibition.jpg"
+  ],
+  "opening_hours": {
+    "daily": "10:00 AM - 5:00 PM",
+    "closed": "December 25",
+    "admission_note": "Audio guide included in admission (17 languages available)",
+    "guided_tours": "Daily live tours available"
+  }
+}

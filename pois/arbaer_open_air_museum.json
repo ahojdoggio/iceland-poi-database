@@ -1,0 +1,27 @@
+{
+  "name": "Árbær Open Air Museum",
+  "description": "Árbæjarsafn (Árbær Open Air Museum) is a living history museum that recreates Icelandic village life from the 18th through early 20th centuries, located in eastern Reykjavík where the old Árbær farm once stood. The museum comprises more than 20 historic buildings relocated from central Reykjavík and rural areas, arranged to form a traditional Icelandic farm, village square, and small town complete with church, smithy, workshops, and residential homes. The centerpiece is the original Árbær farmhouse dating from the 15th century, which remained occupied until 1948 and preserves the authentic atmosphere of Icelandic rural life. Traditional turf houses showcase the ingenious building techniques Icelanders developed to survive harsh winters using limited timber, constructing thick turf walls for insulation over wooden frames. The museum's buildings include a 1886 village store, a 1905 two-room house typical of worker families, a turf-and-stone smithy built in 1963, and the 1896 village church originally from Silfrastaðir in Skagafjörður. Costumed interpreters demonstrate traditional crafts like wool spinning, blacksmithing, and bread-baking in earth ovens, bringing history to life with stories of daily struggles and seasonal rhythms. Visitors can explore furnished interiors displaying period furniture, cooking equipment, tools, and household items that illuminate how Icelanders lived before modernization. Farm animals including Icelandic horses, sheep, and chickens roam the grounds, representing breeds that have remained genetically pure for over 1,000 years. The museum hosts special events throughout the year, including traditional Christmas celebrations in December when buildings are decorated with candles and visitors enjoy Viking-era holiday treats. Daily guided tours in English at 1 PM provide detailed historical context and personal stories from Iceland's past. Free admission for children and seniors reflects the museum's educational mission. The peaceful setting offers families an authentic glimpse into Icelandic heritage, far removed from the tourist bustle of downtown.",
+  "address": "Kistuhylur 4, 110 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.8320,
+    "latitude": 64.1285,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1900,
+  "category": "Museum",
+  "website": "https://borgarsogusafn.is/en/arbaer-open-air-museum",
+  "phone": "+354 411 6300",
+  "images": [
+    "https://borgarsogusafn.is/wp-content/uploads/2020/03/arbaer-turf-houses.jpg"
+  ],
+  "opening_hours": {
+    "summer": "10:00 AM - 5:00 PM daily (June-August)",
+    "winter": "1:00 PM - 5:00 PM daily (September-May)",
+    "admission_adults": "2,400 ISK",
+    "admission_students": "1,450 ISK",
+    "admission_children": "Free (under 17)",
+    "admission_seniors": "Free (67+)",
+    "guided_tours": "Daily at 1:00 PM in English (no booking required)"
+  }
+}
