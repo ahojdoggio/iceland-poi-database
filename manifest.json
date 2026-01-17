@@ -9,6 +9,7 @@
     "pois/aldeyjarfoss.json",
     "pois/arbaer_open_air_museum.json",
     "pois/arnarstapi.json",
+    "pois/aurora_reykjavik.json",
     "pois/aviation_museum_iceland.json",
     "pois/baejarfoss.json",
     "pois/berserkjahraun.json",
@@ -60,6 +61,7 @@
     "pois/hellnar.json",
     "pois/hellulaug.json",
     "pois/hengifoss.json",
+    "pois/herring_era_museum.json",
     "pois/hjalparfoss.json",
     "pois/hjorleifshofdi.json",
     "pois/hl\u00ed\u00f0arfjall.json",
@@ -110,7 +112,9 @@
     "pois/oxararfoss.json",
     "pois/patreksfjordur.json",
     "pois/perlan_museum.json",
+    "pois/phallological_museum.json",
     "pois/pollurinn_hot_tubs.json",
+    "pois/punk_museum.json",
     "pois/raudfeldsgja_gorge.json",
     "pois/reykholt.json",
     "pois/reykjadalur.json",
@@ -136,6 +140,7 @@
     "pois/skaftafell.json",
     "pois/skalholt.json",
     "pois/skogafoss.json",
+    "pois/skogar_museum.json",
     "pois/sky_lagoon.json",
     "pois/snaefellsjokull_national_park.json",
     "pois/sn\u00e6fellsj\u00f6kull.json",
@@ -163,5 +168,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 160
+  "total_files": 165
 }

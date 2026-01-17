@@ -1,0 +1,29 @@
+{
+  "name": "Aurora Reykjavík - The Northern Lights Center",
+  "description": "Aurora Reykjavík serves as Iceland's premier Northern Lights education and experience center, offering visitors who may have missed seeing the aurora borealis in nature—or who want to understand the scientific and cultural significance of this phenomenon before aurora hunting—a comprehensive immersion into one of Earth's most spectacular natural displays. Located in central Reykjavík and open year-round regardless of season or weather conditions, the center provides a guaranteed aurora encounter through cutting-edge audiovisual technology, interactive exhibits, and educational content that transforms abstract scientific concepts into accessible, engaging experiences for all ages. The centerpiece attraction is a stunning 30-minute 4K timelapse film projected on a massive 7-meter-wide screen, showcasing dazzling aurora borealis displays captured across Iceland over multiple seasons and years. These meticulously filmed sequences condense hours of real-time aurora activity into dynamic, mesmerizing presentations that reveal the full range of auroral displays: from subtle green glows on the horizon to explosive multicolored curtains dancing across the entire sky; from delicate arcs and bands to violent magnetic storms that create pulsating, swirling patterns; and from the common green emissions caused by oxygen molecules to the rare red, purple, and blue hues that appear during the most intense solar activity. The timelapse format allows viewers to appreciate auroral movement and evolution in ways impossible during actual aurora viewing, where changes occur slowly and subtly over hours. Complementing the film is a groundbreaking 360-degree virtual reality experience that places viewers inside the aurora itself, surrounded by dancing lights from all directions, creating an impossibly immersive simulation that approximates (and in some ways exceeds) the real experience of standing beneath a major auroral display. Interactive exhibitions explain the science behind the northern lights: how charged particles from the sun interact with Earth's magnetic field and atmosphere; why auroras appear most frequently in oval zones around the magnetic poles; what causes different colors based on atmospheric altitude and gas composition; how solar cycles affect aurora frequency and intensity; and why locations like Iceland, positioned near the aurora oval, experience frequent displays during dark months. Cultural content explores how Icelandic folklore interprets the aurora—traditional beliefs about the lights being reflections from fish scales, spirits of the dead, or omens—and how indigenous cultures across the Arctic developed their own mythologies around this mysterious phenomenon. Practical advice helps visitors plan their own aurora hunting: optimal seasons (September-March), weather conditions (clear skies essential), light pollution (avoid cities), and patience (auroras are unpredictable and may require multiple nights of watching). Photography workshops or tips may be available for those wanting to capture the aurora on camera. The center makes an excellent rainy-day or summer visit option when actual aurora viewing isn't possible, and serves as valuable preparation for aurora hunters, teaching them what to expect, how to recognize developing displays, and where to position themselves for best viewing.",
+  "address": "Grandagarður 2, 101 Reykjavík, Iceland (Grandi harbor area)",
+  "coordinates": {
+    "longitude": -21.9558,
+    "latitude": 64.1500,
+    "altitude": 0.0
+  },
+  "rating": 4.4,
+  "reviews_count": 2280,
+  "category": "Museum",
+  "website": "https://aurorareykjavik.is",
+  "phone": "+354 780 4500",
+  "images": [
+    "https://aurorareykjavik.is/images/aurora-display-screen.jpg"
+  ],
+  "opening_hours": {
+    "daily": "9:00 AM - 9:00 PM",
+    "last_admission": "30 minutes before closing",
+    "typical_visit": "45-60 minutes",
+    "admission_adults": "3,900 ISK",
+    "admission_children": "1,900 ISK (ages 6-18)",
+    "admission_under_6": "Free",
+    "main_film": "30-minute 4K timelapse on 7-meter screen",
+    "vr_experience": "360-degree virtual reality aurora simulation",
+    "open_year_round": "Summer and winter (when actual auroras aren't visible)"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Icelandic Punk Museum - Underground Music Heritage",
+  "description": "The Icelandic Punk Museum occupies a fittingly unconventional location—a former underground public restroom in downtown Reykjavík—to tell the story of Iceland's vibrant punk and new wave music scene that erupted in 1978 and fundamentally shaped the nation's cultural identity, artistic output, and rebellious spirit for generations to come. Located at Bankastræti 2, ironically just across the street from Iceland's Cabinet offices, this small but mighty museum celebrates the DIY ethos, political energy, and creative explosion that characterized Icelandic punk, a movement that was never just about music but rather a complete cultural revolution that pushed boundaries in art, literature, fashion, and societal norms. The museum's underground setting—literally in a converted bathroom—perfectly captures punk's anti-establishment aesthetic and the scene's origins in gritty, unglamorous venues where young Icelanders found their voice. The exhibition features an impressive collection of artifacts including original punk posters and flyers from legendary Reykjavík venues, vintage clothing and leather jackets worn by scene pioneers, guitars and drum kits you can actually play, rare photographs documenting concerts and street culture from the late 1970s through the 1990s, and extensive recordings accessible through pull-down headphones allowing visitors to immerse themselves in the raw, energetic sound that defined the era. Key figures celebrated include Bubbi Morthens (whose band Utangarðsmenn became punk icons), KUKL (the avant-garde punk band that launched Björk's career before she became internationally famous), Þeyr, Fræbbblarnir, and dozens of other bands that made Reykjavík one of Europe's most vibrant punk scenes despite Iceland's tiny population and geographic isolation. Interactive elements encourage visitor participation: you can try on studded jackets, strike poses with instruments, listen to rare recordings spanning four decades of Icelandic punk and new wave, and explore how this musical revolution influenced Iceland's contemporary music scene which has produced internationally recognized artists across multiple genres. The museum contextualizes punk within Iceland's social history—the movement coincided with rapid modernization, economic changes, and generational conflicts that gave young Icelanders reasons to rebel and create new forms of expression. Educational displays explain how punk's DIY philosophy empowered anyone to start a band regardless of technical skill, how the scene created its own infrastructure of record labels, venues, and publications, and how punk's influence extends far beyond music into Icelandic literature, visual arts, and social movements. The museum's compact size actually works in its favor—every square meter is packed with history, artifacts, and interactive opportunities, creating an intense, immersive experience. Staff and volunteers often include people who lived the scene themselves, providing firsthand stories and context that bring the exhibits to life.",
+  "address": "Bankastræti 2, 101 Reykjavík, Iceland (former underground restroom)",
+  "coordinates": {
+    "longitude": -21.9339,
+    "latitude": 64.1475,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 2180,
+  "category": "Museum",
+  "website": "https://www.icelandicpunkmuseum.com",
+  "phone": "+354 780 4848",
+  "images": [
+    "https://www.icelandicpunkmuseum.com/images/underground-entrance.jpg"
+  ],
+  "opening_hours": {
+    "daily": "10:00 AM - 6:00 PM (some sources say 10:00 PM - verify current hours)",
+    "admission": "Reasonable fee (check website for current pricing)",
+    "interactive_features": "Play instruments, try on jackets, listen to music via headphones",
+    "era_covered": "1978 - present (Icelandic punk & new wave)",
+    "notable_artists": "Bubbi Morthens, KUKL (with Björk), Þeyr, Fræbbblarnir",
+    "unique_location": "Former underground public bathroom",
+    "location_note": "Across street from Icelandic Cabinet offices"
+  }
+}
