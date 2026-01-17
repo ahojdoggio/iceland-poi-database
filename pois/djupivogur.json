@@ -1,0 +1,26 @@
+{
+  "name": "Djúpivogur - The Village of Eggs",
+  "description": "Djúpivogur is a peaceful fishing village of approximately 450 residents located on the Búlandsnes Peninsula in East Iceland, offering visitors an authentic glimpse of traditional Icelandic coastal life away from the bustle of larger tourist destinations. This historic settlement, one of the oldest trading posts in East Iceland, maintains its economic foundation in fishing, fish processing, and increasingly, tourism drawn by the area's unique combination of natural beauty, wildlife, and public art. The village's most distinctive landmark is the visual art installation \"Eggin í Gleðivík\" (The Eggs of Merry Bay), a remarkable outdoor sculpture by celebrated Icelandic artist Sigurður Guðmundsson unveiled in August 2009. This permanent installation consists of 34 enormous granite eggs, each precisely carved to represent the actual size and shape of eggs laid by the different bird species that nest in the Djúpivogur area. The eggs, crafted from granite in China and installed along the shoreline of Gleðivík bay, range from tiny eggs representing small songbirds to massive eggs for swans and geese, creating an unusual and thought-provoking meditation on biodiversity and the relationship between art and nature. Visitors can walk among these monumental stone eggs, each labeled with the Icelandic name of the bird species it represents, while enjoying views across the bay to the distinctive pyramid-shaped mountain Búlandstindur, which legend says can grant wishes if you look at it without blinking while the sun rises on the summer solstice. The village's oldest building, Langabúð, dates to 1790 and originally served as a trading post, warehouse, and general store during the Danish trade monopoly era. This beautiful red-painted timber building has been carefully preserved and now houses the Cultural Centre of Djúpivogur, which includes a museum dedicated to the village's commercial and maritime history, an art gallery featuring works by noted local sculptor and woodcarver Ríkarður Jónsson (1888-1971), and a charming café serving traditional Icelandic refreshments. The museum is particularly fitting as Ríkarður Jónsson was born in this very building. The surrounding area offers excellent hiking, birdwatching (with numerous species nesting on coastal cliffs and islands), and opportunities to observe seals basking on rocks and beaches. Djúpivogur maintains an authentic, unhurried atmosphere where visitors can experience the slower pace of rural Icelandic life, chat with friendly locals, and enjoy fresh seafood at the village restaurant.",
+  "address": "Djúpivogur, 765 Djúpavogshreppur, Iceland",
+  "coordinates": {
+    "longitude": -14.2833,
+    "latitude": 64.6500,
+    "altitude": 3.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1650,
+  "category": "Village",
+  "website": "https://www.east.is/en/destinations/communities/djupivogur",
+  "phone": "+354 478 8220",
+  "images": [
+    "https://www.east.is/images/djupivogur-eggs-sculpture.jpg"
+  ],
+  "opening_hours": {
+    "eggin_sculptures": "Accessible 24/7 (outdoor installation)",
+    "langabud_museum": "June-August, daily 10:00 AM - 6:00 PM; other times by arrangement",
+    "museum_admission": "Adults 1,000 ISK, children free",
+    "langabud_cafe": "Summer season (June-August)",
+    "bulandstindur_summer_solstice": "June 21 (wish-granting legend)",
+    "population": "Approximately 450 residents"
+  }
+}

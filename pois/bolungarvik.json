@@ -1,0 +1,26 @@
+{
+  "name": "Bolungarvík - Iceland's Northernmost Fishing Village",
+  "description": "Bolungarvík is a resilient fishing village of approximately 1,022 residents (as of August 2024) located in Iceland's remote Westfjords region, serving as the second-largest settlement in this sparsely populated area and one of Iceland's northernmost year-round communities. Situated at the northern tip of the Westfjords peninsula, this historic village has been used as a fishing outpost since the 17th century, making it one of the earliest fishing stations in Iceland, and fishing remains the economic foundation of the community today. The town occupies a dramatic position wedged between towering mountains and the North Atlantic Ocean, a geography that has presented both opportunities and challenges throughout its history. The threat of avalanches from the steep mountains looming directly above the village prompted construction of Iceland's largest avalanche protection barriers—massive concrete and earthen structures designed to deflect snow and rockslides away from homes and buildings. Until 2010, reaching Bolungarvík required navigating an exposed and dangerous coastal road around Óshlíð mountain that was frequently blocked by snow, avalanches, or severe weather, effectively cutting off the village from the outside world for extended periods during winter. The completion of the Óshlíðargöng tunnel in 2010 revolutionized access, providing safe year-round connection to Ísafjörður just 15 kilometers away and contributing to renewed growth and optimism in the community. The village's Natural History Museum (Náttúrugripasafn Bolungarvíkur) houses an impressive collection of taxidermied animals from Iceland and the Arctic, including the famous polar bear that drifted to Iceland on sea ice from Greenland and was shot in 2008 (a rare occurrence that made international headlines), along with Iceland's largest bird collection featuring hundreds of specimens representing the diverse avian life of the Westfjords. The museum provides comprehensive overview of the mammals, birds, and wildlife indigenous to the region, making it an educational stop for nature enthusiasts. The Ósvör Maritime Museum, located in an authentically reconstructed 19th-century fishing station at the original Ósvör site, offers fascinating insight into the harsh realities of traditional Icelandic fishing life. The museum features a restored rowboat fishing station, turf houses where fishermen lived during the fishing season, and demonstrations of fish processing techniques, all providing vivid context for the difficult and dangerous work that sustained Icelandic coastal communities for centuries. Despite population decline during the late 20th century (shrinking 26% between 1975-2015), Bolungarvík has experienced renewed growth since approximately 2020, driven by improved infrastructure, diversification into fish processing and light industry, and growing adventure tourism. The village now attracts visitors for kayaking in the nearby fjords, hiking to spectacular viewpoints, skiing at the small local ski area Bolafjall, and experiencing authentic Westfjords culture away from tourist crowds.",
+  "address": "Bolungarvík, 415 Bolungarvíkurkaupstaður, Iceland",
+  "coordinates": {
+    "longitude": -23.2558,
+    "latitude": 66.1539,
+    "altitude": 5.0
+  },
+  "rating": 4.3,
+  "reviews_count": 980,
+  "category": "Fishing Village",
+  "website": "https://www.bolungarvik.is",
+  "phone": "+354 450 7000",
+  "images": [
+    "https://www.westfjords.is/images/bolungarvik-mountain-view.jpg"
+  ],
+  "opening_hours": {
+    "natural_history_museum": "Summer daily 10:00 AM - 5:00 PM (check locally; was closed for renovations 2021)",
+    "osvor_maritime_museum": "June-August, daily tours available",
+    "tunnel_to_isafjordur": "15 km, safe year-round access",
+    "avalanche_barriers": "Visible throughout town (Iceland's largest protection system)",
+    "population": "1,022 residents (August 2024), growing since 2020",
+    "fishing_heritage": "Active since 17th century, one of Iceland's oldest fishing stations"
+  }
+}
