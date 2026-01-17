@@ -1,0 +1,28 @@
+{
+  "name": "Hrafnabjargafoss - The Raven Rocks Waterfall",
+  "description": "Hrafnabjargafoss, translating to \"The Raven Rocks' Waterfall,\" is a beautifully picturesque and relatively unknown cascade on the Skjálfandafljót river in Iceland's Northern Highlands, offering a peaceful alternative to the more famous Aldeyjarfoss located just 3.5 kilometers away on the same river system. While modest in height at only about 5 meters (16 feet), Hrafnabjargafoss compensates with its unique horseshoe-shaped cliff formation from which the water descends in multiple parallel chutes, creating a graceful curtain effect as the river spreads across the curved basalt ledge before tumbling into a pool below. The waterfall emerges from the roughly 9,000-year-old Báðardalshraun lava field, a vast expanse of volcanic rock that extends more than 100 kilometers from crater areas near Vatnajökull glacier all the way north to Þingey island, demonstrating the incredible scale of Icelandic volcanic eruptions and lava flows. The setting around Hrafnabjargafoss perfectly captures Iceland's highland aesthetic: moss-covered lava rocks in vibrant greens contrasting with black volcanic sand, scattered hardy vegetation that survives the harsh conditions, and stunning views southward toward the interior highlands and distant glaciers. The surrounding landscape's relative softness—with moss and grass—provides a gentler, more approachable atmosphere compared to the stark, almost alien environment around nearby Aldeyjarfoss, making Hrafnabjargafoss feel like a hidden oasis in the volcanic desert. Access to this waterfall requires navigating the F-26 Sprengisandur Highland Road, one of Iceland's most famous highland routes, which is only open during summer months (typically mid-June through September) and requires a 4x4 vehicle due to river crossings and challenging terrain. From Aldeyjarfoss, travelers turn left onto F-26 and drive approximately 3.5 kilometers until reaching a sign, then turn left onto an uneven trail and continue for about 1 kilometer to reach the waterfall—this final stretch demands high-clearance 4x4 capability due to rough conditions. The relative difficulty of access and the waterfall's low profile compared to dramatic plunging cascades elsewhere in Iceland mean that Hrafnabjargafoss sees very few visitors, even during peak summer highland season, offering those who make the effort a genuine sense of discovery and solitude. The combination of Hrafnabjargafoss and Aldeyjarfoss makes for an excellent highland adventure, allowing visitors to experience both subtle beauty and dramatic power along the same river in a single excursion. The Skjálfandafljót river continues northward from these waterfalls, eventually reaching the famous Goðafoss (Waterfall of the Gods) much farther downstream near the main Ring Road, creating a remarkable hydrological connection between the remote highlands and more accessible lowlands.",
+  "address": "Skjálfandafljót River, F26 Highland Road, Northern Highlands, Iceland",
+  "coordinates": {
+    "longitude": -17.3567,
+    "latitude": 65.3583,
+    "altitude": 480.0
+  },
+  "rating": 4.5,
+  "reviews_count": 520,
+  "category": "Waterfall",
+  "website": "https://www.northiceland.is/en/hrafnabjargafoss",
+  "phone": null,
+  "images": [
+    "https://www.northiceland.is/images/hrafnabjargafoss-horseshoe.jpg"
+  ],
+  "opening_hours": {
+    "access_season": "Mid-June to September (F-roads closed in winter)",
+    "road": "F26 Sprengisandur Highland Road (4x4 required)",
+    "from_aldeyjarfoss": "3.5 km on F26, then 1 km on rough trail",
+    "admission": "Free",
+    "height": "Approximately 5 meters (16 feet)",
+    "unique_feature": "Horseshoe-shaped cliff with multiple chutes",
+    "lava_field": "Báðardalshraun (9,000 years old, 100+ km extent)",
+    "visitor_traffic": "Very low - hidden gem status"
+  }
+}

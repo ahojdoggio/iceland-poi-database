@@ -1,0 +1,29 @@
+{
+  "name": "Selfoss Waterfall - Dettifoss's Upstream Neighbor",
+  "description": "Selfoss is a beautifully elegant horseshoe-shaped waterfall on Iceland's powerful Jökulsá á Fjöllum river (the nation's second-longest river at 206 kilometers), located just one kilometer upstream from the famous Dettifoss in Vatnajökull National Park in North Iceland. While its downstream neighbor Det tifoss claims the title of Europe's most powerful waterfall with its massive 44-meter plunge, Selfoss offers a different type of beauty: a graceful 11-meter (36-foot) drop that spreads across approximately 100 meters (330 feet) of width in a distinctive V-shaped or horseshoe configuration that splits the glacial river into multiple silvery cascades flowing over curved basalt ledges. The waterfall's shape creates numerous individual streams and channels that weave around dark volcanic rock formations, producing a complex, layered appearance that many visitors find more aesthetically pleasing and photogenic than Dettifoss's raw brute power. The Jökulsá á Fjöllum river that feeds Selfoss originates as meltwater from Vatnajökull glacier (Europe's largest ice cap), giving the water a characteristic milky-gray color from suspended glacial sediment and ensuring powerful flow volumes that vary seasonally with temperature and weather conditions affecting glacial melting. Selfoss sits within the dramatic Jökulsárgljúfur canyon, a massive geological feature carved by catastrophic glacial floods and ongoing river erosion, with steep rock walls rising on both sides creating an amphitheater effect around the falls. Visitors can reach Selfoss via a moderate 30-minute hike (approximately 1 kilometer each way) from the same parking areas that serve Dettifoss, making it easy to visit both waterfalls in a single excursion. The trail follows the canyon rim upstream from Dettifoss, offering spectacular views into the gorge and across the lunar-like volcanic landscape that characterizes this remote region. Selfoss is accessible from both the west side (Road 862, gravel 4x4 road) and east side (Road 864, paved but subject to winter closure) of the canyon, with the east side providing easier access and better viewing platforms, while the west side offers more dramatic perspectives and closer approaches to the water. The surrounding landscape exemplifies Iceland's raw volcanic beauty: black sand, twisted lava formations, minimal vegetation, and an overwhelming sense of geological forces still actively shaping the terrain. Because Selfoss receives less tourist traffic than Dettifoss (many visitors skip it or run out of time), you're more likely to experience it without crowds, allowing for peaceful contemplation of this natural wonder. The combination of Selfoss, Dettifoss, and Hafragilsfoss (located downstream) creates a remarkable trio of waterfalls within a few kilometers, each offering distinct characteristics while sharing the same powerful glacial river. Note that access roads to this area are typically closed from late October through May due to snow, making this primarily a summer destination.",
+  "address": "Jökulsárgljúfur, Vatnajökull National Park, North Iceland",
+  "coordinates": {
+    "longitude": -16.3883,
+    "latitude": 65.7319,
+    "altitude": 220.0
+  },
+  "rating": 4.7,
+  "reviews_count": 2340,
+  "category": "Waterfall",
+  "website": "https://www.northiceland.is/en/selfoss-waterfall",
+  "phone": null,
+  "images": [
+    "https://www.northiceland.is/images/selfoss-horseshoe.jpg"
+  ],
+  "opening_hours": {
+    "access_season": "Late May to September (roads closed in winter)",
+    "east_side": "Road 864 (paved, easier access)",
+    "west_side": "Road 862 (gravel, 4x4 recommended)",
+    "hike_from_dettifoss": "1 km / 30 minutes upstream",
+    "parking": "Shared with Dettifoss parking areas",
+    "admission": "Free",
+    "height": "11 meters (36 feet)",
+    "width": "100 meters (330 feet)",
+    "shape": "Distinctive horseshoe or V-shaped cascade"
+  }
+}

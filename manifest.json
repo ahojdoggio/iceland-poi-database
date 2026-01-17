@@ -47,9 +47,11 @@
     "pois/godafoss.json",
     "pois/grettislaug_pool.json",
     "pois/grjotagja.json",
+    "pois/grundarfoss.json",
     "pois/gullfoss.json",
     "pois/gunnuhver.json",
     "pois/gvendarlaug.json",
+    "pois/hafragilsfoss.json",
     "pois/haifoss.json",
     "pois/hallgrimskirkja.json",
     "pois/harpa_concert_hall.json",
@@ -64,6 +66,7 @@
     "pois/hofskirkja.json",
     "pois/hofs\u00f3s_pool.json",
     "pois/hotel_heydalur_pools.json",
+    "pois/hrafnabjargafoss.json",
     "pois/hraunfossar_&_barnafossar.json",
     "pois/hr\u00edsey.json",
     "pois/husavik.json",
@@ -81,6 +84,7 @@
     "pois/kirkjufell.json",
     "pois/kirkjufellsfoss.json",
     "pois/kleifarvatn.json",
+    "pois/kolugljufur_canyon.json",
     "pois/krafla.json",
     "pois/krauma_spa.json",
     "pois/krossneslaug_pool.json",
@@ -120,6 +124,7 @@
     "pois/saxholl_crater.json",
     "pois/secret_lagoon.json",
     "pois/selfoss.json",
+    "pois/selfoss_waterfall.json",
     "pois/seljalandsfoss.json",
     "pois/seljavallalaug_pool.json",
     "pois/seltun.json",
@@ -155,5 +160,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 152
+  "total_files": 157
 }
