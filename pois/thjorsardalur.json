@@ -1,0 +1,43 @@
+{
+  "name": "Þjórsárdalur",
+  "description": "Þjórsárdalur is a remote and historically significant valley in South Iceland carved by the Þjórsá river, Iceland's longest river at 230 kilometers, located approximately 100 kilometers northeast of Reykjavík in the highlands north of Mount Hekla. This verdant valley surrounded by barren volcanic highlands offers a remarkable concentration of natural wonders and archaeological treasures, making it one of Iceland's most rewarding off-the-beaten-path destinations for visitors willing to navigate challenging gravel roads. The valley's most famous resident was Stöng, a prosperous Viking Age farmstead that was catastrophically buried under thick layers of volcanic ash when Mount Hekla erupted violently in 1104 AD. This apocalyptic eruption, one of Hekla's most devastating in recorded history, forced the abandonment of the entire valley and preserved the farm structures beneath ash in a manner similar to Pompeii's preservation by Mount Vesuvius. Archaeological excavations beginning in 1939 uncovered the remarkably well-preserved stone and turf foundations of the longhouse, revealing details of 12th-century Icelandic life. A full-scale reconstruction called Þjóðveldisbærinn (Commonwealth Farm) was built nearby in 1974 using authentic medieval building techniques, allowing visitors to experience how Viking Age Icelanders lived in the centuries following settlement. The reconstruction features a turf-roofed longhouse with central hearth, sleeping benches along walls, a separate smithy, and a church, all built using traditional materials and methods. Gjáin, meaning \"the gorge,\" is an enchantingly beautiful small canyon within Þjórsárdalur featuring lush moss-covered rocks, multiple small waterfalls including the picturesque Gjárfoss, caves carved by water erosion, and vibrant vegetation thriving in the sheltered microclimate. The gorge appears almost magical, with water cascading over rocks into crystalline pools surrounded by verdant moss and wildflowers—a stark contrast to Iceland's typically barren landscapes. An easy 2.1-kilometer round-trip hike from Stöng reaches the northern section of Gjáin and Gjárfoss waterfall, requiring just 15 minutes each way through scenic terrain. Háifoss, Iceland's fourth-tallest waterfall at 122 meters, plunges dramatically over a cliff into a deep gorge carved by the Fossá river, with the neighboring Granni waterfall visible to the left creating a spectacular double waterfall display. The viewpoint overlooking Háifoss ranks among Iceland's most breathtaking vistas, though reaching it requires navigating rough gravel roads. In 2020, Gjáin, Háifoss, Granni, and nearby Hjálparfoss waterfalls received official protection status recognizing their exceptional natural value. Access to Þjórsárdalur requires Route 32, which branches from Route 30 near Flúðir village, approximately 1 hour and 45 minutes from Reykjavík. However, the final stretches to Háifoss and some other attractions traverse uneven gravel roads requiring 4x4 vehicles—regular passenger cars risk damage from rough conditions. Most trails and roads are fully accessible only from late May through early October, with optimal visiting from June through September when highland roads are reliably open and weather is most favorable.",
+  "address": "Þjórsárdalur, Iceland",
+  "coordinates": {
+    "longitude": -19.8500,
+    "latitude": 64.1833,
+    "altitude": 300.0
+  },
+  "rating": 4.8,
+  "reviews_count": 1400,
+  "category": "Valley",
+  "website": "https://www.south.is/en/travel-info/newsblog/thjorsardalur-hidden-gem-iceland",
+  "phone": null,
+  "images": [
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/travel-info/newsblog/thjorsardalur-hidden-gem-iceland"
+    },
+    {
+      "source": "Guide to Iceland",
+      "url": "https://guidetoiceland.is/travel-iceland/drive/thjorsardalur"
+    }
+  ],
+  "opening_hours": {
+    "valley_access": "Summer only (late May to early October), best June-September",
+    "road_status": "Highland roads close in winter, check www.road.is before visiting",
+    "vehicle_requirements": "4x4 REQUIRED for Háifoss and some attractions due to rough gravel roads",
+    "access_route": "Route 32 from Route 30 near Flúðir, 1 hour 45 minutes from Reykjavík",
+    "stong_viking_farm": "Reconstructed 1974 using authentic medieval techniques, original buried 1104 AD",
+    "thjodveldisbaerinn": "Commonwealth Farm reconstruction - turf longhouse, smithy, church",
+    "gjain_gorge": "2.1 km round-trip from Stöng (15 min each way), moss-covered canyon with waterfalls",
+    "gjafoss_waterfall": "Small picturesque waterfall in Gjáin gorge, lush vegetation",
+    "haifoss": "122m tall (Iceland's 4th tallest), viewpoint accessible via rough 4x4 road",
+    "granni_waterfall": "Neighboring waterfall to Háifoss, creates double waterfall vista",
+    "hjalparfoss": "Additional protected waterfall in valley",
+    "protected_status": "Gjáin, Háifoss, Granni, and Hjálparfoss preserved since 2020",
+    "hekla_eruption": "1104 AD eruption buried valley under ash, preserved Viking farm like Pompeii",
+    "archaeological_site": "1939 excavations revealed well-preserved Viking Age structures",
+    "recommended_time": "Full day to explore all major sites within valley",
+    "safety_notes": "Check road conditions, 4x4 essential, summer only access, highland driving experience recommended"
+  }
+}

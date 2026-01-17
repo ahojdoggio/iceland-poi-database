@@ -1,0 +1,44 @@
+{
+  "name": "Dimmuborgir",
+  "description": "Dimmuborgir, meaning \"Dark Castles\" or \"Dark Fortress\" in Icelandic, is an extraordinary landscape of dramatic lava formations located on the eastern shore of Lake Mývatn in North Iceland, part of the Diamond Circle tourist route. This otherworldly terrain was created approximately 2,300 years ago during a massive volcanic eruption when a large lava lake formed over a marshy wetland. As the lava flowed over the water-saturated ground, intense steam explosions occurred when superheated water turned to vapor, fragmenting the cooling lava and creating the bizarre array of pillars, arches, caves, tunnels, and twisted rock formations visible today. The result is a labyrinth of dark basaltic structures rising from the ground like the ruins of an ancient fortress or petrified forest, with some pillars reaching heights of 20 meters. The site covers a large area filled with geological wonders including Kirkjan (The Church), a cave-like formation resembling a cathedral with natural arches, and numerous rooting caves where lava solidified around tree trunks that subsequently burned away, leaving hollow vertical tunnels in the hardened rock. Icelandic folklore adds mystical significance to Dimmuborgir, describing it as the location where Satan landed when cast out of heaven, and as the home of Iceland's 13 mischievous Yule Lads (Yuletide trolls) who visit Icelandic children one by one during the 13 nights preceding Christmas. Dim
+
+muborgir gained international fame as a filming location for HBO's Game of Thrones series, appearing in multiple episodes across Season 3. The dramatic lava formations served as the Wildling encampment north of the Wall where Mance Rayder, King-Beyond-the-Wall, gathered the Free Folk. Scene locations include Jon Snow's sword being stolen by Ygritte and the terrifying White Walker attack on Samwell Tarly and Lord Commander Mormont. The site offers multiple well-marked hiking trails of varying lengths and difficulty levels, all departing from a paved path at the eastern end of the parking area. Short circuits take approximately 20 to 30 minutes and are suitable for families with children, while longer loops exploring the full extent of the formations require up to 1 hour. No guide is necessary as the trails are clearly signed with color-coded markers indicating different routes. The paths wind through the lava field, passing close to the most impressive formations and offering numerous photo opportunities from different angles. A café and restroom facilities operate near the entrance during summer months. Dimmuborgir is free to visit with no entrance fee, though parking fees may apply. The site is easily accessible year-round via paved roads, located just off Route 1 (Ring Road) near Lake Mývatn, approximately 82 kilometers from Akureyri, 170 kilometers from Egilsstaðir, and 470 kilometers from Reykjavík. Winter visits require caution as trails and rocks become extremely slippery with ice and snow, and reduced daylight limits exploration time.",
+  "address": "Dimmuborgir, 660 Mývatn, Iceland",
+  "coordinates": {
+    "longitude": -16.9127,
+    "latitude": 65.5899,
+    "altitude": 0.0
+  },
+  "rating": 4.7,
+  "reviews_count": 5600,
+  "category": "Lava Field",
+  "website": "https://www.visitmyvatn.is",
+  "phone": null,
+  "images": [
+    {
+      "source": "Visit Mývatn",
+      "url": "https://www.visitmyvatn.is"
+    },
+    {
+      "source": "Guide to Iceland",
+      "url": "https://guidetoiceland.is/travel-iceland/drive/dimmuborgir"
+    }
+  },
+  "opening_hours": {
+    "access": "Open 24/7 year-round, free admission (parking fee may apply)",
+    "hiking_trails": "Multiple well-marked color-coded trails, 20-60 minutes, no guide required",
+    "trail_difficulty": "Short family-friendly circuits to longer moderate loops",
+    "cafe": "Seasonal café near entrance, summer months only",
+    "facilities": "Restrooms available at parking area",
+    "formation_age": "Approximately 2,300 years old, created by lava lake steam explosions",
+    "notable_features": "Kirkjan (The Church) cave, rooting caves, 20-meter pillars, natural arches",
+    "folklore": "Satan's landing site, home of 13 Yule Lads (Icelandic Christmas trolls)",
+    "game_of_thrones": "Season 3 filming location - Wildling camp, Mance Rayder scenes, White Walker attack",
+    "filming_scenes": "Jon Snow & Ygritte sword theft, Sam Tarly & Mormont White Walker encounter",
+    "winter_warning": "Extremely slippery ice and snow on trails, reduced daylight, extra caution required",
+    "best_season": "Summer for full trail access and café/facilities, accessible year-round with care",
+    "distance_from_akureyri": "82 km east via Route 1",
+    "distance_from_reykjavik": "470 km northeast",
+    "diamond_circle": "Major attraction on Diamond Circle route with Lake Mývatn"
+  }
+}

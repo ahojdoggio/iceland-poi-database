@@ -1,0 +1,43 @@
+{
+  "name": "Reykjadalur",
+  "description": "Reykjadalur, translating to \"Steam Valley\" in Icelandic, is one of Iceland's most popular geothermal hiking destinations, featuring a naturally heated river that flows through a scenic mountain valley approximately 5 kilometers from the town of Hveragerði in South Iceland. This unique natural phenomenon allows hikers to bathe in a warm thermal river surrounded by steaming fumaroles, colorful hot springs, and dramatic mountain scenery, creating an unforgettable wilderness experience combining hiking with natural hot spring bathing. The moderately challenging 3.5-kilometer trail from the parking area to the main bathing section gains approximately 200 meters in elevation, typically requiring 45 to 60 minutes of steady uphill hiking each way. The well-maintained gravel path winds through varied terrain including grassy slopes, steam vents releasing sulfurous gases, bubbling mud pots, and small hot springs dotting the hillsides, with increasing geothermal activity as hikers ascend the valley. The trail is generally suitable for anyone with reasonable fitness, though the incline can be tiring, and conditions become challenging in winter when snow, ice, and reduced daylight require proper equipment and caution. Upon reaching the thermal river, hikers discover a warm waterway flowing down the valley where geothermally heated water mixes with cooler mountain streams, creating a range of temperatures from tepid to quite hot depending on location and how much cold water has mixed in. Water temperatures typically range between 30°C and 40°C, with hotter water found by wading upstream away from where cooler tributaries join the main flow. The river features multiple pools and bathing spots of varying depths and temperatures, allowing visitors to find their preferred comfort level. Wooden changing platforms provide minimal privacy for switching into and out of swimwear, though no enclosed changing rooms, showers, lockers, or permanent facilities exist at the river itself. The Reykjadalur experience embodies Iceland's \"leave no trace\" wilderness ethic—there are no trash cans, restrooms, or amenities at the bathing area, so visitors must pack out all waste and use facilities at the trailhead before beginning the hike. The site remains completely free to visit with no entrance fees, tickets, or reservations required, making it an exceptional value compared to commercial geothermal spas, though parking fees do apply at the trailhead. The parking area accommodates approximately 150 vehicles but fills to capacity during summer peak hours (typically midday), requiring early morning or evening visits to secure space. Parking costs approximately 250 ISK per hour or 700 ISK for up to 5 hours, payable through the Parka or EasyPark mobile apps. Restroom facilities are available at the parking area, included in the parking fee. The river remains thermally active year-round, allowing bathing in all seasons, though summer months from June through August offer the most comfortable hiking conditions with extended daylight and milder weather.",
+  "address": "Reykjadalur, 810 Hveragerði, Iceland",
+  "coordinates": {
+    "longitude": -21.1392,
+    "latitude": 64.0328,
+    "altitude": 200.0
+  },
+  "rating": 4.7,
+  "reviews_count": 8900,
+  "category": "Hot Spring",
+  "website": "https://www.south.is/en/place/reykjadalur",
+  "phone": null,
+  "images": [
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/place/reykjadalur"
+    },
+    {
+      "source": "Guide to Iceland",
+      "url": "https://guidetoiceland.is/travel-iceland/drive/reykjadalur"
+    }
+  },
+  "opening_hours": {
+    "trail_access": "Open 24/7 year-round, free hiking and bathing (parking fee only)",
+    "parking_fee": "250 ISK/hour, 700 ISK up to 5 hours, 1,000 ISK full day via Parka or EasyPark apps",
+    "parking_capacity": "Approximately 150 vehicles, fills to capacity during summer midday",
+    "hike_distance": "6 km round-trip, 3.5 km each way, 200m elevation gain",
+    "hike_time": "45-60 minutes each way, moderate difficulty with steady uphill",
+    "water_temperature": "30-40°C, hotter upstream where less cold water mixes in",
+    "facilities_at_river": "Basic wooden changing platforms only - NO changing rooms, showers, lockers, trash cans, or toilets",
+    "facilities_at_parking": "Restrooms included with parking fee",
+    "required_gear": "Swimsuit, towel, sturdy hiking boots, water, all trash must be packed out",
+    "winter_conditions": "Accessible year-round but challenging - snow, ice, limited daylight require proper equipment",
+    "best_season": "June-August for optimal hiking conditions and extended daylight",
+    "crowd_management": "Visit early morning or evening to avoid peak crowds and secure parking",
+    "bathing_tips": "Wade upstream for hotter water, multiple pools of varying depths and temperatures",
+    "trail_features": "Steam vents, bubbling mud pots, small hot springs, increasing geothermal activity ascending valley",
+    "distance_from_hveragerdi": "5 km from town center",
+    "distance_from_reykjavik": "50 km, approximately 45 minutes drive via Route 1"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Krafla",
+  "description": "Krafla is a 10-kilometer diameter caldera and active volcanic system in North Iceland, located approximately 7 kilometers north of Lake Mývatn, renowned for dramatic volcanic landscapes and harnessing geothermal energy for power generation. The caldera contains multiple volcanic vents, lava fields, geothermal areas, and the striking Víti crater, formed during an explosive eruption in 1724. Víti, meaning \"Hell\" in Icelandic, features a bright turquoise geothermal lake filling the explosion crater, creating a surreal contrast between the vivid blue-green water and the surrounding rust-colored volcanic soil rich in sulfur and iron oxides. A well-maintained walking path circles Víti crater's rim, offering spectacular panoramic views of the steaming lake below, the wider Krafla caldera, and distant mountains. This relatively easy loop takes approximately 30 to 45 minutes to complete, suitable for most fitness levels, though strong winds common at the exposed rim require caution. The Krafla volcanic system has experienced significant activity throughout recorded history, with the most recent eruption series occurring between 1975 and 1984 during the \"Krafla Fires,\" a nine-eruption sequence that created fresh lava fields still visible today as dark, barren expanses of solidified basalt. The Leirhnjúkur geothermal area within the caldera displays intense ongoing volcanic activity with bubbling mud pots, hissing steam vents, brilliantly colored mineral deposits, and hot springs, all accessible via marked hiking trails traversing the steaming landscape. The trails through Leirhnjúkur wind across fresh lava from the 1970s-80s eruptions still radiating heat in some locations, with boardwalks protecting both hikers and fragile volcanic features. Since 1977, the Krafla area has provided geothermal energy for power generation, with the original Krafla Power Station commissioned in 1977 and expanded facilities added in 2006 bringing total capacity to 60 megawatts. The Krafla Geothermal Power Station Visitor Centre, open during summer months on weekdays 12:30-15:30 and weekends 13:00-17:00, offers educational exhibits explaining how Iceland harnesses volcanic heat for electricity and district heating, including views of turbines and explanations of the drilling technology accessing superheated water kilometers underground. The power station serves as a working demonstration of sustainable energy production from volcanic heat, showcasing Iceland's leadership in renewable geothermal energy utilization. Access to the Krafla area requires driving on Route 863, a paved but winding mountain road branching from Route 1 near Reykjahlíð village. Paid parking zones operate at Víti crater and Leirhnjúkur geothermal area, typically costing 500-700 ISK per vehicle. The site is accessible year-round, though summer months from June through August offer the best conditions with clear roads, fully accessible hiking trails, and extended daylight hours enhancing the crater lake's vivid colors. Winter visits require extra caution due to icy roads and paths, limited daylight, and severe winds that can make rim walking dangerous.",
+  "address": "Krafla, 660 Mývatn, Iceland",
+  "coordinates": {
+    "longitude": -16.7834,
+    "latitude": 65.7142,
+    "altitude": 650.0
+  },
+  "rating": 4.8,
+  "reviews_count": 5200,
+  "category": "Volcano",
+  "website": "https://www.visitmyvatn.is",
+  "phone": null,
+  "images": [
+    {
+      "source": "Visit Mývatn",
+      "url": "https://www.visitmyvatn.is"
+    },
+    {
+      "source": "Travel Reykjavík",
+      "url": "https://www.travelreykjavik.com/attractions/iceland/krafla-volcano/"
+    }
+  ],
+  "opening_hours": {
+    "caldera_access": "Open 24/7 year-round, best visited during daylight hours",
+    "parking_fee": "500-700 ISK per vehicle at Víti crater and Leirhnjúkur geothermal area",
+    "viti_crater_rim_walk": "30-45 minutes circuit, relatively easy, strong winds common - caution required",
+    "viti_formation": "Explosion crater from 1724 eruption, bright turquoise geothermal lake",
+    "leirhnjukur_trails": "Marked hiking trails through geothermal area, mud pots, steam vents, colorful minerals",
+    "fresh_lava_fields": "1975-1984 Krafla Fires created still-visible dark basalt flows, some areas still warm",
+    "power_station_visitor_centre": "Summer only - Weekdays 12:30-15:30, Weekends 13:00-17:00",
+    "geothermal_capacity": "60 MW power generation since 1977, expanded 2006",
+    "educational_exhibits": "Turbine views, drilling technology, sustainable energy production demonstrations",
+    "access_road": "Route 863 from Route 1 near Reykjahlíð, paved but winding mountain road",
+    "best_season": "June-August for clear roads, accessible trails, extended daylight, vivid crater colors",
+    "winter_warning": "Icy roads and paths, limited daylight, severe winds - extra caution essential",
+    "caldera_diameter": "10 km caldera with multiple vents, lava fields, geothermal areas",
+    "recent_activity": "Krafla Fires 1975-1984: nine-eruption series, most recent volcanic period",
+    "distance_from_lake_myvatn": "7 km north",
+    "diamond_circle": "Major attraction on Diamond Circle route in North Iceland"
+  }
+}
