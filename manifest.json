@@ -78,6 +78,8 @@
     "pois/myrdalsjokull_glacier.json",
     "pois/m\u00fdvatn_nature_baths.json",
     "pois/namaskard.json",
+    "pois/national_gallery_of_iceland.json",
+    "pois/national_museum_of_iceland.json",
     "pois/old_harbour.json",
     "pois/oxararfoss.json",
     "pois/perlan_museum.json",
@@ -86,10 +88,12 @@
     "pois/reykholt.json",
     "pois/reykjadalur.json",
     "pois/reykjafjardarlaug_hot_pool.json",
+    "pois/reykjavik_art_museum.json",
     "pois/reykjav\u00edk.json",
     "pois/reynisdrangar.json",
     "pois/reynisfjara_black_sand_beach.json",
     "pois/rif.json",
+    "pois/saga_museum.json",
     "pois/saxholl_crater.json",
     "pois/secret_lagoon.json",
     "pois/seljalandsfoss.json",
@@ -121,5 +125,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 118
+  "total_files": 122
 }
