@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 239 (61%) |
-| **Remaining** | 154 (39%) |
+| **Completed** | 246 (63%) |
+| **Remaining** | 147 (37%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 104/258 (40%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **239/393 (61%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 111/258 (43%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **246/393 (63%)** |
 
 ---
 
@@ -658,15 +658,19 @@ Running: [X]/393 ([X]%)
 - [x] Stuðlagil - Hexagonal basalt columns (30m), turquoise river, exposed 2006-2009 by dam
 - [x] Jökulsárgljúfur - 25 km canyon (120m deep), 4 waterfalls including Dettifoss
 
-### Volcanoes & Craters (8)
-- [ ] Hekla
-- [ ] Katla
-- [ ] Askja & Víti
-- [ ] Krafla
-- [ ] Kerlingarfjöll
-- [ ] Fagradalsfjall
-- [ ] Hverfjall
-- [ ] Grábrok
+### Volcanoes & Craters - ✅ COMPLETE (8/8)
+
+**Previously Existing (1 from earlier work):**
+- [x] Krafla - Active volcanic system, geothermal area
+
+**Newly Created Priority 4 (7):**
+- [x] Hekla - Iceland's most active (20+ eruptions since 1104), "Gateway to Hell", 1,491m
+- [x] Katla - Subglacial under Mýrdalsjökull, catastrophic jökulhlaups, last erupted 1918
+- [x] Askja & Víti - Highland caldera, 1875 VEI 5 eruption, geothermal swimming crater
+- [x] Kerlingarfjöll - Rhyolite mountains, Hveradalir geothermal valley, protected since 2017
+- [x] Fagradalsfjall - 2021-2023 tourist volcano, unprecedented public access to lava
+- [x] Hverfjall - Perfect 1 km tephra crater near Mývatn, 2,500 years old
+- [x] Grábrok - Ring Road accessible crater chain, 4,000 years old, moss-covered lava
 
 ### Lava & Caves (8)
 - [ ] Dimmuborgir
