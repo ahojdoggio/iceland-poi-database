@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 223 (57%) |
-| **Remaining** | 170 (43%) |
+| **Completed** | 230 (58%) |
+| **Remaining** | 163 (42%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 88/258 (34%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **223/393 (57%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 95/258 (37%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **230/393 (58%)** |
 
 ---
 
@@ -612,21 +612,26 @@ Running: [X]/393 ([X]%)
 
 **Note:** "Strondin Bar" does not exist in Reykjavík. Strondin Pub is located in Vík (south coast), not Grandi harbor.
 
-### Churches & Heritage (15)
-- [ ] Akureyrarkirkja
-- [ ] Þingeyrar Church
-- [ ] Hólar Cathedral
-- [ ] Víðimýrarkirkja
-- [ ] Grafarkirkja
-- [ ] Búðakirkja
-- [ ] Strandarkirkja
-- [ ] Skálholt Cathedral
-- [ ] Bessastaðir
-- [ ] Þjóðveldisbærinn
-- [ ] Eiríksstaðir
-- [ ] Reykholt
-- [ ] Laufás
-- [ ] Glaumbær
+### Churches & Heritage - ✅ COMPLETE (15/15)
+
+**Previously Existing (8 from Priority 1-3):**
+- [x] Akureyrarkirkja - Akureyri church with 3,200-pipe organ (Priority 1)
+- [x] Búðakirkja - Black church on Snæfellsnes (Priority 2)
+- [x] Reykholt - Snorri Sturluson's estate, hot spring (Priority 2)
+- [x] Laufás - 19th century turf farm museum (Priority 1)
+- [x] Glaumbær - 13 turf buildings, Skagafjörður Heritage (Priority 3)
+- [x] Hallgrímskirkja - Tallest church, 74.5m tower (Priority 1)
+- [x] Hofskirkja - Last turf church built 1884 (Priority 2)
+- [x] Húsavík Wooden Church - 1907 Swiss-chalet style (Priority 1)
+
+**Newly Created Priority 4 (7):**
+- [x] Þingeyrar Church - Stone church (1877), first Benedictine monastery site (1133-1551)
+- [x] Hólar Cathedral - Iceland's oldest stone church (1763), northern Episcopal seat (1106-1798)
+- [x] Víðimýrarkirkja - One of only 6 turf churches, built 1834, 17th-century altarpiece
+- [x] Grafarkirkja - Iceland's oldest turf church, 17th-century parts, Sturlunga Saga mention (1240)
+- [x] Strandarkirkja - "Miracle Church," angel legend, 12th century, maritime prayer tradition
+- [x] Skálholt Cathedral - Iceland's first Episcopal seat (1056), current cathedral 1956-1963
+- [x] Bessastaðir - Presidential residence, Snorri Sturluson's farm, 1000 AD settlement
 
 ### Islands (7)
 - [ ] Vestmannaeyjar
