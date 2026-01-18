@@ -1,0 +1,32 @@
+{
+  "name": "Skriðuklaustur - Centre of Culture & History",
+  "description": "Skriðuklaustur stands as one of East Iceland's most significant cultural and historical sites, combining archaeological remains of Iceland's only Augustinian monastery with the beautifully preserved home of Iceland's internationally acclaimed author Gunnar Gunnarsson (1889-1975), creating a unique destination where medieval monastic history, literary heritage, contemporary art, and ongoing archaeological research converge in a stunning setting along the banks of the Lagarfljót river. The monastery ruins date to 1493 when they were founded by Jón ríki Þorsteinsson and operated until Iceland's Reformation in 1550 forced the dissolution of all Catholic religious institutions—making this 57-year period the entire span of monastic life in Iceland. Archaeological excavations begun in 2002 have revealed fascinating details about this lost world: the monastery layout including church, chapter house, dormitory, and hospital where monks cared for the sick and poor; artifacts including religious objects, medical implements, and everyday tools; and evidence of how Icelandic monks adapted continental monastic traditions to Iceland's unique environment. The excavations remain ongoing, and visitors can observe active archaeological work during summer months, with walkways and interpretive signage explaining findings. The Writer's House (Gunnarshús), completed in 1939, represents author Gunnar Gunnarsson's vision of an ideal home after years of literary success in Denmark where he wrote in Danish before returning to his Icelandic roots. Gunnarsson was one of Iceland's most celebrated literary figures, achieving international recognition for novels exploring Icelandic culture, family sagas, and the intersection of tradition and modernity. He donated the building to the Icelandic state in 1948, and it now houses permanent exhibitions about his life, works, and the writing process, alongside displays documenting the medieval monastery's history. The building's architecture is significant in its own right—designed in International Style modernism but incorporating Icelandic materials and sensibilities, it represents mid-20th century Icelandic cultural aspirations. Rotating art exhibitions occupy gallery spaces, showcasing contemporary Icelandic and international artists in thoughtfully curated shows that change throughout the year. The cultural center hosts concerts, lectures, readings, and cultural events that attract visitors from across Iceland and beyond, making Skriðuklaustur a living cultural institution rather than merely a static museum. The surrounding landscape is hauntingly beautiful: forested areas unusual in Iceland, the Lagarfljót river flowing past, and views to distant mountains creating an atmosphere of contemplation appropriate to both monastic history and literary reflection.",
+  "address": "701 Egilsstaðir, East Iceland",
+  "coordinates": {
+    "longitude": -14.8333,
+    "latitude": 65.0500,
+    "altitude": 30.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1380,
+  "category": "Museum",
+  "website": "https://www.skriduklaustur.is/en",
+  "phone": "+354 471 2990",
+  "images": [
+    "https://www.skriduklaustur.is/images/writers-house-exterior.jpg"
+  ],
+  "opening_hours": {
+    "june_august": "10:00 AM - 6:00 PM",
+    "may_september": "11:00 AM - 5:00 PM",
+    "april": "12:00 PM - 4:00 PM",
+    "october": "12:00 PM - 4:00 PM (October 1-15 only)",
+    "november_march": "Subject to change, contact for hours",
+    "admission_adults": "1,200 ISK",
+    "admission_children": "Free (16 and under)",
+    "monastery_site": "Open year-round (outdoor ruins)",
+    "two_main_features": "Medieval monastery ruins (1493-1550) & Writer's House (1939)",
+    "gunnar_gunnarsson": "Celebrated Icelandic author (1889-1975)",
+    "archaeological_excavations": "Ongoing since 2002, summer observation possible",
+    "cultural_events": "Rotating art exhibitions, concerts, lectures, readings"
+  }
+}
