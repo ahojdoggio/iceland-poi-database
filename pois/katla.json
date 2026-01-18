@@ -1,0 +1,47 @@
+{
+  "name": "Katla - Iceland's Sleeping Giant Under Mýrdalsjökull",
+  "description": "Katla represents one of Iceland's most powerful and potentially catastrophic volcanoes, hidden beneath Mýrdalsjökull glacier (Iceland's 4th largest ice cap) where 10-kilometer-wide caldera filled with 500-700 meters of ice conceals subglacial basaltic-to-rhyolitic volcanic system capable of producing devastating jökulhlaups (glacial outburst floods) when eruptions melt enormous ice volumes creating catastrophic water surges carrying icebergs, volcanic debris, and sediment across South Iceland's coastal plains destroying everything in flood path. The volcano has erupted approximately 20 times since Iceland's settlement in 874 AD with notable historical eruptions in 1625, 1660, 1721, 1755 (largest in historical times producing massive tephra fall and jökulhlaup), 1823, and most recently 1918 when 24-day eruption melted glacier ice creating jökulhlaup with peak discharge estimated at 300,000 cubic meters per second—discharge rate exceeding combined flow of Amazon River at its mouth, temporarily extending Iceland's coastline several kilometers southward as flood deposited enormous sediment volumes creating new land. The eruption frequency averaging one eruption every 40-80 years combined with 1918 last eruption means Katla has now exceeded typical repose period by over 100 years, creating scientific concern that longer dormancy may produce more explosive eruption when activity resumes, though predicting exact timing remains impossible despite intensive monitoring detecting ongoing seismic unrest, inflation, and geothermal activity suggesting magma remains active beneath glacier. The July 2024 jökulhlaup from Katla's caldera—occurring without eruption—damaged portions of Ring Road and briefly raised aviation color code to yellow, with peak flow potentially reaching 1,000 cubic meters per second making it significantly larger than previous non-eruptive jökulhlaups in 2011 and 1950, demonstrating that Katla poses hazards even during dormancy as geothermal heat melts subglacial ice creating floods without volcanic eruption. Jökulhlaups from Mýrdalsjökull historically have produced catastrophic flooding with peak discharges exceeding 100,000 cubic meters per second—flows ten to hundred times larger than typical glacial floods—triggered by various mechanisms including eruptions melting ice, geothermal processes producing melt, ice dam failures, and sudden ice flotation removing barriers holding back subglacial meltwater accumulations. The populated areas south of Mýrdalsjökull including Vík (Iceland's southernmost village with 300 residents) face extreme jökulhlaup risk requiring detailed evacuation plans, warning systems, and public education ensuring residents can reach high ground within minutes of flood warning since devastating flood could reach coast in less than 30 minutes after eruption detection. Historical records document Katla jökulhlaups carrying house-sized icebergs tens of kilometers from glacier margin, depositing massive boulders across coastal plains, and reshaping entire river systems and coastlines within hours as floods scoured channels, deposited sediment, and rearranged South Iceland's geography in catastrophic transformation events that pre-modern Icelanders witnessed with terror recorded in written accounts describing apocalyptic scenes. The glacier covering volcano creates monitoring challenges as ice thickness prevents direct observation of volcanic features while dampening seismic signals and obscuring surface deformation, requiring scientists to infer subsurface conditions from indirect measurements including ice cauldrons (depressions where subglacial melting occurs), seismic activity patterns, geochemical analysis of glacial river water for volcanic gases, and GPS measurements detecting subtle ice surface movements indicating magma intrusion. Katla's potential interaction with neighboring Eyjafjallajökull volcano (which erupted 2010 disrupting European aviation) creates concern about cascade eruptions where one volcano's activity triggers eruption at neighboring system, as geological evidence suggests historical temporal correlations between Eyjafjallajökull and Katla eruptions though causal mechanisms remain uncertain.",
+  "address": "Katla Volcano, beneath Mýrdalsjökull Glacier, South Iceland",
+  "coordinates": {
+    "longitude": -19.0833,
+    "latitude": 63.6333,
+    "altitude": 1512.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1980,
+  "category": "Subglacial Volcano",
+  "website": "https://en.vedur.is/earthquakes-and-volcanism/articles/nr/2816",
+  "phone": "+354 522 6000",
+  "images": [
+    "https://en.vedur.is/static/katla-glacier.jpg"
+  ],
+  "opening_hours": {
+    "caldera_diameter": "10 kilometers",
+    "ice_thickness": "500-700 meters covering caldera",
+    "volcano_type": "Subglacial basaltic-to-rhyolitic system",
+    "eruption_count": "~20 since 874 AD settlement",
+    "eruption_frequency": "Every 40-80 years average",
+    "major_eruptions": "1625, 1660, 1721, 1755 (largest), 1823, 1918",
+    "last_eruption": "1918 - 24-day event",
+    "1918_jokulhlaup": "300,000 m³/s peak discharge - exceeded Amazon River flow",
+    "coastline_extension": "Flood deposited sediment creating new land kilometers seaward",
+    "dormancy_concern": "106+ years since last eruption exceeds typical repose",
+    "july_2024_event": "Non-eruptive jökulhlaup damaged Ring Road, 1,000 m³/s peak flow",
+    "aviation_code_2024": "Briefly raised to Yellow before return to Green",
+    "catastrophic_jokulhlaups": "Historical peaks >100,000 m³/s - 10-100x typical floods",
+    "trigger_mechanisms": "Eruptions, geothermal melt, ice dam failures, flotation",
+    "vik_population_risk": "300 residents, <30 min from glacier to coast",
+    "evacuation_requirements": "Reach high ground within minutes of warning",
+    "historical_impacts": "House-sized icebergs, massive boulders, coastline reshaping",
+    "monitoring_challenges": "Ice obscures features, dampens seismic signals",
+    "monitoring_methods": "Ice cauldrons, seismicity, water chemistry, GPS deformation",
+    "ice_cauldrons": "Depressions from subglacial melting indicate geothermal activity",
+    "eyjafjallajokull_link": "Potential cascade eruptions with neighboring volcano",
+    "2010_context": "Eyjafjallajökull erupted, raising Katla eruption concerns",
+    "glacier_name": "Mýrdalsjökull - Iceland's 4th largest ice cap",
+    "hazard_types": "Jökulhlaups (primary), tephra fall, pyroclastic flows",
+    "coastal_transformation": "Hours-long geography changes from catastrophic floods",
+    "current_status": "Heightened monitoring, ongoing seismic unrest, no eruption predicted",
+    "scientific_attention": "One of Iceland's most intensively monitored volcanoes"
+  }
+}
