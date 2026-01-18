@@ -1,0 +1,37 @@
+{
+  "name": "Þingeyrakirkja - Stone Church on Ancient Monastery Site",
+  "description": "Þingeyrakirkja stands as one of Iceland's most historically significant churches, built of stone and consecrated in 1877 to replace old turf church on site that had hosted Þingeyrar, Iceland's first permanent Benedictine monastery from 1133 to 1551—this nearly 420-year monastic history represents longest-running and most influential monastery in Icelandic history, making Þingeyrar essential pilgrimage site for understanding medieval Iceland's religious, cultural, and educational development. Member of Parliament Ásgeir Einarsson (1809-1885) funded and oversaw the church's construction, a project that lasted 13 years and required extraordinary effort: stones used for construction were hauled over ice and snow on sleds from Nesbjörg located further west, demonstrating determination and community commitment necessary for major building projects in 19th-century Iceland where limited resources and harsh climate made monumental architecture rare achievement. The current stone church preserves and displays objects from the previous turf church, creating material continuity with earlier worship traditions while the substantial stone construction represents modernization and permanence that turf buildings could never achieve. The monastery that preceded the church earned enormous wealth and power during medieval period, owning 50-60 landed estates and large amounts of livestock at time of Reformation when Protestant conversion ended Catholic monastic tradition in Iceland—this wealth funded manuscript production, education, and cultural activities that made Þingeyrar intellectual center where monks copied sagas, composed poetry, and preserved Icelandic literary heritage that might otherwise have been lost. The monastery buildings themselves were constructed using wood, occasionally imported from Norway but more commonly using plentiful driftwood found on neighboring beaches—this reliance on driftwood reflects Iceland's complete deforestation and the oceanic currents that carried Siberian timber thousands of miles to Icelandic shores where it became essential construction material. After trying to fix dilapidated timber church in 1817, builder Björn tore it down and constructed new smaller church made with turf and rocks, paneled with timber—this intermediate turf church served until Ásgeir Einarsson's stone replacement. Archaeological excavations in 2022 discovered monastery ruins made of turf, finding them in better condition than archaeologists dared hope despite centuries of decay and Iceland's harsh weathering—this discovery provides physical evidence of monastic layout and construction techniques that written records alone could not convey. The church's position in Húnaflói region of northwest Iceland places it in agricultural area where farming and fishing sustained communities, with Vatnsnes peninsula nearby featuring seal colonies and coastal beauty that attracts contemporary visitors exploring routes less traveled than Ring Road or Golden Circle.",
+  "address": "Þingeyrar, 531 Hvammstangi, Iceland (northwest Iceland, Húnaflói region)",
+  "coordinates": {
+    "longitude": -20.5556,
+    "latitude": 65.5406,
+    "altitude": 5.0
+  },
+  "rating": 4.5,
+  "reviews_count": 890,
+  "category": "Church & Historic Site",
+  "website": "https://www.tingeyrakirkja.is",
+  "phone": "+354 451 2940",
+  "images": [
+    "https://commons.wikimedia.org/wiki/File:Þingeyrakirkja.jpg"
+  ],
+  "opening_hours": {
+    "consecrated": "1877",
+    "construction_time": "13 years",
+    "builder": "Member of Parliament Ásgeir Einarsson (1809-1885)",
+    "stone_source": "Nesbjörg, hauled over ice and snow on sleds",
+    "monastery_period": "1133-1551 (418 years) - Iceland's first permanent Benedictine monastery",
+    "monastery_wealth": "50-60 landed estates, large livestock holdings at Reformation",
+    "cultural_significance": "Manuscript production, saga copying, poetry composition, literary preservation",
+    "construction_materials": "Wood (Norwegian imports + driftwood), later turf and rocks, finally stone",
+    "turf_church": "1817 replacement lasted until 1877 stone church",
+    "archaeological_discovery": "2022 monastery ruins found in better condition than expected",
+    "previous_church_objects": "Preserved and displayed inside current stone church",
+    "region": "Húnaflói, northwest Iceland",
+    "nearby": "Vatnsnes peninsula, seal colonies, coastal beauty",
+    "medieval_center": "Intellectual hub for education and culture",
+    "reformation_impact": "1551 ended Catholic monastic tradition",
+    "driftwood_tradition": "Siberian timber carried by ocean currents to Icelandic shores",
+    "spiritual_continuity": "Site of worship and religious activity for nearly 900 years"
+  }
+}
