@@ -1,0 +1,34 @@
+{
+  "name": "Ásgarðslaug - Outdoor Pool in Garðabær",
+  "description": "Ásgarðslaug serves Garðabær municipality—a prosperous residential community of approximately 17,000 residents located immediately south of Reykjavík along the coast—with an outdoor swimming facility emphasizing traditional Icelandic pool culture through year-round geothermally heated outdoor swimming, multiple hot tubs, and recently renovated amenities, while pioneering progressive admission policies offering free swimming to all visitors under 18 and over 67 years old. Garðabær is known as one of Iceland's wealthiest municipalities with high per-capita income, excellent schools, proximity to both Reykjavík employment centers and coastal recreation areas, and strong community investment in quality public services including swimming facilities. Ásgarðslaug exemplifies classic outdoor Icelandic pool design where swimming occurs exclusively outdoors regardless of season, creating the characteristically Icelandic experience of gliding through warm geothermally heated water while breathing cold air and watching steam rise dramatically—an atmospheric experience that many visitors initially find improbable but quickly discover to be surprisingly comfortable and oddly addictive. The outdoor pool accommodates lap swimmers maintaining fitness routines, recreational paddlers, families with children learning to swim, and elderly residents practicing gentle aquatic exercise that maintains mobility with reduced joint stress. Multiple hot tubs provide the essential soaking and pot chat experiences where Garðabær residents gather for relaxed conversations that range from local municipal affairs to national politics to family matters, creating the democratic social forum that Icelandic pool culture represents—these hot tubs function as Garðabær's most egalitarian gathering places where economic and social distinctions dissolve in shared warmth. A dedicated children's pool with shallower depth and warmer temperature provides safe, comfortable environment where young swimmers build confidence and develop the swimming skills Iceland's culture considers essential life competencies taught universally. A small waterslide in the children's pool adds entertainment value that keeps young visitors excited about pool time. The facility underwent renovations that modernized outdoor shower facilities, upgraded hot tub systems, and added a cold plunge tub expanding options for contrast bathing enthusiasts who practice alternating hot and cold immersion believed to improve circulation and boost immune function. The progressive admission policy eliminates fees for all under-18 visitors and over-67 elderly residents, recognizing that swimming represents essential health benefits and social connection that should be universally accessible regardless of age or economic circumstances—payment begins on the 18th birthday and ends on the 67th, creating a policy that prioritizes children's development and seniors' wellness. Garðabær municipality issues access cards valid for both Ásgarðslaug and the municipality's second pool (Álftaneslaug), allowing residents to choose facilities based on location convenience or personal preferences. Ásgarðslaug's outdoor-only character creates particularly authentic traditional Icelandic swimming culture appreciated by locals who grew up with outdoor winter swimming as normal practice, while some visitors and newer residents preferring sheltered swimming options use Álftaneslaug's indoor facilities instead. The facility's location in residential Garðabær creates strong neighborhood character where familiar faces gather regularly, children from local schools arrive for swimming instruction, and multi-generational families maintain traditions of post-dinner evening swims followed by hot tub socializing.",
+  "address": "Dalvegur 24, 210 Garðabær, Iceland",
+  "coordinates": {
+    "longitude": -21.9286,
+    "latitude": 64.0889,
+    "altitude": 8.0
+  },
+  "rating": 4.5,
+  "reviews_count": 980,
+  "category": "Swimming Pool",
+  "website": "https://www.gardabaer.is/ibuar/ithrotta-og-tomstundastarf/sundlaugar/asgardslaug/",
+  "phone": "+354 565 6700",
+  "images": [
+    "https://www.gardabaer.is/images/asgardslaug-pool.jpg"
+  ],
+  "opening_hours": {
+    "weekdays": "Monday-Friday 6:30 AM - 10:00 PM",
+    "weekends": "Saturday-Sunday 8:00 AM - 6:00 PM",
+    "admission_0_17": "Free (under 18)",
+    "admission_67_plus": "Free (age 67+)",
+    "admission_18_66": "Standard adult rates apply",
+    "access_card": "Valid for both Ásgarðslaug and Álftaneslaug",
+    "outdoor_only": "Outdoor swimming pool (year-round geothermal heating)",
+    "hot_tubs": "Multiple hot tubs",
+    "children_pool": "Shallow children's pool with small waterslide",
+    "recent_upgrades": "Renovated outdoor showers, upgraded hot tubs, added cold plunge tub",
+    "progressive_policy": "Free for ages 0-17 and 67+",
+    "municipality": "Garðabær (pop. ~17,000), affluent coastal municipality south of Reykjavík",
+    "character": "Traditional outdoor Icelandic pool culture, neighborhood atmosphere",
+    "sister_pool": "Álftaneslaug (Garðabær's second pool with indoor facilities)"
+  }
+}

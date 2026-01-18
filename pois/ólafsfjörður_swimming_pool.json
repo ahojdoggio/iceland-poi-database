@@ -1,0 +1,35 @@
+{
+  "name": "Ólafsfjörður Swimming Pool - Black Hole Slide Destination",
+  "description": "Ólafsfjörður Swimming Pool serves this remote fishing town of approximately 700 residents tucked at the head of a dramatic fjord on Tröllaskagi peninsula's northeastern coast with an unexpectedly comprehensive aquatic facility featuring two waterslides including an exciting 52.5-meter "black hole" enclosed slide that has become regionally famous, drawing waterslide enthusiasts from across North Iceland to this small-town pool. Ólafsfjörður is one of Iceland's most dramatically situated communities, enclosed by towering mountains that rise directly from the fjord, creating an almost claustrophobic setting of sheer peaks surrounding the narrow coastal flat where the town occupies every available meter of buildable land. The town's isolation was legendary until 2010 when the Múlabjargsvegur tunnel opened, finally providing year-round road access that previously required traversing a mountain pass impassable during winter storms—prior to the tunnel, Ólafsfjörður sometimes faced weeks of complete isolation. Despite its small size, Ólafsfjörður invested in quality recreational infrastructure including a swimming pool that punches well above its weight in amenities and has earned reputation for exceptional waterslides. The main pool measuring 8 x 25 meters accommodates lap swimming and general recreation with comfortable geothermal heating year-round. Two hot tubs at precisely controlled temperatures—one at 38°C (100°F) and another at 40°C (104°F)—allow bathers to select preferred heat intensity, with one hot tub featuring Jacuzzi jets for massage effects. The waterslides represent the pool's signature attraction: a smaller 3.5-meter slide provides gentle introduction appropriate for younger or more cautious sliders, while the main event—a 52.5-meter enclosed "black hole" slide—delivers thrilling descent through complete darkness in a tube slide that twists and turns before depositing riders in a splash pool. The black hole slide has become something of a pilgrimage destination for Icelandic waterslide enthusiasts who travel specifically to experience it, making this small-town pool regionally significant. The popular Fosslaug (a small additional soaking pool) provides intimate hot water relaxation. A dedicated children's pool creates safe environment for young swimmers. A cold plunge tub offers contrast bathing for those practicing hot-cold alternation. A sauna provides traditional dry heat. The facility underwent renovation in 2010—the same year the tunnel opened—modernizing amenities while expanding capacity to serve increased visitor traffic the tunnel enabled. The pool's location next to Ólafsfjörður Camping and a large playground creates a family recreation zone where visiting families can easily combine swimming with camping stays and children's play. The on-site legal sports hall and well-equipped fitness center transform the swimming pool into a comprehensive sports complex despite the town's tiny population—a testament to Icelandic commitment to quality recreational facilities even in remote communities. For visitors, Ólafsfjörður represents authentic small-town Iceland—a place where fishing remains the economic lifeblood, mountains dominate every view, and community pools serve as social centers where everyone knows everyone.",
+  "address": "Tjarnargata 2, 625 Ólafsfjörður, North Iceland",
+  "coordinates": {
+    "longitude": -18.6467,
+    "latitude": 66.0744,
+    "altitude": 3.0
+  },
+  "rating": 4.7,
+  "reviews_count": 890,
+  "category": "Swimming Pool",
+  "website": "https://www.northiceland.is/en/service/olafsfjordur-swimming-pool",
+  "phone": "olosund@fjallabyggd.is",
+  "images": [
+    "https://www.northiceland.is/images/olafsfjordur-black-hole-slide.jpg"
+  ],
+  "opening_hours": {
+    "contact_for_hours": "Email olosund@fjallabyggd.is for current hours",
+    "pool_size": "8 x 25 meters",
+    "hot_tubs": "2 hot tubs (38°C & 40°C), one with Jacuzzi jets",
+    "waterslides": "2 slides: 3.5m children's slide & 52.5m 'black hole' enclosed slide",
+    "signature_attraction": "Famous 52.5m black hole slide (regional destination)",
+    "additional_pools": "Fosslaug (popular small pool), children's pool",
+    "cold_plunge": "Cold tub",
+    "wellness": "Sauna",
+    "sports_complex": "On-site sports hall and fitness center",
+    "renovated": "2010 (same year access tunnel opened)",
+    "adjacent": "Next to Ólafsfjörður Camping and large playground",
+    "town": "Ólafsfjörður (pop. ~700), remote fishing town on Tröllaskagi peninsula",
+    "setting": "Dramatic fjord head surrounded by towering mountains",
+    "tunnel": "Múlabjargsvegur tunnel (2010) provides year-round access",
+    "character": "Small-town pool with regionally famous waterslide, authentic remote Iceland"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Álftaneslaug - Garðabær's Indoor-Outdoor Pool with Wave Pool",
+  "description": "Álftaneslaug distinguishes itself as Garðabær municipality's second swimming facility by offering both indoor and outdoor pools alongside Iceland's only wave pool—a unique feature that makes it particularly attractive to families with children while maintaining the hot tubs, saunas, and traditional bathing culture expected at Icelandic swimming facilities. Located in Álftanes, the peninsula portion of Garðabær municipality extending into Faxaflói Bay southwest of central Reykjavík, the pool serves residential neighborhoods known for waterfront properties, proximity to presidential residence Bessastaðir, and spectacular ocean views. Álftaneslaug's dual indoor-outdoor design provides flexibility that appeals to different preferences and weather conditions: some swimmers prefer traditional Icelandic outdoor swimming year-round regardless of wind or cold, enjoying the atmospheric experience of warm water surrounded by cold air; others appreciate indoor sheltered swimming, particularly families with young children, those sensitive to cold, or visitors during Iceland's notorious weather extremes. The 25-meter outdoor pool accommodates lap swimming, recreational use, and the atmospheric outdoor swimming experience that defines Icelandic pool culture—swimming in geothermally heated water while snow falls, northern lights dance overhead, or midnight sun blazes creates memorable experiences impossible in conventional indoor facilities. The 12 x 8 meter indoor pool offers climate-controlled comfort preferred during particularly harsh weather or by users who simply prefer swimming without exposure to elements. The children's pool provides safe, shallow environment where young swimmers build confidence and skills. Iceland's only wave pool represents Álftaneslaug's signature attraction—mechanical wave generation creates ocean-like motion that delights children who experience beach-like play impossible in Iceland's frigid ocean waters, while adults enjoy playful recreation distinct from lap swimming's repetitive routine. The novelty attracts families from across the capital region who make special trips to experience wave swimming unavailable at other Icelandic pools. Two hot tubs maintain traditional soaking and pot chat opportunities where Garðabær residents gather for relaxed conversations in therapeutic warmth—these informal gatherings constitute Iceland's most democratic social practice where neighbors, strangers, and multi-generational families share space and discussion as equals. A sauna provides traditional dry heat for cleansing, muscle relaxation, and detoxification that many Icelanders consider essential to complete bathing experiences. The facility shares Garðabær municipality's progressive admission policy eliminating fees for all under-18 visitors (payment begins the day they turn 18) and over-67 elderly residents, reflecting values that swimming represents essential health benefits and social connection deserving universal access. Access cards purchased for either Álftaneslaug or Ásgarðslaug work at both facilities, allowing residents to choose based on location convenience, indoor versus outdoor preference, or desire to experience wave pool novelty. Operating hours accommodate early-morning swimmers who arrive before work or school (6:30 AM weekday opening) and extend to evening (9:00 PM weekdays) with weekend schedules adjusted to family leisure patterns.",
+  "address": "Bæjarhraun 10, 225 Garðabær (Álftanes), Iceland",
+  "coordinates": {
+    "longitude": -21.9931,
+    "latitude": 64.1025,
+    "altitude": 5.0
+  },
+  "rating": 4.7,
+  "reviews_count": 1450,
+  "category": "Swimming Pool",
+  "website": "https://www.gardabaer.is/ibuar/ithrotta-og-tomstundastarf/sundlaugar/alftaneslaug/",
+  "phone": "+354 565 6752",
+  "images": [
+    "https://www.gardabaer.is/images/alftaneslaug-wave-pool.jpg"
+  ],
+  "opening_hours": {
+    "weekdays": "Monday-Friday 6:30 AM - 9:00 PM",
+    "weekends": "Saturday-Sunday 9:00 AM - 6:00 PM",
+    "admission_0_17": "Free (under 18)",
+    "admission_67_plus": "Free (age 67+)",
+    "admission_18_66": "Standard adult rates apply",
+    "access_card": "Valid for both Álftaneslaug and Ásgarðslaug",
+    "outdoor_pool": "25m outdoor pool",
+    "indoor_pool": "12 x 8m indoor pool",
+    "wave_pool": "Iceland's only wave pool (unique feature)",
+    "children_pool": "Children's pool",
+    "hot_tubs": "2 hot tubs",
+    "wellness": "Sauna",
+    "unique_attraction": "Wave pool draws families from across capital region",
+    "flexibility": "Indoor and outdoor options suit different preferences and weather",
+    "progressive_policy": "Free for ages 0-17 and 67+",
+    "municipality": "Garðabær (pop. ~17,000), Álftanes peninsula area",
+    "nearby": "Bessastaðir presidential residence, waterfront properties, ocean views",
+    "sister_pool": "Ásgarðslaug (Garðabær's outdoor-only traditional pool)"
+  }
+}
