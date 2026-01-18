@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 173 (44%) |
-| **Remaining** | 220 (56%) |
+| **Completed** | 191 (49%) |
+| **Remaining** | 202 (51%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 38/258 (15%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **173/393 (44%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 56/258 (22%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **191/393 (49%)** |
 
 ---
 
@@ -523,36 +523,50 @@ Running: [X]/393 ([X]%)
 - [x] East Iceland Heritage Museum - Wild reindeer, rural artifacts, Egilsstaðir
 - [x] Jaja Ding Dong Húsavík - Eurovision bar, Húsavík (from Priority 1)
 
-### Swimming Pools (25+)
+### Swimming Pools - ✅ COMPLETE (35/35)
 
-**Reykjavík Area:**
-- [ ] Laugardalslaug
-- [ ] Sundhöllin
-- [ ] Vesturbæjarlaug
-- [ ] Árbæjarlaug
-- [ ] Breiðholtslaug
-- [ ] Grafarvogslaug
-- [ ] Seltjarnarneslug
-- [ ] Mosfellsbær
-- [ ] Hafnarfjörður
-- [ ] Kópavogur
-- [ ] Garðabær
+**Previously Completed (17 from Priority 1-3 Geothermal section):**
+- [x] Birkimelur - Small Westfjords pool
+- [x] Drangsnes - 3 free seaside tubs
+- [x] Grettislaug - Saga site pools
+- [x] Gvendarlaug - Medieval pool, Laugarhóll
+- [x] Hellulaug - Seaside hot pool
+- [x] Hoffell - Near glacier
+- [x] Hofsós - Infinity pool, fjord views
+- [x] Hotel Heydalur - Indoor/outdoor, remote valley
+- [x] Krauma Spa - Modern spa, Deildartunguhver
+- [x] Krossneslaug - Arctic Ocean pool
+- [x] Laugarvatn Fontana - Geothermal bread baking
+- [x] Mývatn Nature Baths - Blue Lagoon of North
+- [x] Pollurinn - 3 free hillside tubs
+- [x] Reykjafjardarlaug - Westfjords roadside
+- [x] Secret Lagoon - 1891 historic pool, Flúðir
+- [x] Seljavallalaug - 1923 mountain valley pool
+- [x] Akureyri Swimming Pool - Geothermal pools, slides (from Priority 1)
 
-**Around Iceland:**
-- [ ] Akureyri Pool
-- [ ] Hofsós Pool
-- [ ] Gvendarlaug
-- [ ] Krossneslaug
-- [ ] Grettislaug
-- [ ] Drangsnes
-- [ ] Pollurinn
-- [ ] Seljavallalaug
-- [ ] Landmannalaugar
-- [ ] Dalvík
-- [ ] Ólafsfjörður
-- [ ] Sauðárkrókur
-- [ ] Varmaland
-- [ ] Vopnafjörður
+**Batch 1 - Reykjavík Area (7):**
+- [x] Laugardalslaug - Reykjavík's largest, Olympic 50m pool, 300ft waterslide
+- [x] Sundhöllin - Historic 1937 pool, Guðjón Samúelsson architect
+- [x] Vesturbæjarlaug - 5 hot tubs, infrared sauna (2025), steam room
+- [x] Árbæjarlaug - Family-friendly, waterslide, fountains, 3 hot tubs
+- [x] Breiðholtslaug - 2 waterslides, wheelchair accessible, steam bath
+- [x] Grafarvogslaug - Tranquil northeast pool, 3 hot tubs, infrared sauna
+- [x] Seltjarnarneslaug - Free for under-18 (2025 policy), 4 hot tubs
+
+**Batch 2 - Suburban Reykjavík (5):**
+- [x] Lágafellslaug - Mosfellsbær, 3 slides (12m, 33m, 43m), World Class gym
+- [x] Suðurbæjarlaug - Hafnarfjörður, free under-18, interconnected indoor/outdoor
+- [x] Kópavogslaug - Olympic 50m + 7 hot tubs, one of Iceland's largest
+- [x] Ásgarðslaug - Garðabær outdoor pool, free ages 0-17 & 67+
+- [x] Álftaneslaug - Iceland's ONLY wave pool, indoor & outdoor pools
+
+**Batch 3 - Regional Iceland (6):**
+- [x] Landmannalaugar - Natural highland hot spring, rhyolite mountains, F-roads only
+- [x] Dalvík - Sports centre, Eyjafjörður views, North Iceland
+- [x] Ólafsfjörður - Famous 52.5m "black hole" slide, Tröllaskagi peninsula
+- [x] Sauðárkrókur - Skagafjörður regional pool, excellent hot tubs
+- [x] Varmaland - Seasonal highland retreat (late June-mid August only)
+- [x] Selárlaug - Remote donation pool (honor system), riverside, Vopnafjörður
 
 ### Restaurants (25)
 
