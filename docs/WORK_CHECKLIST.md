@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 191 (49%) |
-| **Remaining** | 202 (51%) |
+| **Completed** | 216 (55%) |
+| **Remaining** | 177 (45%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 56/258 (22%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **191/393 (49%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 81/258 (31%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **216/393 (55%)** |
 
 ---
 
@@ -568,36 +568,38 @@ Running: [X]/393 ([X]%)
 - [x] Varmaland - Seasonal highland retreat (late June-mid August only)
 - [x] Selárlaug - Remote donation pool (honor system), riverside, Vopnafjörður
 
-### Restaurants (25)
+### Restaurants - ✅ COMPLETE (25/25)
 
-**Reykjavík:**
-- [ ] Dill
-- [ ] Grillmarkaðurinn
-- [ ] Matur og Drykkur
-- [ ] Fish Company
-- [ ] Kol
-- [ ] Sumac
-- [ ] Sægreifinn
-- [ ] Bæjarins Beztu
-- [ ] Sandholt
-- [ ] Reykjavík Roasters
-- [ ] Café Loki
-- [ ] Brauð & Co
-- [ ] Gló
-- [ ] Messinn
-- [ ] Apotek
-- [ ] Coocoo's Nest
-- [ ] Slippbarinn
-- [ ] Skál! Bistro
-- [ ] Public House
+**Batch 1 - Reykjavík Fine Dining & Mid-Range (8):**
+- [x] Dill - Iceland's only Michelin star, New Nordic 15+ course tasting
+- [x] Grillmarkaðurinn - Wood-fired grill, volcanic rock walls, adventurous proteins
+- [x] Matur og Drykkur - Traditional Icelandic, Helga Sigurðardóttir cookbook, harbor factory
+- [x] Fiskfélagið - Fish Company, dishes named by country (Iceland, France, Italy, Japan...)
+- [x] Kol - Rainbow street location, charcoal grilling, gyoza tacos, weekend bottomless brunch
+- [x] Sumac - Middle Eastern/Lebanese/Moroccan, Michelin Guide 2025, 16,000-18,000 ISK
+- [x] Messinn - Copper fish pans, Arctic char, generous portions, lunch 50% cheaper than dinner
+- [x] Apotek - Historic 1930 pharmacy building, Guðjón Samúelsson architect, 7-course tasting
 
-**Regional:**
-- [ ] Vogafjós (Mývatn)
-- [ ] Saltverk (Westfjords)
-- [ ] Pakkhús (Höfn)
-- [ ] Hótel Búðir
-- [ ] Kaffi Ilmur
-- [ ] Við Pollinn (Akureyri)
+**Batch 2 - Reykjavík Casual & Cafés (9):**
+- [x] Sægreifinn - Sea Baron, world-famous lobster soup, green fisherman's hut in old harbor
+- [x] Bæjarins Beztu - 1937 hot dog stand, Bill Clinton visit created "The Clinton", lamb-based sausages
+- [x] Sandholt - 1920 bakery, 4th generation artisan bakers, sourdough & French pastries
+- [x] Reykjavík Roasters - Third-wave specialty coffee, in-house roasting at Brautarholt
+- [x] Café Loki - Traditional Icelandic, fermented shark, rye bread ice cream, Hallgrímskirkja views
+- [x] Brauð & Co - Famous cinnamon rolls sell out before noon, 4.8★ from 4,479 reviews
+- [x] Gló - Organic pioneer since 2007, raw food, vegan/vegetarian, daily-changing menu
+- [x] Coocoo's Nest - Family-run, weekend brunch, sourdough pizza (verify status - may be closed)
+- [x] Slippbarinn - Old Harbor craft cocktails, ever-changing menus, Marina Hotel
+
+**Batch 3 - Regional Iceland (8):**
+- [x] Vogafjós - Mývatn cowshed dining, watch cows being milked, geothermal underground bread
+- [x] Pakkhús - Höfn langoustine capital, harborside, cream soup & baked preparations
+- [x] Hótel Búðir - Snæfellsnes fine dining, isolated Búðahraun lava field, 4 main options
+- [x] Fjöruborðið - Stokkseyri south coast, world-famous langoustine in butter & garlic
+- [x] LOGN - Ísafjörður Westfjords, authentic Neapolitan pizza, happy hour 4-6 PM daily
+- [x] Rub23 - Akureyri sushi fusion, choose fish + spice rub from ~23 variations
+- [x] Tjöruhúsið - Ísafjörður tar factory, family-style fish buffet, no menu, 6,000 ISK
+- [x] Hraun - Ólafsvík Snæfellsnes, casual dining, local Mýrarnaut beef, Breiðafjörður mussels
 
 ### Breweries & Bars (8)
 - [ ] Bryggjan Brugghús
