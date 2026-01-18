@@ -1,0 +1,43 @@
+{
+  "name": "Apotek Kitchen + Bar - Historic Pharmacy Building Restaurant",
+  "description": "Apotek Kitchen + Bar occupies one of Reykjavík's most historically significant buildings—one of Iceland's first large concrete structures, designed by state architect Guðjón Samúelsson (1887-1950), who also created Hallgrímskirkja church and numerous other iconic Icelandic buildings that define the nation's architectural heritage. Located at Austurstræti 16 in the heart of downtown Reykjavík, the building functioned as Reykjavíkurapotek (the Reykjavík Pharmacy) from 1930 to 1999, earning its enduring nickname \"Apotekið\" that persists decades after the last prescription was filled. The restaurant's name and cocktail bar concept playfully references this pharmaceutical heritage—award-winning \"pharmacists\" (bartenders) mix artisan cocktails categorized as painkillers, stimulants, tranquilizers, and even placebos, creating whimsical connection between medicinal remedies and alcoholic libations while showcasing serious mixology skills that have earned recognition in Iceland's competitive cocktail scene. The building's architectural pedigree reflects the modernist concrete construction that represented progress and permanence when erected in 1930—at a time when most Icelandic buildings still used turf, stone, or imported timber, this imposing concrete structure symbolized Reykjavík's transition from fishing village to modern capital. Today's restaurant interior honors this heritage while creating contemporary dining atmosphere that balances historical gravitas with lively energy. The menu presents a fun mix of Icelandic and European cuisine with a smoking hot Argentinean grill, combining fresh Icelandic seafood, lamb, and local ingredients with modern twists and international preparation techniques—this eclectic approach reflects Reykjavík's increasingly cosmopolitan dining scene where chefs confidently blend Icelandic ingredients with global culinary traditions. Dishes are designed to share and enjoy together, embracing the social, communal dining culture that characterizes Icelandic meals and creates lively atmosphere particularly during peak dinner hours when the restaurant fills with groups celebrating special occasions, tourists seeking memorable meals, and locals gathering with friends. The seven-course tasting menu (15,900 ISK) allows chefs to showcase their range through a carefully paired progression of meat and seafood culminating in dessert, providing structure and surprise that turns dining into theatrical experience. Operating hours accommodate diverse needs: lunch service 11:30-14:00 provides midday dining for business lunches or tourist schedules; afternoon tea 14:30-17:00 every day offers refined snacking during the late afternoon gap between meals; weekend brunch Saturday-Sunday 11:30-14:30 attracts locals and visitors seeking leisurely morning meals; and dinner service 17:00-22:00 Sunday-Thursday (until 23:00 Friday-Saturday) covers evening dining with extended hours on weekends when Reykjavík's nightlife culture drives later meal times. The lively cocktail bar draws independent crowds who come solely for drinks, particularly the creative pharmacy-themed cocktails that balance novelty with serious craft. The combination of historically significant building, central downtown location, diverse menu accommodating multiple dining occasions (lunch, afternoon tea, brunch, dinner), sophisticated cocktail program, and Argentinean grill specialty creates versatile venue that functions equally well for business lunch, romantic dinner, weekend brunch with friends, or late-night drinks—this flexibility contributes to consistent popularity and high traffic throughout operating hours.",
+  "address": "Austurstræti 16, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9382,
+    "latitude": 64.1477,
+    "altitude": 5.0
+  },
+  "rating": 4.5,
+  "reviews_count": 3890,
+  "category": "Restaurant",
+  "website": "https://apotekrestaurant.is/en",
+  "phone": "+354 551 0011",
+  "images": [
+    "https://apotekrestaurant.is/images/historic-building.jpg"
+  ],
+  "opening_hours": {
+    "lunch": "11:30-14:00 daily",
+    "afternoon_tea": "14:30-17:00 every day",
+    "brunch": "Saturday-Sunday 11:30-14:30",
+    "dinner_sun_thu": "17:00-22:00",
+    "dinner_fri_sat": "17:00-23:00",
+    "historic_building": "One of Iceland's first large concrete buildings (1930)",
+    "architect": "Guðjón Samúelsson (1887-1950) - also designed Hallgrímskirkja",
+    "former_use": "Reykjavíkurapotek pharmacy 1930-1999",
+    "nickname": "Apotekið (the pharmacy) - enduring local name",
+    "cocktail_concept": "Award-winning 'pharmacists' mix artisan cocktails: painkillers, stimulants, tranquilizers, placebos",
+    "cuisine": "Icelandic and European with Argentinean grill",
+    "ingredients": "Fresh seafood, lamb, local ingredients with modern twists",
+    "dining_style": "Dishes designed to share and enjoy together",
+    "tasting_menu": "7 courses for 15,900 ISK - blend of meat and seafood plus dessert",
+    "grill_specialty": "Smoking hot Argentinean grill",
+    "versatility": "Lunch, afternoon tea, weekend brunch, dinner, cocktail bar",
+    "architectural_significance": "Modernist concrete construction symbolized Reykjavík's progress in 1930",
+    "location": "Central Austurstræti downtown, prime accessibility",
+    "atmosphere": "Historical gravitas balanced with lively contemporary energy",
+    "clientele": "Groups celebrating, tourists, locals gathering, business lunches, romantic dinners",
+    "bar_independence": "Cocktail bar attracts dedicated drink crowds, not just diners",
+    "pharmacy_theme": "Playful medicinal remedy cocktail categories honor building's heritage",
+    "operating_flexibility": "Multiple meal services accommodate diverse schedules and occasions"
+  }
+}

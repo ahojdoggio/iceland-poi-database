@@ -1,0 +1,40 @@
+{
+  "name": "Café Loki - Traditional Icelandic Cuisine Across from Hallgrímskirkja",
+  "description": "Café Loki specializes in classic home-style Icelandic cuisine, occupying a strategic location directly across from Hallgrímskirkja church that provides both stunning views of Reykjavík's most iconic landmark and guaranteed foot traffic from the thousands of tourists who climb the church tower daily for panoramic city vistas, then descend hungry and curious about authentic Icelandic food beyond the upscale New Nordic restaurants dominating downtown dining. The café's name references Loki, the Norse trickster god from Iceland's mythological heritage, with the interior featuring Norse mythology-inspired décor that creates warm, inviting atmosphere enriched by wooden furnishings, traditional Icelandic craft objects, and comfortable seating that encourages lingering over meals while gazing across the street at Guðjón Samúelsson's magnificent church rising 74.5 meters into Reykjavík's sky. Operating daily 8:00 AM to 10:00 PM, Café Loki accommodates breakfast visitors seeking traditional Icelandic morning fare, lunch crowds wanting hearty midday meals, afternoon coffee-and-cake breaks that constitute essential Icelandic social ritual, and dinner diners looking for authentic Icelandic cuisine at more approachable prices than fine dining establishments charge. The menu emphasizes traditional Icelandic dishes prepared with home-cooking techniques rather than restaurant elaboration: famous meat soup (lamb and root vegetable stew that has sustained Icelanders through centuries of cold winters) served with dense rye bread perfect for soaking up rich broth; dried fish with butter (harðfiskur, air-dried haddock or cod that Icelanders snack on like jerky, traditionally spread with salted Icelandic butter creating protein-rich, shelf-stable food that required no refrigeration); fermented shark or hákarl (Greenland shark meat buried and fermented for months creating ammonia-heavy pungent delicacy that remains Iceland's most notorious traditional food, challenging even adventurous eaters with its strong smell and acquired taste); and various rye bread preparations showcasing the dense, slightly sweet bread fundamental to Icelandic cuisine. The café's signature innovation—rye bread ice cream—transforms traditional bread into surprising dessert that has become cult favorite, combining familiar Icelandic flavor with playful culinary creativity. Recent reviews celebrate authentic Icelandic specialties including lamb soup earning particular praise for flavorful broth, tender meat, and generous portions that satisfy without overwhelming, while the rye bread ice cream attracts adventurous dessert lovers intrigued by unusual flavor combinations. The fermented shark offering attracts tourists seeking to check \"tried hákarl\" off their Iceland bucket lists—opinions remain predictably divided between those who find it intolerably pungent and those who appreciate the connection to Iceland's food preservation heritage and willingness to waste nothing from rare shark catches that sustained fishing communities when other food remained scarce. The combination of prime Hallgrímskirkja location with unbeatable church views, traditional Icelandic menu featuring dishes difficult to find elsewhere, warm Norse mythology-themed atmosphere, all-day operating hours, and prices more moderate than fine dining alternatives makes Café Loki ideal destination for visitors seeking authentic Icelandic food experience in comfortable, accessible setting that doesn't require extensive culinary adventurousness or tolerance for avant-garde presentations—this is grandma's cooking elevated slightly but retaining essential character of home meals.",
+  "address": "Lokastígur 28, 101 Reykjavík (across from Hallgrímskirkja church)",
+  "coordinates": {
+    "longitude": -21.9267,
+    "latitude": 64.1416,
+    "altitude": 25.0
+  },
+  "rating": 4.6,
+  "reviews_count": 5840,
+  "category": "Restaurant",
+  "website": "https://loki.is",
+  "phone": "+354 534 7638",
+  "images": [
+    "https://loki.is/images/hallgrimskirkja-view.jpg"
+  ],
+  "opening_hours": {
+    "daily": "8:00 AM - 10:00 PM",
+    "view": "Direct views of Hallgrímskirkja church across street",
+    "location_advantage": "Prime position for tourists descending from church tower",
+    "cuisine": "Classic home-style traditional Icelandic",
+    "signature_dishes": "Lamb soup, dried fish with butter, fermented shark (hákarl), rye bread dishes",
+    "rye_bread_ice_cream": "Signature dessert - traditional bread transformed into innovative ice cream",
+    "meat_soup": "Lamb and root vegetable stew, centuries-old Icelandic comfort food",
+    "dried_fish": "Harðfiskur - air-dried haddock/cod with salted butter, protein-rich snack food",
+    "fermented_shark": "Hákarl - buried/fermented Greenland shark, notorious pungent traditional delicacy",
+    "rye_bread": "Dense slightly sweet bread fundamental to Icelandic cuisine",
+    "atmosphere": "Norse mythology-inspired décor, warm and inviting",
+    "interior": "Wooden furnishings, traditional Icelandic craft objects, comfortable seating",
+    "name_reference": "Loki - Norse trickster god from Icelandic mythology",
+    "meal_services": "Breakfast, lunch, afternoon coffee-and-cake, dinner",
+    "price_level": "Moderate, more approachable than fine dining establishments",
+    "tourist_appeal": "Bucket-list hákarl experience, authentic Icelandic food without restaurant elaboration",
+    "cooking_style": "Home-cooking techniques, grandma's cooking slightly elevated",
+    "reviews_highlight": "Lamb soup earns particular praise for flavor, tender meat, generous portions",
+    "cultural_education": "Food preservation heritage, traditional dishes difficult to find elsewhere",
+    "hákarl_reactions": "Predictably divided opinions - pungent challenge or cultural connection"
+  }
+}

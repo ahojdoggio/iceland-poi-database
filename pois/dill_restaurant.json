@@ -1,0 +1,37 @@
+{
+  "name": "Dill Restaurant - Iceland's Only Michelin-Starred Restaurant",
+  "description": "Dill holds the singular distinction of being Iceland's first and only Michelin-starred restaurant, earning its One Star rating in 2017 and maintaining this prestigious recognition through consistent excellence in New Nordic cuisine that showcases Iceland's unique ingredients, traditional preservation methods, and culinary heritage through modern techniques and artistic presentation. Founded in 2009 by chef-owner Gunnar Karl Gíslason along with sommelier Ólafur Ágústsson, Dill pioneered the New Nordic movement in Iceland—a culinary philosophy emphasizing local, seasonal, and foraged ingredients prepared with creativity and respect for Nordic food traditions including fermentation, smoking, pickling, and preservation techniques that sustained Icelanders through centuries of isolation and harsh climate. The restaurant's name references dill (Anethum graveolens), the herb that has flavored Icelandic cuisine for generations, symbolizing the connection between traditional and contemporary cooking. Located on Laugavegur 59 in downtown Reykjavík's main shopping street, Dill occupies an intimate space seating approximately 35 guests in a minimalist Scandinavian interior where clean lines, natural materials, and understated elegance create an atmosphere focused entirely on the food, wine, and dining experience rather than showy décor. The tasting menu unfolds over more than 15 carefully curated courses, each designed to tell a story about Icelandic nature and culture—dishes might feature ingredients like wild Icelandic herbs foraged from mountain slopes, seabirds' eggs gathered from coastal cliffs, heritage grains revived from near-extinction, ocean-caught fish prepared with techniques preserving Viking-era flavors, lamb raised on highland pastures, and dairy products from grass-fed cows. Fermented, smoked, and pickled ingredients lead the charge on Gunnar Karl's vibrant menu, creating complex flavor profiles that surprise international diners accustomed to more conventional fine dining while delighting Icelanders who recognize ancestral tastes elevated to haute cuisine. The restaurant offers a selection of organic and provocative wines carefully chosen to complement each course, with the option to enjoy the menu with or without the wine pairing experience. Due to the setup of the menu focusing heavily on Icelandic ingredients and traditional preparations, the restaurant cannot accommodate vegans or diets completely free from milk protein—a limitation reflecting the reality that Iceland's food culture has historically centered on animal products necessary for survival in a climate where plant cultivation remained challenging until recent decades. Operating Tuesday through Saturday from 6:00 PM to midnight, Dill requires reservations booked well in advance—often months for peak season dining—as the limited seating and international reputation create high demand. Prices range approximately 8,000-15,000 ISK ($60-115 USD) per person for the tasting menu, positioning Dill as a special-occasion destination rather than casual dining. The restaurant emphasizes sustainability, local foraging, and zero-waste practices, earning recognition not only for culinary excellence but also for environmental responsibility that aligns with broader Icelandic cultural values.",
+  "address": "Laugavegur 59, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9262,
+    "latitude": 64.1447,
+    "altitude": 10.0
+  },
+  "rating": 4.7,
+  "reviews_count": 2340,
+  "category": "Restaurant",
+  "website": "https://www.dillrestaurant.is",
+  "phone": "+354 552 1522",
+  "images": [
+    "https://www.dillrestaurant.is/images/dill-interior.jpg"
+  ],
+  "opening_hours": {
+    "tuesday_saturday": "18:00 - 00:00 (6:00 PM - midnight)",
+    "closed": "Monday and Sunday",
+    "reservations": "Essential - book months in advance for peak season",
+    "michelin_star": "One Star (2017-present) - Iceland's only Michelin-starred restaurant",
+    "green_star": "Michelin Green Star for sustainability",
+    "cuisine": "New Nordic, Icelandic ingredients",
+    "chef_owner": "Gunnar Karl Gíslason",
+    "founded": "2009",
+    "tasting_menu": "15+ courses telling story of Icelandic nature and culture",
+    "techniques": "Fermentation, smoking, pickling, traditional preservation",
+    "wine_pairing": "Organic and provocative wine selection available",
+    "price_range": "8,000-15,000 ISK (~$60-115 USD) per person",
+    "dietary_note": "Cannot accommodate vegans or milk-protein-free diets due to menu setup",
+    "seating": "~35 guests, intimate minimalist Scandinavian interior",
+    "philosophy": "Local, seasonal, foraged ingredients with modern techniques",
+    "sustainability": "Zero-waste practices, local foraging, environmental responsibility",
+    "location": "Downtown Reykjavík main shopping street (Laugavegur)"
+  }
+}

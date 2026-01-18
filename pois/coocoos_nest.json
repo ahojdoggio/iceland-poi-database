@@ -1,0 +1,40 @@
+{
+  "name": "The Coocoo's Nest - Family-Run Brunch & Sourdough Pizza",
+  "description": "The Coocoo's Nest operates as a small, family-run restaurant and café in Reykjavík's Grandi harbor area at Grandagarður 23, earning loyal following through exceptional weekend brunch and gourmet sourdough pizza that showcase the intimate, personal character of owner-operated establishments where passionate commitment to quality substitutes for large-restaurant resources and corporate systematization. The restaurant's name references Ken Kesey's classic novel \"One Flew Over the Cuckoo's Nest,\" suggesting playful, slightly unconventional character that distinguishes it from more polished downtown dining establishments—this personality manifests in cozy, informal atmosphere where regulars feel like welcomed friends rather than anonymous customers and first-time visitors quickly understand why devoted clientele return repeatedly despite Grandi's slightly removed location away from central tourist zones. The menu reflects Italian and Californian influences with weekend brunch winning particularly enthusiastic praise from food critics and customers who appreciate creative preparations, generous portions, and quality ingredients that elevate brunch from simple breakfast extension to destination-worthy meal experience. Wednesday and Thursday nights feature gourmet sourdough pizzas demonstrating the kitchen's expertise with fermentation and baking techniques that create complex, flavorful crusts with proper char, chew, and digestibility that distinguish artisan sourdough pizza from conventional yeast-risen versions—the sourdough preparation requires advance planning and skill but rewards with superior taste and texture that pizza enthusiasts recognize immediately. Friday and Saturday nights offer more complex dinner menus featuring starters, homemade pastas (reflecting Italian culinary heritage), quality meats or fish prepared with skill and creativity, and desserts that complete multi-course dining experiences—this variety demonstrates kitchen's range beyond the brunch and pizza specialties while providing romantic date-night or celebration dining in intimate Grandi setting. Taco Tuesdays provide casual, fun weekly event that attracts neighborhood regulars and adventurous diners seeking informal gathering atmosphere and Mexican-inspired flavors adapted to Icelandic ingredients and sensibilities. Located in Grandi, Reykjavík's revitalized harbor district that has transformed from working industrial area to trendy destination filled with restaurants, galleries, and cultural attractions, The Coocoo's Nest benefits from the neighborhood's artistic, creative character while avoiding the tourist-heavy crowds that pack downtown establishments—diners who make the short walk or drive from central Reykjavík find themselves rewarded with more relaxed atmosphere, easier table availability, and prices slightly lower than comparable quality downtown restaurants charge. Note: Some sources from 2024-2025 indicate the restaurant may have closed or changed operations—potential visitors should verify current status before making special trips, as small family-run establishments sometimes close temporarily or permanently due to personal circumstances, pandemic impacts, or business challenges that affect independent restaurants more severely than chain operations. If still operating, The Coocoo's Nest represents the kind of neighborhood gem that locals treasure and savvy visitors seek out for authentic experiences beyond guidebook mainstream recommendations.",
+  "address": "Grandagarður 23, 101 Reykjavík (Grandi harbor area)",
+  "coordinates": {
+    "longitude": -21.9510,
+    "latitude": 64.1520,
+    "altitude": 2.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1680,
+  "category": "Restaurant",
+  "website": "https://www.dineout.is/thecoocoosnest",
+  "phone": "+354 555 3700",
+  "images": [
+    "https://coocoosnest.is/images/sourdough-pizza.jpg"
+  ],
+  "opening_hours": {
+    "status_note": "VERIFY CURRENT STATUS - some sources indicate possible closure",
+    "weekend_brunch": "Saturday-Sunday brunch (when operating) - exceptional, loyal following",
+    "wednesday_thursday": "Gourmet sourdough pizzas",
+    "friday_saturday": "Complex dinner menu - starters, homemade pastas, meats/fish, desserts",
+    "taco_tuesday": "Weekly casual event, Mexican-inspired flavors",
+    "restaurant_type": "Small family-run café/restaurant",
+    "cuisine": "Italian/Californian fare, sourdough pizza specialty",
+    "sourdough_expertise": "Fermentation and baking techniques, complex flavorful crusts",
+    "pizza_quality": "Proper char, chew, digestibility distinguish artisan sourdough from conventional",
+    "brunch_reputation": "Exceptional weekend brunch with creative preparations, generous portions",
+    "dinner_variety": "Multi-course dining for date nights and celebrations",
+    "atmosphere": "Cozy, informal, family-run character",
+    "clientele": "Regulars feel welcomed like friends",
+    "name_reference": "Ken Kesey's 'One Flew Over the Cuckoo's Nest' - playful, unconventional",
+    "location_character": "Grandi harbor district - artistic, creative, revitalized industrial area",
+    "advantages": "More relaxed than downtown, easier tables, slightly lower prices",
+    "neighborhood_gem": "Locals treasure, savvy visitors seek authentic experiences",
+    "italian_influence": "Homemade pastas, sourdough pizza techniques",
+    "california_influence": "Brunch creativity, quality ingredient focus",
+    "advance_planning": "Sourdough requires fermentation time, demonstrates skill commitment"
+  }
+}

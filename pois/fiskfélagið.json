@@ -1,0 +1,36 @@
+{
+  "name": "Fiskfélagið - The Fish Company",
+  "description": "Fiskfélagið (The Fish Company) has established itself as one of the centerpieces of excellent cuisine in Reykjavík and a staple of the city's restaurant scene, offering creative seafood-focused dining that draws inspiration from culinary traditions around the world while maintaining strong connections to Iceland's maritime heritage and the exceptional quality of Icelandic fish and shellfish caught in some of the planet's richest fishing grounds. Located in downtown Reykjavík center just by Ingólfstorg square and a short walk from the harbor, the restaurant occupies a convenient location that provides easy access for visitors exploring the city's compact downtown while maintaining proximity to the fishing boats and fish markets that supply the day's freshest catch. The menu's innovative concept assigns each starter, main course, and dessert a country name—Iceland, France, Italy, Greece, Ireland, Japan, Argentina, Bora Bora—indicating the culinary tradition inspiring that dish's flavor profile, preparation technique, or ingredient combination, creating a dining experience that feels like a global culinary journey while remaining anchored by Icelandic seafood's exceptional quality. This approach allows the kitchen to showcase Icelandic ingredients (particularly fish and shellfish) through diverse culinary lenses, demonstrating that Iceland's ocean bounty works beautifully with Mediterranean olive oil and citrus, Japanese wasabi and soy, French butter and wine, or South American chimichurri and spices. The \"Around Iceland\" menu features a four-course culinary feast showcasing the freshest Icelandic ingredients, providing a focused exploration of domestic flavors for diners seeking authentic local cuisine. The \"Around the World\" menu offers family-style service for groups, with shared dishes creating convivial dining experiences ideal for celebrations or gatherings. Menu items include homemade fish cakes with lobster and haddock, Arctic char, reindeer carpaccio, burrata, and various sashimi and seafood preparations that reflect the restaurant's commitment to quality ingredients and skilled preparation across multiple culinary traditions. Prices are described as average to fair, with some reviewers noting the cost reflects the high quality—many diners feel the exceptional food justifies the expense, particularly for special occasions or when seeking Iceland's best seafood prepared with international sophistication. The restaurant has become known for reliably excellent fish and seafood, creative presentations, and service that balances professionalism with Icelandic friendliness. The dining room creates an upscale yet approachable atmosphere where both tourists seeking memorable meals and locals celebrating important events feel comfortable and welcome. As one of Reykjavík's most established fine dining seafood restaurants, Fiskfélagið represents the intersection of Iceland's fishing industry heritage, the country's exceptional marine resources, and contemporary culinary creativity that looks beyond traditional Icelandic preparations to embrace global flavors while never losing sight of the fundamental importance of ingredient quality—in this case, some of the world's finest fish and shellfish caught in the cold, clean waters surrounding Iceland.",
+  "address": "Vesturgata 2a, 101 Reykjavík (by Ingólfstorg square)",
+  "coordinates": {
+    "longitude": -21.9406,
+    "latitude": 64.1475,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 3250,
+  "category": "Restaurant",
+  "website": "https://www.fiskfelagid.is",
+  "phone": "+354 578 8877",
+  "images": [
+    "https://www.fiskfelagid.is/images/seafood-platter.jpg"
+  ],
+  "opening_hours": {
+    "cuisine": "Seafood-focused with international inspiration",
+    "menu_concept": "Each dish named after country (Iceland, France, Italy, Greece, Ireland, Japan, Argentina, Bora Bora)",
+    "around_iceland": "4-course culinary feast with freshest Icelandic ingredients",
+    "around_world": "Family-style service for groups, shared dishes",
+    "signature_items": "Homemade fish cakes (lobster & haddock), Arctic char, reindeer carpaccio, burrata, sashimi",
+    "specialization": "Icelandic fish and shellfish from rich fishing grounds",
+    "preparation_styles": "Mediterranean, Japanese, French, South American influences",
+    "price_level": "Average to fair, quality justifies cost for many diners",
+    "reputation": "Centerpiece of Reykjavík restaurant scene, staple establishment",
+    "location": "Downtown center by Ingólfstorg square, short walk to harbor",
+    "atmosphere": "Upscale yet approachable, professional service with Icelandic friendliness",
+    "clientele": "Tourists seeking memorable meals, locals celebrating special occasions",
+    "philosophy": "Showcase Icelandic seafood through diverse global culinary lenses",
+    "quality_focus": "Ingredient quality paramount - world's finest fish and shellfish",
+    "proximity": "Near fishing boats and fish markets for freshest catch",
+    "dining_experience": "Global culinary journey anchored by exceptional Icelandic seafood"
+  }
+}

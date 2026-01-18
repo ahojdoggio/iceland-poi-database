@@ -1,0 +1,40 @@
+{
+  "name": "Bæjarins Beztu Pylsur - Iceland's Most Famous Hot Dog Stand",
+  "description": "Bæjarins Beztu Pylsur (The Town's Best Sausages) has operated continuously since 1937, making it not only Reykjavík's oldest hot dog stand but also one of Iceland's most enduring food institutions, achieving international fame after former U.S. President Bill Clinton's 2004 visit created the \"Clinton\" hot dog ordering style and transformed this humble street food vendor into a must-visit tourist destination that appears in virtually every Iceland travel guide and receives more online reviews than many upscale restaurants. The flagship stand located at Tryggvagata 1 near Harpa Concert Hall and the city harbor occupies prime downtown real estate that guarantees constant foot traffic from tourists walking between accommodations, attractions, and whale watching tours that depart from nearby docks. The stand operates extraordinarily long hours—9:00 AM to 1:00 AM Sunday through Wednesday, until 2:00 AM Thursday, and until 6:00 AM Friday and Saturday—serving everyone from tourists seeking lunch to late-night partygoers stumbling from Reykjavík's famous nightlife scene that keeps bars and clubs hopping until early morning hours during summer's midnight sun and winter's dark, cold nights when warm sustenance becomes particularly appealing. The hot dogs themselves represent distinctly Icelandic interpretation of this global food: the sausages contain lamb as primary meat blended with pork and beef, creating flavor profile unique to Iceland that reflects the nation's sheep-farming heritage and the quality of Icelandic lamb raised on highland pastures eating wild grasses and herbs. Served in a soft bun, customers choose from five condiments: ketchup, sweet brown mustard (sweeter than American yellow mustard), remoulade (creamy mayonnaise-based sauce with pickles, capers, and herbs popular in Scandinavia), crispy fried onions (providing textural crunch), and raw onions (sharp fresh contrast). The traditional Icelandic order—\"eina með öllu\" (one with everything)—includes all five toppings creating complex sweet-savory-tangy-crunchy combination that distinguishes these hot dogs from simpler American versions typically dressed with just mustard and ketchup. Bill Clinton's August 2004 visit during a UNICEF conference became Bæjarins Beztu's defining moment: the former president, reportedly on a diet, ordered a hot dog with only mustard—this minimalist choice immediately became known as \"The Clinton\" and remains an ordering option today, though most visitors choose \"everything\" to experience the full flavor complexity that locals love. The British newspaper The Guardian selected Bæjarins Beztu as the best hot dog stand in Europe in August 2006, validating what Icelanders already knew: that simple street food prepared with quality ingredients and eaten from a historic stand with character surpasses fancier alternatives. Prices remain remarkably modest for expensive Reykjavík—a hot dog cost 600 króna (€4.20) in 2022, increasing to 880 krónur (€6.00) in 2026, still representing one of Iceland's most affordable meals and excellent value for tourists shocked by restaurant prices. The stand's enduring popularity creates queues during peak tourist seasons, particularly during cruise ship arrivals when hundreds of passengers simultaneously descend on downtown Reykjavík seeking authentic Icelandic experiences and affordable meals—patient waiting becomes part of the experience, with fellow queue members from around the world sharing travel stories and hot dog topping preferences.",
+  "address": "Tryggvagata 1, 101 Reykjavík (near Harpa Concert Hall)",
+  "coordinates": {
+    "longitude": -21.9401,
+    "latitude": 64.1489,
+    "altitude": 3.0
+  },
+  "rating": 4.4,
+  "reviews_count": 12850,
+  "category": "Restaurant",
+  "website": "https://bbp.is",
+  "phone": "+354 511 1566",
+  "images": [
+    "https://bbp.is/images/hot-dog-stand.jpg"
+  ],
+  "opening_hours": {
+    "sunday_wednesday": "9:00 AM - 1:00 AM",
+    "thursday": "9:00 AM - 2:00 AM",
+    "friday_saturday": "9:00 AM - 6:00 AM",
+    "established": "1937 - operating continuously for 87+ years",
+    "hot_dog_composition": "Lamb-based with pork and beef (distinctly Icelandic)",
+    "condiments": "Ketchup, sweet mustard, remoulade, crispy fried onions, raw onions",
+    "traditional_order": "Eina með öllu (one with everything) - all 5 toppings",
+    "clinton_order": "Mustard only - named after Bill Clinton's 2004 visit",
+    "bill_clinton_visit": "August 2004 during UNICEF conference, on diet ordered mustard-only hot dog",
+    "guardian_award": "Selected as best hot dog stand in Europe (August 2006)",
+    "price_2026": "880 krónur (~€6.00, ~$6.50 USD) - affordable for expensive Reykjavík",
+    "price_history": "600 króna in 2022",
+    "flagship_location": "Tryggvagata 1 near Harpa & harbor",
+    "additional_locations": "Small chain with other stands in Reykjavík",
+    "guidebook_staple": "Appears in virtually every Iceland travel guide",
+    "queue_culture": "Lines form during peak tourist seasons, especially cruise ship arrivals",
+    "late_night_culture": "Serves post-nightlife crowd until 6 AM Friday-Saturday",
+    "lamb_quality": "Icelandic lamb raised on highland pastures, wild grasses and herbs",
+    "remoulade_note": "Scandinavian creamy mayo-based sauce with pickles, capers, herbs",
+    "value_proposition": "One of Reykjavík's most affordable meals, excellent tourist value"
+  }
+}

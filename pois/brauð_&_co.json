@@ -1,0 +1,40 @@
+{
+  "name": "Brauð & Co - Famous Cinnamon Roll Bakery",
+  "description": "Brauð & Co has achieved cult status in Reykjavík's competitive bakery scene through obsessive focus on one product done extraordinarily well: cinnamon rolls (kanilsnúður in Icelandic) so beloved that they sometimes sell out before noon despite the bakery baking continuously throughout operating hours, creating situations where disappointed late-comers find themselves planning return visits specifically timed to guarantee cinnamon roll acquisition. Located at Frakkastígur 16 just minutes from Hallgrímskirkja church in downtown Reykjavík, with additional locations inside Hlemmur Mathöll food hall and at Skeifan, the bakery has expanded from single shop to mini-chain while maintaining quality standards that distinguish exceptional baking from industrial production. The Frakkastígur flagship operates daily with early morning opening (6:00 or 7:00 AM depending on day) to serve Icelanders who expect fresh bread available from first light, extending until 5:00 or 6:00 PM when stock depletes and bakers complete their shifts—the variable closing reflects artisan bakery philosophy of baking finite quantities of fresh product rather than maintaining endless supply of progressively staler goods. Operating primarily as grab-and-go establishment with minimal or no seating, Brauð & Co focuses entirely on baked goods quality rather than café atmosphere or full-service dining experience—customers enter, select pastries from the case or counter, pay, and leave with warm paper bags containing still-steaming cinnamon rolls whose aroma attracts passersby from down the block. The famous cinnamon rolls achieve perfection through careful attention to each element: buttery laminated dough with proper layering creates flaky, tender texture rather than dense bread; generous cinnamon-sugar filling provides sweet spice without cloying excess; careful proofing and baking produces golden exterior with soft, pull-apart interior; and deliberate sizing creates substantial but not overwhelming portions that satisfy without requiring sharing (though many visitors buy multiple rolls for traveling companions or future consumption). The organic ingredients focus reflects growing Icelandic consumer demand for quality products made without unnecessary additives or industrial shortcuts—flour, butter, sugar, cinnamon, and yeast transform into extraordinary results when combined with expertise and care that distinguish artisan baking from factory production. Beyond cinnamon rolls, the bakery produces other pastries, breads, and baked goods that receive less fame but maintain similar quality standards—however, first-time visitors almost universally choose cinnamon rolls based on reputation, often purchasing additional pastries as insurance against sell-out situations or simply because the rolls' excellence suggests other products merit trying. The 4.8-star rating from 4,479 reviewers (extraordinarily high review count for a bakery) demonstrates consistent quality and the devoted following that treats Brauð & Co visits as essential Reykjavík ritual rather than optional tourist activity. The sell-out phenomenon creates both frustration (for those arriving too late) and validation (confirming the rolls' legendary status), while encouraging early-morning visits that allow witnessing the bakery in full production when fresh goods emerge from ovens and the smell of baking cinnamon rolls fills the neighborhood, creating sensory experience that exceeds simply eating excellent pastry.",
+  "address": "Frakkastígur 16, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9253,
+    "latitude": 64.1430,
+    "altitude": 18.0
+  },
+  "rating": 4.8,
+  "reviews_count": 4479,
+  "category": "Bakery",
+  "website": "https://www.braudogco.is",
+  "phone": "+354 456 7777",
+  "images": [
+    "https://www.braudogco.is/images/cinnamon-rolls.jpg"
+  ],
+  "opening_hours": {
+    "hours_variation": "Typically 6:00-7:00 AM opening, 5:00-6:00 PM closing",
+    "schedule_note": "Mon-Fri 6am-6pm; Sat-Sun 6am-5pm (verify current hours)",
+    "sell_out_timing": "Cinnamon rolls sometimes sell out before noon - arrive early",
+    "recommendation": "Early morning visits guarantee best selection and witness production",
+    "additional_locations": "Hlemmur Mathöll food hall, Skeifan",
+    "service_style": "Primarily grab-and-go, minimal or no seating",
+    "specialty": "Cinnamon rolls (kanilsnúður) - cult following",
+    "cinnamon_roll_quality": "Buttery laminated dough, generous cinnamon-sugar filling, golden exterior, soft pull-apart interior",
+    "ingredients": "Organic ingredients, no unnecessary additives",
+    "dough_technique": "Proper lamination creates flaky tender texture, not dense bread",
+    "sizing": "Substantial but not overwhelming portions",
+    "baking_philosophy": "Finite quantities of fresh product, not endless supply of stale goods",
+    "other_products": "Pastries, breads, baked goods (less famous but similar quality)",
+    "reputation": "Cult status in Reykjavík, essential ritual for many visitors",
+    "review_validation": "4.8 stars from 4,479 reviewers - extraordinarily high engagement",
+    "sell_out_phenomenon": "Creates frustration (late arrivals) and validation (confirms legendary status)",
+    "aroma": "Smell of baking cinnamon rolls attracts passersby from down the block",
+    "sensory_experience": "Early visits allow witnessing production, smelling fresh baking",
+    "quality_focus": "Obsessive focus on doing cinnamon rolls extraordinarily well",
+    "expansion": "Grew from single shop to mini-chain while maintaining quality standards"
+  }
+}
