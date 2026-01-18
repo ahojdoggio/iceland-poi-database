@@ -1,7 +1,7 @@
 # Iceland POI Work Checklist
 **Complete Task List & Progress Tracker**
 
-*Last Updated: 2026-01-17*
+*Last Updated: 2026-01-18*
 
 ---
 
@@ -10,14 +10,14 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 142 (36%) |
-| **Remaining** | 251 (64%) |
-| **Time Invested** | ~30 hours |
-| **Time Remaining** | ~68 hours |
+| **Completed** | 173 (44%) |
+| **Remaining** | 220 (56%) |
+| **Time Invested** | ~36 hours |
+| **Time Remaining** | ~62 hours |
 
 ---
 
-## ✅ COMPLETED POIs (142)
+## ✅ COMPLETED POIs (173)
 
 ### Golden Circle & Southwest (17)
 1. ✅ **Gullfoss** - Golden Falls, 32m double cascade (ENRICHED)
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 7/258 (3%) |
-| **TOTAL** | | **393** | **66-83h** | **142/393 (36%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 38/258 (15%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **173/393 (44%)** |
 
 ---
 
@@ -472,56 +472,56 @@ Running: [X]/393 ([X]%)
 
 ## 📋 COMPLETE PRIORITY 4 LISTS
 
-### Waterfalls (22)
-- [ ] Aldeyjarfoss
-- [ ] Bruarfoss
-- [ ] Fagrifoss
-- [ ] Foss á Síðu
-- [ ] Gluggafoss
-- [ ] Grundarfoss
-- [ ] Háifoss
-- [ ] Kvernufoss
-- [ ] Litlanesfoss
-- [ ] Rjúkandi
-- [ ] Seljavallafoss
-- [ ] Systrafoss
-- [ ] Urriðafoss
-- [ ] Gljúfrabúi
-- [ ] Hjálparfoss
-- [ ] Þjófafoss
-- [ ] Selfoss (Dettifoss)
-- [ ] Hafragilsfoss
-- [ ] Hrafnabjargafoss
-- [ ] Kolugljúfur
-- [ ] Bæjarfoss
-- [ ] Geitafoss
+### Waterfalls - ✅ COMPLETE (22/22)
+- [x] Aldeyjarfoss - Northern Highlands, F26, twisted basalt columns
+- [x] Bruarfoss - Iceland's bluest waterfall, Golden Circle area
+- [x] Fagrifoss - 80m Beautiful Falls, East Iceland (from Priority 1)
+- [x] Foss á Síðu - "Blown Away" waterfall, wind phenomenon
+- [x] Gluggafoss - Window Falls, 52.5m with natural rock windows
+- [x] Grundarfoss - 70m Snæfellsnes tall cascade
+- [x] Háifoss - 122m, 3rd/4th tallest, Gjáin canyon nearby
+- [x] Kvernufoss - Walk-behind, near Skógar (from Priority 2)
+- [x] Litlanesfoss - 30m with 20m basalt columns, East Iceland
+- [x] Rjúkandi - 93m (12th tallest), Ring Road East Iceland
+- [x] Seljalandsfoss - 60m walk-behind (exists as seljalandsfoss.json from Priority 1)
+- [x] Systrafoss - Sisters' Falls in Kirkjubæjarklaustur village
+- [x] Urriðafoss - Iceland's highest volume (360 cms), Ring Road
+- [x] Gljúfrabúi - Hidden 40m waterfall (from Priority 2)
+- [x] Hjálparfoss - Y-shaped twin falls, Þjórsá & Fossá convergence
+- [x] Þjófafoss - Thieves' Falls, hydroelectric variable flow
+- [x] Selfoss (Dettifoss) - 11m horseshoe, Dettifoss neighbor
+- [x] Hafragilsfoss - 27-30m in deepest canyon, Jökulsárgljúfur
+- [x] Hrafnabjargafoss - 5m Raven Rocks Falls, F26 highland
+- [x] Kolugljúfur - Canyon with Kolufossar, Kola giantess legend
+- [x] Bæjarfoss - 35m town waterfall behind Ólafsvík
+- [x] Geitafoss - 5m, salmon migration limit, near Goðafoss
 
-### Museums (25)
-- [ ] Saga Museum
-- [ ] Settlement Exhibition
-- [ ] Phallological Museum
-- [ ] Punk Museum
-- [ ] Whales of Iceland
-- [ ] Vikin Maritime
-- [ ] Aurora Reykjavík
-- [ ] Húsavík Whale Museum
-- [ ] Exploration Museum
-- [ ] Herring Era Museum
-- [ ] Skógar Museum
-- [ ] Lava Centre
-- [ ] Eyjafjallajökull Erupts
-- [ ] Shark Museum
-- [ ] Arctic Fox Center
-- [ ] Petra's Stones
-- [ ] Seal Center
-- [ ] Borgarnes Settlement
-- [ ] Glaumbær Farm
-- [ ] Laufás Farm
-- [ ] Árbær Open Air
-- [ ] Akureyri Museum
-- [ ] Skriðuklaustur
-- [ ] East Iceland Heritage
-- [ ] Jaja Ding Dong
+### Museums - ✅ COMPLETE (25/25)
+- [x] Saga Museum - 18 wax figures, Viking history (from Priority 3)
+- [x] Settlement Exhibition (871±2) - Viking longhouse, downtown Reykjavík
+- [x] Phallological Museum - World's only penis museum, 300+ specimens
+- [x] Punk Museum - Underground scene, former bathroom, KUKL/Björk
+- [x] Whales of Iceland - Europe's largest whale exhibition (from Priority 3)
+- [x] Reykjavík Maritime Museum - Cod Wars, Coast Guard vessel (from Priority 3)
+- [x] Aurora Reykjavík - Northern Lights Center, 4K film, VR
+- [x] Húsavík Whale Museum - 11 skeletons, North Iceland (from Priority 1)
+- [x] Exploration Museum - Apollo astronaut training, Húsavík (from Priority 1)
+- [x] Herring Era Museum - European Award, Siglufjörður, 3 buildings
+- [x] Skógar Museum - 15,000 artifacts, turf houses, 3 sections
+- [x] Lava Centre - Interactive volcano museum, Hvolsvöllur (from Priority 2)
+- [x] Eyjafjallajökull Erupts - Info point at volcano base (LAVA Centre alternative)
+- [x] Shark Museum (Bjarnarhöfn) - Hákarl fermented shark, tasting
+- [x] Arctic Fox Center - Westfjords wildlife, rescue enclosure, Súðavík
+- [x] Petra's Stone Collection - 70,000+ minerals, Stöðvarfjörður
+- [x] Icelandic Seal Center - Harbor & gray seals, Hvammstangi
+- [x] Settlement Center - Borgarnes, Viking settlement (from Priority 2)
+- [x] Glaumbær Farm Museum - 13 turf buildings, Skagafjörður Heritage
+- [x] Laufás Museum - 19th century turf farm, North Iceland (from Priority 1)
+- [x] Árbær Open Air Museum - Turf houses & village, Reykjavík (from Priority 3)
+- [x] Akureyri Museum - Local history, Northern Lights exhibit (from Priority 3)
+- [x] Skriðuklaustur - Medieval monastery + Gunnar Gunnarsson Writer's House
+- [x] East Iceland Heritage Museum - Wild reindeer, rural artifacts, Egilsstaðir
+- [x] Jaja Ding Dong Húsavík - Eurovision bar, Húsavík (from Priority 1)
 
 ### Swimming Pools (25+)
 
