@@ -1,0 +1,30 @@
+{
+  "name": "Icelandic Seal Center (Selasetur Íslands)",
+  "description": "The Icelandic Seal Center in Hvammstangi stands as Iceland's premier institution dedicated to seal education, research, and conservation, combining award-winning museum exhibits with regional tourist information services in a facility overlooking Miðfjörður bay—one of Iceland's most important seal habitats where both harbor seals and gray seals can regularly be observed from shore. Located in Northwest Iceland's remote Húnaþing vestra region, the center provides comprehensive information about the two seal species that inhabit Icelandic waters year-round: harbor seals (Phoca vitulina), smaller and more numerous, preferring sheltered bays and fjords where they haul out on rocks and beaches; and gray seals (Halichoerus grypus), larger and less common, favoring more exposed coastal areas and offshore islands. The center's permanent exhibitions explore seal biology, behavior, life cycles, and adaptations that allow these marine mammals to thrive in Iceland's cold waters—including thick blubber layers providing insulation and energy reserves, physiological adaptations for deep diving and extended breath-holding, excellent underwater vision and hearing, and remarkably efficient swimming capabilities. Interactive displays explain seal reproduction, with pups born in early summer requiring maternal care for several weeks before independence; feeding habits and diet consisting primarily of fish, making seals both important predators in marine ecosystems and occasional competitors with commercial fisheries; and communication methods including vocalizations, body language, and scent marking used for territory defense and mating. Historical content addresses the complex relationship between seals and humans in Iceland: traditional seal hunting for meat, skin, and oil was practiced for centuries as part of subsistence lifestyles, creating cultural traditions and practical knowledge passed through generations, but modern conservation awareness has reduced hunting while increasing appreciation for seals as charismatic megafauna deserving protection. The center explains current conservation status, population estimates (approximately 8,000-10,000 seals around Iceland), legal protections, ongoing research programs monitoring populations and health, and challenges including pollution, entanglement in fishing gear, disease, and habitat disturbance. Beyond seals, exhibitions cover the broader Hvammstangi area's rich wildlife, with special emphasis on the region's diverse birdlife—numerous seabird species nest on coastal cliffs, waders and waterfowl utilize intertidal zones and wetlands, and migratory species pass through seasonally. Marine life displays explore Iceland's coastal ecosystems including fish species, invertebrates, and the food webs connecting these organisms. The center functions simultaneously as Húnaþing vestra's official tourist information point, providing practical assistance with accommodation, activities, local attractions, and regional travel planning. Outside the center, the Hvammstangi area offers excellent seal-watching opportunities from various vantage points along the peninsula, with harbor seals particularly visible hauled out on rocks during low tide, and the center provides maps, guidance, and advice on responsible wildlife viewing that minimizes disturbance.",
+  "address": "Brekkugata 2, 530 Hvammstangi, Northwest Iceland",
+  "coordinates": {
+    "longitude": -20.7333,
+    "latitude": 65.4000,
+    "altitude": 5.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1580,
+  "category": "Museum",
+  "website": "https://selasetur.is/en",
+  "phone": "+354 451 2345",
+  "images": [
+    "https://selasetur.is/images/seal-exhibition.jpg"
+  ],
+  "opening_hours": {
+    "summer_2025": "Daily 10:00 AM - 6:00 PM (June-August)",
+    "winter_2025_2026": "Monday-Friday 11:00 AM - 3:00 PM (September-May)",
+    "group_visits": "Contact for arrangements outside regular hours",
+    "contact_email": "info@selasetur.is",
+    "admission": "Check website for current pricing",
+    "two_seal_species": "Harbor seals (smaller) & gray seals (larger)",
+    "population": "8,000-10,000 seals around Iceland",
+    "dual_function": "Seal museum + Tourist Information Center for Húnaþing vestra",
+    "seal_watching": "Excellent viewing opportunities nearby in Miðfjörður bay",
+    "award": "Award-winning museum exhibits"
+  }
+}

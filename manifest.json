@@ -32,6 +32,7 @@
     "pois/drangsnes_hot_tubs.json",
     "pois/dynjandi.json",
     "pois/dyrholaey.json",
+    "pois/east_iceland_heritage_museum.json",
     "pois/egilsstadir.json",
     "pois/esjan.json",
     "pois/exploration_museum.json",
@@ -81,6 +82,7 @@
     "pois/h\u00fasav\u00edk_lighthouse.json",
     "pois/h\u00fasav\u00edk_whale_museum.json",
     "pois/h\u00fasav\u00edk_wooden_church.json",
+    "pois/icelandic_seal_center.json",
     "pois/into_the_glacier_tunnel.json",
     "pois/isafjordur.json",
     "pois/jaja_ding_dong_h\u00fasav\u00edk.json",
@@ -141,6 +143,7 @@
     "pois/settlement_center.json",
     "pois/settlement_exhibition.json",
     "pois/seydisfjordur.json",
+    "pois/shark_museum.json",
     "pois/skaftafell.json",
     "pois/skalholt.json",
     "pois/skogafoss.json",
@@ -173,5 +176,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 170
+  "total_files": 173
 }
