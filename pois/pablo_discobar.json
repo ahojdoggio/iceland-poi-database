@@ -1,0 +1,41 @@
+{
+  "name": "Pablo Discobar - Reykjavík's Premier Tropical Disco Destination",
+  "description": "Pablo Discobar occupies third floor at Veltusund 1 in central Reykjavík, describing itself as the city's premier tropical disco destination offering cocktails, karaoke, and chaos across two floors where playful South American theme, 1970s-1980s disco soundtrack, and deliberately over-the-top aesthetic create party atmosphere that takes itself just seriously enough—the name itself represents peak pun achievement combining Colombian drug lord Pablo Escobar with disco culture in way that's simultaneously terrible and brilliant, establishing irreverent tone that defines the venue. The bold colors mix with wooden and mirrored ceilings and pelican decorations creating visual cacophony that refuses minimalist Scandinavian restraint: neon-lit pelican on one wall, beautiful Latin tiles at bar counter, large disco ball dominating ceiling, and coordinated-yet-chaotic design scheme that feels simultaneously authentic to 1970s disco excess and self-aware about its own ridiculousness. The music delivers recognizable 1970s and 1980s disco tracks that allow singing along and dancing without requiring obscure music knowledge—this accessibility distinguishes Pablo from venues playing experimental electronic music or underground house that alienates casual dancers who want fun over credibility. The two floors provide space for different moods: ground level bar for drinking and conversation before committing to full dance mode, upper level for serious disco immersion where packed dance floor and disco ball create classic nightclub experience. The Latin American fusion restaurant Burro operates directly below Pablo, creating food-to-drinks pipeline where diners transition seamlessly upstairs for post-meal cocktails and dancing—this vertical integration increases both venues' traffic while providing convenient one-building night out. The cocktails earn description as delicious but pricey, reflecting Iceland's expensive alcohol reality while suggesting that quality justifies cost rather than simply charging high prices for mediocre drinks—mixologists apply craft cocktail techniques creating properly balanced, flavorful drinks rather than syrupy premixed formulas. The stylish but fun crowd indicates that Pablo attracts people who care about aesthetics and scene but avoid pretentious exclusivity—this balance creates welcoming energy where enthusiastic participation matters more than cool detachment. The minimum age of 25 (sometimes enforced, sometimes not depending on crowd and door policy) attempts to cultivate slightly more mature clientele than 20-year-old party hordes dominating some Reykjavík venues, though enforcement inconsistency creates uncertainty. Happy hour every day 4:00-6:00 PM provides afternoon discount drinking, while Monday-Tuesday nights 11:00 PM-1:00 AM late-night happy hour creates unusual second discount window accommodating those who begin evenings elsewhere then arrive for cheaper drinks during typically slower weeknight periods. The funky décor represents commitment to complete thematic experience rather than half-hearted nod to tropical disco concept—pelican decorations throughout create bizarre-but-delightful signature element that guests remember and photograph.",
+  "address": "Veltusund 1 (3rd floor), 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9358,
+    "latitude": 64.1470,
+    "altitude": 15.0
+  },
+  "rating": 4.5,
+  "reviews_count": 3840,
+  "category": "Bar & Nightclub",
+  "website": "https://pablodiscobar.is",
+  "phone": "+354 517 3333",
+  "images": [
+    "https://pablodiscobar.is/images/disco-interior.jpg"
+  ],
+  "opening_hours": {
+    "happy_hour_afternoon": "Every day 4:00 PM - 6:00 PM",
+    "happy_hour_late": "Monday-Tuesday nights 11:00 PM - 1:00 AM",
+    "concept": "Premier tropical disco destination - cocktails, karaoke, chaos",
+    "name_pun": "Pablo Escobar + disco = peak pun achievement, irreverent tone",
+    "floors": "Two floors - ground level bar + upper level dance floor",
+    "music": "1970s-1980s recognizable disco tracks, sing-along accessibility",
+    "décor": "Bold colors, wooden/mirrored ceilings, pelican decorations throughout",
+    "signature_elements": "Neon-lit pelican, Latin tiles, large disco ball",
+    "design_philosophy": "Refuses minimalist Scandinavian restraint, embraces 1970s excess",
+    "self_awareness": "Simultaneously authentic and aware of own ridiculousness",
+    "cocktails": "Delicious but pricey, craft techniques, properly balanced",
+    "crowd": "Stylish but fun, aesthetics-conscious without pretentious exclusivity",
+    "atmosphere": "Enthusiastic participation over cool detachment",
+    "minimum_age": "25 years old (sometimes enforced, inconsistent)",
+    "age_policy": "Attempts more mature clientele than 20-year-old party crowds",
+    "below_venue": "Burro Latin American fusion restaurant creates food-to-drinks pipeline",
+    "vertical_integration": "One-building night out from dinner to dancing",
+    "accessibility": "Recognizable music allows casual dancers without obscure knowledge",
+    "visual_impact": "Coordinated-yet-chaotic complete thematic experience",
+    "pelican_signature": "Bizarre-but-delightful element guests remember and photograph",
+    "late_night_deal": "Unusual Monday-Tuesday 11PM-1AM happy hour for weeknight arrivals"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bryggjan Brugghús - Grandi Harbor Brewery & Bistro",
+  "description": "Bryggjan Brugghús operates as Reykjavík's premier independent brewery, bistro, and bar at Grandagarður 8 in the revitalized Grandi harbor district, combining on-site craft beer production with full-service restaurant creating comprehensive food-and-drink destination that attracts locals, tourists, and craft beer enthusiasts seeking fresh-from-the-source brewing alongside mouthwatering menu spanning sharing plates, tacos, mussels, and succulent steaks. Since opening in 2015, Bryggjan has established itself as anchor tenant in Grandi's transformation from working industrial harbor to trendy dining and cultural neighborhood, with the brewery's success demonstrating how craft beer production facilities double as social gathering spaces where transparency (visible brewing equipment, fresh beer flowing directly from tanks to taps) creates authentic experience impossible to replicate in conventional bars buying kegs from distant breweries. The bar features 12 draft beer pumps delivering fresh craft beer directly from the brewery, ensuring maximum freshness and quality while showcasing the diverse styles Bryggjan produces—from approachable lagers and pale ales that welcome beer-curious beginners, to assertive IPAs and experimental styles satisfying craft beer geeks who track breweries' latest releases. Operating hours 11:00 AM to 1:00 AM daily provide extensive access across lunch, dinner, happy hour, and late-night drinking periods, with kitchen service structured around meal periods: lunch 11:30 AM-3:00 PM, dinner 5:00 PM-10:00 PM weekdays (10:30 PM weekends), allowing flexible dining throughout operating hours. Weekend brunch adds leisurely morning meal service popular with locals recovering from Reykjavík's famous nightlife, while daily happy hour 4:00-6:00 PM attracts after-work crowds and budget-conscious visitors seeking discounted drinks in Iceland's notoriously expensive alcohol market. Sunday evenings at 8:00 PM feature live jazz music, creating cultural programming that distinguishes Bryggjan from simple drinking establishments and attracts jazz enthusiasts who might not otherwise visit breweries. The menu's emphasis on sharing plates reflects contemporary dining trends favoring communal, social eating over formal individual entrées—friends order multiple dishes, sample each other's choices, and create varied meals rather than committing to single selections. The tacos represent Tex-Mex casual favorites adapted to Icelandic ingredients and sensibilities, while mussels showcase local seafood prepared with beer-based sauces that cross-promote Bryggjan's brewing. Succulent steaks provide hearty protein-centered options appealing to Iceland's meat-eating culture and ring road travelers arriving hungry from driving or hiking. The capacity to accommodate 280 guests positions Bryggjan as Grandi's largest single venue, hosting everything from intimate dates to large group celebrations and corporate events that require space and flexibility. The harbor location provides atmospheric waterfront views and convenient access to other Grandi attractions including museums, galleries, whale watching tours, and walking paths that make the neighborhood essential Reykjavík destination rather than remote brewery requiring dedicated trips.",
+  "address": "Grandagarður 8, 101 Reykjavík (Grandi harbor district)",
+  "coordinates": {
+    "longitude": -21.9486,
+    "latitude": 64.1525,
+    "altitude": 2.0
+  },
+  "rating": 4.6,
+  "reviews_count": 3890,
+  "category": "Brewery & Restaurant",
+  "website": "https://www.bryggjanbrugghus.is",
+  "phone": "+354 456 4040",
+  "images": [
+    "https://www.bryggjanbrugghus.is/images/brewery-interior.jpg"
+  ],
+  "opening_hours": {
+    "daily": "11:00 AM - 1:00 AM (every day)",
+    "lunch": "11:30 AM - 3:00 PM",
+    "dinner_weekday": "5:00 PM - 10:00 PM (Sun-Thu)",
+    "dinner_weekend": "5:00 PM - 10:30 PM (Fri-Sat)",
+    "happy_hour": "4:00 PM - 6:00 PM daily",
+    "weekend_brunch": "Available Saturday & Sunday",
+    "live_jazz": "Sunday evenings at 8:00 PM",
+    "established": "2015",
+    "capacity": "280 guests",
+    "draft_pumps": "12 pumps delivering fresh beer directly from brewery",
+    "on_site_brewing": "Independent brewery with visible equipment and production",
+    "beer_styles": "Lagers, pale ales, IPAs, experimental styles",
+    "menu": "Sharing plates, tacos, mussels, succulent steaks",
+    "dining_philosophy": "Communal social eating over formal individual entrées",
+    "seafood_prep": "Mussels with beer-based sauces",
+    "location_character": "Grandi harbor, revitalized industrial waterfront",
+    "neighborhood_role": "Anchor tenant in Grandi transformation to trendy dining district",
+    "nearby": "Museums, galleries, whale watching, walking paths",
+    "transparency": "Visible brewing creates authentic experience",
+    "freshness": "Maximum quality from beer flowing directly from tanks to taps",
+    "cultural_programming": "Live jazz music distinguishes from simple drinking establishments",
+    "clientele": "Locals, tourists, craft beer enthusiasts, jazz lovers"
+  }
+}
