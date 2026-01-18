@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 236 (60%) |
-| **Remaining** | 157 (40%) |
+| **Completed** | 239 (61%) |
+| **Remaining** | 154 (39%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 101/258 (39%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **236/393 (60%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 104/258 (40%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **239/393 (61%)** |
 
 ---
 
@@ -646,13 +646,17 @@ Running: [X]/393 ([X]%)
 - [x] Viðey - Reykjavík art island, Yoko Ono's Imagine Peace Tower, 15-min ferry
 - [x] Grímsey - Arctic Circle island (66°N), 57 residents, midnight sun, circle shifts north by 2047
 
-### Canyons & Gorges (6)
-- [ ] Fjaðrárgljúfur
-- [ ] Ásbyrgi
-- [ ] Stuðlagil
-- [ ] Jökulsárgljúfur
-- [ ] Rauðfeldsgjá
-- [ ] Kolugljúfur
+### Canyons & Gorges - ✅ COMPLETE (6/6)
+
+**Previously Existing (3 from Priority 2):**
+- [x] Fjaðrárgljúfur - 2 km serpentine canyon, 100m deep (from Priority 2)
+- [x] Rauðfeldsgjá - Snæfellsnes narrow gorge, waterfall inside (from Priority 2)
+- [x] Kolugljúfur - Kola giantess legend, canyon with waterfalls (from Priority 2)
+
+**Newly Created Priority 4 (3):**
+- [x] Ásbyrgi - 3.5 km horseshoe canyon (100m cliffs), glacial floods 8,000-10,000 & 3,000 years ago
+- [x] Stuðlagil - Hexagonal basalt columns (30m), turquoise river, exposed 2006-2009 by dam
+- [x] Jökulsárgljúfur - 25 km canyon (120m deep), 4 waterfalls including Dettifoss
 
 ### Volcanoes & Craters (8)
 - [ ] Hekla
