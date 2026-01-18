@@ -1,0 +1,42 @@
+{
+  "name": "Hótel Búðir Restaurant - Snæfellsnes Peninsula Fine Dining",
+  "description": "Hótel Búðir's restaurant represents one of Iceland's most romantically situated fine dining destinations, occupying an elegant black-timber hotel building standing in dramatic isolation on Búðahraun lava field at the foot of Snæfellsjökull glacier-capped volcano on the Snæfellsnes Peninsula's south coast, where the stark beauty of volcanic landscape, nearby black church, and ocean views create atmosphere that attracts couples seeking memorable meals in settings that feel remote and special despite being accessible via good roads from Reykjavík (2.5 hours) or convenient stops for visitors circling the Snæfellsnes route. The restaurant emphasizes local food and the freshest ingredients available during all seasons, with seasonal menus taking advantage of products from nearby towns, fishing boats operating from small Snæfellsnes harbors, and farmers raising lamb and growing vegetables in this fertile coastal region. Seafood features heavily in the à la carte dinner menu reflecting Iceland's maritime heritage and the exceptional quality of fish and shellfish caught in cold North Atlantic waters, while lamb dishes showcase the free-range Icelandic sheep that graze on seaside pastures eating wild grasses, herbs, and seaweed that impart distinctive flavor impossible to replicate with confined feeding. Meat and vegetarian dishes provide alternatives for diners who don't eat seafood, though the restaurant's reputation centers on its fish and lamb preparations that best express Icelandic culinary traditions and ingredient quality. The in-house wine expert has carefully chosen wines to suit the traditional Icelandic food, pairing European varietals with Nordic flavors in combinations that enhance both wine and cuisine—this expertise elevates the dining experience beyond simply drinking wine with dinner to thoughtful pairings that reveal complementary flavors and textures. Delicious starters and sinful desserts bracket the main courses, with the dessert menu earning particular praise from guests who appreciate sweet endings that balance richness with Icelandic ingredients like rhubarb, berries, and skyr (Icelandic yogurt-like dairy product). The cozy dining room creates intimate atmosphere enhanced by the hotel's isolated location where summer midnight sun creates endless golden-hour light streaming through windows, while winter darkness and Northern Lights visible from the dining area add magical quality. Reviews note the evening menu is intentionally limited with only four main options, reflecting the restaurant's commitment to seasonal availability, kitchen capacity limitations in remote location, and fine dining philosophy that depth of execution matters more than breadth of choice—this focused approach ensures the kitchen can maintain high standards rather than spreading expertise thin across extensive menus that require larger staffs and more complex supply chains difficult to support in Snæfellsnes' small communities. The superior breakfast buffet spread earns consistent praise from overnight hotel guests who appreciate the variety, quality, and generous Icelandic morning meal traditions that provide substantial fuel for days exploring the peninsula's dramatic coastlines, lava fields, and glacier.",
+  "address": "Hótel Búðir, 356 Snæfellsbær, Iceland (Búðahraun lava field, Snæfellsnes Peninsula)",
+  "coordinates": {
+    "longitude": -23.3978,
+    "latitude": 64.8250,
+    "altitude": 5.0
+  },
+  "rating": 4.7,
+  "reviews_count": 2140,
+  "category": "Restaurant",
+  "website": "https://www.budir.is",
+  "phone": "+354 435 6700",
+  "images": [
+    "https://www.budir.is/images/hotel-lava-field.jpg"
+  ],
+  "opening_hours": {
+    "seasonal_menu": "Changes based on available local ingredients each season",
+    "emphasis": "Local food, freshest ingredients available",
+    "seafood_focus": "Features heavily in à la carte dinner menu",
+    "lamb_specialty": "Free-range Icelandic sheep from seaside pastures",
+    "menu_options": "Seafood, lamb, meat, vegetarian dishes available",
+    "starters_desserts": "Delicious starters, sinful desserts earn particular praise",
+    "dessert_ingredients": "Rhubarb, berries, skyr (Icelandic yogurt-like dairy)",
+    "wine_pairing": "In-house wine expert, carefully chosen European wines suit Icelandic food",
+    "limited_menu": "Only 4 main options - depth over breadth, seasonal focus",
+    "breakfast_buffet": "Superior spread praised by overnight guests",
+    "dining_room": "Cozy, intimate atmosphere",
+    "location_drama": "Isolated black-timber hotel on Búðahraun lava field",
+    "landscape": "Foot of Snæfellsjökull glacier-capped volcano",
+    "nearby": "Black church, ocean views, dramatic volcanic terrain",
+    "accessibility": "2.5 hours from Reykjavík, convenient Snæfellsnes circuit stop",
+    "midnight_sun": "Summer endless golden-hour light through windows",
+    "northern_lights": "Winter visibility from dining area",
+    "romantic_setting": "Attracts couples seeking memorable special-occasion meals",
+    "remote_quality": "Feels special despite good road access",
+    "snæfellsnes_supply": "Nearby town products, local fishing boats, regional farmers",
+    "fine_dining_philosophy": "Execution quality matters more than menu breadth",
+    "capacity_considerations": "Limited options support high standards in remote location"
+  }
+}

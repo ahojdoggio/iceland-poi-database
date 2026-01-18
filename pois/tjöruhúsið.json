@@ -1,0 +1,42 @@
+{
+  "name": "Tjöruhúsið - Westfjords Family-Style Fish Buffet in Historic Tar Factory",
+  "description": "Tjöruhúsið operates one of Iceland's most distinctive dining concepts from one of Ísafjörður's oldest buildings—a historic tar factory where 19th-century workers sealed fishing boats and equipment with tar extracted from wood, now converted to intimate restaurant serving family-style fish buffet featuring whatever local fishermen caught that day, creating dining experience defined by unpredictability, community seating, and commitment to ultra-fresh seafood that changes daily based on catches rather than fixed menu promising consistency. The family-owned and operated establishment embodies Westfjords' resourceful, independent character where small businesses survive through passionate commitment rather than corporate systems, and where limited population (Ísafjörður approximately 2,600 residents) creates tight community bonds visible in the restaurant's operation and atmosphere. The no-menu philosophy reflects both practical adaptation to fishing industry realities (catches vary by season, weather, and luck) and intentional celebration of spontaneity over predictability—diners arrive not knowing whether they'll eat wolffish, cod, halibut, bacalao (salt cod), ocean perch, spotted catfish, pollock, salmon, or plaice, with daily selections depending on what boats landed that morning or what fish from recent days has properly marinated or rested to optimal flavor. This uncertainty excites adventurous eaters who appreciate surprise and trust chef expertise, while potentially frustrating diners who prefer knowing exactly what they'll eat before arrival. The langoustine and tomato based fish soup and traditional Icelandic fish stew provide consistent elements, warming and flavorful preparations that showcase Westfjords maritime heritage and preservation traditions. All fish is cooked in different styles demonstrating kitchen's technical range and ensuring variety even when limited species are available—grilling, pan-frying, baking, poaching, and traditional Icelandic preparations create diverse flavors and textures from potentially repetitive ingredients. The family-style seating represents bold choice in country where personal space is culturally cherished: cramming diners shoulder-to-shoulder at communal tables in cramped historic tar factory directly contradicts Icelandic preferences for distance and privacy, yet this intimacy creates memorable experience where strangers share meals and conversations, tourists meet locals, and the convivial atmosphere distinguishes Tjöruhúsið from conventional restaurants' separate-table formality. Summer-only operation with two evening sittings (6:00 PM and 8:30 PM) reflects both Westfjords' limited tourist season when midnight sun and accessible roads bring visitors, and the restaurant's small capacity that requires seatings rather than continuous service—reservations are essential and should be made well in advance during high season when demand exceeds the historic building's limited space. The buffet-style presentation where main dishes are laid out allowing unlimited refills creates abundance and value, with pricing at 6,000 ISK for adults (children 14 and under eat free, demonstrating family-friendly values) providing generous portions and variety impossible at that price point in conventional restaurants. The combination of historic tar factory setting, no-menu daily catch philosophy, family-style communal seating, buffet unlimited refills, exceptional fish freshness, and passionate family operation makes Tjöruhúsið one of Iceland's most memorable dining experiences despite—or perhaps because of—its rejection of conventional restaurant practices.",
+  "address": "Tangagata, 400 Ísafjörður, Iceland (historic tar factory building)",
+  "coordinates": {
+    "longitude": -23.1358,
+    "latitude": 66.0702,
+    "altitude": 2.0
+  },
+  "rating": 4.8,
+  "reviews_count": 4620,
+  "category": "Restaurant",
+  "website": "https://tjoruhusid.is",
+  "phone": "+354 456 4419",
+  "images": [
+    "https://tjoruhusid.is/images/fish-buffet.jpg"
+  ],
+  "opening_hours": {
+    "season": "Summer months only",
+    "sittings": "Two evening sittings: 6:00 PM and 8:30 PM",
+    "reservations": "Essential - book well in advance during high season",
+    "no_menu": "Whatever fish local fishermen caught - varies daily",
+    "typical_fish": "Wolffish, cod, halibut, bacalao (salt cod), ocean perch, spotted catfish, pollock, salmon, plaice",
+    "catch_variety": "Daily selection depends on morning boat landings or properly rested/marinated fish",
+    "soup_stew": "Langoustine & tomato fish soup, traditional Icelandic fish stew (consistent elements)",
+    "cooking_styles": "Grilling, pan-frying, baking, poaching, traditional Icelandic - creates variety from limited species",
+    "family_style": "Communal tables, shoulder-to-shoulder seating in cramped historic building",
+    "cultural_contrast": "Bold choice in Iceland where personal space is cherished",
+    "buffet_format": "Main dishes laid out, unlimited refills",
+    "pricing": "6,000 ISK adults, children 14 and under eat FREE",
+    "value": "Generous portions and variety at price impossible in conventional restaurants",
+    "building": "One of Ísafjörður's oldest buildings, historic 19th-century tar factory",
+    "tar_factory_history": "Workers sealed fishing boats and equipment with wood-extracted tar",
+    "family_owned": "Family-owned and operated, passionate commitment over corporate systems",
+    "westfjords_character": "Embodies resourceful, independent Westfjords spirit",
+    "community": "Tight bonds in small population (~2,600 Ísafjörður residents)",
+    "atmosphere": "Strangers share meals and conversations, tourists meet locals, convivial intimacy",
+    "summer_necessity": "Limited tourist season, midnight sun, accessible roads bring visitors",
+    "capacity": "Small historic building requires sittings rather than continuous service",
+    "unpredictability": "Exciting for adventurous eaters, potentially frustrating for those wanting certainty"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rub23 - Akureyri's Sushi & Fusion Seafood Restaurant",
+  "description": "Rub23 brings creative fusion cuisine to Akureyri, Iceland's northern capital, offering unique menu concept where diners select their preferred fish or meat and then choose from list of international spice rub mixtures—Asian, American, and traditional Icelandic preparations—that are rubbed into ingredients before cooking, creating personalized flavor combinations that distinguish Rub23 from conventional restaurants offering fixed preparations. The name references this innovative approach: \"rub\" has become common culinary term for mixed spices rubbed into proteins, and the restaurant's philosophy celebrates this technique by offering approximately 23 different variations (hence the number in the name) that allow customers to customize their dining experience. Located at Kaupvangsstræti 6 in central Akureyri, the restaurant operates year-round serving lunch Monday-Friday (11:30 AM-2:00 PM) and dinner daily (5:00-10:00 PM Sunday-Thursday, 5:00-11:00 PM Friday-Saturday), with Saturday being dinner-only. The extensive sushi menu represents significant addition to Akureyri's dining scene, bringing Japanese techniques and preparations to northern Iceland using local fish from Iceland's exceptionally clean fishing grounds—the combination of Japanese precision with Icelandic ingredient quality creates sushi that rivals metropolitan offerings despite Akureyri's population of only 20,000 and remote location 390 kilometers from Reykjavík. The fusion approach extends beyond sushi to encompass wide seafood selection showcasing catch from Icelandic fishermen operating in North Atlantic waters, while meat dishes provide alternatives using lamb and beef from Icelandic farmers whose free-range practices and clean environment produce exceptional quality. The ingenuity from Asia and America referenced in Rub23's marketing reflects the kitchen's willingness to apply international flavors and techniques to Icelandic ingredients rather than being bound by traditional Icelandic preparations that emphasize simplicity—this creative freedom produces unexpected but successful combinations like teriyaki-glazed Arctic char, wasabi-crusted cod, or chimichurri lamb that demonstrate how Icelandic proteins adapt beautifully to global flavor profiles. What separates Rub23 from other Icelandic restaurants is the diverse menu construction allowing high customization—rather than offering dozen fixed entrees, the restaurant presents matrix of proteins and seasonings where hundreds of theoretical combinations empower diners to create personalized meals matching their exact preferences. This approach particularly appeals to repeat customers who can try different combinations across multiple visits without exhausting the menu's possibilities, while also accommodating diverse group dining where each person customizes their order. The restaurant's position in Akureyri, northern Iceland's commercial and cultural center, makes it essential stop for Ring Road travelers circling Iceland, cruise ship passengers arriving at Akureyri's port, and locals seeking contemporary dining beyond traditional Icelandic fare—Rub23's fusion approach and sushi program bring metropolitan restaurant sophistication to region where dining options, while improving, still lag behind Reykjavík's competitive restaurant scene.",
+  "address": "Kaupvangsstræti 6, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0897,
+    "latitude": 65.6820,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 3120,
+  "category": "Restaurant",
+  "website": "https://www.rub23.is",
+  "phone": "+354 462 2223",
+  "images": [
+    "https://www.rub23.is/images/sushi-platter.jpg"
+  ],
+  "opening_hours": {
+    "lunch": "Monday-Friday 11:30 AM - 2:00 PM",
+    "dinner_sun_thu": "Sunday-Thursday 5:00 - 10:00 PM",
+    "dinner_fri_sat": "Friday-Saturday 5:00 - 11:00 PM (dinner only Saturday)",
+    "unique_concept": "Choose fish/meat, then select from ~23 international spice rub mixtures",
+    "name_meaning": "Rub = spice mixtures rubbed into ingredients, 23 = approximately 23 variations",
+    "customization": "Matrix of proteins and seasonings creates hundreds of combinations",
+    "sushi_program": "Extensive sushi menu using local Icelandic fish with Japanese techniques",
+    "fusion_philosophy": "Apply Asian and American ingenuity to Icelandic ingredients",
+    "seafood_source": "Local Icelandic fishermen, North Atlantic waters",
+    "meat_source": "Icelandic farmers, free-range lamb and beef",
+    "flavor_examples": "Teriyaki Arctic char, wasabi-crusted cod, chimichurri lamb",
+    "repeat_appeal": "Different combinations across multiple visits prevent menu exhaustion",
+    "group_dining": "High customization accommodates diverse preferences at one table",
+    "akureyri": "Northern Iceland's capital, population ~20,000",
+    "distance": "390 km from Reykjavík",
+    "clientele": "Ring Road travelers + cruise ship passengers + locals",
+    "market_position": "Metropolitan sophistication in region with limited dining competition",
+    "japanese_quality": "Rivals metropolitan sushi despite remote northern location",
+    "ingredient_advantage": "Exceptionally clean Icelandic fishing grounds produce premium fish",
+    "creative_freedom": "Not bound by traditional Icelandic simplicity, embraces international flavors",
+    "year_round": "Operates throughout the year, including dark winters"
+  }
+}
