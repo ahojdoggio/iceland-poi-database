@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 216 (55%) |
-| **Remaining** | 177 (45%) |
+| **Completed** | 223 (57%) |
+| **Remaining** | 170 (43%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 81/258 (31%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **216/393 (55%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 88/258 (34%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **223/393 (57%)** |
 
 ---
 
@@ -601,15 +601,16 @@ Running: [X]/393 ([X]%)
 - [x] Tjöruhúsið - Ísafjörður tar factory, family-style fish buffet, no menu, 6,000 ISK
 - [x] Hraun - Ólafsvík Snæfellsnes, casual dining, local Mýrarnaut beef, Breiðafjörður mussels
 
-### Breweries & Bars (8)
-- [ ] Bryggjan Brugghús
-- [ ] Ölverk
-- [ ] Borg Brugghús
-- [ ] Kaldi Bar
-- [ ] Micro Bar
-- [ ] Pablo Discobar
-- [ ] Kaffibarinn
-- [ ] Strondin Bar
+### Breweries & Bars - ✅ COMPLETE (7/7)
+- [x] Bryggjan Brugghús - Grandi harbor, on-site brewing, 12 taps, live jazz Sundays 8 PM
+- [x] Ölverk - Hveragerði geothermal-powered brewing, wood-fired pizza, Golden Circle
+- [x] Borg Brugghús - Founded 2010, Beer World Cup winner, Úlfur IPA, Surtur imperial stout 14%+
+- [x] Kaldi Bar - Iceland's first microbrewery beers, Czech traditions 1842, largest gin & tonic collection
+- [x] Micro Bar - Reykjavík's first craft beer bar, 10 taps + 200+ bottles, owner = Gæðingur brewery
+- [x] Pablo Discobar - Tropical disco theme, 70s-80s music, two floors, cocktails/karaoke/chaos
+- [x] Kaffibarinn - Iconic since 1993, red house, Damon Albarn connection, "word that screams Reykjavík nightlife"
+
+**Note:** "Strondin Bar" does not exist in Reykjavík. Strondin Pub is located in Vík (south coast), not Grandi harbor.
 
 ### Churches & Heritage (15)
 - [ ] Akureyrarkirkja
