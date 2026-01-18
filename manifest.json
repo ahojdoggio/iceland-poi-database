@@ -110,6 +110,7 @@
     "pois/isafjordur.json",
     "pois/jaja_ding_dong_h\u00fasav\u00edk.json",
     "pois/jokulsarlon_glacier_lagoon.json",
+    "pois/j\u00f6kuls\u00e1rglj\u00fafur_canyon.json",
     "pois/kaffibarinn.json",
     "pois/kaldi_bar.json",
     "pois/keflav\u00edk_international_airport.json",
@@ -201,6 +202,7 @@
     "pois/stodvarfjordur.json",
     "pois/stokksnes.json",
     "pois/strandarkirkja.json",
+    "pois/stu\u00f0lagil_canyon.json",
     "pois/stykkisholmur.json",
     "pois/sumac_restaurant.json",
     "pois/sun_voyager.json",
@@ -231,6 +233,7 @@
     "pois/ytri_tunga.json",
     "pois/\u00e1lftaneslaug.json",
     "pois/\u00e1rb\u00e6jarlaug.json",
+    "pois/\u00e1sbyrgi_canyon.json",
     "pois/\u00e1sgar\u00f0slaug.json",
     "pois/\u00f3lafsfj\u00f6r\u00f0ur_swimming_pool.json",
     "pois/\u00f6lverk_brewery.json",
@@ -239,5 +242,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 236
+  "total_files": 239
 }
