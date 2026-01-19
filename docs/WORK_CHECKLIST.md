@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 133/258 (52%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **268/393 (68%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 138/258 (53%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **273/393 (69%)** |
 
 ---
 
@@ -374,7 +374,7 @@
 
 ---
 
-## 📋 PRIORITY 4: Specialized Sites (125 remaining, 133 complete)
+## 📋 PRIORITY 4: Specialized Sites (120 remaining, 138 complete)
 
 ### Completed Categories ✅
 - **Swimming Pools:** ✅ COMPLETE (35/35) - 18 new Priority 4 pools created
@@ -388,11 +388,11 @@
 - **Beaches:** ✅ COMPLETE (7-8/8) - 5 new created
 - **Lighthouses:** ✅ COMPLETE (7/7) - 5 new created
 - **Wildlife Sites:** ✅ COMPLETE (6/6) - 6 new created
+- **Hiking Trails:** ✅ COMPLETE (5/5) - 5 new created
 
 ### Remaining Categories
 - **Waterfalls:** 22 remaining
 - **Museums:** 25 remaining
-- **Hiking Trails:** 5 remaining
 - **Highlands:** 10 remaining
 - **Airports:** 5 remaining
 - **Towns & Villages:** 50+ remaining
@@ -723,12 +723,12 @@ Running: [X]/393 ([X]%)
 - [x] Borgarfjörður Puffins - Hafnarhólmi 10,000 breeding pairs
 - [x] Vatnsnes Seals - Peninsula seal watching, Illugastaðir/Hvítserkur
 
-### Trails (5)
-- [ ] Laugavegur
-- [ ] Fimmvörðuháls
-- [ ] Glymur
-- [ ] Hornstrandir
-- [ ] Askja
+### Hiking Trails ✅ COMPLETE (5/5)
+- [x] Laugavegur - 55km, 3-4 days, Landmannalaugar to Þórsmörk, Iceland's premier trek
+- [x] Fimmvörðuháls - 25km between Eyjafjallajökull/Mýrdalsjökull glaciers, 26 waterfalls
+- [x] Glymur - 7km loop, Iceland's 2nd tallest waterfall (198m), river crossings
+- [x] Hornstrandir - Europe's last wilderness, Westfjords remote multi-day treks
+- [x] Askja - Highland volcanic caldera trail, Víti crater, 4x4 access only
 
 ### Highlands (10)
 - [ ] Landmannalaugar

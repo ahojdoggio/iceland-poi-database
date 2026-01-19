@@ -1,0 +1,29 @@
+{
+  "name": "Laugavegur Trail - Iceland's Premier Multi-Day Trek",
+  "description": "Laugavegur Trail establishes Iceland's most celebrated long-distance hiking route spanning 55 kilometers Landmannalaugar's multicolored rhyolite mountains Þórsmörk's birch forests traversing four days spectacular volcanic landscapes geothermal valleys glacial rivers showcasing Iceland's diverse highland terrain world-class trekking experience. Route progression begins Landmannalaugar's steaming hot springs vibrant orange yellow green mountains descending through Hrafntinnusker's black obsidian desert Álftavatn's pristine lake Emstrur's volcanic plains before reaching Þórsmörk's lush vegetation creating remarkable geological transition witnessing Iceland's raw natural beauty evolution across climate zones. Trail infrastructure includes four mountain huts camping facilities positioned day intervals Hrafntinnusker 12km Álftavatn 12km Emstrur/Botnar 15km Þórsmörk though advance reservations mandatory peak season July-August when hut costs reach 15,800 ISK camping 3,200 ISK nightly. Moderate difficulty rating reflects primarily non-technical terrain though exposed sections river crossings variable weather 1,700-meter cumulative elevation change demand proper preparation physical conditioning waterproof equipment navigational skills enabling safe completion rewarding journey. June 25-September 15 constitutes typical operating season though optimal conditions occur July-August featuring extended daylight warmest temperatures most reliable weather patterns though crowded trails require early bookings. Laugavegur combines stunning scenery manageable daily distances comprehensive infrastructure creating accessible introduction Icelandic highland trekking while offering sufficient challenge adventure satisfying experienced hikers seeking multi-day wilderness immersion. Extended Fimmvörðuháls combination creates 80-kilometer epic traverse connecting Skógar waterfall Landmannalaugar covering Iceland's premier trekking highlights single ambitious journey establishing bucket-list adventure serious outdoor enthusiasts.",
+  "address": "Laugavegur Trail, Landmannalaugar to Þórsmörk, Iceland Highlands",
+  "coordinates": {
+    "longitude": -19.0606,
+    "latitude": 63.9864,
+    "altitude": 600.0
+  },
+  "rating": 4.9,
+  "reviews_count": 5840,
+  "category": "Multi-Day Hiking Trail",
+  "website": "https://www.fi.is/en/hiking-trails/trails/view/laugavegur",
+  "phone": "+354 568 2533",
+  "images": [
+    "https://www.fi.is/images/laugavegur-trail-highlands.jpg"
+  ],
+  "opening_hours": {
+    "season": "June 25 - September 15 (typical)",
+    "best_time": "July-August",
+    "distance": "55 km (34 miles)",
+    "duration": "3-4 days",
+    "difficulty": "Moderate",
+    "elevation_gain": "1,700 meters cumulative",
+    "hut_cost": "15,800 ISK per night (2025-2026)",
+    "camping_cost": "3,200 ISK per night",
+    "huts": "Hrafntinnusker (12km), Álftavatn (24km), Emstrur (39km), Þórsmörk (55km)"
+  }
+}

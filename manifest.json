@@ -11,6 +11,7 @@
     "pois/arbaer_open_air_museum.json",
     "pois/arctic_fox_center.json",
     "pois/arnarstapi.json",
+    "pois/askja_caldera_trail.json",
     "pois/askja_v\u00edti.json",
     "pois/aurora_reykjavik.json",
     "pois/aviation_museum_iceland.json",
@@ -58,6 +59,7 @@
     "pois/fagrifoss.json",
     "pois/faskrudsfjordur.json",
     "pois/faxi.json",
+    "pois/fimmv\u00f6r\u00f0uh\u00e1ls_trail.json",
     "pois/fiskf\u00e9lagi\u00f0.json",
     "pois/fjadrargljufur_canyon.json",
     "pois/fjallsarlon.json",
@@ -72,6 +74,7 @@
     "pois/gljufrabui.json",
     "pois/gluggafoss.json",
     "pois/glymur.json",
+    "pois/glymur_waterfall_trail.json",
     "pois/gl\u00f3_restaurant.json",
     "pois/godafoss.json",
     "pois/grafarkirkja.json",
@@ -103,6 +106,7 @@
     "pois/hofn.json",
     "pois/hofskirkja.json",
     "pois/hofs\u00f3s_pool.json",
+    "pois/hornstrandir_nature_reserve.json",
     "pois/hotel_heydalur_pools.json",
     "pois/hrafnabjargafoss.json",
     "pois/hraun_restaurant.json",
@@ -150,6 +154,7 @@
     "pois/laugardalslaug.json",
     "pois/laugarvatn_fontana_spa.json",
     "pois/laugavegur_street.json",
+    "pois/laugavegur_trail.json",
     "pois/lava_centre.json",
     "pois/lei\u00f0arendi.json",
     "pois/litlanesfoss.json",
@@ -271,5 +276,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 268
+  "total_files": 273
 }

@@ -1,0 +1,30 @@
+{
+  "name": "Askja Caldera & Víti Crater Trail - Highland Volcanic Trek",
+  "description": "Askja Caldera Trail accesses Iceland's most dramatic volcanic landscape where massive 50-square-kilometer caldera formed catastrophic 1875 eruption contains Öskjuvatn lake Iceland's deepest 220 meters plus emerald Víti explosion crater offering otherworldly hiking experience remote central highlands north Vatnajökull glacier accessible exclusively 4x4 vehicles May-September creating ultimate off-beaten-path adventure. Parking area positions trailhead beginning 2.4-kilometer hiking route requiring 40-60 minutes reaching Víti crater perched caldera rim where 1875 explosion created circular depression now filled milky turquoise geothermal water maintaining 25°C temperature enabling unique highland swimming experience though access conditional upon ranger approval weather terrain conditions. Steep descent Víti requires navigating slippery clay slopes where wet conditions prompt closures indicated wooden markers protecting hikers from dangerous mud ascents though favorable conditions reward stunning crater lake views potential geothermal bathing surreal volcanic amphitheater setting showcasing raw geological forces shaping Iceland's landscapes. Extended circuit continues Öskjuvatn's black sand shores completing 1.5-2 hour round trip offering comprehensive caldera exploration witnessing scale volcanic destruction evidenced barren pumice deserts surrounding cliffs Drekagil dragon canyon nearby lunar landscapes establishing premier geological education opportunity. Remote highland location demands serious 4x4 capability where F905 F910 routes require three hours each direction Route 1 traversing unbridged rivers volcanic ash tracks challenging terrain though rewards include profound solitude spectacular scenery active volcanic context where consultation Dreki hut rangers mandatory assessing current conditions eruption risks since Askja remains active volcano potentially erupting anytime though not currently imminent. May-September accessibility window reflects snow conditions highland road openings though peak July-August offers warmest weather most reliable access extended daylight enabling safe navigation return journeys though all visitors must respect extreme remoteness self-sufficiency requirements emergency preparedness essential venturing Iceland's formidable interior wilderness.",
+  "address": "Askja Caldera, Route F910, Iceland Highlands (4x4 only)",
+  "coordinates": {
+    "longitude": -16.7500,
+    "latitude": 65.0333,
+    "altitude": 1100.0
+  },
+  "rating": 4.8,
+  "reviews_count": 2890,
+  "category": "Highland Volcanic Trail",
+  "website": "https://adventures.is/iceland/attractions/askja",
+  "phone": "+354 470 0840",
+  "images": [
+    "https://adventures.is/images/askja-viti-crater.jpg"
+  ],
+  "opening_hours": {
+    "season": "May - September (4x4 roads open)",
+    "best_time": "July-August",
+    "distance": "2.4 km (1.5 miles) to Víti",
+    "duration": "1.5-2 hours round trip (caldera circuit)",
+    "difficulty": "Moderate (steep Víti descent)",
+    "access": "4x4 ONLY - F905/F910 routes, 3 hours from Route 1",
+    "víti_access": "Conditional - ask rangers at Dreki huts first",
+    "swimming": "Víti crater ~25°C when access permitted",
+    "note": "Active volcano - consult rangers before visiting",
+    "caldera_size": "50 km², Öskjuvatn lake 220m deep (Iceland's deepest)"
+  }
+}
