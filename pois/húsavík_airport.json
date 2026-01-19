@@ -1,0 +1,30 @@
+{
+  "name": "Húsavík Airport - Whale Watching Capital Gateway",
+  "description": "Húsavík Airport provides convenient northern Iceland access positioning travelers 10 kilometers south 'Whale Watching Capital Iceland' where 12 weekly Eagle Air flights Reykjavík City Airport deliver 55-minute connections bypassing six-hour ground transportation enabling efficient whale watching expeditions Diamond Circle exploration time-optimized northern adventures maximizing limited vacation windows. 1957 opening established regional connectivity serving Húsavík's 2,300 population though 1986 modern terminal construction reflected growing tourism importance where whale watching industry transformation positioned town international destination attracting global visitors seeking intimate cetacean encounters 97-percent success rates Skjálfandi Bay establishing airport critical infrastructure supporting marine tourism economic development. Húsavík positioning enables specialized itineraries where fly-in visitors maximize two-three day northern stays combining morning whale watching afternoon Mývatn exploration evening Goðafoss visits departing efficiently without extensive driving daily accommodation changes characterizing conventional Ring Road circuits creating concentrated intense northern experiences impossible ground-based logistics. Airport's single runway basic facilities reflect small regional operation though reliable services accommodate seasonal tourist fluctuations summer peaks winter lulls where reduced operations mirror broader northern Iceland tourism patterns midnight sun versus aurora seasons differentiating year-round destination dynamics. 23 whale species documented Skjálfandi Bay including humpbacks minke dolphins porpoises occasional orcas blue whales establish Húsavík global marine wildlife destination where airport access enables international visitors seamlessly integrating whale watching multi-country European itineraries Iceland stopovers combining cultural natural experiences efficient timeframes impossible lengthy overland travels. Beyond cetacean attractions Húsavík offers Whale Museum GeoSea geothermal sea baths Ásbyrgi canyon proximity Dettifoss Europe's most powerful waterfall creating comprehensive northern experiences justifying dedicated visits rather than brief Ring Road stops establishing airport gateway profound northern Iceland immersion discovering region's unique character beyond south coast tourist concentrations mainstream attractions overcrowding issues.",
+  "address": "Húsavík Airport (HZK), 641 Húsavík, North Iceland",
+  "coordinates": {
+    "longitude": -17.4267,
+    "latitude": 65.9522,
+    "altitude": 15.0
+  },
+  "rating": 4.3,
+  "reviews_count": 1450,
+  "category": "Regional Airport",
+  "website": "https://www.husavik.com/airport",
+  "phone": "+354 464 1200",
+  "images": [
+    "https://www.husavik.com/images/husavik-airport.jpg"
+  ],
+  "opening_hours": {
+    "operation": "Year-round scheduled service",
+    "carrier": "Eagle Air",
+    "frequency": "12 weekly flights from Reykjavík City Airport (RKV)",
+    "flight_time": "55 minutes",
+    "distance_to_town": "10 km south of Húsavík",
+    "terminal": "Opened 1986",
+    "whale_species": "23 species sighted in Skjálfandi Bay",
+    "serves": "Húsavík (pop 2,300), whale watching hub",
+    "nearby": "Whale Museum, GeoSea baths, Ásbyrgi canyon, Dettifoss waterfall",
+    "hub_status": "Gateway to Iceland's Whale Watching Capital"
+  }
+}

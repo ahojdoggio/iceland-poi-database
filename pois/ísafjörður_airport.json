@@ -1,0 +1,29 @@
+{
+  "name": "Ísafjörður Airport - Westfjords Dramatic Mountain Gateway",
+  "description": "Ísafjörður Airport delivers one Europe's most spectacular challenging aviation experiences where pilots navigate 180-degree curved approach threading narrow fjord walled sheer mountains before touchdown single runway 8/26 creating unforgettable arrival departure sequences passengers witnessing dramatic Westfjords landscapes intimate proximity establishing airport reputation among world's most scenic approaches aviation enthusiasts. Geographic constraints positioning airport deep Skutulsfjörður fjord surrounded towering peaks necessitate unique non-standard approaches where straight-in landings impossible requiring skilled piloting precise navigation tight spaces particularly challenging crosswinds turbulence mountain-induced weather patterns demanding experienced crews rigorous training procedures maintaining safety standards extreme operational environment. Winter operations prove especially critical when heavy snowfall closes Westfjords mountain passes rendering Ísafjörður completely inaccessible road transportation leaving aviation sole reliable connection outside world demonstrating airport's essential role maintaining isolated community connectivity emergency services cargo deliveries passenger transport when ground routes impassable weeks months. Ísafjörður serves Westfjords' largest settlement 2,600 population functioning regional hub healthcare education commerce where airport enables business travel tourist access medical evacuations connecting remote peninsula Iceland's broader transportation networks though limited flight frequencies weather-dependent operations require flexible travel planning contingency accommodations potential delays cancellations. Aviation photographers enthusiasts specifically seek Ísafjörður flights documenting remarkable approaches where aircraft skim mountainsides execute dramatic banking maneuvers descending fjord capturing extraordinary imagery impossible elsewhere Iceland creating niche tourism attracting dedicated aviation community appreciating technical flying challenges stunning natural backdrops combining operational necessity aesthetic spectacle. Passengers experience intimate Westfjords introduction where flight paths provide unparalleled aerial perspectives jagged coastlines deep fjords isolated settlements pristine wilderness preparing ground-level exploration Europe's last wild frontier encouraging extended stays discovering dramatic landscapes authentic fishing village culture endless hiking opportunities characteristic remote peninsula establishing memorable gateway adventure seekers seeking Iceland beyond mainstream tourist circuits conventional accessibility.",
+  "address": "Ísafjörður Airport (IFJ), 400 Ísafjörður, Westfjords, Iceland",
+  "coordinates": {
+    "longitude": -23.1353,
+    "latitude": 66.0581,
+    "altitude": 2.0
+  },
+  "rating": 4.8,
+  "reviews_count": 1920,
+  "category": "Regional Airport",
+  "website": "https://www.innanlandsflugvellir.is/en/isafjordur-airport",
+  "phone": "+354 450 8150",
+  "images": [
+    "https://www.westfjords.is/images/isafjordur-airport-approach.jpg"
+  ],
+  "opening_hours": {
+    "operation": "Year-round (weather dependent)",
+    "runway": "Single runway 8/26",
+    "approach": "Non-standard curved 180° approach required",
+    "challenge": "Considered one of Europe's most scenic & challenging approaches",
+    "winter_importance": "Often sole access when roads closed by snow",
+    "serves": "Ísafjörður (pop 2,600), Westfjords region",
+    "carriers": "Domestic flights from Reykjavík",
+    "note": "Flights subject weather cancellations - flexible planning required",
+    "aviation_photography": "Popular destination for aviation enthusiasts"
+  }
+}

@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 138/258 (53%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **273/393 (69%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 142/258 (55%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **277/393 (70%)** |
 
 ---
 
@@ -374,7 +374,7 @@
 
 ---
 
-## 📋 PRIORITY 4: Specialized Sites (120 remaining, 138 complete)
+## 📋 PRIORITY 4: Specialized Sites (116 remaining, 142 complete)
 
 ### Completed Categories ✅
 - **Swimming Pools:** ✅ COMPLETE (35/35) - 18 new Priority 4 pools created
@@ -389,12 +389,12 @@
 - **Lighthouses:** ✅ COMPLETE (7/7) - 5 new created
 - **Wildlife Sites:** ✅ COMPLETE (6/6) - 6 new created
 - **Hiking Trails:** ✅ COMPLETE (5/5) - 5 new created
+- **Airports:** ✅ COMPLETE (5/5) - 4 new created (Keflavík updated from Priority 1)
 
 ### Remaining Categories
 - **Waterfalls:** 22 remaining
 - **Museums:** 25 remaining
 - **Highlands:** 10 remaining
-- **Airports:** 5 remaining
 - **Towns & Villages:** 50+ remaining
 
 **Full detailed lists in sections below** ↓
@@ -742,12 +742,12 @@ Running: [X]/393 ([X]%)
 - [ ] Mýrdalssandur
 - [ ] Skaftafell
 
-### Airports (5)
-- [ ] Keflavík
-- [ ] Akureyri
-- [ ] Ísafjörður
-- [ ] Húsavík
-- [ ] Egilsstaðir
+### Airports ✅ COMPLETE (5/5)
+- [x] Keflavík International - Iceland's main gateway, 7.51M passengers 2026, 29 airlines, 90 destinations
+- [x] Akureyri - North Iceland hub, expanded terminal 2024, Zurich flights from June 2026
+- [x] Ísafjörður - Westfjords dramatic 180° mountain approach, Europe's most scenic landing
+- [x] Húsavík - Whale watching capital gateway, 12 weekly flights, 55-minute from Reykjavík
+- [x] Egilsstaðir - East Iceland portal, 20 weekly flights, 60-minute connections
 
 ### Towns & Villages (50+)
 

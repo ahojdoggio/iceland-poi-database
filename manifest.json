@@ -2,6 +2,7 @@
   "poi_files": [
     "pois/akranes.json",
     "pois/akureyrarkirkja.json",
+    "pois/akureyri_airport.json",
     "pois/akureyri_art_museum.json",
     "pois/akureyri_botanical_garden.json",
     "pois/akureyri_museum.json",
@@ -51,6 +52,7 @@
     "pois/dyrh\u00f3laey_puffins.json",
     "pois/east_iceland_heritage_museum.json",
     "pois/egilsstadir.json",
+    "pois/egilssta\u00f0ir_airport.json",
     "pois/eldhraun.json",
     "pois/esjan.json",
     "pois/exploration_museum.json",
@@ -120,6 +122,7 @@
     "pois/h\u00f3lar_cathedral.json",
     "pois/h\u00f3lmsbergsviti.json",
     "pois/h\u00f3tel_b\u00fa\u00f0ir_restaurant.json",
+    "pois/h\u00fasav\u00edk_airport.json",
     "pois/h\u00fasav\u00edk_lighthouse.json",
     "pois/h\u00fasav\u00edk_whale_museum.json",
     "pois/h\u00fasav\u00edk_whale_watching.json",
@@ -268,6 +271,7 @@
     "pois/\u00e1rb\u00e6jarlaug.json",
     "pois/\u00e1sbyrgi_canyon.json",
     "pois/\u00e1sgar\u00f0slaug.json",
+    "pois/\u00edsafj\u00f6r\u00f0ur_airport.json",
     "pois/\u00f3lafsfj\u00f6r\u00f0ur_swimming_pool.json",
     "pois/\u00f6lverk_brewery.json",
     "pois/\u00feingeyrar_church.json",
@@ -276,5 +280,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 273
+  "total_files": 277
 }

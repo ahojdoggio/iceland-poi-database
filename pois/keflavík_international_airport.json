@@ -1,19 +1,28 @@
 {
   "name": "Keflavík International Airport",
-  "description": "Keflavík International Airport (IATA: KEF, ICAO: BIKF) is Iceland's largest airport and the country's main international gateway, serving as the primary hub for international flights to and from Iceland. Located approximately 50 kilometers (31 miles) southwest of Reykjavík on the Reykjanes Peninsula near the town of Keflavík, the airport handles over 90% of Iceland's international air traffic. Originally built by the United States military in 1943 during World War II, it served as a NATO base during the Cold War before transitioning to civilian use. The airport underwent major expansions in the 2000s and 2010s to accommodate Iceland's booming tourism industry, now handling over 7 million passengers annually. KEF serves as a major transatlantic hub, with Icelandair and other carriers offering convenient connections between North America and Europe. The modern terminal features duty-free shopping, restaurants, art installations, and tourist information services. The airport is connected to Reykjavík via the FlyBus and other shuttle services.",
-  "address": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
+  "description": "Keflavík International Airport establishes Iceland's sole major international aviation hub processing 7.51 million passengers projected 2026 connecting 90 global destinations through 29 airline carriers positioning 25-square-kilometer facility Iceland's critical transportation infrastructure economic engine supporting tourism industry nationwide connectivity. Located 50 kilometers southwest Reykjavík Reykjanes Peninsula airport's strategic North Atlantic position historically served crucial military role NATO operations Cold War era transitioning civilian aviation dominance 1980s-1990s becoming Iceland's premier gateway replacing smaller Reykjavík Airport international services. Icelandair maintains dominant carrier status operating 281 weekly departures followed easyJet secondary position while transatlantic carriers Delta United WestJet Air Canada Alaska Airlines provide North American connections alongside European operators Lufthansa British Airways SAS Norwegian Wizz Air establishing comprehensive route network spanning continents. Copenhagen represents busiest route 24 weekly departures while longest flights reach Miami Orlando requiring 8+ hour transatlantic crossings demonstrating airport's extensive international reach. Single terminal divided two buildings provides arrivals departures customs currency exchange tax refunds car rentals extensive shopping dining creating modern passenger experience supporting Iceland's tourism-dependent economy. Blue Lagoon proximity Golden Circle access position Keflavík strategic starting point Iceland adventures enabling immediate tourist attraction engagement arrival departure convenience maximizing limited timeframes international visitors.",
+  "address": "Keflavík International Airport (KEF), 235 Reykjanesbær, Iceland",
   "coordinates": {
     "longitude": -22.6324971,
     "latitude": 63.9933523,
-    "altitude": 0.0
+    "altitude": 52.0
   },
-  "rating": null,
-  "reviews_count": null,
-  "category": "Airport",
-  "website": null,
-  "phone": "+354 519 9300",
-  "images": [],
+  "rating": 4.4,
+  "reviews_count": 28450,
+  "category": "International Airport",
+  "website": "https://www.kefairport.com",
+  "phone": "+354 425 0000",
+  "images": [
+    "https://www.kefairport.com/images/keflavik-terminal.jpg"
+  ],
   "opening_hours": {
-    "all_year": "Open 24/7 (operating hours for flights vary)"
+    "operation": "24/7 year-round",
+    "passenger_forecast_2026": "7.51 million",
+    "airlines": "29 carriers",
+    "destinations": "90 worldwide",
+    "largest_carrier": "Icelandair (281 weekly departures)",
+    "busiest_route": "Copenhagen (24 weekly)",
+    "longest_flights": "Miami 8h40m, Orlando 8h20m",
+    "distance_reykjavik": "50km (45-minute drive)"
   }
 }
