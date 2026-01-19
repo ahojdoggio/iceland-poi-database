@@ -1,0 +1,28 @@
+{
+  "name": "Hafnarfjörður - Iceland's Viking Town & Elf Capital",
+  "description": "Hafnarfjörður establishes Iceland's third-largest town positioned 10 kilometers south Reykjavík where 29,000 inhabitants maintain distinct cultural identity celebrating Viking heritage hidden people traditions robust harbor economy creating authentic small-town character within Greater Reykjavík metropolitan area functioning integrated yet independent community preserving historical maritime roots contemporary residential commercial development. Viking Village Fjörukráin represents town's signature attraction featuring themed medieval hotel restaurant where costumed servers deliver mead traditional Nordic cuisine Viking-style dining experiences establishing immersive historical atmosphere year-round while annual Viking Festival transforms Víðistaðatún Park massive four-day celebration second weekend June hosting Iceland's oldest largest Viking festival since 1995 where reenactors establish authentic Viking Age market complete traditional crafts combat demonstrations period music historical education attracting thousands visitors experiencing authentic Nordic culture living history presentations. Christmas Village Þorsplan transforms winter months showcasing Icelandic Yule Lads 13 mischievous Christmas characters folklore replacing singular Santa Claus figure where quaint decorated houses sell Icelandic design crafts traditional foods hot drinks creating magical holiday atmosphere complementing broader Icelandic Christmas traditions unique Nordic character establishing Hafnarfjörður premier Christmas destination December celebrations. Hellisgerði Park enchants visitors moss-covered lava gardens winding paths bubbling natural springs where locals firmly believe huldufólk hidden people elves inhabit mystical landscape establishing Iceland's unofficial elf capital where town officials seriously consider elf habitats infrastructure development recognizing cultural importance supernatural folklore contemporary Icelandic society demonstrating fascinating blend modern governance traditional beliefs. Robust harbor maintains commercial fishing operations though tourism cultural events increasingly define town character where lava field landscapes provide dramatic natural settings contrasting orderly residential neighborhoods commercial districts creating unique urban environment integrated volcanic geology unlike conventional European towns demonstrating Icelandic settlement patterns adapting challenging volcanic terrain. Greater Reykjavík integration provides metropolitan amenities employment opportunities while maintaining independent municipal government distinct identity establishing desirable residential location offering lower housing costs compared central Reykjavík maintaining convenient urban access establishing bedroom community character supporting families seeking affordable metropolitan living alternatives. Cultural institutions include Hafnarborg art museum contemporary exhibitions historic preserved buildings demonstrating architectural heritage while numerous restaurants cafés support vibrant dining scene extending beyond tourist-focused Viking Village offerings providing residents visitors diverse culinary options regional Icelandic specialties international cuisines.",
+  "address": "Hafnarfjörður, 220 Capital Region, Iceland (10 km south of Reykjavík)",
+  "coordinates": {
+    "longitude": -21.9607,
+    "latitude": 64.0671,
+    "altitude": 12.0
+  },
+  "rating": 4.5,
+  "reviews_count": 8920,
+  "category": "Town - Capital Region",
+  "website": "https://en.hafnarfjordur.is",
+  "phone": "+354 585 5500",
+  "images": [
+    "https://visitreykjavik.is/images/hafnarfjordur-town.jpg"
+  ],
+  "opening_hours": {
+    "population": "~29,000 (3rd largest in Iceland)",
+    "distance_reykjavik": "10 km south (10-15 minute drive)",
+    "viking_festival": "2nd weekend June (4 days), since 1995 - Iceland's largest",
+    "christmas_village": "December, Þorsplan square",
+    "hellisgerdi_park": "Elf garden, year-round access",
+    "fjorukrain": "Viking Village hotel/restaurant, themed dining",
+    "character": "Viking heritage, elf capital, harbor town",
+    "attractions": "Viking Village, Hellisgerði elf park, Christmas village, Hafnarborg museum"
+  }
+}

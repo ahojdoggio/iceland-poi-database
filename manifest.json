@@ -69,6 +69,7 @@
     "pois/flatey.json",
     "pois/forest_lagoon_akureyri.json",
     "pois/foss_a_sidu.json",
+    "pois/gar\u00f0ab\u00e6r.json",
     "pois/gar\u00f0skagi.json",
     "pois/geitafoss.json",
     "pois/geysir.json",
@@ -91,6 +92,7 @@
     "pois/gullfoss.json",
     "pois/gunnuhver.json",
     "pois/gvendarlaug.json",
+    "pois/hafnarfj\u00f6r\u00f0ur.json",
     "pois/hafragilsfoss.json",
     "pois/haifoss.json",
     "pois/hallgrimskirkja.json",
@@ -151,6 +153,7 @@
     "pois/krossneslaug_pool.json",
     "pois/kvernufoss.json",
     "pois/k\u00f3pavogslaug.json",
+    "pois/k\u00f3pavogur.json",
     "pois/lakag\u00edgar_craters.json",
     "pois/lake_myvatn.json",
     "pois/lake_viti.json",
@@ -171,6 +174,7 @@
     "pois/matur_og_drykkur.json",
     "pois/messinn.json",
     "pois/micro_bar.json",
+    "pois/mosfellsb\u00e6r.json",
     "pois/myrdalsjokull_glacier.json",
     "pois/m\u00fdrdalssandur_plain.json",
     "pois/m\u00fdvatn_nature_baths.json",
@@ -216,6 +220,7 @@
     "pois/selfoss_waterfall.json",
     "pois/seljalandsfoss.json",
     "pois/seljavallalaug_pool.json",
+    "pois/seltjarnarnes.json",
     "pois/seltjarnarneslaug.json",
     "pois/seltun.json",
     "pois/sel\u00e1rlaug_vopnafj\u00f6r\u00f0ur.json",
@@ -286,5 +291,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 283
+  "total_files": 288
 }
