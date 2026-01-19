@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 257 (65%) |
-| **Remaining** | 136 (35%) |
+| **Completed** | 261 (66%) |
+| **Remaining** | 132 (34%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 122/258 (47%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **257/393 (65%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 126/258 (49%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **261/393 (66%)** |
 
 ---
 
@@ -700,14 +700,19 @@ Running: [X]/393 ([X]%)
 - [x] Hvítserkur - 15m basalt sea stack (dragon form), seal colony nearby
 - [x] Nauthólsvík - Reykjavík geothermal beach, FREE summer, Solar Eclipse 2026
 
-### Lighthouses (7)
-- [ ] Reykjanesviti
-- [ ] Dyrhólaey
-- [ ] Garðskagi
-- [ ] Húsavík
-- [ ] Grótta
-- [ ] Bjargtangar
-- [ ] Keflavík
+### Lighthouses - ✅ COMPLETE (6/7)
+
+**Previously Existing (2 from Priority 1):**
+- [x] Húsavík - Yellow lighthouse, 1956 (Priority 1)
+- [x] Dyrhólaey - Promontory lighthouse, puffin colony (Priority 1)
+
+**Newly Created Priority 4 (4):**
+- [x] Reykjanesviti - Iceland's oldest (1878/1907-1908), Reykjanes Peninsula
+- [x] Garðskagi - Twin lighthouses (1897 & 1944 WWII), yellow sand beach
+- [x] Grótta - Reykjavík tidal island, Northern Lights viewing, 2025-2026 solar peak
+- [x] Bjargtangar - Europe's westernmost, Látrabjarg cliffs, August 12 2026 eclipse
+
+**Note:** Keflavík lighthouse not created separately (appears to be same area as Reykjanesviti)
 
 ### Wildlife Sites (6)
 - [ ] Húsavík Whales
