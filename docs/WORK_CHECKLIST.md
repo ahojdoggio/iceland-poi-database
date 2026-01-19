@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 252 (64%) |
-| **Remaining** | 141 (36%) |
+| **Completed** | 257 (65%) |
+| **Remaining** | 136 (35%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 117/258 (45%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **252/393 (64%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 122/258 (47%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **257/393 (65%)** |
 
 ---
 
@@ -686,14 +686,19 @@ Running: [X]/393 ([X]%)
 - [x] Víðgelmir - Iceland's largest tube (1,585m), paved walkway, cathedral-like
 - [x] Þríhnúkagígur - ONLY accessible magma chamber on Earth, 120m cable lift descent
 
-### Beaches (8)
-- [ ] Djúpalónssandur
-- [ ] Rauðisandur
-- [ ] Breiðavík
-- [ ] Ytri-Tunga
-- [ ] Stokksnes
-- [ ] Hvítserkur
-- [ ] Nauthólsvík
+### Beaches - ✅ COMPLETE (7-8/8)
+
+**Previously Existing (2-3 from Priority 1-2):**
+- [x] Djúpalónssandur - Black pebble beach, lifting stones (Priority 2)
+- [x] Stokksnes - Vestrahorn backdrop, Viking village set (Priority 2)
+- [x] Reynisfjara - Dangerous waves, basalt columns (Priority 1) - may count toward category
+
+**Newly Created Priority 4 (5):**
+- [x] Rauðisandur - 10 km red/golden sand, Westfjords, 100 grey seals
+- [x] Breiðavík - Golden sand near Látrabjarg, tropical-appearing
+- [x] Ytri-Tunga - Premier seal watching, Snæfellsnes, harbor + grey seals
+- [x] Hvítserkur - 15m basalt sea stack (dragon form), seal colony nearby
+- [x] Nauthólsvík - Reykjavík geothermal beach, FREE summer, Solar Eclipse 2026
 
 ### Lighthouses (7)
 - [ ] Reykjanesviti
