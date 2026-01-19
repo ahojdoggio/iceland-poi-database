@@ -2,6 +2,7 @@
   "poi_files": [
     "pois/akranes.json",
     "pois/akureyrarkirkja.json",
+    "pois/akureyri.json",
     "pois/akureyri_airport.json",
     "pois/akureyri_art_museum.json",
     "pois/akureyri_botanical_garden.json",
@@ -22,6 +23,7 @@
     "pois/birkimelur_swimming_pool.json",
     "pois/bjargtangar.json",
     "pois/blue_lagoon.json",
+    "pois/bl\u00f6ndu\u00f3s.json",
     "pois/bolungarvik.json",
     "pois/bolungarv\u00edk.json",
     "pois/borg_bruggh\u00fas.json",
@@ -41,6 +43,7 @@
     "pois/christmas_house_akureyri.json",
     "pois/coocoos_nest.json",
     "pois/crystal_ice_cave.json",
+    "pois/dalv\u00edk.json",
     "pois/dalv\u00edk_swimming_pool.json",
     "pois/deildartunguhver.json",
     "pois/dettifoss.json",
@@ -137,6 +140,7 @@
     "pois/h\u00f3lmsbergsviti.json",
     "pois/h\u00f3tel_b\u00fa\u00f0ir_restaurant.json",
     "pois/h\u00f6fn.json",
+    "pois/h\u00fasav\u00edk.json",
     "pois/h\u00fasav\u00edk_airport.json",
     "pois/h\u00fasav\u00edk_lighthouse.json",
     "pois/h\u00fasav\u00edk_whale_museum.json",
@@ -226,6 +230,7 @@
     "pois/rub23_akureyri.json",
     "pois/saga_museum.json",
     "pois/sandholt_bakery.json",
+    "pois/sau\u00f0\u00e1rkr\u00f3kur.json",
     "pois/sau\u00f0\u00e1rkr\u00f3kur_swimming_pool.json",
     "pois/saxholl_crater.json",
     "pois/secret_lagoon.json",
@@ -241,6 +246,7 @@
     "pois/settlement_exhibition.json",
     "pois/seydisfjordur.json",
     "pois/shark_museum.json",
+    "pois/siglufj\u00f6r\u00f0ur.json",
     "pois/skaftafell.json",
     "pois/skalholt.json",
     "pois/skogafoss.json",
@@ -310,5 +316,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 307
+  "total_files": 313
 }

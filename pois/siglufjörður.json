@@ -1,0 +1,27 @@
+{
+  "name": "Siglufjörður - Herring Era Museum Town",
+  "description": "Siglufjörður establishes historic herring capital where 1,200 residents inhabit dramatic Tröllaskagi peninsula fjord creating scenic isolation northern Iceland though Hedinsfjörður tunnels 2010 transformed accessibility enabling year-round connection Ólafsfjörður Akureyri ending seasonal isolation improving economic viability tourism access supporting community sustainability. Herring Era Museum European Museum Award winner showcases 1900s-1968 boom-bust herring fishery where massive catches processing supported 10,000 peak population creating prosperity sudden collapse decimated community demonstrating resource-dependent vulnerability establishing comprehensive exhibits preserving industrial heritage boats processing equipment living quarters creating immersive experiences understanding historical fishing life hardships prosperity cycles. Óli Brewery microbrewery produces craft beers supporting local beverages industry though small-scale production maintains artisanal character creating tourism tasting-room appeal beyond purely commercial distribution establishing community pride local production quality craftsmanship. Folk Music Center preserves traditional Icelandic music culture hosting performances workshops exhibitions supporting cultural heritage transmission education creating cultural tourism dimension beyond herring heritage establishing well-rounded cultural institutions supporting diverse visitor interests. Dramatic mountain scenery surrounds town where steep slopes create spectacular backdrop photography hiking establishing scenic appeal beyond museum tourism though avalanche risks require defensive infrastructure careful land-use planning demonstrating ongoing geological hazards mountainous settlements. Skiing Skarðsdalur provides winter recreation modest facilities serving local population visitors seeking off-beaten-path ski destinations avoiding crowded commercial resorts though limited infrastructure basic amenities maintain authentic character lacking commercialization typical major ski areas.",
+  "address": "Siglufjörður, 580 North Iceland (Tröllaskagi)",
+  "coordinates": {
+    "longitude": -18.9167,
+    "latitude": 66.1500,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 6780,
+  "category": "Town - North Iceland",
+  "website": "https://www.siglo.is",
+  "phone": "+354 467 1221",
+  "images": [
+    "https://www.northiceland.is/images/siglufjordur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~1,200",
+    "location": "Tröllaskagi peninsula, dramatic fjord",
+    "herring_museum": "European Award winner, 1900s-1968 fishery heritage",
+    "tunnels": "2010 Hedinsfjörður tunnels ended isolation",
+    "oli_brewery": "Local craft beer microbrewery",
+    "folk_music_center": "Traditional music preservation",
+    "character": "Historic herring capital, museum town, scenic isolation"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dalvík - Fishing Town & Arctic Henge Gateway",
+  "description": "Dalvík establishes fishing community Tröllaskagi peninsula Eyjafjörður fjord where approximately 1,400 residents maintain maritime economy though 1934 earthquake magnitude 6.3 devastated town killing several people destroying structures creating historical trauma requiring complete reconstruction establishing modern town character lacking historical architecture pre-1934 settlement patterns demonstrating ongoing seismic risks northern Iceland requiring earthquake-resistant construction emergency preparedness. Dalvík Swimming Pool oceanfront geothermal facilities provides exceptional Atlantic views while bathing hot tubs establishing premier swimming experience combining ocean proximity geothermal warmth creating memorable bathing supporting local recreation tourism appeal. Great Fish Day Fiskidagurinn mikli August festival celebrates fishing heritage where free fish soup distributed thousands visitors creating community celebration maritime traditions supporting cultural tourism pride demonstrating successful festival tourism supporting small-town economies creating annual visitor concentrations. Whale watching tours depart Dalvík harbor capitalizing Eyjafjörður marine richness though competing neighboring Húsavík's whale capital reputation nevertheless attracting visitors seeking alternative departure points less crowded experiences establishing secondary whale tourism supporting diversified economy. Hrísey Island ferry connection enables day-trips exploring car-free island bird watching hiking quarry history establishing accessible island tourism though limited ferry schedules require planning coordinating transportation accommodating visiting timeframes. Arctic Henge Heimskautsgerðið Raufarhöfn visible northern horizon creating mysterious monument though located separate municipality jurisdiction nevertheless associated Dalvík northern region tourism creating composite destination encouraging extended northern Iceland explorations combining fishing town culture cosmic monuments bird islands comprehensive northern experiences.",
+  "address": "Dalvík, 620 North Iceland",
+  "coordinates": {
+    "longitude": -18.5267,
+    "latitude": 65.9700,
+    "altitude": 3.0
+  },
+  "rating": 4.4,
+  "reviews_count": 3450,
+  "category": "Town - North Iceland",
+  "website": "https://www.dalvikurbyggd.is/en",
+  "phone": "+354 460 4900",
+  "images": [
+    "https://www.northiceland.is/images/dalvik.jpg"
+  ],
+  "opening_hours": {
+    "population": "~1,400",
+    "location": "Eyjafjörður fjord, Tröllaskagi peninsula",
+    "1934_earthquake": "M6.3 devastated town, complete reconstruction",
+    "great_fish_day": "Fiskidagurinn mikli August festival, free fish soup",
+    "swimming_pool": "Oceanfront geothermal bathing, Atlantic views",
+    "hrisey_ferry": "Island day-trip connection",
+    "character": "Fishing town, earthquake history, festival tourism"
+  }
+}

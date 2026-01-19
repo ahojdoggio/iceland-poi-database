@@ -1,0 +1,26 @@
+{
+  "name": "Sauðárkrókur - Skagafjörður Service Center",
+  "description": "Sauðárkrókur establishes northwestern Iceland's second-largest town Skagafjörður valley where approximately 2,600 residents create regional commercial administrative hub supporting broader agricultural populations providing fuel medical shopping dining educational services establishing functional importance exceeding population demographics serving dispersed rural farming communities demonstrating hierarchical settlement service patterns characteristic Icelandic dispersed populations. Grettislaug hot pools legendary outlaw Grettir Ásmundarson bathed stone-lined geothermal pools creating folklore tourism attraction combining natural bathing historical saga connections creating cultural heritage dimension beyond purely recreational bathing establishing narrative tourism leveraging medieval literary traditions. Horse breeding dominates regional economy where Skagafjörður valley represents Iceland's premier horse breeding center producing exported Icelandic horses worldwide demonstrating agricultural specialization supporting prosperous farming economy beyond purely sheep fishing orientations diversifying rural livelihoods creating resilient agricultural base. Glaumbær Farm Museum nearby turf house complex preserves traditional Icelandic architecture demonstrating historical living conditions agricultural practices establishing heritage education tourism though separate municipality jurisdiction nevertheless associated Sauðárkrókur regional tourism creating composite destinations. Swimming pool Sauðárkrókslaug provides geothermal bathing facilities establishing essential municipal infrastructure supporting community health recreation social gathering though overshadowed Grettislaug's outdoor natural pools nevertheless serving year-round local needs demonstrating functional versus tourism-oriented bathing facilities. Agricultural services dominate commercial sector where farm equipment suppliers veterinary services feed stores create specialized retail supporting regional farming creating distinct commercial character contrasting purely consumer-oriented retail typical urban settlements demonstrating functional service center supporting agricultural hinterlands.",
+  "address": "Sauðárkrókur, 550 North Iceland",
+  "coordinates": {
+    "longitude": -19.6383,
+    "latitude": 65.7494,
+    "altitude": 10.0
+  },
+  "rating": 4.3,
+  "reviews_count": 2890,
+  "category": "Town - North Iceland",
+  "website": "https://www.skagafjordur.is",
+  "phone": "+354 455 4200",
+  "images": [
+    "https://www.northiceland.is/images/saudarkrokur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~2,600 (northwestern Iceland 2nd largest)",
+    "location": "Skagafjörður valley, northwestern Iceland",
+    "grettislaug": "Legendary saga hot pools nearby",
+    "horse_breeding": "Skagafjörður premier Icelandic horse center",
+    "glaumbær": "Nearby turf farm museum",
+    "character": "Regional service center, horse breeding, agricultural hub"
+  }
+}
