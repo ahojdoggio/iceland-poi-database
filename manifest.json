@@ -46,6 +46,7 @@
     "pois/dyrholaey.json",
     "pois/east_iceland_heritage_museum.json",
     "pois/egilsstadir.json",
+    "pois/eldhraun.json",
     "pois/esjan.json",
     "pois/exploration_museum.json",
     "pois/eyjafjallajokull.json",
@@ -141,6 +142,7 @@
     "pois/laugarvatn_fontana_spa.json",
     "pois/laugavegur_street.json",
     "pois/lava_centre.json",
+    "pois/lei\u00f0arendi.json",
     "pois/litlanesfoss.json",
     "pois/logn_restaurant.json",
     "pois/londrangar.json",
@@ -165,6 +167,7 @@
     "pois/pollurinn_hot_tubs.json",
     "pois/punk_museum.json",
     "pois/raudfeldsgja_gorge.json",
+    "pois/raufarh\u00f3lshellir.json",
     "pois/reykholt.json",
     "pois/reykjadalur.json",
     "pois/reykjafjardarlaug_hot_pool.json",
@@ -229,12 +232,14 @@
     "pois/varmaland_swimming_pool.json",
     "pois/vatnajokull_glacier.json",
     "pois/vatnajokull_national_park.json",
+    "pois/vatnshellir.json",
     "pois/vestmannaeyjar.json",
     "pois/vestrahorn.json",
     "pois/vesturb\u00e6jarlaug.json",
     "pois/vik.json",
     "pois/vi\u00f0ey.json",
     "pois/vogafj\u00f3s_restaurant.json",
+    "pois/v\u00ed\u00f0gelmir.json",
     "pois/v\u00ed\u00f0im\u00fdrarkirkja.json",
     "pois/whales_of_iceland.json",
     "pois/ytri_tunga.json",
@@ -245,9 +250,10 @@
     "pois/\u00f3lafsfj\u00f6r\u00f0ur_swimming_pool.json",
     "pois/\u00f6lverk_brewery.json",
     "pois/\u00feingeyrar_church.json",
-    "pois/\u00feingvellir_national_park.json"
+    "pois/\u00feingvellir_national_park.json",
+    "pois/\u00fer\u00edhn\u00fakag\u00edgur.json"
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 246
+  "total_files": 252
 }
