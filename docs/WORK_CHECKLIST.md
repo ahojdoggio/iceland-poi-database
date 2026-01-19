@@ -10,8 +10,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total POIs** | 393 |
-| **Completed** | 246 (63%) |
-| **Remaining** | 147 (37%) |
+| **Completed** | 252 (64%) |
+| **Remaining** | 141 (36%) |
 | **Time Invested** | ~36 hours |
 | **Time Remaining** | ~62 hours |
 
@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 111/258 (43%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **246/393 (63%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 117/258 (45%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **252/393 (64%)** |
 
 ---
 
@@ -672,15 +672,19 @@ Running: [X]/393 ([X]%)
 - [x] Hverfjall - Perfect 1 km tephra crater near Mývatn, 2,500 years old
 - [x] Grábrok - Ring Road accessible crater chain, 4,000 years old, moss-covered lava
 
-### Lava & Caves (8)
-- [ ] Dimmuborgir
-- [ ] Eldhraun
-- [ ] Leiðarendi
-- [ ] Vatnshellir
-- [ ] Raufarhólshellir
-- [ ] Víðgelmir
-- [ ] Grjótagjá
-- [ ] Þríhnúkagígur
+### Lava Fields & Caves - ✅ COMPLETE (8/8)
+
+**Previously Existing (2 from earlier work):**
+- [x] Dimmuborgir - Dark castles lava formations, Mývatn area
+- [x] Grjótagjá - Geothermal cave, Game of Thrones location
+
+**Newly Created Priority 4 (6):**
+- [x] Eldhraun - World's largest lava field (565 km²), 1783 Laki eruption, moss-covered
+- [x] Leiðarendi - 900m Reykjanes cave, colorful minerals, year-round tours
+- [x] Vatnshellir - 8,000-year-old Snæfellsnes tube, spiral staircases, 35m deep
+- [x] Raufarhólshellir - 4th longest (1,360m), award-winning lighting, elevated walkways
+- [x] Víðgelmir - Iceland's largest tube (1,585m), paved walkway, cathedral-like
+- [x] Þríhnúkagígur - ONLY accessible magma chamber on Earth, 120m cable lift descent
 
 ### Beaches (8)
 - [ ] Djúpalónssandur
