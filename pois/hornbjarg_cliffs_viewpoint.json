@@ -1,0 +1,20 @@
+{
+  "name": "Hornbjarg Cliffs - Hornstrandir wilderness cliffs",
+  "description": "Hornbjarg Cliffs represents spectacular natural feature where dramatic landscapes create exceptional viewpoints attracting visitors photographers seeking capture Iceland's diverse geological formations establishing regional tourism destination demonstrating natural beauty accessible various visitor capabilities supporting outdoor recreation education.",
+  "address": "Hornbjarg Cliffs, Iceland",
+  "coordinates": {
+    "longitude": -22.4333,
+    "latitude": 66.4667,
+    "altitude": 200.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1230,
+  "category": "Natural Feature/Viewpoint",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "access": "Seasonal, weather dependent",
+    "character": "Natural landmark, scenic viewpoint"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Þjófafoss - Thieves Falls hydroelectric",
+  "description": "Þjófafoss represents Thieves Falls hydroelectric where cascading waters create scenic natural feature attracting visitors exploring Icelandic waterfall diversity establishing regional tourism destination supporting local communities through visitor spending demonstrating how natural attractions sustain rural economies beyond traditional industries creating economic opportunities remote locations.",
+  "address": "Þjófafoss, Iceland",
+  "coordinates": {
+    "longitude": -19.8667,
+    "latitude": 64.1833,
+    "altitude": 100.0
+  },
+  "rating": 4.3,
+  "reviews_count": 890,
+  "category": "Waterfall",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "access": "Seasonal, check local conditions",
+    "character": "Natural waterfall, scenic attraction"
+  }
+}

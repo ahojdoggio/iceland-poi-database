@@ -1,0 +1,20 @@
+{
+  "name": "Landbrotalaug - Ancient stone pool",
+  "description": "Landbrotalaug provides authentic Icelandic bathing experience where geothermal waters natural settings create memorable soaking opportunities demonstrating Iceland's abundant geothermal resources supporting bathing culture establishing destination beyond commercial spa environments providing authentic natural bathing reflecting traditional Icelandic practices.",
+  "address": "Landbrotalaug, South area, Iceland",
+  "coordinates": {
+    "longitude": -21.6333,
+    "latitude": 63.9667,
+    "altitude": 150.0
+  },
+  "rating": 4.5,
+  "reviews_count": 780,
+  "category": "Swimming Pool/Hot Spring",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "access": "Natural pool, year-round weather permitting",
+    "character": "Geothermal bathing, natural pools"
+  }
+}

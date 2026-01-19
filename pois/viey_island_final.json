@@ -1,0 +1,20 @@
+{
+  "name": "Viðey Island - Reykjavík art island",
+  "description": "Viðey Island represents notable Icelandic attraction where cultural natural features create visitor destination supporting tourism infrastructure demonstrating Iceland's diverse attractions beyond major landmarks establishing comprehensive destination portfolio supporting various visitor interests travel styles creating well-rounded tourism offerings.",
+  "address": "Viðey Island, Iceland",
+  "coordinates": {
+    "longitude": -21.8667,
+    "latitude": 64.1667,
+    "altitude": 25.0
+  },
+  "rating": 4.4,
+  "reviews_count": 560,
+  "category": "Attraction",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "access": "Seasonal hours vary",
+    "character": "Cultural/natural attraction"
+  }
+}

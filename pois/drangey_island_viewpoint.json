@@ -1,0 +1,20 @@
+{
+  "name": "Drangey Island - Dramatic island Skagafjörður",
+  "description": "Drangey Island represents spectacular natural feature where dramatic landscapes create exceptional viewpoints attracting visitors photographers seeking capture Iceland's diverse geological formations establishing regional tourism destination demonstrating natural beauty accessible various visitor capabilities supporting outdoor recreation education.",
+  "address": "Drangey Island, Iceland",
+  "coordinates": {
+    "longitude": -19.6833,
+    "latitude": 65.9333,
+    "altitude": 200.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1230,
+  "category": "Natural Feature/Viewpoint",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "access": "Seasonal, weather dependent",
+    "character": "Natural landmark, scenic viewpoint"
+  }
+}
