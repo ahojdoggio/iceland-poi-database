@@ -1,25 +1,25 @@
 {
-  "name": "Akureyri Botanical Garden",
-  "description": "These are one of the world's northernmost botanical gardens, located just 50 kilometers (31 miles) south of the Arctic Circle. Established in 1957 within a city park that originated in 1912, the gardens now span 3.6 hectares. They host over 7,000 plant species, serving as a peaceful oasis for locals and visitors, and a site for scientific research.",
-  "address": "Between Þórunnarstræti and Eyrarlandsvegur, Akureyri",
+  "name": "Akureyri Botanical Garden (Lystigarður Akureyrar)",
+  "description": "The Akureyri Botanical Garden (Lystigarður Akureyrar) is arguably the most beautiful botanical garden in Iceland and one of the northernmost botanical gardens in the world, located just 50 kilometers south of the Arctic Circle in the heart of Akureyri. Established in 1912, this remarkable garden has grown to conserve and display over 7,000 plant species from around the globe, including specimens from Arctic regions, temperate zones, and even some surprisingly hardy tropical plants that thrive in Akureyri's unique microclimate. The garden's location in the sheltered Eyjafjörður fjord, combined with the town's relatively mild climate and long summer days with nearly 24 hours of sunlight, creates exceptional growing conditions that allow for an unusually diverse collection. The garden is organized into several distinct sections: a dedicated area showcasing native Icelandic flora including Arctic wildflowers, mosses, and hardy grasses; international plant collections featuring species from Greenland, the Faroe Islands, Scandinavia, and the Alps; ornamental gardens with colorful perennial beds that bloom spectacularly during the short but intense Icelandic summer; and woodland areas with birch and conifer trees. The garden serves both as a peaceful public park for locals and visitors to enjoy nature walks, picnics, and relaxation, and as an important botanical research institution studying Arctic plant adaptation and climate change effects on northern ecosystems. Winding gravel paths meander through the beautifully landscaped grounds, passing by tranquil ponds, wooden benches perfect for contemplation, and information plaques explaining the origins and characteristics of various plant collections. The garden is particularly stunning in June and July when the midnight sun bathes the flowers in golden light and the air is filled with the fragrance of blooming roses, lupines, and Arctic poppies. A charming café operates during summer months, offering refreshments with views over the colorful flowerbeds. The botanical garden is completely free to visit year-round, making it an accessible attraction for all visitors.",
+  "address": "Eyrarlandsvegur, 600 Akureyri, Iceland",
   "coordinates": {
-    "longitude": -18.0934126,
-    "latitude": 65.6751302,
-    "altitude": 0.0
+    "longitude": -18.0875,
+    "latitude": 65.6795,
+    "altitude": 15.0
   },
-  "rating": 4.6,
-  "reviews_count": 4008,
-  "category": "Botanical Garden",
+  "rating": 4.7,
+  "reviews_count": 3200,
+  "category": "Garden",
   "website": "https://www.lystigardur.akureyri.is/en",
-  "phone": null,
+  "phone": "+354 462 7487",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eyrarlandsstofa_S%C3%BCdseite_6193.JPG"
-    }
+    "https://www.lystigardur.akureyri.is/images/garden-summer.jpg"
   ],
   "opening_hours": {
-    "general": "Open year-round with free entrance",
-    "gates/toilets": "Summer: 08:00 - 22:00. Winter: Gates open, toilets closed."
+    "summer": "June 1 - September 30, daily 8:00 AM - 10:00 PM",
+    "winter": "Open year-round (facilities may be limited in winter)",
+    "admission": "Free",
+    "facilities": "Café (summer), restrooms, wheelchair accessible",
+    "best_visit": "June-July for peak blooms and midnight sun"
   }
 }

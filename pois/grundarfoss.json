@@ -1,0 +1,30 @@
+{
+  "name": "Grundarfoss - Snæfellsnes Peninsula's Tall Cascade",
+  "description": "Grundarfoss is an impressive 70-meter (230-foot) waterfall located on the outskirts of the charming fishing town of Grundarfjörður on the northern coast of Iceland's scenic Snæfellsnes Peninsula, ranking among the tallest waterfalls on this glacier-capped peninsula famous for its concentration of natural wonders. The Grundará river, after flowing through highlands and valleys, suddenly encounters a towering cliff and plummets in a dramatic vertical drop, creating a slender white ribbon against dark volcanic rock that is visible from Route 54 approximately 2 kilometers east of Grundarfjörður town center. The waterfall's impressive height creates constant mist and spray at its base, with the force of falling water producing an audible roar that grows louder as visitors approach along the hiking trail. Grundarfoss sits within a beautiful amphitheater of mountains and cliffs that characterize this section of Snæfellsnes, with the surrounding landscape featuring typical West Iceland scenery: green slopes dotted with sheep, volcanic rock formations, mountain ridges, and distant views toward Breiðafjörður bay and its countless islands. Access to Grundarfoss is refreshingly easy compared to many of Iceland's spectacular waterfalls: a well-marked hiking trail begins at a small gravel parking area just off Route 54 and covers approximately 1.5 kilometers round trip (750 meters each way), taking about 20 minutes each way for hikers of average fitness. The trail follows the Grundará river upstream through scenic terrain, with just a few gentle slopes making this accessible to most visitors including families with older children. The path does require crossing the Grundará river at one point, but during normal water levels this can be accomplished by hopping across rocks without getting wet, though visitors should exercise caution after heavy rain when water levels rise. The relatively short, easy hike makes Grundarfoss an excellent addition to Snæfellsnes Peninsula itineraries, offering waterfall beauty without the time commitment or physical demands of more remote cascades. Grundarfjörður itself is a delightful small town of about 900 residents that serves as an excellent base for exploring the northern Snæfellsnes region, offering accommodations, restaurants, fuel, and grocery shopping, with the town's scenic harbor backed by dramatic mountains creating postcard-worthy views. The proximity to Kirkjufell mountain and Kirkjufellsfoss waterfall—arguably Iceland's most photographed mountain-waterfall combination—makes Grundarfoss part of a cluster of attractions that can be experienced in a single day. The Snæfellsnes Peninsula's nickname as \"Iceland in Miniature\" reflects its diversity of landscapes: glacier (Snæfellsjökull), lava fields, black sand beaches, bird cliffs, fishing villages, and waterfalls like Grundarfoss all concentrated in a relatively compact area easily explored from Reykjavík as a long day trip or multi-day excursion. The waterfall flows year-round with varying intensity depending on season and precipitation, with spring and early summer offering peak flow as snowmelt from surrounding mountains swells the Grundará river.",
+  "address": "Route 54, 2 km east of Grundarfjörður, Snæfellsnes Peninsula, West Iceland",
+  "coordinates": {
+    "longitude": -23.2283,
+    "latitude": 64.9289,
+    "altitude": 40.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1680,
+  "category": "Waterfall",
+  "website": "https://www.west.is/en/grundarfoss",
+  "phone": null,
+  "images": [
+    "https://www.west.is/images/grundarfoss-tall.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round (easier in summer, winter conditions may be challenging)",
+    "parking": "Small gravel pullout on Route 54",
+    "hike_distance": "1.5 km round trip (750m each way)",
+    "hike_duration": "20 minutes each way",
+    "difficulty": "Easy (mostly flat, gentle slopes)",
+    "river_crossing": "Hop across rocks on Grundará river (normally dry feet possible)",
+    "admission": "Free",
+    "height": "70 meters (230 feet)",
+    "distance_from_grundarfjordur": "2 km east",
+    "nearby_attractions": "Kirkjufell mountain, Kirkjufellsfoss waterfall"
+  }
+}

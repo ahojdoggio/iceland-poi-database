@@ -1,0 +1,20 @@
+{
+  "name": "Hótel Húsavík Restaurant - Harbor view dining",
+  "description": "Hótel Húsavík Restaurant establishes popular Húsavík dining destination where local cuisine friendly service create welcoming atmosphere supporting regional tourism providing essential hospitality services visitors exploring Iceland demonstrating restaurant industry importance sustaining local economies through visitor spending employment opportunities.",
+  "address": "Hótel Húsavík Restaurant, Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.3425,
+    "latitude": 66.0446,
+    "altitude": 50.0
+  },
+  "rating": 4.4,
+  "reviews_count": 670,
+  "category": "Restaurant/Cafe",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "hours": "Seasonal hours vary",
+    "character": "Local dining, regional cuisine"
+  }
+}

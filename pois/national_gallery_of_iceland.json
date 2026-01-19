@@ -1,0 +1,41 @@
+{
+  "name": "National Gallery of Iceland",
+  "description": "The National Gallery of Iceland (Listasafn Íslands) is the country's principal art museum, housing a comprehensive collection of over 11,000 artworks with primary focus on Icelandic art from the 19th and 20th centuries to contemporary works. Located at Fríkirkjuvegur 7 near Tjörnin lake in central Reykjavík, the gallery occupies a historic building that formerly served as an ice storage facility and was transformed into a museum space, creating an intriguing architectural contrast between industrial heritage and fine art presentation. The permanent collection chronicles the development of Icelandic visual arts from the nation's first professional artists in the late 1800s through the modernist movements of the 20th century to cutting-edge contemporary practitioners. Early Icelandic artists represented include Ásgrímur Jónsson (1876-1958), who pioneered landscape painting in Iceland and whose works capture the dramatic beauty of the island's nature, and Jóhannes Kjarval (1885-1972), perhaps Iceland's most beloved artist known for abstract-expressionist landscapes incorporating Icelandic mythology and folklore. The collection includes Jón Stefánsson's evocative scenes of Icelandic life, Nína Tryggvadóttir's geometric abstractions that brought international modernism to Iceland, and Louisa Matthíasdóttir's still lifes and landscapes created during her long career in New York. While emphasizing Icelandic artists, the gallery also holds significant works by international masters including Pablo Picasso, Edvard Munch, Richard Serra, and Karel Appel, providing context for Icelandic art within global movements. Rotating temporary exhibitions occupy a substantial portion of gallery space, focusing on specific artists, movements, themes, or periods in Icelandic and Nordic art. These regularly changing shows ensure repeat visitors encounter fresh perspectives and new artworks with each visit. Recent and upcoming exhibitions for 2025-2026 include \"Playback\" (October 4, 2025 to January 11, 2026) and \"Big Be–Hide\" (June 1, 2025 to May 1, 2026), demonstrating the gallery's commitment to contemporary artistic discourse. A single admission ticket provides access to three institutions: the National Gallery main building, the Ásgrimur Jónsson Collection in a beautifully preserved house where the artist lived and worked, and the Sigurjón Ólafsson Museum dedicated to this important sculptor, offering excellent value and the opportunity to explore Icelandic art across multiple venues. The museum shop sells exhibition catalogues, art books focusing on Icelandic and Nordic art, high-quality prints and posters, design objects by Icelandic creators, and artist-made items. Educational programs include guided tours, lectures, workshops, and family activities designed to make art accessible to all ages and backgrounds.",
+  "address": "Fríkirkjuvegur 7, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9435,
+    "latitude": 64.1445,
+    "altitude": 0.0
+  },
+  "rating": 4.5,
+  "reviews_count": 2100,
+  "category": "Art Museum",
+  "website": "https://www.listasafn.is/en",
+  "phone": "+354 515 9600",
+  "images": [
+    {
+      "source": "National Gallery Official",
+      "url": "https://www.listasafn.is/en"
+    },
+    {
+      "source": "Visit Reykjavík",
+      "url": "https://visitreykjavik.is/service/national-gallery-iceland"
+    }
+  ],
+  "opening_hours": {
+    "daily": "10:00-17:00 every day (Monday-Sunday)",
+    "admission": "Single ticket valid for National Gallery + Ásgrimur Jónsson Collection + Sigurjón Ólafsson Museum",
+    "collection_size": "Over 11,000 artworks, primarily Icelandic art 19th-21st centuries",
+    "key_artists": "Ásgrímur Jónsson, Jóhannes Kjarval, Jón Stefánsson, Nína Tryggvadóttir, Louisa Matthíasdóttir",
+    "international_artists": "Pablo Picasso, Edvard Munch, Richard Serra, Karel Appel",
+    "exhibitions_2025_2026": "Playback (Oct 4 2025-Jan 11 2026), Big Be–Hide (Jun 1 2025-May 1 2026)",
+    "building_history": "Former ice storage facility converted to museum space",
+    "asgrimur_jonsson_collection": "Dedicated house-museum for pioneering landscape painter (1876-1958)",
+    "sigurjon_olafsson_museum": "Dedicated museum for important Icelandic sculptor",
+    "museum_shop": "Exhibition catalogues, art books, prints, posters, Icelandic design objects",
+    "educational_programs": "Guided tours, lectures, workshops, family activities",
+    "location_notes": "Near Tjörnin lake in central Reykjavík, walking distance from main attractions",
+    "permanent_collection_focus": "Icelandic art development from first professional artists to contemporary works",
+    "temporary_exhibitions": "Regularly rotating shows on specific artists, movements, themes in Icelandic/Nordic art"
+  }
+}

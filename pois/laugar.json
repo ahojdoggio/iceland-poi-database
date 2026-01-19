@@ -1,0 +1,24 @@
+{
+  "name": "Laugar - Geothermal Spa Village Northeast Iceland",
+  "description": "Laugar establishes small settlement northeastern Iceland Reykjadalur valley where approximately 70 residents inhabit geothermal area achieving recognition hosting Laugar Spa geothermal bathing complex natural hot springs establishing wellness destination supporting tourism economy supplementing minimal agricultural activities demonstrating how geothermal resources transform tiny villages specialized spa destinations attracting visitors seeking authentic Icelandic bathing culture beyond commercialized Blue Lagoon creating economic opportunities sustaining remote communities. Geothermal bathing facilities combine natural hot springs developed pools creating comprehensive wellness experience where mineral-rich waters support therapeutic bathing health treatments creating medical wellness tourism dimension beyond purely recreational bathing establishing Laugar reputation natural healing destination. Reykjadalur valley positioning provides access highland hiking trails geothermal areas creating outdoor recreation opportunities supplementing spa tourism where nearby Vatnajökull National Park access enables comprehensive northern Iceland exploration establishing Laugar strategic basecamp. Minimal population supports extremely limited commercial infrastructure where spa operations dominate local economy though agricultural services support surrounding farming communities creating functional service role beyond pure tourism orientation. Swimming facilities provide essential community amenity supporting local recreation social gathering though primary economic driver remains visitor spa tourism creating seasonal employment challenges maintaining year-round stable operations.",
+  "address": "Laugar, 641 Northeast Iceland",
+  "coordinates": {
+    "longitude": -17.8667,
+    "latitude": 65.6333,
+    "altitude": 180.0
+  },
+  "rating": 4.3,
+  "reviews_count": 1230,
+  "category": "Village - Northeast Iceland",
+  "website": "https://www.laugar.is",
+  "phone": "+354 464 2990",
+  "images": [
+    "https://www.northiceland.is/images/laugar-spa.jpg"
+  ],
+  "opening_hours": {
+    "population": "~70",
+    "location": "Reykjadalur valley, northeast highlands",
+    "laugar_spa": "Geothermal bathing complex, natural hot springs",
+    "character": "Tiny geothermal spa village, wellness tourism"
+  }
+}

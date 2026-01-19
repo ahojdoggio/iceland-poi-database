@@ -1,0 +1,41 @@
+{
+  "name": "Fjöruborðið - Iceland's Most Famous Langoustine Restaurant",
+  "description": "Fjöruborðið (At the Seashore) has earned reputation as Iceland's premier langoustine restaurant, operating from a cozy seaside building in the quiet south-coast village of Stokkseyri just 45 minutes from Reykjavík, where the restaurant's single-minded focus on preparing Iceland's sweetest crustaceans in butter and garlic has created devoted following among seafood enthusiasts who make special pilgrimages to experience what many consider Iceland's—and possibly the world's—best langoustine preparations. Located directly behind the ocean berm where Atlantic waves crash onto black sand beach, the restaurant's position creates atmospheric dining where the sound of surf and salt air enhance meals featuring creatures pulled from those same waters. The menu deliberately remains simple, reflecting philosophy that exceptional ingredients require minimal intervention: langoustines are fried in butter and garlic, allowing the sweet, delicate crustacean flavor and tender texture to shine without complex sauces or elaborate presentations obscuring the essential quality that makes Icelandic langoustines (Nephrops norvegicus, marketed as \"Iceland lobster\" though technically large prawns) command premium prices in international markets and Michelin-starred kitchens worldwide. The langoustine soup serves as starter, offering rich bisque where crustacean shells infuse butter and cream with concentrated lobster essence creating magical golden liquid that customers describe in reverential terms—\"best soup ever tasted,\" \"reason to visit Iceland,\" \"worth the drive from Reykjavík\"—with chunks of tender tail meat providing textural satisfaction alongside the luxurious broth. The main course presents sautéed langoustine tails in garlic butter, prepared with technique precision that ensures proper doneness (overcooked langoustines become rubbery and lose their sweetness, while undercooked present food safety concerns)—the kitchen's consistent execution across hundreds of daily services demonstrates expertise that comes from focused specialization rather than attempting diverse menus. Reviews consistently praise the langoustines as \"best we ever had in Iceland,\" \"bucket of lobster heaven,\" and \"best restaurant in Iceland - lobster, lobster!\" with the repetitive emphasis on superlatives indicating genuine enthusiasm rather than marketing hyperbole. The world-famous reputation draws tourists who build Iceland itineraries around Fjöruborðið reservations, while Reykjavík residents drive 45 minutes specifically for langoustine dinners that justify the journey. The cozy atmosphere and seaside setting create casual comfort rather than formal fine dining—diners come for extraordinary seafood in unpretentious environment where food quality matters more than décor or service theater. Stokkseyri village location provides convenient stop for travelers exploring south coast attractions including Seljalandsfoss and Skógafoss waterfalls, Reynisfjara black sand beach, and the route toward Vík and Jökulsárlón glacier lagoon, making Fjöruborðið practical lunch or dinner destination rather than remote pilgrimage requiring dedicated detours. The simple cuisine philosophy—delicate seafood fried in butter and garlic—represents Icelandic cooking at its most essential: take extraordinary ingredients and prepare them simply, trusting quality over complexity.",
+  "address": "Eyrarbraut 3a, 825 Stokkseyri, Iceland (south coast, 45 min from Reykjavík)",
+  "coordinates": {
+    "longitude": -21.0671,
+    "latitude": 63.8365,
+    "altitude": 2.0
+  },
+  "rating": 4.8,
+  "reviews_count": 6340,
+  "category": "Restaurant",
+  "website": "https://www.fjorubordid.is",
+  "phone": "+354 483 1550",
+  "images": [
+    "https://www.fjorubordid.is/images/langoustine-bucket.jpg"
+  ],
+  "opening_hours": {
+    "location": "Cozy seaside building behind ocean berm, Atlantic waves audible",
+    "distance": "45 minutes from Reykjavík",
+    "specialty": "Langoustines (Nephrops norvegicus - 'Iceland lobster')",
+    "preparation": "Simple - fried in butter and garlic",
+    "philosophy": "Exceptional ingredients require minimal intervention",
+    "langoustine_soup": "Starter - rich bisque, magical golden broth, crustacean shell essence",
+    "main_course": "Sautéed langoustine tails in garlic butter",
+    "cooking_precision": "Proper doneness crucial - not overcooked (rubbery) or undercooked (safety)",
+    "reviews_superlatives": "Best langoustine ever, bucket of lobster heaven, best restaurant in Iceland",
+    "reputation": "Iceland's premier langoustine restaurant, world-famous",
+    "clientele": "Tourists building itineraries around reservations + Reykjavík residents making special trips",
+    "atmosphere": "Cozy, casual comfort, unpretentious - food quality over décor",
+    "sound_environment": "Surf sounds, salt air enhance seaside dining experience",
+    "menu_simplicity": "Deliberately limited - focused specialization ensures consistent excellence",
+    "expertise": "Years of focused langoustine preparation create technical mastery",
+    "south_coast_route": "Convenient stop for travelers to Seljalandsfoss, Skógafoss, Reynisfjara, Vík, Jökulsárlón",
+    "village": "Quiet Stokkseyri, south-coast fishing community",
+    "icelandic_philosophy": "Take extraordinary ingredients, prepare simply, trust quality over complexity",
+    "langoustine_quality": "Sweet, delicate flavor; tender texture when properly prepared",
+    "international_market": "Icelandic langoustines command premium prices worldwide, Michelin kitchens",
+    "pilgrimage_destination": "Seafood enthusiasts make special trips specifically for Fjöruborðið"
+  }
+}

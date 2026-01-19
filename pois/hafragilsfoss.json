@@ -1,0 +1,28 @@
+{
+  "name": "Hafragilsfoss - Canyon Depths Waterfall",
+  "description": "Hafragilsfoss is the third and final major waterfall in the spectacular trio along Iceland's powerful Jökulsá á Fjöllum river, located approximately 2.5 kilometers downstream from the famous Dettifoss in the depths of the magnificent Jökulsárgljúfur canyon in Vatnajökull National Park. While Dettifoss and its upstream neighbor Selfoss receive the majority of visitor attention, Hafragilsfoss offers perhaps the most dramatically vertical canyon setting of the three, plunging 27-30 meters (89-98 feet) across a width of approximately 90-91 meters (295-299 feet) into what is arguably the most spectacular section of the Jökulsárgljúfur gorge, where canyon walls tower 100-120 meters (330-390 feet) on both sides, creating an overwhelming sense of scale and geological power. The name \"Hafragilsfoss\" translates to \"Goat Canyon Falls\" or \"Ram's Canyon Falls,\" referencing the steep, nearly vertical canyon walls that only the most sure-footed animals could navigate. The waterfall drops in a single powerful curtain of milky-gray glacial water over dark volcanic rock ledges, sending up constant spray and mist that often creates rainbows when sunlight penetrates into the canyon's depths. What makes Hafragilsfoss particularly special is its position within the deepest, most impressive section of the canyon—standing at the viewpoints, visitors experience the full vertical drama of the gorge with the waterfall as centerpiece, framed by sheer basalt cliffs that dwarf human scale and convey the catastrophic power of the glacial floods that carved this landscape. The canyon itself is a geological wonder: formed by a combination of steady erosion from the Jökulsá á Fjöllum river and catastrophic jökulhlaups (glacial outburst floods) that occur when volcanoes erupt beneath Vatnajökull glacier, suddenly melting massive amounts of ice and sending apocalyptic volumes of water rushing across the landscape, tearing through bedrock and creating canyons in geological instants. Hafragilsfoss receives fewer visitors than Dettifoss, partly because it requires a separate hike of about 1 kilometer (15-20 minutes each way) from the eastern parking area along a trail that heads downstream following the canyon rim, and many travelers don't realize it exists or run out of time after visiting the more famous falls upstream. This relative neglect works in favor of those who do make the effort: you're far more likely to experience Hafragilsfoss in solitude or near-solitude, allowing for quiet contemplation of the raw power of nature without crowds or noise. The viewpoints sit right on the canyon rim, offering vertiginous perspectives straight down into the gorge and across to the falls, though safety railings are minimal or absent, requiring caution especially in windy conditions or with children. The surrounding landscape is characteristically lunar: dark volcanic sand, twisted basalt formations, scattered boulders deposited by ancient floods, and minimal vegetation, creating an almost otherworldly atmosphere that emphasizes the region's volcanic origins and ongoing geological activity.",
+  "address": "Jökulsárgljúfur Canyon, Vatnajökull National Park, North Iceland (2.5 km downstream from Dettifoss)",
+  "coordinates": {
+    "longitude": -16.3433,
+    "latitude": 65.7089,
+    "altitude": 180.0
+  },
+  "rating": 4.6,
+  "reviews_count": 980,
+  "category": "Waterfall",
+  "website": "https://www.northiceland.is/en/hafragilsfoss",
+  "phone": null,
+  "images": [
+    "https://www.northiceland.is/images/hafragilsfoss-canyon.jpg"
+  ],
+  "opening_hours": {
+    "access_season": "Late May to September (roads closed in winter)",
+    "access": "East side parking via Road 864 (paved)",
+    "hike_from_parking": "1 km / 15-20 minutes downstream from Dettifoss parking",
+    "admission": "Free",
+    "height": "27-30 meters (89-98 feet)",
+    "width": "90-91 meters (295-299 feet)",
+    "canyon_depth": "100-120 meters (deepest section of Jökulsárgljúfur)",
+    "viewpoint_safety": "Minimal railings - caution required at canyon rim"
+  }
+}

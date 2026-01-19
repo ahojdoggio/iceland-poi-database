@@ -1,0 +1,28 @@
+{
+  "name": "Þórsmörk Valley - Thor's Mountain Haven",
+  "description": "Þórsmörk establishes Iceland's premier highland hiking destination where protected valley sanctuary nestled between Eyjafjallajökull Mýrdalsjökull Tindfjallajökull glaciers creates lush birch forest oasis dramatic mountain landscapes serving endpoint terminus Iceland's most celebrated trekking routes Laugavegur Fimmvörðuháls combining National Geographic-recognized natural beauty comprehensive trail infrastructure mountain huts creating iconic Icelandic adventure basecamp. Geographic positioning between three massive glaciers creates unique microclimate where sheltered valley enables birch tree growth unusual highlands vegetation creating verdant contrast surrounding barren volcanic deserts establishing 'Valley Thor' mythological namesake worthy divine inspiration showcasing Iceland's diverse ecosystems concentrated geographic area. Laugavegur Trail culminates Þórsmörk after 55-kilometer journey Landmannalaugar's colorful rhyolite mountains while Fimmvörðuháls route descends Skógar waterfall crossing 25-kilometer mountain pass threading glacier walls creating dual-approach destination accessible committed hikers seeking multi-day wilderness immersion authentic highland experiences. Mountain hut infrastructure including Básar Húsadalur Langidalur provides accommodation camping facilities enabling extended stays where day hikes explore surrounding valleys viewpoints river crossings glacier tongues creating comprehensive exploration opportunities beyond through-hiking terminus brief stopovers. Summer bus services June-September provide ground transportation Reykjavík connections though river crossings require 4x4 super-jeep capabilities during spring high-water periods limiting conventional vehicle access emphasizing Þórsmörk's wilderness character challenging logistics rewarding adventurous preparations. Beyond hiking Þórsmörk offers glacier walks ice climbing river canyoning mountain biking photography workshops creating diverse activity options accommodating varying skill levels interests though hiking remains primary draw attracting international trekkers seeking Iceland's most iconic trails spectacular scenery. Early bird 2026 booking discounts reflect sustained tourism interest where advance reservations prove essential securing mountain hut accommodations guided tour slots peak summer season when Iceland's hiking infrastructure reaches capacity requiring proactive planning ensuring successful Þórsmörk adventures.",
+  "address": "Þórsmörk Valley, 861 South Iceland (Between glaciers)",
+  "coordinates": {
+    "longitude": -19.5333,
+    "latitude": 63.6833,
+    "altitude": 300.0
+  },
+  "rating": 4.9,
+  "reviews_count": 6780,
+  "category": "Highland Valley",
+  "website": "https://www.fi.is/en/hiking-areas/areas/view/porsmork",
+  "phone": "+354 568 2533",
+  "images": [
+    "https://www.fi.is/images/thorsmork-valley-glaciers.jpg"
+  ],
+  "opening_hours": {
+    "season": "Late June - early September (bus access)",
+    "year_round_access": "Possible with 4x4/super-jeep",
+    "trails": "Endpoint of Laugavegur (54km) & Fimmvörðuháls (25km)",
+    "huts": "Básar, Húsadalur, Langidalur mountain huts",
+    "glaciers": "Between Eyjafjallajökull, Mýrdalsjökull, Tindfjallajökull",
+    "activities": "Hiking, glacier walks, ice climbing, canyoning, photography",
+    "bus_service": "Summer connections from Reykjavík",
+    "2026_bookings": "Early bird discounts available, advance reservations essential"
+  }
+}

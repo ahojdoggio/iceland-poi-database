@@ -1,0 +1,39 @@
+{
+  "name": "Víðimýrarkirkja - Iceland's Most Beautiful Turf Church",
+  "description": "Víðimýrarkirkja stands as one of only 6 remaining turf churches in Iceland, built in 1834 on site that has hosted church buildings since introduction of Christianity around year 1000, making this location sacred ground with over 1,000 years of continuous worship tradition that predates Iceland's conversion to Christianity in 1000 AD and extends through Catholic medieval period, Lutheran Reformation, and modern era. The turf church construction represents Iceland's vernacular architecture developed over centuries to address extreme climate, limited timber resources, and isolation from European building traditions: thick turf walls provide exceptional insulation against bitter winter cold and howling winds, while timber framing (imported Norwegian wood or precious driftwood) supports structure and prevents collapse under weight of soil and grass roof that grows living vegetation creating organic integration with landscape. Built in 1834, Víðimýrarkirkja narrowly avoided demolition in early 20th century when its fate remained uncertain and many turf structures were being replaced with modern buildings deemed more sanitary, permanent, and prestigious—the church's survival resulted from growing recognition of immense cultural value represented by traditional architecture threatened with extinction as Iceland modernized and abandoned turf construction for concrete, timber, and corrugated metal. The National Museum of Iceland acquired Víðimýrarkirkja in 1936, incorporating it into Historic Building Collection that preserves Iceland's architectural heritage, while since 2016 the Skagafjörður Heritage Museum has managed preservation and operation under agreement ensuring expert care and public access. The interior houses historical treasures including 17th-century Danish altarpiece dating to 1616, representing Catholic artistic tradition that survived Reformation's iconoclastic tendencies and Lutheran simplification of church decoration—this altarpiece provides tangible connection to pre-Reformation Iceland when Catholic imagery, saints, and elaborate decoration characterized worship spaces. The woodwork inside and outside remains largely original from 1834 construction, demonstrating craftsmanship and durability of traditional building methods, though the turf roof requires regular replacement (every 20-30 years) as organic material decomposes, grass dies, and structural integrity degrades—this maintenance cycle represents ongoing commitment necessary for preserving turf architecture that cannot simply be built and forgotten like stone or concrete structures. Víðimýrarkirkja remains active parish church to this day, hosting services, baptisms, weddings, and funerals for local community while simultaneously functioning as museum and tourist attraction drawing visitors fascinated by traditional architecture, ecclesiastical history, and Iceland's rural heritage. The location in Skagafjörður, not far from Sauðárkrókur, places church in agricultural region known for horse breeding, sheep farming, and historical significance dating to settlement era—the valley's fertile land and strategic position made it important district throughout Icelandic history. The church's photogenic quality derives from perfect proportions, dramatic setting against mountains and farmland, and organic aesthetic where building appears to grow from landscape rather than imposing foreign architectural language—this visual appeal has made Víðimýrarkirkja one of Iceland's most photographed and beloved turf structures.",
+  "address": "Víðimýri, 561 Varmahlíð, Skagafjörður, Iceland (North Iceland)",
+  "coordinates": {
+    "longitude": -19.4821,
+    "latitude": 65.5623,
+    "altitude": 45.0
+  },
+  "rating": 4.7,
+  "reviews_count": 2830,
+  "category": "Historic Turf Church",
+  "website": "https://www.glaumbaer.is/en/visit/vidimyri-turf-church",
+  "phone": "+354 453 6173",
+  "images": [
+    "https://www.thjodminjasafn.is/static/files/myndasyrningar/vidimyri-church.jpg"
+  ],
+  "opening_hours": {
+    "built": "1834",
+    "church_site_age": "Church buildings on this site since circa 1000 AD (1,000+ years)",
+    "remaining_turf_churches": "One of only 6 turf churches left in Iceland",
+    "preservation": "National Museum of Iceland Historic Building Collection since 1936",
+    "current_management": "Skagafjörður Heritage Museum since 2016",
+    "near_demolition": "Early 20th century - fate uncertain, survived due to recognized cultural value",
+    "altarpiece": "17th-century Danish altarpiece from 1616",
+    "woodwork": "Largely original from 1834 construction",
+    "roof_maintenance": "Regular turf replacement every 20-30 years required",
+    "construction_method": "Thick turf walls for insulation, timber framing, living grass roof",
+    "materials": "Norwegian timber imports and driftwood, turf, stone foundation",
+    "active_status": "Remains functioning parish church hosting services, weddings, baptisms",
+    "dual_purpose": "Active worship space and museum/tourist attraction",
+    "cultural_significance": "Represents Iceland's vernacular architecture adapted to extreme climate",
+    "location_significance": "Skagafjörður valley - historic horse breeding and farming region",
+    "architectural_appeal": "Perfect proportions, organic landscape integration, photogenic quality",
+    "historical_treasures": "Catholic-era artwork survived Lutheran Reformation",
+    "climate_adaptation": "Exceptional insulation against winter cold and winds",
+    "continuous_worship": "Over 1,000 years of Christian worship on this sacred site"
+  }
+}

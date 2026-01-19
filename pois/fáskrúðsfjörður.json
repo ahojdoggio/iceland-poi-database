@@ -1,0 +1,26 @@
+{
+  "name": "Fáskrúðsfjörður - French Connection Village",
+  "description": "Fáskrúðsfjörður establishes unique French-heritage fishing village eastern Iceland where approximately 660 residents maintain settlement celebrating historical French fishing connections 1880s-1930s where French trawlers operated Icelandic waters establishing seasonal base creating cultural exchange linguistic influences evidenced bilingual street signs French cultural center preserving Franco-Icelandic heritage establishing distinctive identity contrasting purely Icelandic settlements demonstrating international maritime connections shaping local communities. French Hospital Fræðslusetur preserves 1903 medical facility serving French fishermen establishing heritage museum documenting French presence fishing operations medical care establishing cultural institution celebrating international cooperation maritime history creating tourism attraction differentiating village beyond conventional fishing town narratives. Bilingual street signs French Icelandic reflect ongoing cultural pride heritage preservation where community maintains linguistic connections celebrating Franco-Icelandic friendship establishing visible cultural identity unique Iceland demonstrating successful minority heritage preservation integration mainstream Icelandic culture. Fishing industry continues though declining French presence leaves historical memory rather active international fishing operations nevertheless commercial fishing remains economic foundation supplemented tourism services accommodation dining supporting visitors exploring eastern fjords creating economic diversification. Swimming pool provides geothermal bathing facilities establishing essential amenity supporting community health recreation social gathering reflecting universal Icelandic pool culture. Scenic fjord setting provides dramatic mountain backdrops creating photographic appeal establishing scenic village character attracting visitors exploring eastern fjords Ring Road routes establishing convenient stopping point fuel accommodations meals exploring broader region.",
+  "address": "Fáskrúðsfjörður, 750 East Iceland",
+  "coordinates": {
+    "longitude": -14.0500,
+    "latitude": 64.9333,
+    "altitude": 5.0
+  },
+  "rating": 4.4,
+  "reviews_count": 2780,
+  "category": "Village - East Iceland",
+  "website": "https://www.faskrudsfjordur.is",
+  "phone": "+354 475 1400",
+  "images": [
+    "https://www.east.is/images/faskrudsfjordur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~660",
+    "location": "Eastern fjords",
+    "french_heritage": "1880s-1930s French fishing connections",
+    "french_hospital": "Fræðslusetur 1903 museum",
+    "bilingual_signs": "French-Icelandic street names",
+    "character": "French heritage village, bilingual identity, fishing community"
+  }
+}

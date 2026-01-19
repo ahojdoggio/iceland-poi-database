@@ -1,0 +1,26 @@
+{
+  "name": "Eskifjörður - Maritime Museum Fishing Town",
+  "description": "Eskifjörður establishes fishing community eastern Iceland where approximately 1,100 residents inhabit Eskifjörður fjord maintaining traditional maritime economy hosting East Iceland Maritime Museum Sjóminjasafn Austurlands preserving regional fishing heritage boats equipment historical artifacts establishing cultural institution documenting fishing industry evolution community maritime traditions supporting heritage tourism education complementing fishing economy creating multifaceted community identity. Tunnel connections Norðfjarðargöng Oddsskarðsgöng enable convenient access neighboring Neskaupstaður Reyðarfjörður creating integrated municipal cluster sharing services coordinating regional development though maintaining distinct identities independent governance demonstrating infrastructure investment transforming isolated fjord communities integrated regional economies. Fishing continues economic foundation where modern fleet fish processing maintain maritime traditions though declining quotas challenge traditional livelihoods forcing economic adaptation supplementing tourism services though limited visitor infrastructure constrains tourism potential compared more accessible destinations. Hiking trails Hólmatindur peak provide excellent recreation opportunities where well-marked routes reward panoramic fjord views mountain scenery establishing outdoor tourism potential supplementing maritime heritage attractions creating diverse appeals supporting extended visitor stays comprehensive regional exploration. Swimming pool Eskfjarðarlaug provides geothermal bathing facilities establishing essential amenity supporting community health recreation social gathering reflecting universal Icelandic pool culture. Community character maintains authentic fishing town atmosphere where working harbor commercial vessels create genuine maritime setting contrasting tourist-oriented locations lacking functional fishing operations establishing appealing authenticity visitors seeking real Iceland beyond manufactured attractions.",
+  "address": "Eskifjörður, 735 East Iceland",
+  "coordinates": {
+    "longitude": -14.0167,
+    "latitude": 65.0667,
+    "altitude": 5.0
+  },
+  "rating": 4.3,
+  "reviews_count": 2340,
+  "category": "Town - East Iceland",
+  "website": "https://www.fjardabyggd.is",
+  "phone": "+354 476 1233",
+  "images": [
+    "https://www.east.is/images/eskifjordur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~1,100",
+    "location": "Eskifjörður fjord",
+    "maritime_museum": "Sjóminjasafn Austurlands, fishing heritage",
+    "tunnels": "Norðfjarðargöng, Oddsskarðsgöng connections",
+    "holmatindur": "Hiking peak, panoramic fjord views",
+    "character": "Fishing town, maritime heritage, tunnel-connected"
+  }
+}

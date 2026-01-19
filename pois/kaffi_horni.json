@@ -1,0 +1,20 @@
+{
+  "name": "Kaffi Hornið - Cozy corner cafe",
+  "description": "Kaffi Hornið establishes popular Ísafjörður dining destination where local cuisine friendly service create welcoming atmosphere supporting regional tourism providing essential hospitality services visitors exploring Iceland demonstrating restaurant industry importance sustaining local economies through visitor spending employment opportunities.",
+  "address": "Kaffi Hornið, Ísafjörður, Iceland",
+  "coordinates": {
+    "longitude": -23.1283,
+    "latitude": 66.0678,
+    "altitude": 50.0
+  },
+  "rating": 4.4,
+  "reviews_count": 670,
+  "category": "Restaurant/Cafe",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "hours": "Seasonal hours vary",
+    "character": "Local dining, regional cuisine"
+  }
+}

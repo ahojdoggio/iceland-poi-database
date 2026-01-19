@@ -1,0 +1,25 @@
+{
+  "name": "Skagaströnd - Artist Residency Coastal Town",
+  "description": "Skagaströnd establishes quiet coastal town northwestern Iceland where approximately 490 residents inhabit Húnaflói bay positioning creating modest fishing community achieving cultural recognition hosting Nes Artist Residency international artists-in-residence program transforming abandoned fish factory creative studios accommodations attracting artists worldwide establishing unexpected cultural vitality small remote town demonstrating how creative initiatives revitalize declining communities creating distinctive identities attracting visitors supporting economic diversification beyond traditional fishing alone. Fishing industry continues limited operations where declining quotas aging fleet challenge traditional livelihoods though fish processing employment maintains some economic activity supplemented growing arts tourism creating dual-economy balancing maritime traditions emerging cultural tourism establishing transitional economy characteristic northwestern Iceland villages adapting changing economic realities. Nes Artist Residency converted Norðurnes fish factory provides studios accommodations international artists creating cultural exchange community engagement where visiting artists interact locals exhibit works creating cultural programming enriching small-town life beyond purely economic commercial orientations establishing successful creative placemaking supporting community vitality identity pride. Spákonufellshöfði headland nearby dramatic basalt cliffs bird colonies create scenic hiking destination establishing natural attractions complementing cultural tourism diversifying visitor appeals beyond purely arts-focused tourism creating composite destinations combining nature culture heritage. Swimming pool provides geothermal bathing facilities establishing essential municipal amenity supporting community health recreation social gathering though modest infrastructure basic amenities maintain authentic character lacking commercial development. Quiet character maintains peaceful atmosphere where minimal tourism development limited commercialization preserve genuine small-town qualities appealing artists visitors seeking authentic experiences creative inspiration beyond crowded tourist circuits urban environments.",
+  "address": "Skagaströnd, 545 North Iceland",
+  "coordinates": {
+    "longitude": -20.3167,
+    "latitude": 65.8333,
+    "altitude": 5.0
+  },
+  "rating": 4.2,
+  "reviews_count": 1340,
+  "category": "Town - North Iceland",
+  "website": "https://www.sveitarfelagid-skagastrond.is",
+  "phone": "+354 452 4520",
+  "images": [
+    "https://www.northiceland.is/images/skagastrond.jpg"
+  ],
+  "opening_hours": {
+    "population": "~490",
+    "location": "Húnaflói bay, northwestern coast",
+    "nes_residency": "Artist-in-residence program, converted fish factory",
+    "spakonufellshofdi": "Dramatic headland, bird colonies nearby",
+    "character": "Quiet coastal town, artist residency, cultural vitality"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Nauthólsvík Beach - Geothermal beach Reykjavík",
+  "description": "Nauthólsvík Beach represents notable Icelandic attraction where cultural natural features create visitor destination supporting tourism infrastructure demonstrating Iceland's diverse attractions beyond major landmarks establishing comprehensive destination portfolio supporting various visitor interests travel styles creating well-rounded tourism offerings.",
+  "address": "Nauthólsvík Beach, Iceland",
+  "coordinates": {
+    "longitude": -21.9389,
+    "latitude": 64.1311,
+    "altitude": 25.0
+  },
+  "rating": 4.4,
+  "reviews_count": 560,
+  "category": "Attraction",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "access": "Seasonal hours vary",
+    "character": "Cultural/natural attraction"
+  }
+}

@@ -1,34 +1,27 @@
 {
-  "name": "Dettifoss",
-  "description": "Dettifoss is Europe's most powerful waterfall and Iceland's most formidable natural wonder, earning its nickname 'The Beast' from the thunderous roar and ground-shaking vibrations created by its massive water flow. Located in Vatnajökull National Park in Northeast Iceland, this spectacular waterfall plunges 44 meters (144 feet) down into the dramatic Jökulsárgljúfur Canyon with a width of 100 meters (328 feet). Fed by the glacial river Jökulsá á Fjöllum flowing from Vatnajökull Glacier, Europe's largest ice cap, the waterfall unleashes an average flow of 193 cubic meters per second, sometimes surging to 500 cubic meters per second during peak melt - equivalent to 16.6 million espresso cups per second. The sediment-rich glacial water gives the falls a distinctive greyish-white color, and the spray creates mist visible from miles away. Dettifoss is part of the famous Diamond Circle tourist route alongside Húsavík, Lake Mývatn, and Ásbyrgi Canyon. The waterfall gained international fame as the stunning backdrop for the opening scene of Ridley Scott's 2012 film Prometheus. Nearby, visitors can hike to Selfoss waterfall (1km upstream) and Hafragilsfoss (downstream), both fed by the same powerful glacial river.",
-  "address": "Route 862, 671 Kópasker, Iceland",
+  "name": "Dettifoss - Europe's Most Powerful Waterfall",
+  "description": "Dettifoss establishes Europe's most powerful waterfall where 45-meter cascade 100-meter width unleashes 193-500 cubic meters per second creating thunderous spectacle raw natural power positioned Jökulsá á Fjöllum glacial river Vatnajökull National Park demonstrating Iceland's extreme hydrological forces attracting visitors worldwide seeking witness nature's overwhelming might establishing premier waterfall destination though requiring significant travel commitment accessing remote northeastern highlands. Glacial silt-laden waters create distinctive grey-brown coloring contrasting clear-water cascades elsewhere where sediment loads transported Vatnajökull glacier create unique aesthetic though diminishing photographic appeal compared crystal-clear falls nevertheless demonstrating authentic glacial river characteristics educating visitors geological processes sediment transportation erosion dynamics. Eastern western viewing platforms provide different perspectives where eastern Route 864 paved road enables easier access family-friendly viewing though western Route 862 rough gravel road rewards adventurous travelers dramatic closer viewpoints though requiring 4x4 vehicles confident driving skills accepting challenging conditions. Prometheus filming location Ridley Scott 2012 science fiction film established global recognition where opening sequence spectacular waterfall imagery introduced millions viewers Icelandic landscapes creating cinema-tourism phenomenon attracting film enthusiasts seeking iconic locations establishing unexpected pop-culture dimension supplementing purely natural tourism appeals.",
+  "address": "Dettifoss, Jökulsá á Fjöllum, Vatnajökull National Park",
   "coordinates": {
-    "longitude": -16.384600,
-    "latitude": 65.814700,
-    "altitude": 44.0
+    "longitude": -16.3833,
+    "latitude": 65.8167,
+    "altitude": 220.0
   },
   "rating": 4.8,
-  "reviews_count": 8500,
+  "reviews_count": 18920,
   "category": "Waterfall",
-  "website": "https://www.vatnajokulsthjodgardur.is",
-  "phone": "+354 470 7100",
+  "website": "https://www.vjp.is",
+  "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Dettifoss_Waterfall,_Iceland.jpg"
-    },
-    {
-      "source": "Vatnajökull National Park",
-      "url": "https://www.vatnajokulsthjodgardur.is"
-    }
+    "https://www.vjp.is/images/dettifoss.jpg"
   ],
   "opening_hours": {
-    "waterfall": "Accessible 24/7",
-    "west_access": "Route 862 (paved) - open year-round, recommended for all vehicles",
-    "east_access": "Route 864 (gravel) - summer only, 4WD recommended, rough road with potholes",
-    "parking": "Free parking on both sides, toilets available at west parking",
-    "hiking": "15-minute walk from west parking lot, well-maintained flat trail",
-    "best_season": "Summer for strongest flow from glacier melt, accessible year-round via west side",
-    "drone_permit": "Required - must obtain permit from Vatnajökull National Park authorities"
+    "access": "Summer (June-Sept), winter challenging/closed",
+    "height": "45 meters",
+    "width": "100 meters",
+    "flow": "193-500 m³/s (Europe's most powerful)",
+    "routes": "East Route 864 paved, West Route 862 gravel (4x4)",
+    "prometheus": "2012 Ridley Scott film location",
+    "character": "Europe's most powerful waterfall, glacial river, remote highlands"
   }
 }

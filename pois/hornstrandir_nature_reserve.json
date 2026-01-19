@@ -1,0 +1,29 @@
+{
+  "name": "Hornstrandir Nature Reserve - Europe's Last Wilderness",
+  "description": "Hornstrandir Nature Reserve occupies northernmost Westfjords peninsula establishing Europe's last true wilderness where soaring mountains precipitous cliffs pristine fjords arctic desert landscapes create extraordinarily remote hiking destination accessible exclusively ferry boat mid-June through late August offering unparalleled solitude challenging multi-day trekking arctic wildlife encounters. No roads penetrate Hornstrandir maintaining pristine wilderness character where 14 designated campsites three basic sleeping-bag guesthouses constitute sole accommodation requiring self-sufficient backpacking skills wilderness experience navigating unmarked terrain variable weather river crossings steep mountain passes earning reputation serious trekkers seeking authentic remote adventure. Royal Horn Hornsleið represents classic 4-5 day traverse crisscrossing peninsula Veiðileysufjörður southern entry through Hornvík northern bay returning Hesteyri southern settlement though nine AllTrails routes plus countless unmarked paths enable customized itineraries matching experience ambitions fitness levels ranging single overnight trips weeklong expeditions. Arctic fox population thrives under complete hunting protection creating unusually tame encounters wildlife photographers nature enthusiasts documenting Iceland's endemic mammals natural behaviors while dramatic bird cliffs host massive seabird colonies puffins guillemots razorbills kittiwakes nesting vertical precipices surrounding remote beaches fjords. Ferry access from Ísafjörður Bolungarvík operates mid-June late-August weather permitting though notorious Westfjords conditions frequently disrupt schedules requiring flexible itineraries contingency days accounting potential delays stranding though experienced operators prioritize safety maintaining reliable service conditions allow. Challenging terrain severe weather exposure complete self-sufficiency requirements limited season accessibility combine creating ultimate Icelandic wilderness experience where proper preparation physical fitness wilderness skills prove essential safe enjoyable completion multi-day treks though rewards include solitude landscapes wildlife encounters impossible elsewhere Iceland establishing bucket-list destination adventurous hikers seeking escape crowds experiencing raw untamed nature.",
+  "address": "Hornstrandir Nature Reserve, Westfjords, Iceland (Ferry from Ísafjörður)",
+  "coordinates": {
+    "longitude": -22.4500,
+    "latitude": 66.4500,
+    "altitude": 50.0
+  },
+  "rating": 4.9,
+  "reviews_count": 1540,
+  "category": "Wilderness Hiking Area",
+  "website": "https://www.westfjords.is/en/destinations/nature-reserves/hornstrandir-nature-reserve",
+  "phone": "+354 450 8060",
+  "images": [
+    "https://www.westfjords.is/images/hornstrandir-wilderness.jpg"
+  ],
+  "opening_hours": {
+    "season": "Mid-June to late August (ferry access only)",
+    "access": "Ferry from Ísafjörður or Bolungarvík (no roads)",
+    "popular_route": "Royal Horn/Hornsleið: 4-5 days",
+    "accommodation": "14 campsites, 3 basic guesthouses",
+    "difficulty": "Expert/Remote wilderness",
+    "facilities": "Minimal - self-sufficient camping required",
+    "wildlife": "Arctic fox (protected, tame), massive seabird colonies",
+    "trails": "9+ marked routes, countless unmarked paths",
+    "2026_tours": "August 8-15 guided treks available"
+  }
+}

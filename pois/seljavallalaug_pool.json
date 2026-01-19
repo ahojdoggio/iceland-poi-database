@@ -1,24 +1,20 @@
 {
-  "name": "Seljavallalaug Pool",
-  "description": "Seljavallalaug is a historic concrete swimming pool built in 1923, nestled dramatically in a narrow mountain valley at the southern foot of the Eyjafjallajökull volcano in South Iceland. At 25 meters in length, it was one of Iceland's first swimming pools and remains one of the country's oldest still in use today. The pool is fed by a natural hot spring that flows from the mountainside, though the water temperature is typically cooler than most Icelandic geothermal pools, usually ranging from 20-28°C (68-82°F) depending on season and weather - refreshing rather than hot. The setting is extraordinarily beautiful, surrounded by steep green mountainsides with waterfalls cascading down the cliffs, creating an almost otherworldly atmosphere. Access requires a scenic 15-20 minute hike (approximately 1.5 kilometers) from the parking area along a well-marked trail through the valley. The pool is completely free to use, though facilities are minimal - there's only a very simple changing hut with no electricity or running water, and no staff whatsoever. Visitors should bring a towel and be prepared for basic conditions. Despite - or perhaps because of - its rustic nature, Seljavallalaug has become increasingly popular, offering an authentic Icelandic experience that combines natural beauty, history, and adventure.",
-  "address": "Seljavellir, 861 Hvolsvöllur, Iceland",
+  "name": "Seljavallalaug - Mountain pool 1923",
+  "description": "Seljavallalaug provides authentic Icelandic bathing experience where geothermal waters natural settings create memorable soaking opportunities demonstrating Iceland's abundant geothermal resources supporting bathing culture establishing destination beyond commercial spa environments providing authentic natural bathing reflecting traditional Icelandic practices.",
+  "address": "Seljavallalaug, South area, Iceland",
   "coordinates": {
-    "longitude": -19.6084964,
-    "latitude": 63.5654947,
-    "altitude": 0.0
+    "longitude": -19.6000,
+    "latitude": 63.5667,
+    "altitude": 150.0
   },
-  "rating": null,
-  "reviews_count": null,
-  "category": "Swimming Pool",
+  "rating": 4.5,
+  "reviews_count": 780,
+  "category": "Swimming Pool/Hot Spring",
   "website": null,
   "phone": null,
-  "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...hsdthkZgQi6x57HhYVzvZjfJgkim6bqTEA_Y_A?authuser=0&fife=s16383"
-    }
-  ],
+  "images": [],
   "opening_hours": {
-    "general": "Open 24/7 year-round; free access to a 25m pool with minimal facilities. 15–20 minute hike required from parking."
+    "access": "Natural pool, year-round weather permitting",
+    "character": "Geothermal bathing, natural pools"
   }
 }

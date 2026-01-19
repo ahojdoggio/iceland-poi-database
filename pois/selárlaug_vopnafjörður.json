@@ -1,0 +1,37 @@
+{
+  "name": "Selárlaug - Remote Donation Pool in Vopnafjörður",
+  "description": "Selárlaug represents one of Iceland's most charmingly remote and trust-based swimming facilities, operating without regular staffing on an honor-system donation basis where visitors deposit payment in a wall-mounted box and enjoy an intimate geothermal pool heated by natural spring waters in a beautiful riverside setting that epitomizes the peaceful isolation and natural beauty of East Iceland's northeastern corner. Located 3.5 kilometers off Route 85 on the road toward Bakkafjörður and 12 kilometers from Vopnafjörður town center, the pool occupies a tranquil spot on the banks of the Selá river in a landscape of rolling hills, distant mountains, and the windswept coastal terrain characteristic of this sparsely populated region where sheep outnumber people and isolation remains a defining characteristic despite modern roads. Vopnafjörður is a small fishing community of approximately 700 residents tucked at the head of a long, narrow fjord on Iceland's northeastern coast—one of the country's most remote municipalities where tourism infrastructure remains minimal and authentic rural Icelandic life continues largely unchanged by the visitor influx affecting more accessible regions. Selárlaug's unstaffed operation reflects both Icelandic culture's high trust levels (vandalism and theft remain rare, and most visitors honestly deposit donations) and practical realities of maintaining a facility in a location where full-time staffing would be economically impossible given limited local population and visitor numbers. The honor system creates a uniquely Icelandic experience where visitors essentially have a private pool in a spectacular natural setting, relying on their own honesty and the trust of the community that maintains the facility. The natural hot spring water provides geothermal heating that maintains comfortable bathing temperature without requiring expensive mechanical heating systems—the pool simply channels the spring water through, with overflow creating the river-edge setting. Beyond the main pool, the facility includes a large hot tub providing hotter soaking temperatures preferred for muscle relaxation and the meditative stillness that comes from sitting in steaming water surrounded by Iceland's raw natural beauty. A wading pool accommodates children and those preferring shallower water. A picnic area and large sundeck allow visitors to relax between swims, enjoy meals, and simply absorb the peaceful atmosphere—many visitors report Selárlaug as one of their most memorable Icelandic experiences precisely because of the combination of beautiful setting, complete tranquility, and the touching trust represented by the donation-box system. Good accessibility for handicapped visitors reflects thoughtful design despite the remote location. The pool's riverside position creates particularly scenic swimming with the sound of flowing water, views to surrounding hills, and wildlife including birds and occasionally curious sheep approaching the facility. Operating hours listed as 7:00 AM-11:00 PM daily may be outdated or merely suggestive since the unstaffed operation means the pool remains accessible whenever someone wants to visit—no gates lock, no staff enforces schedules.",
+  "address": "Road to Bakkafjörður, 3.5 km from Route 85, 12 km from Vopnafjörður, East Iceland",
+  "coordinates": {
+    "longitude": -14.8500,
+    "latitude": 65.7667,
+    "altitude": 15.0
+  },
+  "rating": 4.8,
+  "reviews_count": 520,
+  "category": "Swimming Pool",
+  "website": "https://www.east.is/en/service/selardalur-swimming-pool",
+  "phone": "+354 473 1499",
+  "images": [
+    "https://www.east.is/images/selarlaug-riverside-pool.jpg"
+  ],
+  "opening_hours": {
+    "no_staff": "Unstaffed facility, honor-system donation box",
+    "listed_hours": "7:00 AM - 11:00 PM daily (may be outdated/suggestive)",
+    "practical_access": "Always accessible, no gates or staffing restrictions",
+    "admission": "Donation box on wall (older rates: 300 ISK adults, 150 ISK children - verify current)",
+    "contact": "Phone +354 473 1499 or +354 473 1331, email info@vopnafjardarhreppur.is",
+    "natural_heating": "Spring waters heat the pool naturally",
+    "main_pool": "Geothermally heated swimming pool",
+    "hot_tub": "Large hot tub",
+    "wading_pool": "Wading pool for children",
+    "amenities": "Picnic area, large sundeck",
+    "accessibility": "Good access for handicapped visitors",
+    "setting": "Banks of Selá river, rolling hills, peaceful isolation",
+    "location": "3.5 km off Route 85, 12 km from Vopnafjörður center",
+    "region": "East Iceland's remote northeastern corner",
+    "town": "Vopnafjörður (pop. ~700), isolated fishing community",
+    "character": "Honor-system donation pool, unstaffed, exceptionally peaceful and scenic",
+    "visitor_experience": "Often cited as most memorable Icelandic pool experience due to trust-based operation and beautiful setting"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Breiðdalsvík - Geology Museum Village",
+  "description": "Breiðdalsvík establishes fishing village eastern Iceland Breiðdalur valley where approximately 150 residents inhabit scenic coastal setting achieving recognition hosting Geology Center Jarðfeingi documenting regional geological formations rock types demonstrating valley's exceptional geological diversity where Iceland's oldest rocks exposed creating premier geological tourism education destination supporting scientific tourism complementing conventional scenic tourism establishing multifaceted appeal beyond purely recreational sightseeing. Breiðdalur valley presents exceptional landscape beauty where wide valley glacial lakes mountain ranges create spectacular scenery establishing scenic driving route between coastal Ring Road interior highlands where Route 95 continues north toward Egilsstaðir creating convenient detour exploring valley landscapes requiring minimal time investment rewarding exceptional photography hiking opportunities. Fishing continues limited operations where tiny fleet minimal fish processing provide modest economic activity supplemented tourism services accommodation dining though seasonal visitor concentrations create employment challenges maintaining year-round stable incomes characteristic small villages depending limited industries seasonal tourism. Swimming pool provides basic geothermal bathing facilities establishing essential amenity supporting tiny community recreation social gathering reflecting universal Icelandic pool culture though minimal infrastructure basic amenities maintain authentic character lacking modern facilities commercial polish. Community determination maintains settlement despite extreme small size limited economic opportunities demonstrating attachment place heritage identity overriding pure economic rationality suggesting consolidation abandonment though uncertain futures demographic decline create anxiety sustaining even minimal populations remote locations lacking comprehensive employment opportunities services infrastructure.",
+  "address": "Breiðdalsvík, 760 East Iceland",
+  "coordinates": {
+    "longitude": -14.0167,
+    "latitude": 64.5667,
+    "altitude": 5.0
+  },
+  "rating": 4.2,
+  "reviews_count": 1120,
+  "category": "Village - East Iceland",
+  "website": "https://www.east.is",
+  "phone": "+354 475 6770",
+  "images": [
+    "https://www.east.is/images/breiodalsvík.jpg"
+  ],
+  "opening_hours": {
+    "population": "~150",
+    "location": "Breiðdalur valley, coastal eastern Iceland",
+    "geology_center": "Jarðfeingi, regional geology museum",
+    "breiddalur": "Wide valley, exceptional scenic beauty",
+    "character": "Tiny fishing village, geology tourism, scenic valley gateway"
+  }
+}

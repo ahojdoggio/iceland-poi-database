@@ -1,0 +1,27 @@
+{
+  "name": "Aldeyjarfoss - Highland Basalt Waterfall",
+  "description": "Aldeyjarfoss is one of Iceland's most spectacular and photogenic waterfalls, located in the remote Northern Highlands where the Skjálfandafljót river plunges 20 meters (66 feet) through a dramatic narrow canyon framed by extraordinary twisted basalt columns. This relatively compact but powerful single-drop waterfall sits at the northern terminus of the challenging F26 Sprengisandur Highland Road, one of Iceland's most famous highland routes, making it accessible only during summer months (typically mid-June through September) and only to 4x4 vehicles capable of navigating unbridged river crossings and rough volcanic terrain. What distinguishes Aldeyjarfoss from other Icelandic waterfalls is its remarkable geological setting—the waterfall is flanked on both sides by rows of hexagonal basalt columns that twist, curve, and stack in seemingly impossible formations, creating a natural amphitheater of volcanic rock that amplifies the thunder of falling water. Unlike the uniform black basalt columns at Svartifoss in the south, Aldeyjarfoss's columns display diverse coloration including yellows, reds, and oranges created by sulfur and iron brought up during volcanic eruptions, adding visual warmth to the otherwise stark landscape. The waterfall drops into a turbulent, milky-blue glacial pool surrounded by dark volcanic rock, creating a striking color contrast that photographers find irresistible, particularly in the soft light of Iceland's endless summer days when the midnight sun illuminates the scene from unexpected angles. The location's remoteness means Aldeyjarfoss receives far fewer visitors than Iceland's more accessible waterfalls, offering an unspoiled, almost primordial atmosphere where the only sounds are rushing water, wind, and perhaps the call of an Arctic bird. The Sprengisandur route that provides access to Aldeyjarfoss crosses through some of Iceland's most desolate interior landscapes—vast gravel plains, glacial rivers, and volcanic deserts stretching to the horizon—making the journey to reach the waterfall an adventure in itself that rewards those willing to tackle challenging road conditions. The area around Aldeyjarfoss offers additional attractions including Goðafoss (Waterfall of the Gods) to the north, the Hrafnabjargafoss waterfall upstream on the same river, and opportunities for highland camping in designated areas for those equipped for truly remote wilderness experiences. Visitors should come prepared for unpredictable highland weather, bring provisions (no services exist in this remote area), check road conditions before departure, and time visits for summer months when roads are open and safer to navigate.",
+  "address": "F26 Sprengisandur Road, Northern Highlands, Iceland",
+  "coordinates": {
+    "longitude": -17.3444,
+    "latitude": 65.3706,
+    "altitude": 470.0
+  },
+  "rating": 4.8,
+  "reviews_count": 1850,
+  "category": "Waterfall",
+  "website": "https://www.visitaskja.com/aldeyjarfoss",
+  "phone": null,
+  "images": [
+    "https://www.visitaskja.com/images/aldeyjarfoss-basalt.jpg"
+  ],
+  "opening_hours": {
+    "access_season": "Mid-June to September (highland roads closed in winter)",
+    "road": "F26 Sprengisandur Highland Road (4x4 vehicles only)",
+    "parking": "Gravel parking area 200m from waterfall",
+    "admission": "Free",
+    "river_crossings": "Multiple unbridged crossings (check conditions at safetravel.is)",
+    "height": "20 meters (66 feet)",
+    "notable_features": "Twisted hexagonal basalt columns, yellow/red sulfur coloring"
+  }
+}

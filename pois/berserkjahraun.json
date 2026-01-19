@@ -1,0 +1,39 @@
+{
+  "name": "Berserkjahraun",
+  "description": "Berserkjahraun is an ancient lava field covering the western slopes of Helgafell mountain on the Snæfellsnes Peninsula, approximately halfway between the towns of Stykkishólmur and Grundarfjörður. This 4,000-year-old volcanic landscape erupted in intermittent phases between 3,600 and 4,000 years ago from four prominent scoria craters of varying sizes arranged in an east-west line from Kerlingarskarð (Ogress Pass). The dark, twisted terrain of solidified basaltic lava stretches across the landscape in dramatic formations, creating an otherworldly environment that appears frozen in time from its volcanic birth. Today, Berserkjahraun forms part of the Snæfellsnes UNESCO Global Geopark, a designation recognizing the area's exceptional geological significance and scientific value. The lava field derives its name from one of Iceland's most famous sagas, the Eyrbyggja Saga, which recounts a dramatic tale of love, betrayal, and superhuman feat. According to the medieval narrative, a farmer brought two berserkers—fierce Norse warriors known for fighting in an uncontrollable, trance-like fury—from Sweden to the Snæfellsnes Peninsula. He later gave the berserkers to his brother Víga-Styr, who lived on the opposite side of the impenetrable lava field. One of the Swedish berserkers fell deeply in love with Víga-Styr's daughter Ásgerður and boldly asked for her hand in marriage. Víga-Styr, seeking to rid himself of the troublesome warriors, made what he believed was an impossible bargain: the berserker could marry his daughter only if the two Swedes could clear a passable road through the treacherous lava field, connecting Víga-Styr's farm at Hraun to his brother's farm at Bjarnarhöfn. Against all expectations, the two berserkers completed this Herculean task remarkably quickly, manually moving volcanic boulders and leveling the terrain to create a viable pathway. However, Víga-Styr betrayed his promise and had both berserkers murdered, burying them near the path they had so laboriously constructed. Modern archaeological excavations at the site discovered the remains of two unusually large men buried in the area, lending remarkable credibility to this ancient saga and blurring the line between legend and historical fact. Road 558, a winding gravel road that traverses Berserkjahraun, follows the approximate route of the original berserkers' path, offering visitors spectacular scenery of twisted lava formations on either side. The road lacks major climbs or obstacles requiring 4x4 vehicles, though caution is advised due to gravel conditions. Multiple designated parking areas along Route 558 allow visitors to stop safely and explore the lava field on foot. Several hiking trails of varying difficulty crisscross the lava field, providing opportunities to walk among the volcanic formations while enjoying stunning views of surrounding mountains, fjords, and the Atlantic Ocean. The site is part of West Iceland's Saga Trail featured on nat.is, connecting visitors to Iceland's rich literary heritage. No entrance fee applies, and the location is accessible year-round, though summer months from June to August offer the best visiting conditions with long daylight hours and reliable road access.",
+  "address": "Road 558, 340 Stykkishólmur, Iceland",
+  "coordinates": {
+    "longitude": -22.8992,
+    "latitude": 64.9886,
+    "altitude": 0.0
+  },
+  "rating": 4.4,
+  "reviews_count": 1200,
+  "category": "Lava Field",
+  "website": "https://www.west.is/en/place/berserkjahraun-lava",
+  "phone": null,
+  "images": [
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/berserkjahraun-lava"
+    },
+    {
+      "source": "Guide to Iceland",
+      "url": "https://guidetoiceland.is/travel-iceland/drive/berserkjahraun"
+    }
+  ],
+  "opening_hours": {
+    "access": "Open 24/7 year-round, free admission",
+    "parking": "Multiple designated parking spots along Road 558, free parking",
+    "access_road": "Road 558 from Route 54, winding gravel road suitable for regular cars (no 4x4 required)",
+    "hiking_trails": "Multiple trails of varying difficulty across lava field, self-guided exploration",
+    "best_season": "June to August for best conditions (long daylight, reliable road access)",
+    "winter_advisory": "Icy roads and unpredictable weather, extra caution necessary",
+    "formation_age": "3,600-4,000 years old, erupted from four scoria craters at Kerlingarskarð",
+    "unesco_geopark": "Part of Snæfellsnes UNESCO Global Geopark",
+    "saga_connection": "Named from Eyrbyggja Saga, archaeological evidence of two large men found buried",
+    "west_iceland_saga_trail": "Featured on nat.is Saga Trail",
+    "distance_from_reykjavik": "Approximately 2 hours drive via Route 1 and Route 54",
+    "between_towns": "Halfway between Stykkishólmur and Grundarfjörður on Road 558 (6 km from Route 54)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Heimaey - Largest Westman Island & Volcanic Survivor",
+  "description": "Heimaey represents Iceland's most dramatic story of human resilience against volcanic forces, serving as Vestmannaeyjar archipelago's only inhabited island where 4,414 residents (2021) maintain thriving community despite 1973 Eldfell eruption that buried approximately 400 buildings, destroyed one-fifth of town, forced month-long evacuation of entire 5,300-person population, yet ultimately strengthened rather than defeated island community through unprecedented recovery effort demonstrating Icelandic determination. The eruption began without warning at 1:55 AM on January 23, 1973, when volcanic fissure opened just 200 meters from town center in what became five-month eruption lasting until July 3, with residents evacuated aboard fishing fleet anchored in harbor during fortunate calm weather that allowed orderly nighttime departure—had storm conditions prevailed, evacuation would have proven impossible and casualties catastrophic. The lava flow advanced toward harbor threatening to block entrance channel that provided island's economic lifeline by serving Iceland's most productive fishing grounds, prompting desperate seawater pumping operation where firefighters sprayed advancing lava front with cold ocean water causing rapid cooling and solidification that slowed and eventually halted flow mere meters from destroying harbor—this unprecedented engineering feat saved community's future by preserving port facilities enabling fishing industry to resume. The eruption added 2.2 square kilometers to island's land area and created Eldfell (Fire Mountain) cinder cone rising 221 meters above sea level with crater still emitting steam and maintaining ground temperatures hot enough to bake bread or cook food 50+ years later, transforming disaster site into tourist attraction where visitors hike smoking mountainside experiencing tangible volcanic heat. Eldheimar museum (Houses of Fire) built around house buried to roof level by volcanic tephra preserves archaeology of disaster through excavated ruins, artifacts left behind during hasty evacuation, and multimedia presentations explaining eruption's progression, evacuation logistics, and community's remarkable return—this museum provides intimate human perspective on natural disaster that statistics and photographs alone cannot convey. By late 1973, more than 2,000 of original 5,300 residents returned to island, increasing to 50% by mid-1974 and 80% by March 1975, demonstrating extraordinary attachment to island home despite ongoing volcanic risk and destroyed neighborhoods—this rapid return contradicted expectations that eruption would depopulate island permanently as many disasters have depopulated vulnerable communities worldwide. The modern town rebuilt from eruption features colorful corrugated metal houses characteristic of Iceland, bustling harbor filled with fishing vessels, Stafkirkjan (Stave Church) wooden church completed 2000 as Iceland's first stave church in centuries, and Landlyst Folk Museum preserving island history spanning settlement era through modern times. Heimaey's economic foundation remains fishing with modern processing facilities handling catches from surrounding productive waters where warm Gulf Stream meets cold Arctic waters creating nutrient-rich environment supporting abundant fish stocks, while growing tourism sector capitalizes on unique eruption story, puffin colonies, and adventure activities. The island measures approximately 13.4 square kilometers, making it Iceland's largest offshore island (excluding Vestmannaeyjar's uninhabited islands), with highest point at Heimaklettur (283m) providing panoramic views across archipelago, south Iceland coast, and Eyjafjallajökull glacier visible on clear days. Heimaey's bird cliffs host estimated 6-8 million seabirds during breeding season including world-famous puffin colony where 1.1 million pairs nest in burrows creating spectacular concentrations easily viewed from clifftop paths, while annual 'puffling rescue' sees island children collect disoriented young puffins attracted by town lights and release them at ocean maintaining charming conservation tradition. The Sprangan cliff-face climbing tradition unique to Vestmannaeyjar involves scaling vertical cliffs without safety equipment to collect eggs and birds, demonstrating historical subsistence practices now performed as cultural preservation and competitive sport during annual festival.",
+  "address": "Heimaey, Vestmannaeyjar, Iceland (largest Westman Island)",
+  "coordinates": {
+    "longitude": -20.2667,
+    "latitude": 63.4397,
+    "altitude": 221.0
+  },
+  "rating": 4.7,
+  "reviews_count": 5240,
+  "category": "Island & Volcanic Site",
+  "website": "https://www.visitvestmannaeyjar.is",
+  "phone": "+354 481 3555",
+  "images": [
+    "https://visitwestmanislands.com/images/heimaey-aerial.jpg"
+  ],
+  "opening_hours": {
+    "population": "4,414 residents (2021)",
+    "size": "13.4 km² - Iceland's largest offshore inhabited island",
+    "highest_point": "Heimaklettur 283m (or Eldfell 221m)",
+    "eruption_start": "January 23, 1973, 1:55 AM - without warning",
+    "eruption_end": "July 3, 1973 - five-month duration",
+    "fissure_location": "200 meters from town center",
+    "evacuation": "Entire 5,300 population evacuated first night by fishing fleet",
+    "buildings_destroyed": "Approximately 400 buildings buried, burned, or crushed",
+    "town_destruction": "One-fifth of town destroyed",
+    "lava_area": "300m wide, 700m long area covered during late March-early April",
+    "harbor_saved": "Seawater pumping operation halted lava flow meters from entrance",
+    "new_land": "2.2 km² added to island",
+    "eldfell_height": "221m cinder cone still emitting steam 50+ years later",
+    "population_return": "2,000+ by late 1973, 50% by mid-1974, 80% by March 1975",
+    "eldheimar_museum": "Built around house buried to roof level, eruption archaeology",
+    "stafkirkjan": "Wooden stave church completed 2000",
+    "landlyst_museum": "Folk museum preserving island history",
+    "economy": "Fishing and processing, growing tourism",
+    "fishing_grounds": "Gulf Stream meets Arctic waters, nutrient-rich, abundant stocks",
+    "puffin_colony": "1.1 million breeding pairs, 6-8 million total seabirds",
+    "puffling_rescue": "Annual tradition - children collect disoriented fledglings",
+    "sprangan": "Cliff-face climbing tradition for eggs and birds (no safety equipment)",
+    "viewpoints": "Eyjafjallajökull glacier visible on clear days from Heimaklettur"
+  }
+}

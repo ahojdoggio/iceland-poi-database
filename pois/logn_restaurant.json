@@ -1,0 +1,41 @@
+{
+  "name": "LOGN Restaurant & Bar - Westfjords Contemporary Dining",
+  "description": "LOGN restaurant & bar occupies the ground floor of Hotel Ísafjörður at Silfurtorg 2 in Ísafjörður, the capital and largest town of Iceland's remote Westfjords region (population approximately 2,600), offering contemporary Icelandic cuisine and craft cocktails in a modern setting that serves hotel guests, cruise ship passengers arriving at Ísafjörður's deepwater port, and the limited but discerning local dining market in a region where restaurant options remain scarce compared to more populated areas. The restaurant appears to have replaced or evolved from the previous Við Pollinn restaurant that operated at the same Hotel Ísafjörður location, representing the kind of rebranding and reinvention common in small Icelandic hospitality markets where establishments refresh concepts to maintain relevance and attract repeat customers from limited local populations. LOGN's diverse menu accommodates breakfast for hotel guests beginning their days exploring dramatic Westfjords landscapes, lunch for tourists taking midday breaks from hiking, kayaking, or touring the region's spectacular fjords and bird cliffs, dinner for romantic meals or special occasions, and happy hour (4:00-6:00 PM daily) providing discounted drinks that attract both visitors and locals seeking social gathering and affordable beverages in Iceland's notoriously expensive drinking culture. The pizza program earns particular praise with reviews describing \"seriously the best pizza in all of Iceland (that I tasted), authentic Neapolitan pizza\" suggesting skilled dough fermentation, proper high-temperature oven work, quality imported or locally adapted ingredients, and technique expertise that distinguishes genuine Neapolitan tradition from generic pizza-shop approximations—this excellence surprises visitors who don't expect to find Italy-quality pizza in Iceland's most remote region, demonstrating how skilled chefs in isolated locations can achieve results matching or exceeding urban restaurant standards. Beyond pizza, the menu offers on-site local cuisine showcasing Westfjords ingredients including exceptional fish and shellfish from surrounding waters (the dramatic fjords and exposed Atlantic coastline create rich fishing grounds), lamb from free-ranging sheep grazing coastal pastures and mountain slopes, and seasonal vegetables from the few farms operating in this challenging climate. The restaurant's position in Hotel Ísafjörður provides advantages: overnight guests constitute captive breakfast audience and potential dinner customers seeking convenience over venturing into limited downtown dining options, while the hotel's central Ísafjörður location makes LOGN accessible to non-guests exploring the town's colorful buildings, maritime museum, and compact downtown that can be walked in 20 minutes. The happy hour pricing (4:00-6:00 PM daily) addresses both tourist budgets stretched thin by Iceland's high costs and local residents' desires for affordable social drinking—in small communities like Ísafjörður where entertainment options remain limited, bars and restaurants function as essential social infrastructure where residents maintain community connections, combat winter isolation, and celebrate occasions ranging from birthdays to successful fishing seasons. The Westfjords location guarantees limited competition and creates  market position for LOGN as one of the few upscale dining options in a region that attracts adventurous travelers seeking Iceland beyond the tourist-heavy Ring Road circuit but offers minimal restaurant infrastructure compared to Reykjavík or even Akureyri.",
+  "address": "Silfurtorg 2, 400 Ísafjörður, Iceland (Hotel Ísafjörður, Westfjords)",
+  "coordinates": {
+    "longitude": -23.1320,
+    "latitude": 66.0740,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1580,
+  "category": "Restaurant",
+  "website": "https://www.isafjordurhotels.is/en/logn",
+  "phone": "+354 456 3360",
+  "images": [
+    "https://www.isafjordurhotels.is/images/logn-dining.jpg"
+  ],
+  "opening_hours": {
+    "services": "Breakfast, lunch, dinner, happy hour",
+    "happy_hour": "Daily 4:00 PM - 6:00 PM",
+    "location": "Ground floor of Hotel Ísafjörður, Silfurtorg 2",
+    "previous_name": "Replaced/evolved from Við Pollinn restaurant at same location",
+    "pizza_specialty": "Best pizza in Iceland per reviews - authentic Neapolitan",
+    "pizza_technique": "Skilled dough fermentation, high-temperature oven, quality ingredients",
+    "menu": "Diverse - local Westfjords cuisine, breakfast, lunch, dinner options",
+    "westfjords_ingredients": "Exceptional fish & shellfish, free-ranging lamb, seasonal vegetables",
+    "fishing_grounds": "Dramatic fjords and Atlantic coastline create rich marine resources",
+    "hotel_advantages": "Overnight guest breakfast + dinner convenience, central Ísafjörður location",
+    "town": "Ísafjörður - Westfjords capital, population ~2,600",
+    "accessibility": "Central downtown, walkable, near maritime museum",
+    "happy_hour_purpose": "Address Iceland's high costs + provide local social gathering space",
+    "social_infrastructure": "Bar/restaurant essential in small communities - combat isolation, celebrate occasions",
+    "market_position": "One of few upscale dining options in remote Westfjords region",
+    "clientele": "Hotel guests + cruise ship passengers + local residents + adventurous travelers",
+    "competition": "Limited restaurant options in Westfjords compared to more populated areas",
+    "cruise_port": "Ísafjörður has deepwater port for cruise ships",
+    "surprise_quality": "Italy-quality pizza in Iceland's most remote region demonstrates chef skill",
+    "region_character": "Westfjords attracts adventurous travelers beyond Ring Road circuit",
+    "rebranding": "Evolution from Við Pollinn reflects small-market need for concept refreshment"
+  }
+}

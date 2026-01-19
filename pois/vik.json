@@ -1,0 +1,33 @@
+{
+  "name": "Vík í Mýrdal",
+  "description": "Vík í Mýrdal, commonly known as Vík, is Iceland's southernmost village and the only seaside town in the country without a harbor. Located approximately 180 kilometers southeast of Reykjavík along Ring Road (Route 1), this small coastal settlement has a population of about 300 residents, though the Mýrdalshreppur municipality totals around 640 inhabitants. Despite its modest size, Vík serves as the largest settlement for 70 kilometers around and functions as an important staging post on the South Coast. The village lies directly south of the Mýrdalsjökull glacier, which sits atop the active Katla volcano, one of Iceland's most dangerous volcanoes with over 150 recorded eruptions since the 9th century. Vík holds the distinction of being both the warmest and wettest coastal town in Iceland, with an annual mean temperature of 5.3°C and annual rainfall of 2,250 millimeters. The iconic white Víkurkirkja Church, perched on a hillside overlooking the town, has become one of Iceland's most photographed landmarks, offering panoramic views over the legendary Reynisdrangar sea stacks and the dramatic black sand beaches below. The church also serves as the designated emergency evacuation point should Katla volcano erupt. Vík's proximity to Reynisfjara, ranked as one of the world's most beautiful beaches, has made it a major tourist hub on the South Coast route. The town offers modern amenities including the Icelandic Lava Show, the world's only live lava exhibition where superheated real lava recreates volcanic eruptions in a safe 50-minute educational show. The Katla Visitor Centre provides information about the region's volcanic history and the catastrophic 1918 Katla eruption. Visitors can explore multiple black sand beaches including Reynisfjara with its hexagonal basalt columns and Hálsanefshellir sea cave, and the safer Víkurfjara beach within the village itself. The town features essential services including a Krónan supermarket, N1 gas station with 24-hour fuel, hotels, guesthouses, restaurants, and cafes. Nearby attractions accessible from Vík include the Dyrhólaey promontory with its natural arch and puffin colonies, Sólheimajökull glacier, and various glacier hiking and ice cave tours departing from the village.",
+  "address": "Vík, 870 Vík, Iceland",
+  "coordinates": {
+    "longitude": -19.0060,
+    "latitude": 63.4186,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 7200,
+  "category": "Town",
+  "website": "https://www.south.is/en/place/vik",
+  "phone": "+354 487 1395",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:V%C3%ADkurkirkja"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Vík_í_Mýrdal"
+    }
+  ],
+  "opening_hours": {
+    "town_access": "Open 24/7 year-round",
+    "lava_show": "Daily shows, 50-minute duration, advance booking recommended",
+    "katla_visitor_centre": "Varies seasonally, check website for current hours",
+    "services": "Krónan supermarket, N1 24-hour fuel station, restaurants and cafes",
+    "nearby_beaches": "Reynisfjara P1 parking 1,000 ISK, P2 parking 750 ISK per vehicle",
+    "safety_note": "Víkurkirkja church serves as emergency evacuation point for Katla volcano eruptions. Stay informed about volcanic activity warnings."
+  }
+}

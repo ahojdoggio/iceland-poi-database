@@ -1,0 +1,26 @@
+{
+  "name": "Húsavík Whale Watching - Europe's Whale Capital",
+  "description": "Húsavík earned designation 'Whale Watching Capital Iceland' launching Iceland's first scheduled cetacean tours mid-1990s establishing Skjálfandi Bay premier marine wildlife destination achieving remarkable 97 percent overall whale sighting success rates based three decades operational data positioning northeastern Iceland global whale watching epicenter. Humpback whales dominate summer encounters appearing nearly every tour June-August performing spectacular breaching behaviors flipper-slapping spyhopping feeding displays while minke whales harbor porpoises white-beaked dolphins frequent bay waters March-November creating diverse cetacean viewing opportunities. North Sailing pioneered sustainable whale watching utilizing renovated oak fishing boats maintaining authentic Icelandic maritime heritage while modern operators offer RIB speedboat expeditions positioning wildlife enthusiasts within meters surfacing whales documenting behaviors through expert naturalist guides marine biologist commentary explaining cetacean ecology Skjálfandi Bay's exceptional nutrient density attracting concentrated marine life. Húsavík's dramatic setting beneath snow-capped mountains surrounding pristine fjord waters enhances wildlife encounters creating photographic compositions combining breaching whales mountainous backdrops traditional fishing vessels authentic Icelandic coastal atmosphere. Village infrastructure supports wildlife tourism through Húsavík Whale Museum showcasing complete whale skeleton exhibits cetacean biology conservation education complementing on-water experiences while waterfront restaurants accommodations provide comprehensive visitor amenities. Peak season May-September offers warmest weather longest daylight though shoulder seasons March-April September-November provide exceptional viewing fewer crowds budget-conscious travelers. Húsavík's commitment sustainable tourism marine conservation combined unprecedented whale encounter success rates establishes destination essential inclusion Iceland itineraries for serious wildlife enthusiasts seeking authentic meaningful cetacean experiences beyond casual tourist attractions.",
+  "address": "Húsavík Harbor, Garðarsbraut, 640 Húsavík, Iceland",
+  "coordinates": {
+    "longitude": -17.3389,
+    "latitude": 66.0449,
+    "altitude": 5.0
+  },
+  "rating": 4.8,
+  "reviews_count": 18920,
+  "category": "Whale Watching",
+  "website": "https://www.northsailing.is",
+  "phone": "+354 464 7272",
+  "images": [
+    "https://www.northsailing.is/images/husavik-whale-watching-bay.jpg"
+  ],
+  "opening_hours": {
+    "season": "March to November",
+    "peak_season": "May-September",
+    "success_rate": "97% overall, humpbacks nearly 100% summer",
+    "tour_duration": "2.5-3 hours typical",
+    "species": "Humpback whales, minke whales, white-beaked dolphins, harbor porpoises",
+    "boat_types": "Traditional oak boats, modern vessels, RIB speedboats"
+  }
+}

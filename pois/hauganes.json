@@ -1,0 +1,25 @@
+{
+  "name": "Hauganes - Free Seaside Hot Tub Village",
+  "description": "Hauganes establishes tiny fishing hamlet Eyjafjörður fjord where approximately 140 residents maintain modest settlement achieving tourism recognition hosting free seaside geothermal hot tub oceanfront location fjord views creating exceptional natural bathing experience attracting visitors seeking authentic off-beaten-path Iceland beyond commercialized spa environments establishing geothermal tourism destination exceeding village's minimal size infrastructure. Free hot tub represents community amenity tourist attraction where single oceanside pool provides geothermal bathing Atlantic views though basic facilities minimal infrastructure maintain rustic character lacking changing rooms commercial development preserving authentic atmosphere demonstrating democratic bathing culture accessible all regardless economic means. Fishing continues limited operations where tiny fleet provides minimal economic activity though most residents commute work Akureyri elsewhere establishing bedroom community character depending external employment rather self-sufficient local fishing economy demonstrating challenges maintaining viable communities very small populations remote locations lacking diverse employment opportunities. Whale watching tours occasionally depart Hauganes harbor capitalizing Eyjafjörður marine richness though irregular operations limited capacity create unpredictable availability requiring advance inquiry confirmation rather reliable scheduled departures characteristic larger operations Húsavík establishing opportunistic tourism supplementing rather replacing fishing livelihoods. Minimal facilities exist where no comprehensive services shops medical facilities require travel Akureyri establishing extreme dependency regional center characteristic very small settlements maintaining only residential function lacking economic commercial self-sufficiency demonstrating settlement pattern limits where populations below certain thresholds cannot sustain basic services. Community determination maintains settlement pride local identity location attachment override economic logic suggesting consolidation abandonment though uncertain futures demographic decline create anxiety regarding sustaining even minimal populations.",
+  "address": "Hauganes, 611 North Iceland",
+  "coordinates": {
+    "longitude": -18.3833,
+    "latitude": 65.8833,
+    "altitude": 3.0
+  },
+  "rating": 4.4,
+  "reviews_count": 1670,
+  "category": "Village - North Iceland",
+  "website": "https://www.dalvikurbyggd.is/en",
+  "phone": "+354 460 4900",
+  "images": [
+    "https://www.northiceland.is/images/hauganes-hot-tub.jpg"
+  ],
+  "opening_hours": {
+    "population": "~140",
+    "location": "Eyjafjörður fjord",
+    "free_hot_tub": "Seaside geothermal pool, ocean views",
+    "whale_watching": "Occasional tours (irregular, limited)",
+    "character": "Tiny fishing hamlet, free hot tub, bedroom community"
+  }
+}

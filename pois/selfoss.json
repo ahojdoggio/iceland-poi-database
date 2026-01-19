@@ -1,0 +1,27 @@
+{
+  "name": "Selfoss - South Iceland's Largest Town",
+  "description": "Selfoss is South Iceland's largest and fastest-growing town, with a population that surpassed the symbolic milestone of 10,000 residents for the first time in 2024, reaching approximately 10,420 inhabitants by 2025 and establishing itself as one of Iceland's most significant urban centers outside the capital region. Located approximately 50 kilometers (31 miles) southeast of Reykjavík along the Ring Road (Route 1), Selfoss occupies a strategic position on the banks of the Ölfusá River, Iceland's largest river by volume, where a bridge crossing has made the town a natural transportation and commercial hub connecting the capital area to the entire south coast. Originally a small farming community, Selfoss experienced rapid transformation in the 20th century, evolving into a thriving service, trade, and light industrial center that serves as the economic and administrative heart of South Iceland's agricultural regions. The town's growth has been driven by its excellent location as a commuter hub for people working in Reykjavík who prefer more affordable housing and small-town atmosphere, the development of the dairy and agricultural industries (with major dairy cooperatives and food processing facilities), and its role as the last major service center before travelers embark on Ring Road journeys around Iceland. Selfoss offers comprehensive amenities rare in rural Iceland, including a large hospital and healthcare center providing regional medical services, excellent schools including two comprehensive schools and a college, extensive shopping with supermarkets, specialty stores, and retail centers, multiple hotels and guesthouses ranging from budget to upscale, diverse dining options from fast food to fine dining restaurants, a cinema showing current films, art galleries showcasing local and national artists, and abundant recreational facilities. The town's geothermal swimming pool complex features a heated outdoor pool, hot tubs, steam baths, and a waterslide, providing the traditional Icelandic swimming culture experience that serves as both recreation and social hub. A 9-hole golf course offers golfing with views of surrounding farmland and mountains, while the riverbanks provide pleasant walking and cycling paths. The surrounding Ölfus region is prime agricultural land known for excellent horse breeding, greenhouse cultivation using geothermal heating (producing tomatoes, cucumbers, and even tropical fruits), and traditional sheep and dairy farming. Selfoss serves as the gateway to numerous South Iceland attractions, positioned conveniently for day trips to Golden Circle sites (Þingvellir, Geysir, Gullfoss), south coast waterfalls (Seljalandsfoss, Skógafoss), black sand beaches, and glacier lagoons. The town has preserved some historic buildings including old timber houses and the original suspension bridge dating to 1891 (replaced by modern bridge but preserved as landmark), while embracing modern development with new residential neighborhoods, commercial zones, and infrastructure improvements including fiber-optic internet and modern facilities that make Selfoss increasingly attractive for both residents and businesses relocating from crowded Reykjavík.",
+  "address": "Selfoss, 800 Árborg, Iceland",
+  "coordinates": {
+    "longitude": -20.9968,
+    "latitude": 63.9339,
+    "altitude": 15.0
+  },
+  "rating": 4.2,
+  "reviews_count": 2150,
+  "category": "Town",
+  "website": "https://www.south.is/en/destinations/towns-regions/towns/selfoss",
+  "phone": "+354 480 1900",
+  "images": [
+    "https://www.south.is/images/selfoss-town-bridge.jpg"
+  ],
+  "opening_hours": {
+    "swimming_pool": "Daily 6:30 AM - 9:00 PM (varying hours weekends)",
+    "shopping": "Most stores Monday-Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM",
+    "supermarkets": "Daily until 11:00 PM (major chains)",
+    "tourist_information": "Summer daily 9:00 AM - 6:00 PM, winter reduced hours",
+    "distance_from_reykjavik": "50 km (31 mi), approximately 40 minutes via Route 1",
+    "population": "10,420 residents (2025), largest town in South Iceland",
+    "gateway_to": "Golden Circle, South Coast, Ring Road journeys"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Reykjavík Whale Watching - Old Harbor",
+  "description": "Reykjavík's Old Harbor operates year-round whale watching expeditions departing into Faxaflói Bay representing Iceland's most accessible marine wildlife encounters where visitors observe minke whales humpback whales white-beaked dolphins harbor porpoises across 2.5-3.5 hour voyages venturing 15 kilometers offshore achieving 90+ percent success rates showcasing Iceland's thriving cetacean populations. Traditional boat tours accommodate families seeking comfortable viewing experiences while RIB speedboat adventures provide close-contact thrills speeding across waves positioning wildlife enthusiasts meters from breaching humpbacks performing acrobatic displays feeding behaviors spyhopping maneuvers creating unforgettable photographic opportunities. Summer expeditions May-September combine whale watching with puffin island visits Akurey Lundey viewing thousands seabirds nesting rocky outcrops while winter tours December-March offer chances spotting orcas migrating through northern waters against snow-capped mountain backdrops Aurora Borealis displays. Educational components feature expert marine biologist guides explaining cetacean behaviors conservation efforts Iceland's commitment protecting marine ecosystems while multimedia exhibitions Old Harbor facilities showcase whale biology migration patterns historical whaling industry transformation toward sustainable wildlife tourism. Faxaflói Bay's nutrient-rich waters attract diverse marine life including occasional blue whales pilot whales creating exceptional biodiversity hotspot mere minutes from downtown Reykjavík positioning Old Harbor Iceland's premier urban whale watching destination combining convenience accessibility world-class wildlife encounters. Tours operate daily year-round weather permitting with multiple departure times accommodating cruise ship schedules international visitors seeking memorable Icelandic wildlife experiences without extensive travel requirements.",
+  "address": "Old Harbor (Gamla Höfnin), Geirsgata, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9375,
+    "latitude": 64.1500,
+    "altitude": 2.0
+  },
+  "rating": 4.6,
+  "reviews_count": 12450,
+  "category": "Whale Watching",
+  "website": "https://whalesafari.is",
+  "phone": "+354 497 0000",
+  "images": [
+    "https://guidetoiceland.is/image/reykjavik-whale-watching-old-harbor.jpg"
+  ],
+  "opening_hours": {
+    "season": "Year-round daily departures",
+    "summer_tours": "May-September (peak season)",
+    "winter_tours": "October-April with Aurora potential",
+    "duration": "2.5-3.5 hours per tour",
+    "success_rate": "90%+ whale sightings",
+    "tour_types": "Traditional boats, RIB speedboats, combination whale-puffin tours"
+  }
+}

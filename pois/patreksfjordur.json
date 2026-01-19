@@ -1,0 +1,28 @@
+{
+  "name": "Patreksfjörður - Gateway to Látrabjarg",
+  "description": "Patreksfjörður is a charming fishing village in Iceland's remote Westfjords region, serving as the largest settlement and service center for the southern Westfjords and, most importantly, as the gateway to Látrabjarg—Europe's largest seabird cliff and one of Iceland's most spectacular natural wonders. This community of approximately 650 residents maintains traditional Westfjords character while providing essential services for both locals and the growing number of visitors exploring this dramatic and least-visited region of Iceland. The village sits at the head of the fjord bearing the same name, surrounded by steep mountains and overlooking the Atlantic Ocean, with an economy traditionally based on fishing and fish processing that is increasingly supplemented by tourism. From Patreksfjörður, the main attraction is undoubtedly Látrabjarg, located approximately 40 kilometers to the west via Route 612, a sometimes-challenging gravel road that leads to one of the most thrilling wildlife viewing experiences in all of Iceland. Látrabjarg is a line of towering bird cliffs stretching 14 kilometers along Iceland's westernmost point, with vertical faces rising up to 441 meters directly from the Atlantic Ocean. These cliffs serve as nesting habitat for millions of seabirds during the breeding season (mid-May through late August), including enormous colonies of Atlantic puffins, razorbills, guillemots, kittiwakes, fulmars, and gannets. Látrabjarg is particularly famous for its puffin population—the charming, colorful-beaked seabirds that have become synonymous with Iceland—which nest in burrows along the clifftop in such density that visitors can observe them at remarkably close range, often within arm's reach, as the birds here show little fear of humans. The cliffs are so important ecologically that they host up to 40% of the world's entire population of certain species, particularly razorbills, making Látrabjarg vital for the survival of entire species and earning it designation as one of the world's most important seabird breeding sites. The experience of sitting on the grass at the clifftop edge (carefully, as the cliff faces are sheer and unstable) while puffins waddle past just meters away, taking off and landing with their characteristic awkward charm, ranks among Iceland's most memorable wildlife encounters. Látrabjarg gained additional attention for a remarkable 2026 celestial event: a total solar eclipse visible from this westernmost point of Iceland on August 12, 2026, with the eclipse lasting longer here than anywhere else in Iceland due to the location's extreme western position. This rare astronomical event drew special tourism interest to the area. Beyond Látrabjarg, the region offers other attractions accessible from Patreksfjörður including Rauðasandur, a rare red-golden sand beach (unusual in a country dominated by black volcanic sand) stretching for kilometers in a remote, hauntingly beautiful bay. Westfjords Adventures operates guided tours from Patreksfjörður to Látrabjarg and Rauðasandur, running May through August for those who prefer not to navigate the gravel roads independently. The village itself offers basic services including accommodations, restaurants, a supermarket, and fuel—essential facilities given the remote location.",
+  "address": "Patreksfjörður, 450 Vesturbyggð, Iceland",
+  "coordinates": {
+    "longitude": -23.9933,
+    "latitude": 65.5881,
+    "altitude": 3.0
+  },
+  "rating": 4.4,
+  "reviews_count": 1520,
+  "category": "Village",
+  "website": "https://www.patreksfjordur.is",
+  "phone": "+354 450 2004",
+  "images": [
+    "https://www.westfjords.is/images/latrabjarg-puffins.jpg"
+  ],
+  "opening_hours": {
+    "latrabjarg_distance": "40 km west via Route 612 (gravel road)",
+    "puffin_season": "Mid-May through late August (best June-July)",
+    "latrabjarg_access": "24/7 (remote outdoor location, no facilities)",
+    "solar_eclipse_2026": "Total eclipse August 12, 2026 (longest duration in Iceland)",
+    "guided_tours": "Westfjords Adventures operates May-August from Patreksfjörður",
+    "raudasandur_beach": "Accessible via gravel road from Patreksfjörður",
+    "services": "Accommodations, restaurants, supermarket, fuel available",
+    "population": "Approximately 650 residents"
+  }
+}

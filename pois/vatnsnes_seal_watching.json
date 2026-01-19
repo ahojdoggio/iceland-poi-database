@@ -1,0 +1,27 @@
+{
+  "name": "Vatnsnes Peninsula Seal Watching - Iceland's Seal Capital",
+  "description": "Vatnsnes Peninsula establishes Iceland's premier seal watching destination where harbor seals grey seals congregate rocky shorelines creating reliable wildlife encounters across designated viewing sites Svalbarð Illugastaðir Hvítserkur developed local researchers optimizing visitor experiences while protecting seal populations. Illugastaðir represents peninsula's showcase location featuring wooden observation platforms enabling photographers document seals hauled rocky outcrops basking sunshine nursing pups swimming kelp forests while Hvítserkur's iconic 15-meter basalt sea stack nicknamed 'Troll North' provides dramatic backdrop seal watching where pinnipeds frequent surrounding waters creating exceptional photographic compositions combining wildlife geological wonders. April-October constitutes prime seal watching season though year-round populations maintain presence enabling winter visits capturing seals against snow-covered landscapes while summer months offer newborn pups playful behaviors extended daylight hours. Tide timing proves critical successful encounters requiring arrivals within two hours low tide when seals haul exposed rocks optimal viewing distances though high tides push seals closer shore occasionally improving sighting opportunities depending specific location conditions. Hvammstangi village serves regional base hosting Icelandic Seal Center museum providing comprehensive seal biology education conservation exhibits historical context seal-human relationships Iceland while information center supplies detailed directions tide tables viewing location recommendations maximizing visitor success. Three seal viewing areas offer varying experiences where Svalbarð provides northern peninsula access Illugastaðir features developed infrastructure Hvítserkur combines seal watching iconic landmark photography creating diverse itinerary options accommodating different traveler preferences time constraints. Northwest Iceland location positions Vatnsnes Peninsula convenient day trip Reykjavík inclusion Arctic Coast Way route through alternatively overnight Hvammstangi enables dawn dusk viewing sessions when seal activity peaks lighting conditions optimal. Conservation-focused tourism infrastructure ensures minimal disturbance seal colonies maintaining healthy populations supporting ongoing research while providing visitors meaningful wildlife encounters demonstrating sustainable tourism best practices. Vatnsnes seal watching combines reliable sightings spectacular coastal scenery accessible facilities educational opportunities establishing essential northwest Iceland wildlife destination.",
+  "address": "Vatnsnes Peninsula, Hvammstangi, 530 Northwest Iceland",
+  "coordinates": {
+    "longitude": -20.9333,
+    "latitude": 65.4000,
+    "altitude": 5.0
+  },
+  "rating": 4.7,
+  "reviews_count": 1890,
+  "category": "Seal Watching",
+  "website": "https://selasetur.is/en/tourist-info/seal-watching-locations",
+  "phone": "+354 451 2345",
+  "images": [
+    "https://selasetur.is/images/vatnsnes-seal-colony.jpg"
+  ],
+  "opening_hours": {
+    "season": "Year-round, best April-October",
+    "tide_timing": "Within 2 hours of low tide (before/after)",
+    "viewing_sites": "Svalbarð, Illugastaðir, Hvítserkur",
+    "seal_center": "Hvammstangi - year-round museum/info center",
+    "species": "Harbor seals, grey seals",
+    "access": "Free viewing areas with platforms",
+    "distance": "~2.5 hours north of Reykjavík"
+  }
+}

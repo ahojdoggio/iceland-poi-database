@@ -1,0 +1,35 @@
+{
+  "name": "LAVA Centre",
+  "description": "The LAVA Centre is an award-winning interactive, high-tech educational exhibition dedicated to Iceland's volcanic activity, earthquakes, and the geological forces that shaped the island. Located in Hvolsvöllur village in South Iceland, just 100 kilometers east of Reykjavík along Ring Road (Route 1), the center sits strategically in the heart of the Katla UNESCO Global Geopark between five of Iceland's most active volcanoes: Katla, Hekla, Eyjafjallajökull, Vestmannaeyjar, and Torfajökull. Opened in 2017, the facility quickly gained international recognition, named one of Lonely Planet's top 10 new attractions worldwide in 2017 and recipient of multiple Red Dot Awards, Lighting Awards, and architecture accolades. The centerpiece exhibition features the Fiery Heart of Iceland, a striking 12-meter-high structure simulating the mantle plume and magma flow beneath Iceland's surface. Visitors experience interactive displays including a realistic earthquake simulator, the volcanic corridor detailing Iceland's major eruptions since 1900 and their global impacts, a geology globe demonstrating tectonic plate movement, and comprehensive magma and molten rock exhibitions explaining volcanic formation through geothermal pressure. An educational learning center offers interactive computer stations exploring volcanoes and earthquakes in depth, while a cinema auditorium presents spectacular volcanic eruptions in 4K HD quality. The rooftop 360-degree observation deck provides panoramic views of the surrounding volcanic landscape, allowing visitors to contemplate the immense power of Katla, Hekla, and Eyjafjallajökull from a safe vantage point. The center serves dual purposes as both an educational museum and a practical information hub for the Katla Geopark, offering tour planning assistance and regional travel information. The on-site Katla Restaurant operates from 9:00 AM to 9:00 PM serving Icelandic cuisine, while a quality souvenir shop offers volcanic-themed merchandise and educational materials. The museum employs cutting-edge technology to make complex geological concepts accessible and engaging for visitors of all ages, successfully bridging scientific education with interactive entertainment. Special programs are available for school groups at discounted rates, and the center can arrange after-hours private tours with specialized guides for groups requiring customized experiences.",
+  "address": "Austurvegur 14, 860 Hvolsvöllur, Iceland",
+  "coordinates": {
+    "longitude": -20.2364,
+    "latitude": 63.7532,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 5200,
+  "category": "Museum",
+  "website": "https://lavacentre.is",
+  "phone": "+354 415 5200",
+  "images": [
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/service/lava-centre"
+    },
+    {
+      "source": "LAVA Centre Official",
+      "url": "https://lavacentre.is"
+    }
+  ],
+  "opening_hours": {
+    "exhibition": "Daily 09:00-19:00 year-round",
+    "restaurant": "Daily 09:00-21:00",
+    "special_hours": "December 24, 25, 31 and January 1: 10:00 opening",
+    "admission_exhibition_cinema": "Adults 3,590 ISK, Children 12-16 years 1,795 ISK, Children 11 and under FREE",
+    "family_ticket": "Parents with children 0-16 years: 7,180 ISK",
+    "cinema_only": "Children 6-15 years 1,000 ISK, Children 5 and under FREE",
+    "notes": "Tickets available online for advance booking. Special rates for school groups. After-hours private tours available upon request.",
+    "contact": "reception@lavacentre.is for bookings and inquiries"
+  }
+}

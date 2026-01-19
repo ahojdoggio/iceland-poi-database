@@ -1,0 +1,28 @@
+{
+  "name": "Fimmvörðuháls Trail - Between Glaciers Trek",
+  "description": "Fimmvörðuháls Trail represents Iceland's most dramatic single-day mountain pass traverse connecting Skógar waterfall Þórsmörk valley across 25-kilometer route threading between Eyjafjallajökull Mýrdalsjökull glaciers showcasing 26 waterfalls fresh volcanic craters barren highland landscapes reward challenging 8-10 hour trek demanding significant physical fitness navigational awareness. Trail begins Skógar's iconic 60-meter cascade ascending relentless staircase alongside waterfall chain passing Skógafoss neighboring cascades gaining 1,400 meters elevation through increasingly dramatic terrain until reaching Fimmvörðuháls mountain pass positioned precariously between massive glaciated volcanoes whose recent eruptions shaped modern landscapes. April 2010 Eyjafjallajökull eruption created Magni Móði craters new volcanic formations trail traverses offering unprecedented opportunity witnessing newborn geology where steaming lava fields barely decade old demonstrate Iceland's ongoing volcanic activity while Katla volcano lurking beneath Mýrdalsjökull remains 'cocked locked' geologists' assessments adding thrilling geological context adventure. Barren volcanic plateau eventually yields birch scrub descending Þórsmörk's protected valley where trail concludes though hikers must arrange return transportation either continuing Laugavegur Trail back-country routes returning Skógar via bus requiring advance planning logistics. Two mountain huts Baldvinsskáli Fimmvörðuskáli enable overnight splits though most fit hikers complete single-day push experiencing Iceland's extreme elevation topographical changes concentrated timeframe creating memorable endurance challenge rewarding spectacular scenery geological education. Summer-only accessibility June-September reflects snow conditions route exposure demanding favorable weather attempting traverse while early morning starts maximize daylight buffer unexpected delays ensuring safe completion before darkness though midnight sun period provides extended safety margins experienced navigators prepared variable conditions including fog rain sudden weather deterioration characteristic Icelandic highlands.",
+  "address": "Fimmvörðuháls Trail, Skógar to Þórsmörk, South Iceland",
+  "coordinates": {
+    "longitude": -19.5128,
+    "latitude": 63.5847,
+    "altitude": 1050.0
+  },
+  "rating": 4.8,
+  "reviews_count": 4230,
+  "category": "Day/Overnight Hiking Trail",
+  "website": "https://www.south.is/en/place/fimmvorduhals",
+  "phone": "+354 487 8601",
+  "images": [
+    "https://www.south.is/images/fimmvorduhals-glaciers.jpg"
+  ],
+  "opening_hours": {
+    "season": "June - September",
+    "distance": "25 km (15.5 miles) one-way",
+    "duration": "8-10 hours (can split overnight)",
+    "difficulty": "Challenging",
+    "elevation_gain": "1,400 meters (4,600 feet)",
+    "highlights": "26 waterfalls, Magni & Móði craters (2010 eruption), between Eyjafjallajökull & Mýrdalsjökull glaciers",
+    "huts": "Baldvinsskáli, Fimmvörðuskáli (reservation required)",
+    "note": "Katla volcano beneath Mýrdalsjökull considered active"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Egilsstaðir Airport - East Iceland Gateway",
+  "description": "Egilsstaðir Airport establishes eastern Iceland's primary aviation portal serving region's largest town 2,500 population where approximately 20 weekly Icelandair flights Reykjavík Domestic Airport provide 60-minute connections eliminating grueling seven-hour Ring Road drives enabling efficient east fjords exploration Vatnajökull National Park access highland adventures time-conscious travelers seeking maximize Iceland's remote eastern treasures without extensive overland commitments. International airport designation reflects infrastructure capabilities port-of-entry status though 2024-2026 operational reality remains exclusively domestic Reykjavík connections indicating future international service potential particularly Faroe Islands Greenland Scandinavia routes logically extending Iceland's eastern reach connecting North Atlantic island communities Arctic regions though current services maintain domestic focus. Single runway facility provides essential year-round connectivity where weather-dependent operations mirror broader Icelandic aviation realities requiring flexible scheduling buffer days accommodating potential delays though reliable summer services support peak tourism seasons when east Iceland attractions draw visitors seeking uncrowded authentic experiences beyond overtouristed south coast Golden Circle circuits. Egilsstaðir positioning enables strategic eastern basecamp where fly-in travelers efficiently access Seyðisfjörður picturesque Norwegian-settled port Borgarfjörður Eystri puffin colonies Petra's stone collection mineral museum Hallormsstaður Iceland's largest forest Hengifoss waterfall Vatnajökull glacier tongues creating concentrated east Iceland immersion impossible brief Ring Road transits rushing between major attractions. East Iceland characterization includes dramatic fjordland scenery reindeer populations unique geological formations fewer tourists authentic fishing village cultures creating distinctly different Iceland experience compared heavily visited western southern regions where airport access facilitates discovering overlooked treasures rewarding adventurous travelers willing venture beyond mainstream circuits conventional itineraries tourist infrastructure concentrations. Regional exploration extends northward Mývatn connections southward Höfn glacier lagoon access enabling comprehensive eastern Iceland circuits combining highlands fjords forests glaciers waterfalls creating diverse landscapes ecosystems experiences concentrated geographic area accessible efficient aviation connections maximizing sightseeing minimizing transit inefficiencies characteristic exclusively ground-based travel across Iceland's vast challenging terrain.",
+  "address": "Egilsstaðir Airport (EGS), 700 Egilsstaðir, East Iceland",
+  "coordinates": {
+    "longitude": -14.4014,
+    "latitude": 65.2833,
+    "altitude": 24.0
+  },
+  "rating": 4.4,
+  "reviews_count": 2340,
+  "category": "Domestic Airport",
+  "website": "https://www.innanlandsflugvellir.is/en/egilsstadir-airport",
+  "phone": "+354 470 0300",
+  "images": [
+    "https://www.east.is/images/egilsstadir-airport.jpg"
+  ],
+  "opening_hours": {
+    "operation": "Year-round daily flights",
+    "carrier": "Icelandair (sole scheduled carrier)",
+    "frequency": "~20 weekly flights (~70 monthly)",
+    "destination": "Reykjavík Domestic Airport (RKV) only",
+    "flight_time": "60 minutes",
+    "international_status": "Designated international airport, no scheduled int'l flights",
+    "serves": "Egilsstaðir (pop 2,500), East Iceland region",
+    "nearby_attractions": "Seyðisfjörður, Borgarfjörður Eystri puffins, Hengifoss, Hallormsstaður forest",
+    "regional_access": "Gateway to East Fjords, Vatnajökull National Park"
+  }
+}

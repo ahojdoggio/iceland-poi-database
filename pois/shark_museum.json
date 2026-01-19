@@ -1,0 +1,29 @@
+{
+  "name": "Bjarnarhöfn Shark Museum - Hákarl Heritage",
+  "description": "The Bjarnarhöfn Shark Museum on the northern shores of the Snæfellsnes Peninsula offers visitors one of Iceland's most unique and sensory-challenging cultural experiences: education about and tasting of hákarl, Iceland's infamous fermented Greenland shark that ranks among the world's most acquired tastes and has gained international notoriety as a test of culinary bravery. The museum occupies a working farm that represents one of Iceland's last remaining traditional hákarl producers, maintaining centuries-old fermentation methods passed down through generations on this very property. Greenland sharks (Somniosus microcephalus) inhabit Iceland's cold waters, growing to massive sizes (up to 7 meters and 1,000 kg) and living extraordinarily long lives—recently discovered to potentially exceed 400 years, making them the longest-lived vertebrates on Earth. However, their flesh contains high concentrations of trimethylamine oxide and urea, making it toxic when fresh and unfit for human consumption without special treatment. Traditional Icelandic preservation methods developed over centuries transformed this poisonous meat into edible food through a process combining fermentation and drying: sharks are beheaded and gutted, then buried in gravel pits where bacterial fermentation and pressure from stones press out fluids over 6-12 weeks, after which the meat is cut into strips and hung in ventilated drying sheds for several months where it develops a characteristic brown crust and potent ammonia smell that announces its presence from considerable distance. Each visit to Bjarnarhöfn includes a personal guided tour explaining shark hunting traditions (now illegal, using only sharks caught accidentally as bycatch), the complete fermentation and drying process visible in the farm's production facilities, the cultural significance of hákarl in Icelandic history as winter protein when other food was scarce, and demonstrations of traditional cutting and preparation methods. The tour culminates in the moment visitors anticipate and dread: tasting hákarl accompanied by Brennivín (the traditional Icelandic schnapps nicknamed \"Black Death\"). The experience is memorable—the smell hits first with overwhelming ammonia that makes eyes water, followed by chewy, fish-like texture and an intensely fishy-ammonia flavor that lingers persistently. Visitors' reactions range from gag reflexes to surprising enjoyment, with the accompanying Brennivín helping wash down the pungent bite. The museum treats this tradition with pride, presenting hákarl not as mere novelty but as authentic cultural heritage representing Icelandic resourcefulness, adaptation to harsh environments, and the determination to utilize every available resource for survival. The production continues commercially, with hákarl sold throughout Iceland as a traditional dish served at festivals, particularly during Þorrablót midwinter celebrations, and exported to Icelandic diaspora communities worldwide.",
+  "address": "Bjarnarhöfn, 356 Snæfellsbær, Snæfellsnes Peninsula, West Iceland",
+  "coordinates": {
+    "longitude": -23.7500,
+    "latitude": 64.8667,
+    "altitude": 10.0
+  },
+  "rating": 4.3,
+  "reviews_count": 1890,
+  "category": "Museum",
+  "website": "https://bjarnarhofn.is",
+  "phone": "+354 438 1581",
+  "images": [
+    "https://bjarnarhofn.is/images/shark-drying-house.jpg"
+  ],
+  "opening_hours": {
+    "summer": "9:00 AM - 6:00 PM (some sources say 8:00 PM, verify before visiting)",
+    "daily": "10:00 AM - 5:00 PM (alternative hours from different sources)",
+    "admission_adults": "2,000 ISK",
+    "admission_children": "Free (12 and under)",
+    "included": "Guided tour + hákarl tasting + Brennivín schnapps",
+    "fermentation_process": "6 months (burial in gravel, then drying in shed)",
+    "production": "One of Iceland's last traditional hákarl producers",
+    "greenland_shark": "Somniosus microcephalus (400+ year lifespan, toxic when fresh)",
+    "cultural_significance": "Traditional Þorrablót food, survival necessity historically"
+  }
+}

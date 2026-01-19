@@ -1,0 +1,34 @@
+{
+  "name": "Seltjarnarneslaug - Oceanside Pool in Seltjarnarnes",
+  "description": "Seltjarnarneslaug serves Iceland's smallest independent municipality—the town of Seltjarnarnes, population approximately 4,700, which forms a peninsula jutting into Faxaflói Bay just west of central Reykjavík—with a well-maintained swimming facility that offers all the essential elements of Icelandic pool culture while pioneering progressive admission policies that made swimming free for all residents under 18 starting in 2025, reflecting Icelandic values prioritizing children's health, swimming education, and equitable access to recreational facilities. The pool's location in tiny Seltjarnarnes places it in one of greater Reykjavík's most affluent and picturesque neighborhoods, characterized by expensive homes, ocean views, and proximity to the Grótta lighthouse and nature reserve—a popular walking area where Northern Lights viewing, bird watching, and coastal strolls attract Reykjavík residents and visitors. The 25-meter pool maintains comfortable 29°C (84°F) temperature for lap swimming, fitness classes, and recreational use year-round. A children's pool heated to warmer 35°C (95°F) accommodates young swimmers who prefer—and physiologically benefit from—higher temperatures. A wading pool at 37-38°C (99-100°F) borders on hot tub warmth while remaining shallow enough for toddlers. Four hot tubs provide traditional Icelandic soaking and pot chat opportunities where the municipality's small population creates particularly strong community connections—regulars know each other by name, families encounter neighbors daily, and the intimate scale fosters genuine community bonds. The facility includes standard saunas and changing facilities with the mandatory pre-swim nude showering that Icelandic hygiene culture requires, allowing minimal chlorine use that keeps water healthier for skin and respiratory systems. Rental swimsuits and towels (2,500 ISK each) serve visitors who arrive unprepared. The pool's operating hours vary somewhat between sources, potentially reflecting seasonal adjustments or recent changes, but generally follow patterns of weekday early opening (6:30 AM) serving morning swimmers and extended evening hours, with weekend schedules adjusted to family leisure timing. The 2026 admission fee schedule was approved by Seltjarnarnes municipal council in December 2025, continuing the innovative policy of free admission for all under-18 visitors—a recognition that swimming represents essential life skills and health benefits that should be universally accessible regardless of family economic circumstances. Adult admission rates remain modest and comparable to other greater Reykjavík pools. Seltjarnarneslaug's small scale and neighborhood character create an intimate atmosphere distinct from larger Reykjavík facilities—visitors experience authentic local swimming culture in a setting where tourists remain rare and Icelandic community life flourishes unself-consciously.",
+  "address": "Suðurströnd 10, 170 Seltjarnarnes, Iceland",
+  "coordinates": {
+    "longitude": -22.0153,
+    "latitude": 64.1564,
+    "altitude": 3.0
+  },
+  "rating": 4.5,
+  "reviews_count": 890,
+  "category": "Swimming Pool",
+  "website": "https://www.seltjarnarnes.is/is/ibuar/ithrottir-og-tomstundir/sundlaug",
+  "phone": "+354 561 1551",
+  "images": [
+    "https://www.seltjarnarnes.is/images/sundlaug-seltjarnarnes.jpg"
+  ],
+  "opening_hours": {
+    "weekdays": "Monday-Friday 6:30 AM - 10:00 PM (verify current hours)",
+    "weekends": "Saturday-Sunday 8:00 AM - 7:30 PM (hours may vary)",
+    "admission_under_18": "Free (policy started 2025)",
+    "admission_adults": "Check current rates (modest, comparable to Reykjavík pools)",
+    "swimsuit_towel_rental": "2,500 ISK each",
+    "pool_size": "25m at 29°C (84°F)",
+    "children_pool": "35°C (95°F)",
+    "wading_pool": "37-38°C (99-100°F)",
+    "hot_tubs": "4 hot tubs",
+    "location": "Seltjarnarnes peninsula, near Grótta lighthouse",
+    "municipality": "Iceland's smallest independent municipality (pop. ~4,700)",
+    "progressive_policy": "Free swimming for under-18 (started 2025)",
+    "character": "Intimate neighborhood atmosphere, authentic local culture",
+    "nearby": "Grótta lighthouse nature reserve, coastal walks, Northern Lights viewing"
+  }
+}

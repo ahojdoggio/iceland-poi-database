@@ -1,0 +1,41 @@
+{
+  "name": "Settlement Center",
+  "description": "The Settlement Center (Landnámssetur Íslands) is an award-winning interactive museum in Borgarnes dedicated to Iceland's Viking Age settlement and saga heritage, housed in a beautifully restored warehouse building on the town's historic harbor. Opened in 2006, the museum has become one of Iceland's premier cultural institutions, offering visitors an immersive journey into the nation's founding era through state-of-the-art multimedia exhibitions, authentic artifacts, and compelling storytelling. The center presents two distinct but complementary exhibitions, each designed to be experienced in approximately 30 minutes with included audioguides available in 15 languages including English, German, French, Spanish, Italian, Dutch, Russian, Japanese, and Icelandic. The Settlement Exhibition chronicles Iceland's discovery and colonization beginning in 874 AD when Norse chieftain Ingólfur Arnarson established Iceland's first permanent settlement in present-day Reykjavík. The exhibition explores the motivations driving Vikings to cross the treacherous North Atlantic—political conflicts in Norway, land scarcity, desire for independence, and spirit of exploration—and details the extraordinary challenges faced by these pioneering settlers. Visitors journey through recreated environments, view archaeological artifacts from settlement-era excavations, and experience multimedia presentations depicting the harsh realities of establishing farms and communities on a volcanic island at the edge of the known world. The exhibition addresses the environmental impact of settlement including deforestation, soil erosion from sheep grazing, and adaptation strategies that allowed the community to survive and eventually thrive. The Egil's Saga Exhibition focuses on Egill Skallagrímsson (c. 910-990 AD), the complex Viking warrior-poet whose life epitomizes the tensions and contradictions of the Viking Age. Born in Borg (now Borgarnes) to Skallagrímur Kveldúlfsson, Egill became Iceland's most celebrated skald, composing intricate court poetry in Old Norse while simultaneously engaging in Viking raids, political intrigue, and violent feuds. The saga recounts his troubled relationship with Norwegian kings, particularly his dangerous interactions with King Eiríkur Bloodaxe and Queen Gunnhildr, his composition of the legendary Höfuðlausn (Head-Ransom) poem that saved his life through sheer poetic brilliance, his grief over the drowning deaths of two sons expressed in the moving Sonatorrek poem, and his cantankerous old age hiding silver treasure that has never been found. The exhibition uses atmospheric lighting, dramatic soundscapes, and innovative display techniques to bring this 1,000-year-old story to vivid life. Both exhibitions employ cutting-edge audiovisual technology synchronized with the audioguide narratives, creating an engaging experience that appeals to history enthusiasts and casual visitors alike. The museum's restaurant has earned recognition as one of Iceland's finest museum dining facilities, serving traditional Icelandic dishes prepared with local ingredients alongside international options in a cozy atmosphere overlooking Borgarfjörður bay. The licensed bar offers Icelandic beers, wines, and spirits. A well-stocked museum shop sells comprehensive selections of Icelandic saga translations, historical books, locally-made handicrafts, woolen goods, and Viking-themed souvenirs. The Settlement Center regularly hosts special events including saga readings, lectures by Icelandic historians, and educational programs for schools.",
+  "address": "Brákarbraut 13-15, 310 Borgarnes, Iceland",
+  "coordinates": {
+    "longitude": -21.9173,
+    "latitude": 64.5419,
+    "altitude": 0.0
+  },
+  "rating": 4.6,
+  "reviews_count": 4800,
+  "category": "Museum",
+  "website": "https://www.landnam.is",
+  "phone": "+354 437 1600",
+  "images": [
+    {
+      "source": "Settlement Center Official",
+      "url": "https://www.landnam.is/eng/"
+    },
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/service/the-settlement-center"
+    }
+  ],
+  "opening_hours": {
+    "museum": "Hours vary seasonally - typically 10:00-17:00 summer, reduced hours winter",
+    "exhibitions": "Two exhibitions: Settlement (30 min) + Egil's Saga (30 min), total visit ~1-1.5 hours",
+    "audioguide": "Included with admission, available in 15 languages",
+    "admission": "Adults typically 2,000-2,500 ISK, children reduced rates, check website for current prices",
+    "restaurant": "Award-winning Icelandic cuisine, overlooks Borgarfjörður bay, licensed bar",
+    "museum_shop": "Saga books, historical literature, Icelandic handicrafts, woolen goods, Viking souvenirs",
+    "special_events": "Saga readings, historical lectures, educational school programs",
+    "accessibility": "Wheelchair accessible, family-friendly, suitable for all ages",
+    "awards": "Multiple tourism and museum excellence awards",
+    "opened": "2006 in restored harbor warehouse building",
+    "historical_focus": "Iceland's Settlement Age (870-930 AD), Egill Skallagrímsson saga (c. 910-990 AD)",
+    "unique_features": "Multimedia synchronized audioguides, atmospheric recreations, authentic artifacts",
+    "distance_from_reykjavik": "70 km north in Borgarnes via Ring Road, 1 hour drive",
+    "recommended_time": "1-1.5 hours for both exhibitions plus restaurant/shop time"
+  }
+}

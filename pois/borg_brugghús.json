@@ -1,0 +1,38 @@
+{
+  "name": "Borg Brugghús - Award-Winning Progressive Craft Brewery",
+  "description": "Borg Brugghús represents Iceland's progressive craft beer movement, founded in 2010 with principal aim of incorporating Icelandic cultural traits and local ingredients into wide variety of beers while achieving international recognition through innovative brewing that respects Nordic traditions while pushing boundaries with bold flavor profiles and experimental techniques. The brewery quickly established credentials by winning Beer World Cup with their first beer, Bríó (lager), just couple years after launch—this early success validated their approach and opened international markets where Icelandic craft beer remained unknown commodity. Subsequent awards at noted international competitions cemented Borg's reputation as serious brewing operation rather than novelty producers trading on Iceland's exotic reputation. While technically part of Egill brewery (providing production facilities and distribution infrastructure that small independent breweries struggle to afford), Borg Brugghús operates with sufficient autonomy and distinct brand identity that they deserve independent recognition in Iceland's craft beer landscape. The beer lineup showcases Norse-inspired names connecting products to Iceland's cultural heritage: Úlfur IPA stands as flagship offering with bold grapefruit and pine flavors representing American IPA tradition adapted to Icelandic brewing; Surtur imperial stout series pushes alcohol content past 14% while bringing deep layers of vanilla and chocolate that satisfy extreme beer enthusiasts seeking intensity and complexity; Garún (stout) provides darker, roasted malt character; Skyrjamur blueberry sour demonstrates willingness to experiment with fruit additions and wild fermentation creating tart, refreshing beer contrasting with hop-forward IPAs and malt-heavy stouts; Ástríkur Belgian pale ale sponsors Reykjavík Pride, connecting brand to Iceland's progressive LGBTQ+ culture through beer named for strength and courage; Sæmundur mango pale ale shows tropical fruit integration creating accessible, flavorful beer appealing to craft beer newcomers while maintaining enough complexity for experienced drinkers. The small-batch production philosophy allows experimentation and seasonal releases that keep lineup dynamic rather than repetitive, with brewers testing new hop varieties, adjunct ingredients, barrel aging techniques, and fermentation methods that industrial-scale operations cannot risk. Availability throughout Reykjavík's better bars, restaurants, and liquor stores makes Borg relatively accessible for visitors seeking Icelandic craft beer beyond major brewery products dominating mainstream distribution—knowledgeable bartenders at craft-focused establishments typically stock multiple Borg offerings and can recommend selections matching customer preferences. The connection to Iceland's cultural traits manifests both in naming (Norse mythology references, Icelandic language) and ingredient sourcing where possible, though brewing's dependence on barley, hops, and yeast creates practical limitations since Iceland's climate precludes domestic hop cultivation and barley malting remains limited. The brewery represents Iceland's rapid adoption of global craft beer trends during 2010s when artisan beer culture exploded internationally, demonstrating how small isolated markets can produce world-class products when passionate brewers commit to quality and innovation rather than simply copying established styles.",
+  "address": "Reykjavík, Iceland (part of Egill brewery, distributed throughout capital region)",
+  "coordinates": {
+    "longitude": -21.9020,
+    "latitude": 64.1360,
+    "altitude": 15.0
+  },
+  "rating": 4.7,
+  "reviews_count": 1850,
+  "category": "Brewery",
+  "website": "https://www.borgbrugghus.is",
+  "phone": "+354 456 6600",
+  "images": [
+    "https://www.borgbrugghus.is/images/beer-lineup.jpg"
+  ],
+  "opening_hours": {
+    "founded": "2010",
+    "awards": "Beer World Cup (Bríó lager), numerous international competition medals",
+    "first_beer": "Bríó (lager) - Beer World Cup winner",
+    "flagship": "Úlfur IPA - bold grapefruit and pine flavors",
+    "imperial_stout": "Surtur series - 14%+ alcohol, vanilla and chocolate layers",
+    "other_beers": "Garún (stout), Skyrjamur (blueberry sour), Ástríkur (Belgian pale ale - Reykjavík Pride sponsor), Sæmundur (mango pale ale)",
+    "production": "Small-batch brewing allows experimentation and seasonal releases",
+    "naming": "Norse-inspired names connect to Icelandic cultural heritage",
+    "philosophy": "Incorporate Icelandic cultural traits and local ingredients where possible",
+    "relationship": "Technically part of Egill brewery but operates with distinct brand identity",
+    "independence": "Sufficient autonomy deserves recognition as independent craft operation",
+    "distribution": "Throughout Reykjavík's better bars, restaurants, and liquor stores",
+    "availability": "Accessible at craft-focused establishments with knowledgeable bartenders",
+    "innovation": "Experiments with hop varieties, adjuncts, barrel aging, fermentation methods",
+    "reputation": "Serious brewing operation validated by international competition success",
+    "market_position": "Represents Iceland's craft beer movement during 2010s artisan explosion",
+    "cultural_connections": "Norse mythology references, Icelandic language, LGBTQ+ Pride sponsorship",
+    "beer_styles": "IPAs, imperial stouts, sours, Belgian ales - diverse progressive portfolio"
+  }
+}

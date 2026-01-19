@@ -1,0 +1,28 @@
+{
+  "name": "Húsavík - Whale Watching Capital of Europe",
+  "description": "Húsavík establishes Iceland's premier whale watching destination Europe's whale capital where Skjálfandi Bay abundant marine life supports 23 cetacean species creating 95-97% success rates encountering humpback minke whales dolphins porpoises establishing reliable wildlife tourism contrasting unpredictable sighting elsewhere demonstrating how exceptional natural resources transform small fishing towns specialized tourism destinations supporting economic diversification beyond traditional fishing dependence. Húsavík Wooden Church 1907 red Lutheran structure commands harbor-front location creating iconic imagery photographed countless visitors establishing architectural landmark beyond religious function though active congregation maintains community spiritual services demonstrating dual-purpose infrastructure serving residents tourists simultaneously. GeoSea geothermal sea baths blend mineral-rich seawater geothermal heating creating unique bathing experience ocean views establishing upscale spa alternative commercialized Blue Lagoon while maintaining more intimate authentic character supporting tourism economy diversification beyond whale watching alone creating comprehensive visitor experiences supporting extended stays. Húsavík Whale Museum showcases 11 whale skeletons comprehensive cetacean exhibits establishing premier marine mammal education facility Iceland supporting scientific understanding conservation awareness complementing commercial whale watching creating educational tourism dimensions establishing well-rounded marine tourism economy. Exploration Museum documents Apollo astronaut training Icelandic highlands where lunar landscape similarities enabled NASA prepare moon missions establishing unexpected space heritage connection small fishing village demonstrating diverse historical narratives enriching community identity beyond purely fishing maritime orientations. Town character maintains authentic fishing community atmosphere despite growing tourism where working harbor commercial vessels coexist tour boats creating genuine maritime setting contrasting purely tourist-oriented locations lacking functional fishing operations establishing appealing authenticity visitors seeking real Iceland beyond manufactured attractions though increasing tourism gradually transforms local dynamics creating tensions balancing development preservation community character identity.",
+  "address": "Húsavík, 640 North Iceland",
+  "coordinates": {
+    "longitude": -17.3425,
+    "latitude": 66.0446,
+    "altitude": 5.0
+  },
+  "rating": 4.7,
+  "reviews_count": 18920,
+  "category": "Town - North Iceland",
+  "website": "https://www.husavik.is",
+  "phone": "+354 464 1860",
+  "images": [
+    "https://www.visithusavik.com/images/husavik-church-harbor.jpg"
+  ],
+  "opening_hours": {
+    "population": "~2,300",
+    "location": "Skjálfandi Bay, northeastern Iceland",
+    "whale_watching": "95-97% success rate, 23 cetacean species",
+    "wooden_church": "1907 red Lutheran landmark",
+    "geosea": "Geothermal sea baths, ocean views",
+    "whale_museum": "11 skeletons, cetacean exhibits",
+    "exploration_museum": "Apollo astronaut training heritage",
+    "character": "Whale watching capital, fishing town, tourism hub"
+  }
+}

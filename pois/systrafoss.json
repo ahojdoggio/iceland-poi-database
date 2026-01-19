@@ -1,0 +1,28 @@
+{
+  "name": "Systrafoss - The Sisters' Waterfall",
+  "description": "Systrafoss, translating to \"Sisters' Falls,\" is a charming double-cascade waterfall that tumbles directly into the heart of Kirkjubæjarklaustur (usually shortened to \"Klaustur\"), a small village of about 120 residents that serves as an important service center for travelers exploring South Iceland's dramatic coastline between Vík and the Vatnajökull glacier region. The waterfall's name derives from the medieval Benedictine convent (klaustur means \"cloister\" in Icelandic) that existed in this location from 1186 until the Protestant Reformation in 1550, when Iceland's Catholic monasteries and convents were disbanded—the nuns who once lived here became known as \"systra\" (sisters), and their memory lives on in the waterfall's name and local folklore. Systrafoss drops from Lake Systravatn, which sits atop the cliffs above Kirkjubæjarklaustur, sending the Fossá river cascading down the mountain edge in two distinct tiers directly into the village below, creating an unusual situation where a significant waterfall effectively serves as the town's backdrop and natural landmark. The waterfall is easily accessible right from Kirkjubæjarklaustur's main road, with parking available at the base, but the real reward comes from taking the moderately steep hiking trail that climbs approximately 50-60 meters elevation gain via a series of steps and switchbacks up the left side of the falls. This trail offers changing perspectives on the waterfall as you ascend, including an excellent viewpoint partway up that provides close views of the upper cascade and impressive photo opportunities. The hike continues to the top where Lake Systravatn provides beautiful views back over Kirkjubæjarklaustur village, the surrounding farmland, and the distant ocean. The round-trip hike is relatively short at approximately 0.5 miles (0.8 kilometers) but involves about 250 feet (76 meters) of elevation gain, making it a moderate workout rewarded by scenic payoff that far exceeds the effort required. The area around Systravatn features walking paths through birch woodland and moorland, with opportunities to spot birdlife and enjoy the peaceful highland atmosphere. Legend holds that two nuns from the medieval convent drowned in the lake—whether by accident, suicide, or drowning as punishment for breaking vows depends on which version of the story you hear—adding a melancholic historical dimension to the scenic beauty. Kirkjubæjarklaustur itself offers restaurants, accommodations, and fuel, making it a logical stopping point for Ring Road travelers, and the village serves as gateway to nearby attractions including Fjaðrárgljúfur canyon, the spectacular Skaftafell nature reserve, and the unusual basalt column formations at Kirkjugólfið (\"Church Floor\"). The village's history includes survival of the devastating 1783-84 Laki volcanic eruption, which destroyed farms across a vast area but spared Kirkjubæjarklaustur, attributed by locals to prayers offered by the local pastor. Systrafoss provides an accessible waterfall experience directly in a settled area, offering the convenience of services and facilities while maintaining natural beauty.",
+  "address": "Kirkjubæjarklaustur village, South Iceland",
+  "coordinates": {
+    "longitude": -18.0583,
+    "latitude": 63.7983,
+    "altitude": 90.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1230,
+  "category": "Waterfall",
+  "website": "https://www.south.is/en/systrafoss",
+  "phone": null,
+  "images": [
+    "https://www.south.is/images/systrafoss-kirkjubaejarklaustur.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round (in village center)",
+    "parking": "Base of waterfall in Kirkjubæjarklaustur",
+    "admission": "Free",
+    "hiking_trail": "Moderate, 0.5 mi / 0.8 km, 246 ft / 76 m elevation gain",
+    "hike_duration": "15-20 minutes to Lake Systravatn at top",
+    "services_in_village": "Restaurants, accommodations, fuel, grocery store",
+    "historical_note": "Named for medieval convent nuns (1186-1550)",
+    "nearby": "Fjaðrárgljúfur canyon, Kirkjugólfið basalt columns"
+  }
+}

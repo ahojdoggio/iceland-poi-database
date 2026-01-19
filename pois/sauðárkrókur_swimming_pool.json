@@ -1,0 +1,36 @@
+{
+  "name": "Sauðárkrókur Swimming Pool - Skagafjörður Regional Pool",
+  "description": "Sauðárkrókur Swimming Pool serves as the primary aquatic facility for Skagafjörður region in North Iceland, providing residents of the regional capital (population approximately 2,600) and surrounding rural communities with a well-maintained outdoor pool, two exceptionally praised hot tubs, sauna, and sunbathing areas that together create a beloved gathering place for this horse-breeding region known for its agricultural heritage and strong community traditions. Sauðárkrókur functions as Skagafjörður's service center, providing shopping, healthcare, education, and cultural amenities for the broader region whose economy remains rooted in sheep farming, horse breeding (Skagafjörður is considered Iceland's premier horse-breeding district), and increasingly tourism drawn by the area's rich saga heritage, turf house museums at Glaumbær, and spectacular river valleys. The swimming pool exemplifies classic Icelandic outdoor pool design with year-round operation regardless of season—the 25 x 8 meter outdoor pool heated to comfortable temperature via geothermal energy allows swimming even during winter months when the contrast between warm water and cold air, combined with steam rising dramatically, creates the atmospheric experience characteristically Icelandic. The pool's depth ranges from 0.9 to 2.7 meters, accommodating both casual waders and serious swimmers practicing proper lap work. The facility's two hot tubs have earned particular reputation for quality, with users praising them as "extremely good" and "perfect for relaxing"—both feature powerful massage jets and are maintained at different temperatures (39°C and 41°C) allowing bathers to select preferred heat intensity. In Icelandic pool culture, hot tub quality significantly impacts a facility's reputation, and Sauðárkrókur's excellent hot tubs make it a favored destination. These hot tubs serve as Skagafjörður's democratic social forum where pot chat flourishes—farmers fresh from morning chores soak alongside teachers, shopkeepers, and visiting tourists, discussing everything from lambing season to local politics to weather patterns in the relaxed egalitarian atmosphere that defines Icelandic community life. A sauna provides traditional dry heat for those who prefer Finnish-style cleansing warmth. Sunbeds and sunbathing areas allow visitors to relax between swims, particularly pleasant during summer's endless daylight when North Iceland's midnight sun enables evening swimming in full sunshine. The pool operates on seasonal hours reflecting Iceland's dramatic light variations—summer hours (beginning June 1) extend evening swimming to 9:00 PM weekdays to take advantage of long daylight, while May hours close earlier at 8:30 PM weekdays. Weekend hours remain consistent year-round with mid-morning opening (10:00 AM) and afternoon closing (4:00 PM May, 5:00 PM summer). The facility enforces a policy prohibiting admission less than 30 minutes before closing—a practical rule ensuring swimmers have adequate time to enjoy facilities. Children living in Skagafjörður region begin paying admission on June 1st the year they turn 6, reflecting local policies supporting youth swimming access.",
+  "address": "Skagfirðingabraut, 550 Sauðárkrókur, Skagafjörður, North Iceland",
+  "coordinates": {
+    "longitude": -19.6428,
+    "latitude": 65.7456,
+    "altitude": 8.0
+  },
+  "rating": 4.6,
+  "reviews_count": 650,
+  "category": "Swimming Pool",
+  "website": "https://www.skagafjordur.is/is/thjonusta/ithrottir-og-utivera/sundlaugar",
+  "phone": "+354 453 5226",
+  "images": [
+    "https://visitskagafjordur.is/images/saudarkrokur-pool.jpg"
+  ],
+  "opening_hours": {
+    "may_hours_weekdays": "Monday-Thursday 6:50 AM - 8:30 PM, Friday 6:50 AM - 8:00 PM",
+    "may_hours_weekends": "Saturday-Sunday 10:00 AM - 4:00 PM",
+    "summer_hours_weekdays": "Monday-Friday 6:50 AM - 9:00 PM (from June 1)",
+    "summer_hours_weekends": "Saturday-Sunday 10:00 AM - 5:00 PM (from June 1)",
+    "admission_cutoff": "No admission less than 30 minutes before closing",
+    "children_admission": "Children in Skagafjörður pay from June 1 the year they turn 6",
+    "contact_email": "sundlaug@skagafjordur.is",
+    "pool_size": "25 x 8 meters, depth 0.9-2.7 meters",
+    "outdoor_only": "Outdoor pool (year-round geothermal heating)",
+    "hot_tubs": "2 hot tubs (39°C & 41°C) with massage jets - highly praised quality",
+    "wellness": "Sauna, sunbeds, sunbathing areas",
+    "reputation": "Exceptionally good hot tubs noted by users",
+    "town": "Sauðárkrókur (pop. ~2,600), Skagafjörður regional capital",
+    "region": "Skagafjörður - Iceland's premier horse-breeding district",
+    "nearby": "Glaumbær turf house museum, saga sites, river valleys",
+    "character": "Regional pool serving agricultural community, excellent hot tubs"
+  }
+}

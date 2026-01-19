@@ -1,0 +1,29 @@
+{
+  "name": "Glymur Waterfall Trail - Iceland's Second-Tallest Cascade",
+  "description": "Glymur Waterfall Trail provides thrilling 7-kilometer loop approaching Iceland's second-highest waterfall plunging 198 meters down narrow Botnsdalur canyon creating spectacular hiking destination combining moderate physical challenge technical river crossings dramatic cliff-edge pathways rewarding panoramic views cascading water volcanic landscapes accessible day trip Reykjavík. Trail difficulty stems primarily two river crossings where summer log bridge hand line assist first crossing while shallow wide ford above falls requires cold wade careful footing plus steep rocky sections equipped safety cables enabling scrambling exposed cliff areas where narrow paths acrophobia concerns necessitate comfortable heights reasonable physical fitness completing 3-4 hour round trip journey. Route follows Botnsá River gradually ascending canyon walls utilizing hand lines steep sections until reaching spectacular viewpoint overlooking Glymur's full 198-meter drop where mist spray create rainbow displays sunny conditions while surrounding basalt cliffs frame powerful cascade creating memorable photographic opportunities reward challenging ascent effort. Historical significance includes former ranking Iceland's tallest waterfall until 2011 Mósárfoss discovery Vatnajökull region though Glymur maintains superior accessibility dramatic setting sustaining popularity among hikers seeking impressive waterfall encounters without multiday commitments remote travel. June-September constitutes optimal visiting window when seasonal log bridge installed weather conditions most favorable though trail conditions vary significantly requiring sunny calm days fully appreciate cliffs waterfalls safely navigate exposed sections where rain wind create hazardous slippery conditions unsuitable families small children inexperienced hikers. Nearby Hvammsvík hot springs provide perfect post-hike relaxation soaking geothermal pools recovering trail exertions while western Iceland location positions Glymur convenient inclusion broader Reykjavík area itineraries exploring Snæfellsnes Peninsula attractions maximizing regional sightseeing efficient time management accessing multiple attractions single day trips base capital.",
+  "address": "Glymur Trailhead, Hvalfjörður, 301 Akranes, West Iceland",
+  "coordinates": {
+    "longitude": -21.2500,
+    "latitude": 64.3931,
+    "altitude": 200.0
+  },
+  "rating": 4.7,
+  "reviews_count": 3650,
+  "category": "Day Hiking Trail",
+  "website": "https://adventures.is/iceland/attractions/glymur",
+  "phone": "+354 519 5959",
+  "images": [
+    "https://adventures.is/images/glymur-waterfall-hike.jpg"
+  ],
+  "opening_hours": {
+    "season": "June - September (best)",
+    "distance": "7 km (4.4 miles) loop",
+    "duration": "3-4 hours",
+    "difficulty": "Moderate to Difficult",
+    "elevation_gain": "425 meters (1,394 feet)",
+    "waterfall_height": "198 meters - Iceland's 2nd tallest",
+    "challenges": "2 river crossings (log bridge + wade), steep sections with cables, narrow cliff paths",
+    "unsuitable_for": "Small children, those uncomfortable with heights",
+    "note": "Former tallest until Mósárfoss discovery 2011"
+  }
+}

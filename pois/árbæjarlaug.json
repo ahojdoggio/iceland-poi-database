@@ -1,0 +1,35 @@
+{
+  "name": "Árbæjarlaug - Family-Friendly Pool in East Reykjavík",
+  "description": "Árbæjarlaug has earned its reputation as one of Reykjavík's most family-friendly swimming facilities, purposefully designed with extensive children's amenities including dedicated pools, waterslides, fountains, and play features that make it particularly popular with parents seeking safe, entertaining environments for young swimmers while still providing the hot tubs, saunas, and exercise opportunities that adults expect from Icelandic pool culture. Located in Árbær, a primarily residential neighborhood in eastern Reykjavík known for its family-oriented character and proximity to the Árbær Open Air Museum, the pool serves a community of young families, active retirees, and local schools whose students visit for swimming instruction that continues Iceland's tradition of universal swimming education. The facility's thoughtful design separates different age groups and activity levels: an outdoor lap pool accommodates serious swimmers and aquatic exercise classes; an indoor children's pool provides year-round swimming regardless of weather while maintaining warmer temperature preferred by young bodies; an outdoor paddling pool offers shallow, warm water perfect for toddlers taking first aquatic adventures; and water features including fountains and spray elements add playful interactivity that keeps children engaged. The waterslide delivers the thrilling descent that makes swimming exciting rather than merely healthful for energetic kids. Three hot tubs provide traditional Icelandic soaking and socializing opportunities, though parental supervision remains necessary as children attracted to warm water may not yet understand hot tub etiquette that expects relative quiet. A steam bath and sauna offer adults the cleansing heat and relaxation essential to comprehensive bathing experiences. The facility's family focus extends beyond pool features to practical considerations: changing rooms accommodate families with young children who need assistance; timing of family swim sessions considers school schedules; and staff training emphasizes child safety and swimming instruction. Despite being particularly welcoming to families, Árbæjarlaug maintains the inclusive community character typical of Icelandic pools where all ages and abilities mix freely, from infants experiencing first water exposure to elderly residents maintaining mobility through aquatic exercise. The pool operates on variable schedules, with sources reporting different hours that may reflect seasonal variations or recent changes—generally opening very early on weekdays (6:30 AM) to accommodate morning swimmers before work or school, extending to evening (potentially as late as 10:00 PM weekdays), with weekend hours adjusted to family leisure patterns typically starting later (9:00 AM) and closing earlier than weekdays. Admission follows standard Reykjavík pricing with free access for children 0-5, heavily subsidized rates for ages 6-17, and modest adult fees that recent changes may have adjusted to free admission for all under 18 in some Reykjavík pools. Rental swimsuits and towels are available for visitors who arrive unprepared.",
+  "address": "Fylkisvegur 9, 110 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.8556,
+    "latitude": 64.1289,
+    "altitude": 18.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1420,
+  "category": "Swimming Pool",
+  "website": "https://reykjavik.is/en/arbaejarlaug-pool",
+  "phone": "+354 411 5200",
+  "images": [
+    "https://reykjavik.is/sites/default/files/arbaejarlaug-pool.jpg"
+  ],
+  "opening_hours": {
+    "weekdays": "Monday-Friday 6:30 AM - 10:00 PM (hours may vary, verify before visiting)",
+    "weekends": "Saturday-Sunday 9:00 AM - 9:00 PM (hours may vary)",
+    "admission_adults": "1,000 ISK",
+    "admission_children_6_17": "160 ISK",
+    "admission_children_0_5": "Free",
+    "swimsuit_rental": "900 ISK",
+    "towel_rental": "600 ISK",
+    "combo_rental": "Entry + swimsuit + towel: 1,900 ISK",
+    "outdoor_pool": "Lap swimming pool",
+    "indoor_pool": "Children's pool (year-round)",
+    "paddling_pool": "Outdoor shallow pool for toddlers",
+    "features": "Waterslide, fountains, water play features, 3 hot tubs",
+    "wellness": "Steam bath, sauna",
+    "family_focus": "Excellent facilities for children, family changing rooms",
+    "neighborhood": "Árbær, near Árbær Open Air Museum"
+  }
+}

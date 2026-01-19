@@ -1,0 +1,38 @@
+{
+  "name": "Reykjavík Roasters - Third-Wave Specialty Coffee",
+  "description": "Reykjavík Roasters represents Iceland's specialty coffee movement, bringing third-wave coffee culture—emphasizing origin transparency, precise roasting, and expert brewing that treats coffee as artisanal product rather than commodity—to a nation historically more associated with strong, simple brewed coffee consumed in quantities that fuel long workdays and dark winters. Operating two café locations in downtown Reykjavík at Kárastígur and Brautarholt, with their roastery located at the Brautarholt site allowing visitors to watch the roasting process and smell freshly roasted beans, the company takes a holistic approach to coffee where sweetness, bitterness, acidity, and body are all carefully considered while highlighting what they find most interesting in each coffee's unique characteristics. This philosophy represents fundamental shift from traditional coffee approach that prioritized dark roasting and strong flavor to mask bean quality: Reykjavík Roasters instead sources high-quality beans and roasts to accentuate nuances rather than obscuring them, buying coffees for their inherent qualities rather than forcing beans to fit preconceived notions of what coffee should taste like. The Brautarholt location at Brautarholt 2 operates daily 7:00 AM to 5:00 PM, providing morning coffee for early-risers, midday caffeine for office workers and tourists, and afternoon pick-me-ups for shoppers and sightseers exploring downtown Reykjavík—the hours reflect coffee culture rather than all-day café dining, focusing on the periods when quality espresso drinks, pour-overs, and batch brew find their most appreciative audiences. The in-house roastery at Brautarholt allows precise control over roast profiles and ensures maximum freshness, as beans are roasted in small batches and used within optimal flavor windows that serious coffee roasters consider essential to quality. The café serves specialty coffee preparations including espresso (single shots highlighting bean quality and extraction precision), cappuccinos and lattes (milk drinks where proper steaming technique creates sweet, velvety texture that complements rather than overwhelms espresso), pour-overs (manual brewing method that allows complete control over extraction and highlights single-origin coffees' unique flavors), and batch brew (larger-quantity brewing for simpler, quicker service while maintaining quality standards). The minimal décor and focus on coffee rather than elaborate food menus or Instagram-worthy interiors appeal to coffee purists who prioritize beverage quality over atmosphere or distractions—exposed concrete, simple wooden furniture, and industrial aesthetic create Scandinavian minimalist environment where coffee becomes the focal point. The staff's knowledge and passion for coffee shine through in their ability to discuss bean origins, processing methods, roast profiles, and brewing techniques with customers who want to learn, while also efficiently serving those who simply want excellent coffee without lengthy explanations. Reykjavík Roasters' success reflects growing international appreciation for specialty coffee and Iceland's rapid adoption of global food trends when they align with Icelandic values of quality, craftsmanship, and authenticity—much as New Nordic cuisine transformed how Icelanders viewed their traditional ingredients, third-wave coffee culture has elevated how they approach this daily beverage that fuels Iceland's hardworking culture.",
+  "address": "Brautarholt 2, 105 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9160,
+    "latitude": 64.1393,
+    "altitude": 12.0
+  },
+  "rating": 4.8,
+  "reviews_count": 3420,
+  "category": "Coffee Shop",
+  "website": "https://reykjavikroasters.is/en",
+  "phone": "+354 517 5535",
+  "images": [
+    "https://reykjavikroasters.is/images/roastery-interior.jpg"
+  ],
+  "opening_hours": {
+    "daily": "7:00 AM - 5:00 PM",
+    "second_location": "Kárastígur (downtown)",
+    "roastery": "In-house roasting at Brautarholt location (visible to customers)",
+    "coffee_philosophy": "Third-wave specialty coffee, holistic approach balancing sweetness/bitterness/acidity/body",
+    "roasting_approach": "Accentuate coffee nuances rather than obscuring them, highlight inherent qualities",
+    "bean_sourcing": "High-quality beans selected for interesting characteristics, not forced to fit preconceptions",
+    "menu": "Espresso, cappuccinos, lattes, pour-overs, batch brew",
+    "espresso": "Single shots highlighting bean quality and extraction precision",
+    "milk_drinks": "Proper steaming creates sweet velvety texture complementing espresso",
+    "pour_over": "Manual brewing for complete extraction control, highlights single-origin flavors",
+    "batch_brew": "Larger-quantity brewing maintaining quality standards",
+    "aesthetic": "Scandinavian minimalism, exposed concrete, simple wood furniture, industrial design",
+    "focus": "Coffee quality over elaborate food or Instagram-worthy interiors",
+    "staff_knowledge": "Can discuss bean origins, processing, roast profiles, brewing techniques",
+    "freshness": "Small-batch roasting, beans used within optimal flavor windows",
+    "cultural_significance": "Represents Iceland's adoption of global specialty coffee movement",
+    "coffee_tradition": "Shift from strong dark roasted commodity coffee to artisanal third-wave approach",
+    "customer_base": "Coffee purists, early-risers, office workers, tourists, afternoon shoppers"
+  }
+}

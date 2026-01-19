@@ -1,0 +1,20 @@
+{
+  "name": "Kaffi Lára - Local favorite cafe",
+  "description": "Kaffi Lára establishes popular Akureyri dining destination where local cuisine friendly service create welcoming atmosphere supporting regional tourism providing essential hospitality services visitors exploring Iceland demonstrating restaurant industry importance sustaining local economies through visitor spending employment opportunities.",
+  "address": "Kaffi Lára, Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0919,
+    "latitude": 65.6835,
+    "altitude": 50.0
+  },
+  "rating": 4.4,
+  "reviews_count": 670,
+  "category": "Restaurant/Cafe",
+  "website": null,
+  "phone": null,
+  "images": [],
+  "opening_hours": {
+    "hours": "Seasonal hours vary",
+    "character": "Local dining, regional cuisine"
+  }
+}

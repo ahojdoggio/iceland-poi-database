@@ -1,0 +1,32 @@
+{
+  "name": "Fjaðrárgljúfur Canyon",
+  "description": "Fjaðrárgljúfur is a dramatic canyon in South Iceland, stretching 2 kilometers long and plunging 100 meters deep into the ancient bedrock. Located near the village of Kirkjubæjarklaustur, just 3.2 kilometers off Ring Road (Route 1) via road F206, the canyon is approximately 226 kilometers from Reykjavík. The steep, moss-covered palagonite walls twist and bend in a unique serpentine formation, with the Fjaðrá River weaving gently through the canyon floor. The bedrock consists primarily of palagonite from the cold period of the Ice Age, approximately two million years old. Carved by progressive erosion over 9,000 to 10,000 years ago, the canyon was formed when glacial meltwater from a lake behind the canyon flowed toward the ocean at the end of the last Ice Age. The sediment-rich runoff water carved through the rocks and palagonite over millennia, creating the distinctive winding gorge visible today. The canyon gained international fame after appearing in Justin Bieber's 2015 music video \"I'll Show You,\" which has garnered over 440 million views on YouTube. This exposure led to an 80% increase in visitor numbers within one year, though the canyon was temporarily closed in 2019 to allow vegetation recovery from environmental damage caused by the surge in tourism. A well-marked 3.4-kilometer out-and-back hiking trail follows the eastern rim of the canyon, taking 1 to 1.5 hours to complete at a relaxed pace. The trail features several designated viewpoint platforms offering breathtaking panoramas of the serpentine canyon walls, and culminates at a viewing platform overlooking Mögáfoss, a stunning 35-meter waterfall where the river enters the canyon. The moss-covered walls create a vibrant green contrast against the dark volcanic rock, making it one of Iceland's most photographed natural wonders.",
+  "address": "Road F206, 880 Kirkjubæjarklaustur, Iceland",
+  "coordinates": {
+    "longitude": -18.1718,
+    "latitude": 63.7713,
+    "altitude": 0.0
+  },
+  "rating": 4.8,
+  "reviews_count": 12500,
+  "category": "Canyon",
+  "website": "https://www.south.is/en/place/fjadrargljufur-canyon",
+  "phone": null,
+  "images": [
+    {
+      "source": "Visit South Iceland",
+      "url": "https://www.south.is/en/place/fjadrargljufur-canyon"
+    },
+    {
+      "source": "Iceland Travel Guide",
+      "url": "https://icelandtravelguide.is/locations/fjadrargljufur-canyon/"
+    }
+  ],
+  "opening_hours": {
+    "access": "Open 24/7 year-round, no restrictions",
+    "parking_fee": "1,000 ISK per vehicle (payable via Parka app or www.parka.is)",
+    "hiking_time": "1-1.5 hours for the 3.4 km trail",
+    "facilities": "Two parking areas - lower parking at canyon base, upper parking near main viewpoint",
+    "notes": "No entrance fee, only parking fee. Canyon was temporarily closed in 2019 for vegetation recovery but has since reopened with protective boardwalks."
+  }
+}

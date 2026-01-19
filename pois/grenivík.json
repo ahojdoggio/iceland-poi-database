@@ -1,0 +1,24 @@
+{
+  "name": "Grenivík - Quiet Eyjafjörður Fishing Village",
+  "description": "Grenivík establishes small fishing community eastern Eyjafjörður fjord where approximately 380 residents maintain modest settlement providing alternative whale watching departure less crowded than Húsavík though smaller operations limited capacity nevertheless attract visitors seeking intimate authentic experiences avoiding mass tourism concentrations establishing niche tourism supporting local economy supplementing traditional fishing livelihoods. Fishing industry continues limited operations where aging fleet declining quotas challenge viability though fish processing employment maintains some economic activity supporting families though younger generations increasingly migrate seeking opportunities elsewhere creating demographic challenges aging population declining school enrollment threatening long-term community sustainability characteristic many small Icelandic fishing villages facing similar pressures. Swimming pool provides basic geothermal bathing facilities establishing essential municipal amenity supporting community health recreation social gathering though minimal infrastructure rustic conditions maintain authentic character lacking modern amenities commercial polish typical larger town facilities. Community store provides basic groceries supplies though comprehensive shopping medical services require travel Akureyri establishing dependency regional center typical small villages maintaining minimal local infrastructure depending larger towns specialized services demonstrating hierarchical settlement patterns service provision. Quiet character maintains authentic fishing village atmosphere where working harbor seasonal drying racks create genuine maritime setting contrasting tourist-oriented locations lacking functional commercial activities establishing appealing authenticity visitors seeking real Iceland beyond manufactured attractions though limited dining accommodation options constrain visitor services requiring day-trip visits rather overnight stays.",
+  "address": "Grenivík, 641 North Iceland",
+  "coordinates": {
+    "longitude": -18.1833,
+    "latitude": 65.9833,
+    "altitude": 5.0
+  },
+  "rating": 4.1,
+  "reviews_count": 890,
+  "category": "Village - North Iceland",
+  "website": "https://www.grenivik.is",
+  "phone": "+354 464 3943",
+  "images": [
+    "https://www.northiceland.is/images/grenivik.jpg"
+  ],
+  "opening_hours": {
+    "population": "~380",
+    "location": "Eastern Eyjafjörður fjord",
+    "whale_watching": "Alternative to Húsavík, smaller operations",
+    "character": "Quiet fishing village, authentic, minimal tourism infrastructure"
+  }
+}

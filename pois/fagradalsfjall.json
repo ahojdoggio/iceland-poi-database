@@ -1,0 +1,49 @@
+{
+  "name": "Fagradalsfjall - The Tourist Volcano of Reykjanes Peninsula",
+  "description": "Fagradalsfjall volcanic system on Reykjanes Peninsula became Iceland's most accessible and visitor-friendly volcanic eruption when fissure vent opened March 19, 2021, ending 815-year volcanic dormancy on peninsula and initiating series of three spectacular eruptions (2021, 2022, 2023) that attracted hundreds of thousands of tourists, photographers, scientists, and adventurers who could safely observe active lava fountaining, flowing rivers of molten rock, and volcanic processes from established viewing areas mere hundreds of meters from eruption sites—accessibility unprecedented in modern volcanology where most eruptions occur in remote, dangerous, or restricted locations. The 2021 eruption beginning March 19 in Geldingadalir valley south of Fagradalsfjall mountain continued six months until September 18, producing spectacular lava fountains reaching heights of 100+ meters, creating lava flows that gradually filled valley floor while remaining safely distant from infrastructure allowing authorities to establish hiking trails, viewing platforms, and emergency protocols enabling public access throughout eruption duration in remarkable volcanic tourism experiment. The effusive character producing fluid basaltic lava flows rather than explosive pyroclastic eruptions meant visitors could approach within safe distances without facing ash clouds, pyroclastic surges, or volcanic bombs that characterize more dangerous explosive volcanism, though regulations required maintaining minimum distances and evacuating when conditions deteriorated or new vents opened unexpectedly. The 2022 eruption commencing August 3 after weeks of intense seismic unrest including 10,000+ earthquakes from July 30-August 3 with two events exceeding magnitude 5.0 produced second Fagradalsfjall event lasting until August 21 when lava flow ceased after emitting estimated 12 million cubic meters of basaltic lava creating new lava field additions and drawing renewed tourist interest. The 2023 eruption starting July 10 marked third consecutive summer of Fagradalsfjall activity, continuing until August 5 and further establishing Reykjanes Peninsula as entering new volcanic era after centuries of dormancy where geological stress accumulation from North American and Eurasian tectonic plate separation finally overcame crustal strength triggering volcanic release. The eruption accessibility enabled unprecedented public engagement with volcanology where families with children, elderly visitors, and international tourists could witness one of Earth's most fundamental geological processes—volcanic creation of new land—in safe, managed conditions with helicopter tours, guided hikes, and independent visits all possible depending on budget, fitness level, and adventure preferences. The nighttime viewing proved particularly spectacular when glowing orange lava fountains and flowing rivers of molten rock created mesmerizing light shows visible against dark Icelandic skies, with photographers capturing iconic images of volcanic activity silhouetted against Northern Lights, time-lapse sequences showing lava flow evolution, and dramatic close-ups of molten rock interacting with environment. The eruptions' timing during COVID-19 pandemic restrictions provided outdoor activity for Icelanders unable to travel abroad while also attracting international visitors as Iceland reopened to tourism, creating economic benefit during challenging period and demonstrating volcanic activity's dual role as both natural hazard and tourist attraction depending on location, eruption style, and management approach. The further west progression of volcanic activity toward Grindavík with nine eruptions near town since December 2023 (most recent November 20, 2024) demonstrates Reykjanes Peninsula's awakening volcanic system where multiple eruption sites indicate magma intrusion along peninsula's volcanic fissure swarm rather than isolated event at Fagradalsfjall, requiring long-term monitoring, hazard assessment, and planning for decades of intermittent volcanic activity affecting infrastructure, communities, and Blue Lagoon geothermal spa located in active zone.",
+  "address": "Fagradalsfjall, Reykjanes Peninsula, Southwest Iceland",
+  "coordinates": {
+    "longitude": -22.2667,
+    "latitude": 63.9,
+    "altitude": 385.0
+  },
+  "rating": 4.7,
+  "reviews_count": 8920,
+  "category": "Active Volcanic System",
+  "website": "https://perlan.is/reykjanes-peninsula-volcano",
+  "phone": "+354 522 6000",
+  "images": [
+    "https://perlan.is/static/fagradalsfjall-eruption.jpg"
+  ],
+  "opening_hours": {
+    "dormancy_broken": "March 19, 2021 - ended 815 years without eruption",
+    "2021_eruption": "March 19 - September 18 (6 months)",
+    "2021_location": "Geldingadalir valley south of Fagradalsfjall",
+    "2021_features": "Lava fountains 100+ meters, valley filling lava flows",
+    "2022_eruption": "August 3-21 after 10,000+ earthquakes",
+    "2022_seismicity": "July 30-Aug 3, two magnitude 5.0+ quakes",
+    "2022_lava_volume": "~12 million m³ basaltic lava",
+    "2023_eruption": "July 10 - August 5 (third consecutive summer)",
+    "eruption_type": "Effusive basaltic - fluid lava flows, not explosive",
+    "accessibility": "Unprecedented public access to active eruption",
+    "visitor_numbers": "Hundreds of thousands of tourists, photographers, scientists",
+    "viewing_distance": "Hundreds of meters from eruption sites",
+    "safety_features": "Hiking trails, viewing platforms, emergency protocols",
+    "public_groups": "Families, elderly, international tourists all could visit",
+    "evacuation_triggers": "Deteriorating conditions, new vent openings",
+    "nighttime_viewing": "Glowing lava against dark skies particularly spectacular",
+    "photography": "Iconic images with Northern Lights, time-lapses, close-ups",
+    "covid_context": "Outdoor activity during pandemic, economic benefit",
+    "dual_role": "Both natural hazard and tourist attraction",
+    "helicopter_tours": "Available for aerial viewing",
+    "guided_hikes": "Professional tours to eruption sites",
+    "independent_visits": "Self-guided hiking permitted with safety rules",
+    "grindavik_activity": "9 eruptions near town since December 2023",
+    "nov_2024_eruption": "Most recent November 20, 2024",
+    "volcanic_era": "Reykjanes entering decades of intermittent activity",
+    "tectonic_driver": "North American-Eurasian plate separation",
+    "fissure_swarm": "Multiple sites indicate magma intrusion along peninsula",
+    "blue_lagoon_risk": "Geothermal spa located in active zone",
+    "future_outlook": "Long-term monitoring and hazard assessment required"
+  }
+}

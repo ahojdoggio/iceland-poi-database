@@ -1,0 +1,30 @@
+{
+  "name": "East Iceland Heritage Museum (Minjasafn Austurlands)",
+  "description": "The East Iceland Heritage Museum (Minjasafn Austurlands) in Egilsstaðir serves as the region's primary cultural institution, preserving and presenting the unique heritage, natural history, and traditional lifeways of Iceland's remote eastern region through comprehensive permanent exhibitions and rotating displays that document everything from prehistoric settlement through mid-20th century rural life. Located in Egilsstaðir, East Iceland's largest town and service center, the museum functions as a gateway to understanding a region that developed somewhat distinctly from other parts of Iceland due to geographic isolation, different economic patterns focused on fishing and farming in deep fjords, and delayed modernization that preserved traditional practices longer than in more accessible areas. The museum's centerpiece permanent exhibition focuses on wild reindeer (Rangifer tarandus), unique to East Iceland as the only location in the country where these Arctic ungulates live in self-sustaining wild populations. Originally introduced from Norway in the late 18th century as a potential source of meat and materials, reindeer never successfully domesticated in Iceland but instead established wild herds in the eastern highlands and mountains, where approximately 3,000-6,000 animals roam across vast territories between summer alpine grazing and winter lowland ranges. The exhibition explains reindeer biology, ecology, behavior, and the annual migration patterns that bring herds from highlands to coastal lowlands; hunting traditions and regulations that allow limited annual harvest while maintaining sustainable populations; the animals' role in East Iceland's economy and culture; and ongoing research monitoring herd health, population dynamics, and interactions with Iceland's changing climate and land use. Historical artifacts and photographs document how East Icelanders hunted, processed, and utilized every part of harvested reindeer from meat and hide to antlers and sinew, developing specialized knowledge and traditional methods specific to this region. The second major permanent exhibition presents rural East Iceland life before mid-20th century modernization, with authentic artifacts documenting farming, fishing, household activities, crafts, transportation, and social customs that characterized isolated fjord communities. Collections include traditional tools and implements for sheep farming, fishing equipment adapted to fjord conditions, household objects revealing domestic life in turf and timber houses, textiles and clothing showing regional variations in Icelandic costume traditions, and photographs capturing daily life, celebrations, and the gradual changes brought by modernization. Rotating temporary exhibitions explore various aspects of East Iceland history, culture, and nature, with recent shows examining topics like local industries, notable historical figures, archaeological discoveries, wildlife, and contemporary artistic responses to the region's landscape and heritage. The museum's research activities include cataloging and preserving artifacts, conducting oral history interviews with elderly residents preserving traditional knowledge, collaborating with archaeologists investigating settlement-era and medieval sites, and documenting changes in rural landscapes and communities facing depopulation and economic transformation. Educational programs serve local schools and visiting groups with guided tours, hands-on activities, and curriculum-aligned content about regional heritage.",
+  "address": "Laufskógar 1, 700 Egilsstaðir, East Iceland",
+  "coordinates": {
+    "longitude": -14.3972,
+    "latitude": 65.2647,
+    "altitude": 25.0
+  },
+  "rating": 4.4,
+  "reviews_count": 1280,
+  "category": "Museum",
+  "website": "https://www.minjasafn.is",
+  "phone": "+354 471 1412",
+  "images": [
+    "https://www.minjasafn.is/images/reindeer-exhibition.jpg"
+  ],
+  "opening_hours": {
+    "summer": "Daily 11:00 AM - 6:00 PM (June-August) or 10:00 AM - 6:00 PM",
+    "winter": "Tuesday-Friday 11:00 AM - 4:00 PM (September-May, closed weekends/Mondays)",
+    "admission": "1,500 ISK",
+    "regional_discount": "20% discount for overnight guests in Egilsstaðir region",
+    "contact_email": "minjasafn@minjasafn.is",
+    "two_permanent_exhibits": "Wild reindeer & Rural East Iceland life pre-1950",
+    "reindeer_population": "3,000-6,000 wild reindeer in East Iceland only",
+    "reindeer_origin": "Introduced from Norway late 18th century",
+    "collections": "Farming tools, fishing equipment, textiles, household objects, photographs",
+    "rotating_exhibits": "Temporary shows on regional history, culture, nature"
+  }
+}

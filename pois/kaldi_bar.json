@@ -1,0 +1,42 @@
+{
+  "name": "Kaldi Bar - Iceland's First Microbrewery Beers",
+  "description": "Kaldi Bar occupies unique position in Icelandic craft beer history as dedicated showcase venue for Bruggsmiðjan Kaldi brewery, Iceland's first microbrewery, creating direct connection between production and consumption where beer flows from brewery tanks to bar taps representing Iceland's craft beer heritage and ongoing commitment to quality brewing according to Czech traditions dating to 1842. Located at Laugavegur 20b (entrance on Klapparstígur side street) in downtown Reykjavík's main shopping and nightlife corridor, Kaldi Bar benefits from constant foot traffic while the slightly hidden entrance creates insider knowledge appeal—locals and informed visitors know to look for Klapparstígur access rather than Laugavegur frontage. The bar serves four Kaldi beers on tap, including the very popular unfiltered Kaldi that represents brewery's flagship offering and demonstrates commitment to minimal processing that preserves flavor, body, and nutritional content that filtration removes. Kaldi beer is quality crafted with strong tastes brewed according to Czech traditions from 1842, referencing pilsner-style brewing that defined modern lager production and created template that industrial breweries worldwide copied (often poorly) for mass-market products. The brewery's founding philosophy positioned Kaldi as alternative to the preservative, sugar, and chemical-heavy beers dominating Iceland when microbrewing remained rare—this purity commitment resonates with consumers increasingly concerned about ingredient quality and additive-free production. Beyond Kaldi's own beers, the selection includes variety of other craft beers expanding options beyond single-brewery limitation while maintaining focus on quality over quantity. The cocktail menu demonstrates that Kaldi Bar functions as complete drinking establishment rather than beer-only specialist, with claim of boasting Iceland's largest gin and tonic collection indicating serious spirits program that appeals to cocktail enthusiasts who might not primarily seek beer. Operating hours 12:00 PM-1:00 AM Sunday-Thursday and 12:00 PM-3:00 AM Friday-Saturday accommodate lunch drinking (unusual in some cultures but accepted in Iceland where alcohol licensing allows all-day service), afternoon beer sampling, early evening pre-gaming, late dinner drinks, and serious late-night partying that characterizes weekend Reykjavík nightlife. Happy hour 4:00-7:00 PM provides three-hour discount window addressing Iceland's notoriously expensive alcohol prices—the extended period (many bars offer two-hour windows) creates flexibility for after-work crowds with varying schedules. The light pub food menu including pizza and sandwiches prevents hungry-drunk problems and encourages extended stays where patrons order meals rather than leaving for restaurants, increasing per-customer revenue while providing convenience. The award-winning atmosphere references design excellence and ambiance creation that distinguishes memorable venues from generic bars—friendly bartenders contribute to welcoming environment where solo visitors feel comfortable, groups find space and attention, and regular customers develop relationships with staff who remember preferences. The heated garden provides outdoor drinking space valuable during Iceland's brief warm months when sunshine and fresh air enhance beer drinking, while heat lamps extend usable season into spring and autumn. The rustic atmosphere creates warm, informal character avoiding sterile modern bar aesthetics or faux-Irish pub clichés that feel inauthentic in Icelandic context.",
+  "address": "Laugavegur 20b, 101 Reykjavík (entrance on Klapparstígur)",
+  "coordinates": {
+    "longitude": -21.9285,
+    "latitude": 64.1455,
+    "altitude": 10.0
+  },
+  "rating": 4.6,
+  "reviews_count": 2980,
+  "category": "Craft Beer Bar",
+  "website": "http://www.kaldibar.com",
+  "phone": "+354 571 2244",
+  "images": [
+    "https://www.kaldibar.com/images/bar-interior.jpg"
+  ],
+  "opening_hours": {
+    "sunday_thursday": "12:00 PM - 1:00 AM",
+    "friday_saturday": "12:00 PM - 3:00 AM",
+    "happy_hour": "4:00 PM - 7:00 PM (3-hour window)",
+    "bruggsmiðjan_kaldi": "Iceland's first microbrewery - brewery connection",
+    "tap_selection": "Four Kaldi beers including popular unfiltered Kaldi flagship",
+    "brewing_tradition": "Czech traditions from 1842 - pilsner-style heritage",
+    "founding_philosophy": "Alternative to preservative, sugar, and chemical-heavy beers",
+    "unfiltered": "Minimal processing preserves flavor, body, nutritional content",
+    "additional_beers": "Variety of other craft beers beyond Kaldi's own",
+    "cocktails": "Iceland's largest gin and tonic collection (claim)",
+    "spirits_program": "Complete drinking establishment, not beer-only specialist",
+    "food": "Light pub food - pizza and sandwiches",
+    "food_purpose": "Prevents hungry-drunk, encourages extended stays",
+    "atmosphere": "Award-winning, rustic, warm informal character",
+    "bartenders": "Friendly staff create welcoming environment",
+    "heated_garden": "Outdoor drinking space with heat lamps extending season",
+    "location": "Laugavegur shopping/nightlife corridor",
+    "entrance": "Hidden Klapparstígur side entrance creates insider appeal",
+    "clientele": "Solo visitors, groups, regular customers, craft beer enthusiasts",
+    "happy_hour_value": "Extended 3-hour discount window addresses expensive prices",
+    "lunch_drinking": "All-day service accommodates varied schedules",
+    "heritage": "Iceland's craft beer history and ongoing quality commitment"
+  }
+}

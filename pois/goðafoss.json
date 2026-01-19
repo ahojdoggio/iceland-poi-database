@@ -1,0 +1,26 @@
+{
+  "name": "Goðafoss - Waterfall of the Gods",
+  "description": "Goðafoss establishes Iceland's most historically significant waterfall where 12-meter horseshoe cascade spans 30-meter width creating spectacular Skjálfandafljót river falls positioned conveniently Route 1 Ring Road enabling easy access viewing platforms parking establishing premier accessible waterfall destination northern Iceland attracting millions visitors annually demonstrating how infrastructure accessibility transform natural features major tourism attractions. Historical significance derives AD 1000 Alþingi decision adopting Christianity where lawspeaker Þorgeir Ljósvetningagoði reportedly threw pagan Norse god statues waterfall symbolizing Iceland's conversion creating powerful cultural narrative transforming geological feature sacred historical site establishing mythology enhancing landscape appreciation beyond purely aesthetic natural beauty. Viewing platforms both river banks enable comprehensive photographic perspectives where eastern viewpoint provides classic frontal compositions while western platform offers unique angled perspectives creating diverse imagery opportunities supporting extended photography sessions comprehensive waterfall documentation. Convenient Ring Road positioning creates accessibility double-edged sword where easy access attracts massive visitor numbers creating overcrowding parking challenges infrastructure strain though enabling convenient stops rushed itineraries time-limited travelers seeking major attractions minimal hiking effort. Winter freezing creates spectacular ice formations where frozen cascades icicles create ethereal landscapes contrasting summer powerful flows demonstrating seasonal variations rewarding year-round visitation diverse photographic opportunities though winter access requires careful driving icy conditions.",
+  "address": "Goðafoss, Route 1, North Iceland (near Akureyri-Mývatn midpoint)",
+  "coordinates": {
+    "longitude": -17.5500,
+    "latitude": 65.6833,
+    "altitude": 210.0
+  },
+  "rating": 4.7,
+  "reviews_count": 24560,
+  "category": "Waterfall",
+  "website": "https://www.northiceland.is/godafoss",
+  "phone": null,
+  "images": [
+    "https://www.northiceland.is/images/godafoss.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round, Route 1 Ring Road",
+    "height": "12 meters",
+    "width": "30 meters",
+    "historical": "AD 1000 Christianity conversion, pagan gods thrown in falls",
+    "viewing": "Platforms both banks, easy access",
+    "character": "Horseshoe waterfall, historical significance, Ring Road accessible"
+  }
+}

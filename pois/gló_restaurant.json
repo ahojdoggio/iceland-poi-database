@@ -1,0 +1,40 @@
+{
+  "name": "Gló - Iceland's Pioneer Organic & Healthy Restaurant",
+  "description": "Gló has pioneered healthy eating in Iceland since opening in 2007, fundamentally changing how Icelanders view nutritious food by proving that organic, vegetarian, vegan, and raw preparations can deliver flavor, satisfaction, and culinary creativity equal to conventional restaurant fare—this transformation reflects broader shift in Iceland where traditional diet centered almost exclusively on fish, lamb, and dairy has gradually expanded to embrace plant-based eating, international flavors, and health-conscious dining that previous generations might have dismissed as unnecessary or incompatible with Icelandic food culture. Operating three locations across Reykjavík with the downtown location offering 100% vegan menu while other sites provide both plant-based and meat options, Gló demonstrates flexibility and inclusivity that allows diners with diverse dietary preferences or restrictions to find satisfying meals whether eating purely plant-based, incorporating some animal products, following raw food principles, or managing food allergies and sensitivities. The menu changes daily based on seasonal availability and kitchen creativity, always featuring soups, salads, pastas, raw burgers (made from nuts, seeds, vegetables formed into burger-like preparations without cooking), aloo saag (Indian spiced potato and spinach dish reflecting Gló's international influences), hummus and other Middle Eastern-inspired spreads, rolls and wraps, breads, pies, cakes, fresh juices, smoothies, organic coffees, and herbal teas—this variety ensures that repeat visits reveal new combinations and preparations rather than repetitive offerings. Gló pioneered raw food dining in Reykjavík, introducing concept of consuming unprocessed vegetables, fruits, nuts, and seeds never heated above 47°C (117°F) to preserve enzymes, nutrients, and life force that raw food advocates believe cooking destroys—while raw food remains niche dietary choice, Gló's expertise with these preparations means their raw dishes achieve flavors and textures that surprise skeptics who associate uncooked vegetables with bland salads. The restaurant exclusively uses organic vegetables and ingredients without additives and preservatives in every dish, reflecting commitment to ingredient purity and environmental sustainability that aligns with growing Icelandic consumer awareness of food production's ecological impact, chemical residues in conventional agriculture, and health benefits of minimally processed whole foods. The creativity and passion for good ingredients that defines Gló's approach manifests in dishes that look beautiful (important for Instagram-era dining), taste delicious (essential for repeat business), and make diners feel virtuous about eating well (psychological benefit that traditional indulgent restaurant meals don't provide)—this combination of aesthetics, flavor, and health creates unique value proposition. The 2007 opening positioned Gló ahead of global trends toward plant-based eating, organic ingredients, and health-conscious dining that have accelerated dramatically in the 2010s and 2020s as consumers increasingly connect food choices to personal health, environmental sustainability, and ethical concerns about industrial agriculture—Gló's early adoption and sustained success demonstrate that Iceland, despite its traditional animal-product-heavy diet, embraces progressive food concepts when they deliver quality and align with evolving values.",
+  "address": "Multiple locations in Reykjavík (verify current addresses)",
+  "coordinates": {
+    "longitude": -21.9315,
+    "latitude": 64.1455,
+    "altitude": 8.0
+  },
+  "rating": 4.6,
+  "reviews_count": 2950,
+  "category": "Restaurant",
+  "website": "https://www.glo.is",
+  "phone": "+354 553 1111",
+  "images": [
+    "https://www.glo.is/images/organic-bowl.jpg"
+  ],
+  "opening_hours": {
+    "established": "2007 - pioneering healthy eating in Iceland",
+    "locations": "Three locations in Reykjavík",
+    "downtown_location": "100% vegan menu",
+    "other_locations": "Plant-based and meat options available",
+    "menu_philosophy": "Changes daily based on seasonal availability and creativity",
+    "organic_commitment": "Exclusively organic vegetables and ingredients, no additives or preservatives",
+    "dietary_options": "Vegan, vegetarian, raw food, meat dishes",
+    "raw_food_pioneer": "First Reykjavík restaurant focusing on raw food (never heated above 47°C/117°F)",
+    "menu_items": "Soups, salads, pastas, raw burger, aloo saag, hummus, rolls, breads, pies, cakes",
+    "beverages": "Fresh juices, smoothies, organic coffee, herbal teas",
+    "raw_burger": "Nuts, seeds, vegetables formed into burger-like preparation without cooking",
+    "international_influences": "Indian (aloo saag), Middle Eastern (hummus), global fusion",
+    "aesthetic": "Instagram-worthy presentations, beautiful plating",
+    "health_psychology": "Makes diners feel virtuous about eating well",
+    "value_proposition": "Aesthetics + flavor + health benefits",
+    "cultural_impact": "Changed how Icelanders view healthy food",
+    "dietary_flexibility": "Accommodates allergies, sensitivities, diverse preferences",
+    "sustainability": "Environmental awareness, minimal processing, organic agriculture",
+    "trend_prediction": "Ahead of global plant-based and organic trends by opening 2007",
+    "repeat_visit_appeal": "Daily-changing menu ensures variety"
+  }
+}

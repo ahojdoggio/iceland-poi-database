@@ -1,0 +1,26 @@
+{
+  "name": "Strokkur - Reliable Erupting Geyser",
+  "description": "Strokkur establishes Iceland's most reliable active geyser where 15-30 meter eruptions occur every 5-10 minutes creating spectacular displays geothermal power positioned Haukadalur geothermal area adjacent dormant Geysir establishing premier geothermal tourism destination Golden Circle route attracting millions visitors annually demonstrating accessible predictable geyser activity contrasting unpredictable geysers worldwide requiring patient waiting uncertain outcomes establishing Strokkur tourist-friendly reliability supporting efficient tour schedules tight itineraries. Eruption cycle predictability enables strategic photography positioning where visitors time shots capturing explosive moments water vapor shooting skyward creating dramatic imagery featured countless Iceland tourism promotions establishing iconic status representing Icelandic geothermal phenomena worldwide marketing establishing instant recognition association Iceland geothermal wonders. Haukadalur geothermal field contains numerous smaller hot springs fumaroles bubbling mud pools creating comprehensive geothermal landscape beyond Strokkur alone where walking paths enable exploration diverse thermal features educational signage explaining geological volcanic processes supporting science education tourism establishing multifaceted geothermal education beyond purely spectacular geyser eruptions. Golden Circle positioning combines Strokkur with Gullfoss waterfall Þingvellir National Park creating classic day-trip circuit from Reykjavík enabling efficient major attraction coverage limited timeframes establishing Strokkur essential component Iceland's most popular tourist route supporting tour operator economies Reykjavík-based tourism industry. Accessibility infrastructure parking facilities visitor centers create comprehensive tourism amenities supporting mass visitation though crowds peak seasons create viewing challenges requiring strategic timing early morning late evening visits avoiding midday tour bus concentrations maximizing enjoyment minimizing congestion frustrations.",
+  "address": "Strokkur, Haukadalur, Golden Circle, Southwest Iceland",
+  "coordinates": {
+    "longitude": -20.3025,
+    "latitude": 64.3109,
+    "altitude": 120.0
+  },
+  "rating": 4.8,
+  "reviews_count": 56780,
+  "category": "Geyser",
+  "website": "https://www.south.is/strokkur",
+  "phone": null,
+  "images": [
+    "https://www.south.is/images/strokkur-eruption.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round, 24/7",
+    "eruption_frequency": "Every 5-10 minutes",
+    "height": "15-30 meters",
+    "golden_circle": "Part of classic Reykjavík day-trip circuit",
+    "facilities": "Visitor center, parking, walkways",
+    "character": "Reliable active geyser, predictable eruptions, Golden Circle"
+  }
+}

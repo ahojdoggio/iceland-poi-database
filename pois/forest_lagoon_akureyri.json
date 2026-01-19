@@ -1,0 +1,28 @@
+{
+  "name": "Forest Lagoon",
+  "description": "The Forest Lagoon is Akureyri's stunning geothermal spa and Iceland's newest luxury bathing destination, opened in 2022 and nestled into a birch-covered hillside on the eastern shore of Eyjafjörður fjord. This architectural marvel seamlessly blends modern Scandinavian design with Iceland's pristine natural environment, offering visitors a serene soaking experience surrounded by native woodland—a rare and magical combination in Iceland where trees are scarce. The facility features two infinity-edge geothermal pools with water temperatures ranging from 38-40°C (100-104°F), both offering spectacular views across the fjord to the snow-capped mountains beyond. The mineral-rich geothermal water is sourced from deep beneath the Earth's surface and is naturally heated by volcanic activity, providing therapeutic benefits for skin, muscles, and overall relaxation. Two swim-up bars serve refreshing beverages including local Icelandic beers, wines, and signature cocktails, allowing guests to enjoy drinks while soaking in the warm waters. For those seeking contrast therapy, a cold plunge pool maintained at around 5°C (41°F) provides an invigorating shock to the system that stimulates circulation and releases endorphins. Traditional Icelandic saunas built from locally sourced wood offer intense dry heat with views of the surrounding forest, and the scent of birch creates an authentic Nordic spa atmosphere. The spa's thoughtful design incorporates sustainable practices including geothermal heating for all facilities, locally sourced materials, and minimal environmental impact on the surrounding birch forest. Changing facilities are modern and spacious with private showers, lockers, and complimentary toiletries. The maximum capacity is limited to 200 guests at any time, ensuring the lagoon never feels crowded and maintaining a tranquil, intimate atmosphere. Admission tickets include towel rental and one complimentary drink, and visitors can stay as long as they wish during operating hours. The Forest Lagoon is particularly magical during winter evenings when the Northern Lights dance overhead, or during summer's midnight sun when the golden light illuminates the mountains and fjord in ethereal beauty.",
+  "address": "Vaðlaskógur, 600 Akureyri, Iceland",
+  "coordinates": {
+    "longitude": -18.0245,
+    "latitude": 65.6623,
+    "altitude": 25.0
+  },
+  "rating": 4.8,
+  "reviews_count": 5600,
+  "category": "Geothermal Spa",
+  "website": "https://www.forestlagoon.is",
+  "phone": "+354 464 1000",
+  "images": [
+    "https://www.forestlagoon.is/images/infinity-pool-view.jpg"
+  ],
+  "opening_hours": {
+    "summer": "June-August, daily 9:00 AM - 12:00 AM (midnight)",
+    "winter": "September-May, daily 10:00 AM - 12:00 AM (midnight)",
+    "last_entry": "30 minutes before closing",
+    "children_hours": "Children under 12 must exit by 8:00 PM",
+    "admission_adult": "6,590 ISK (includes towel and one drink)",
+    "admission_with_drink": "7,750 ISK",
+    "towel_rental": "Included (or 900 ISK if not included in package)",
+    "advance_booking": "Recommended, especially in peak season"
+  }
+}

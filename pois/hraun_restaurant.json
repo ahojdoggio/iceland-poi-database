@@ -1,0 +1,42 @@
+{
+  "name": "Hraun Restaurant - Ólafsvík Snæfellsnes Casual Dining",
+  "description": "Hraun Restaurant operates in Ólafsvík on the northern Snæfellsnes Peninsula, providing casual European and Scandinavian cuisine in a town of approximately 1,000 residents that serves as gateway to the peninsula's dramatic north coast with its black pebble beaches, bird cliffs, and views across Breiðafjörður bay to the Westfjords. The restaurant's name \"Hraun\" means \"lava\" in Icelandic, referencing the extensive lava fields that characterize Snæfellsnes Peninsula's volcanic landscape—Búðahraun, Berserkjahraun, and other historic lava flows from Snæfellsjökull volcano and smaller craters create the dark, moss-covered terrain that defines the region's otherworldly beauty. Located at Grundarbraut 2, the restaurant operates with extended hours Sunday-Thursday (11:30 AM-9:00 PM) and Friday-Saturday (11:30 AM-10:00 PM), serving lunch and dinner throughout the day to accommodate varied tourist schedules and local dining preferences. The menu focuses on accessible, satisfying preparations rather than avant-garde experimentation: all hamburgers come from local farmer Mýrarnaut and are made from 100% beef cooked to medium temperature (2,390 ISK for cheeseburger and fries), providing quality casual dining that showcases Icelandic beef while avoiding pretension or high prices that alienate budget-conscious travelers. Blue mussels from Breiðafjörður prepared with white wine, coriander, chili, garlic, and beer (3,900 ISK) demonstrate the kitchen's ability to prepare more sophisticated dishes highlighting local seafood from the rich waters between Snæfellsnes and Westfjords where shellfish thrive in cold, clean conditions. Traditional recipe lamb meat soup with Icelandic root vegetables provides comfort food connection to Iceland's culinary heritage—this centuries-old preparation sustained fishing and farming communities through long winters, and its presence on Hraun's menu honors tradition while satisfying contemporary diners seeking authentic Icelandic flavors. Additional seafood offerings include scallops, trout, squid, and tiger prawns showcasing the kitchen's range, while pizza provides familiar option for children or less adventurous eaters who appreciate knowing exactly what they'll receive. Fish and chips represents British-influenced casual classic that Iceland has adopted, and various appetizers allow lighter meals or sharing plates. The European and Scandinavian focus creates menu that feels international enough to welcome diverse visitors while maintaining Icelandic ingredient quality and regional specialties. Ólafsvík's position on Snæfellsnes Peninsula's north side makes Hraun convenient lunch or dinner stop for visitors circling the peninsula's dramatic coastline, exploring the Snæfellsjökull National Park, photographing Kirkjufell mountain, or simply driving between Stykkishólmur and the southern peninsula attractions. The town itself offers fishing harbor authenticity, whale watching tours, and access to hiking trails, with Hraun providing reliable dining option in region where restaurant choices remain limited compared to more populated areas—the quality, reasonable prices, and diverse menu make it valuable resource for travelers spending time exploring Snæfellsnes rather than rushing through on day tours from Reykjavík.",
+  "address": "Grundarbraut 2, 355 Ólafsvík, Iceland (northern Snæfellsnes Peninsula)",
+  "coordinates": {
+    "longitude": -23.7155,
+    "latitude": 64.8945,
+    "altitude": 5.0
+  },
+  "rating": 4.5,
+  "reviews_count": 2140,
+  "category": "Restaurant",
+  "website": "https://hraunrestaurant.com",
+  "phone": "+354 436 1600",
+  "images": [
+    "https://hraunrestaurant.com/images/restaurant-interior.jpg"
+  ],
+  "opening_hours": {
+    "sunday_thursday": "11:30 AM - 9:00 PM (21:00)",
+    "friday_saturday": "11:30 AM - 10:00 PM (22:00)",
+    "lunch_dinner": "Continuous service throughout operating hours",
+    "name_meaning": "Hraun = lava in Icelandic, references Snæfellsnes lava fields",
+    "cuisine": "European and Scandinavian focus, accessible casual dining",
+    "hamburgers": "100% beef from local farmer Mýrarnaut, cooked medium, 2,390 ISK cheeseburger + fries",
+    "blue_mussels": "Breiðafjörður mussels with white wine, coriander, chili, garlic, beer - 3,900 ISK",
+    "lamb_soup": "Traditional Icelandic recipe with root vegetables, comfort food heritage",
+    "seafood_variety": "Scallops, trout, squid, tiger prawns",
+    "casual_options": "Pizza, fish & chips (British-influenced classic)",
+    "appetizers": "Various starters for lighter meals or sharing",
+    "quality_focus": "Icelandic ingredient quality without pretension or excessive prices",
+    "budget_friendly": "Reasonable prices attract budget-conscious travelers",
+    "local_sourcing": "Farmer Mýrarnaut beef, Breiðafjörður shellfish from cold clean waters",
+    "ólafsvík": "Town ~1,000 residents, Snæfellsnes north coast",
+    "location_advantages": "Gateway to dramatic north coast, black pebble beaches, bird cliffs",
+    "views": "Breiðafjörður bay to Westfjords",
+    "nearby_attractions": "Snæfellsjökull National Park, Kirkjufell mountain, whale watching",
+    "peninsula_circuit": "Convenient lunch/dinner stop circling Snæfellsnes",
+    "limited_competition": "Valuable resource where restaurant choices remain scarce",
+    "authentic_setting": "Fishing harbor town, hiking trail access, working community character",
+    "lava_landscape": "Búðahraun, Berserkjahraun, moss-covered volcanic terrain"
+  }
+}

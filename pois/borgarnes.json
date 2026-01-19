@@ -1,0 +1,40 @@
+{
+  "name": "Borgarnes",
+  "description": "Borgarnes is a historic coastal town of approximately 2,000 residents situated on a peninsula jutting into Borgarfjörður bay in West Iceland, approximately 70 kilometers north of Reykjavík along Ring Road (Route 1). As the largest settlement in the Borgarfjörður region, the town serves as an important service center and gateway to West Iceland's attractions. Borgarnes holds profound significance in Icelandic history as the settlement location of Skallagrímur Kveldúlfsson, father of the legendary Viking poet and warrior Egill Skallagrímsson, one of the most famous figures in Icelandic saga literature. The town's name derives from Borg, Skallagrímur's farm, and nes meaning \"peninsula.\" The Settlement Center (Landnámssetur Íslands), housed in an imaginatively restored harbor warehouse, stands as Borgarnes's premier cultural attraction and one of Iceland's finest historical museums. This award-winning institution features two comprehensive exhibitions, each requiring approximately 30 minutes to explore. The Settlement Exhibition chronicles the discovery and settlement of Iceland from 870 AD onwards, presenting the extraordinary journey of Norse explorers who crossed the North Atlantic to establish permanent communities on this volcanic island. Using multimedia presentations, artifacts, and engaging audioguide narratives available in 15 languages including English, the exhibition brings to life the challenges, motivations, and achievements of Iceland's first settlers. The Egil's Saga Exhibition recounts the dramatic adventures of Egill Skallagrímsson (c. 910-990 AD), the complex Viking warrior-poet whose life inspired one of Iceland's most celebrated sagas, Egils saga Skallagrímssonar. Egill's story encompasses battles, poetry composition, legal disputes, family tragedy, and old age—a complete portrait of Viking Age life that resonates across centuries. The exhibition explores his complicated relationship with Norwegian kings, his skill as a skald (court poet), and his eventual settlement at Mosfell near present-day Reykjavík. The Settlement Center also houses a highly-regarded licensed restaurant serving Icelandic cuisine, a café for lighter refreshments, and a comprehensive souvenir shop offering books, handicrafts, and local products. Borgarnes provides essential services for travelers including multiple guesthouses such as Egils Guesthouse and Kría Guesthouse, bed and breakfasts including Bjarg Borgarnes, Borgarnes Room with a View, and Englendingavík, camping grounds for budget travelers, hotels with modern amenities, supermarkets including Bónus and Samkaup, numerous restaurants and cafés, gas stations, and a swimming pool with geothermal hot tubs. The town's strategic location on Ring Road makes it a popular stopping point for travelers heading to the Snæfellsnes Peninsula, West Iceland's waterfalls, or continuing around the island circuit.",
+  "address": "Borgarnes, 310 Borgarbyggð, Iceland",
+  "coordinates": {
+    "longitude": -21.9173,
+    "latitude": 64.5419,
+    "altitude": 0.0
+  },
+  "rating": 4.4,
+  "reviews_count": 3600,
+  "category": "Town",
+  "website": "https://www.west.is/en/place/borgarnes",
+  "phone": "+354 437 1600",
+  "images": [
+    {
+      "source": "West Iceland",
+      "url": "https://www.west.is/en/place/borgarnes"
+    },
+    {
+      "source": "Settlement Center",
+      "url": "https://www.landnam.is"
+    }
+  ],
+  "opening_hours": {
+    "town_access": "Open 24/7 year-round",
+    "settlement_center": "Two exhibitions (Settlement & Egil's Saga), ~30 minutes each, audioguide in 15 languages included",
+    "settlement_center_hours": "Hours vary seasonally, check www.landnam.is for current schedule",
+    "settlement_center_restaurant": "Award-winning restaurant serving Icelandic cuisine, café, licensed bar",
+    "accommodation": "Multiple guesthouses (Egils, Kría, Bjarg), B&Bs, hotels, camping grounds",
+    "services": "Supermarkets (Bónus, Samkaup), restaurants, cafés, gas stations, swimming pool with hot tubs",
+    "settlement_history": "Founded by Skallagrímur Kveldúlfsson, father of Egill Skallagrímsson (c. 910-990 AD)",
+    "egils_saga": "One of Iceland's most famous sagas, recounting Viking warrior-poet's dramatic life",
+    "museum_highlights": "Interactive multimedia, artifacts, audioguides, comprehensive Viking Age history",
+    "souvenir_shop": "Books, Icelandic handicrafts, local products available at Settlement Center",
+    "distance_from_reykjavik": "70 km north via Ring Road (Route 1), approximately 1 hour drive",
+    "gateway_to": "Snæfellsnes Peninsula, West Iceland waterfalls, Ring Road circuit",
+    "population": "Approximately 2,000 residents, largest town in Borgarfjörður region"
+  }
+}

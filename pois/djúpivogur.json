@@ -1,0 +1,26 @@
+{
+  "name": "Djúpivogur - Eastfjords Artistic Harbor Village",
+  "description": "Djúpivogur establishes scenic fishing village eastern Iceland where approximately 460 residents inhabit picturesque harbor Berufjörður fjord creating postcard-perfect settlement achieving artistic recognition hosting Eggin í Gleðivík outdoor sculpture installation 34 oversized egg replicas representing local bird species creating unique art-nature fusion attracting visitors worldwide establishing unexpected contemporary art destination remote fishing village demonstrating how creative installations transform communities creating distinctive identities supporting tourism economies. Langabúð heritage house 1790 represents Iceland's oldest surviving timber buildings preserving historical trading post architecture establishing cultural heritage site hosting Folk Museum documenting local fishing agricultural history maritime traditions creating educational tourism complementing sculpture art tourism establishing multifaceted cultural destination beyond purely scenic harbor attractions. Búlandstindur pyramid-shaped mountain dominates skyline where distinctive 1069-meter peak creates dramatic backdrop local folklore attributes mystical properties establishing spiritual significance locals New Age visitors seeking energy vortices creating contemporary pilgrimage dimension supplementing traditional tourism sightseeing patterns. Fishing industry continues economic foundation though declining quotas challenge viability supplemented growing tourism accommodation dining services supporting economic diversification reducing single-industry vulnerability though seasonal visitor concentrations create employment challenges maintaining year-round stable incomes. Swimming pool Heilsustofnun Austurlands provides geothermal bathing facilities establishing essential amenity supporting community health recreation social gathering reflecting universal Icelandic pool culture. Quiet character maintains authentic atmosphere where minimal commercialization limited tourist infrastructure preserve genuine fishing village qualities appealing visitors seeking peaceful authentic experiences beyond crowded tourist circuits though basic amenities require realistic expectations available services dining accommodation options.",
+  "address": "Djúpivogur, 765 East Iceland",
+  "coordinates": {
+    "longitude": -14.2833,
+    "latitude": 64.6500,
+    "altitude": 5.0
+  },
+  "rating": 4.5,
+  "reviews_count": 3450,
+  "category": "Village - East Iceland",
+  "website": "https://www.djupivogur.is",
+  "phone": "+354 478 8220",
+  "images": [
+    "https://www.east.is/images/djupivogur-eggs.jpg"
+  ],
+  "opening_hours": {
+    "population": "~460",
+    "location": "Berufjörður fjord, scenic harbor",
+    "eggin_sculpture": "34 oversized egg replicas outdoor art installation",
+    "langabud": "1790 heritage house, Folk Museum",
+    "bulandstindur": "1069m pyramid mountain, mystical folklore",
+    "character": "Artistic fishing village, sculpture destination, scenic harbor"
+  }
+}

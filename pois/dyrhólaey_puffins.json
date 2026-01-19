@@ -1,0 +1,27 @@
+{
+  "name": "Dyrhólaey Puffin Colony - South Coast Bird Sanctuary",
+  "description": "Dyrhólaey's dramatic promontory crowned iconic natural stone arch rises 120 meters above black sand beaches creating protected bird sanctuary hosting thousands Atlantic puffins nesting cliffsides May-August establishing Iceland's most accessible south coast puffin viewing destination mere 2.5-hour drive Reykjavík positioning wildlife encounters within easy reach Ring Road travelers. Summer months transform Dyrhólaey into bustling puffin colony where orange-beaked seabirds nest burrows dotting grassy clifftops surrounding towering basalt arch while observation areas marked pathways enable close-range viewing without disturbing nesting birds photographing puffins against spectacular coastal backdrops combining black volcanic beaches sea stacks Reynisdrangar Mýrdalsjökull glacier panoramas. Conservation regulations restrict access May 1-June 25 during critical nesting period limiting public visits 9AM-7PM protecting vulnerable breeding activities though late June through August offers unrestricted access coinciding peak puffin activity when chicks fledge parents shuttle fish continuously between ocean burrows creating excellent behavioral observation opportunities. Early morning late evening hours provide optimal viewing when puffins return nesting sites throughout day birds primarily fish offshore requiring patient timing strategic visit planning maximizing encounter success though calm weather conditions significantly improve visibility birds remain burrows during strong winds. Dyrhólaey's dual attractions combine puffin watching iconic landscape photography where massive stone arch frames North Atlantic vistas lighthouse crowns promontory summit black sand beaches Reynisfjara stretch below creating comprehensive south coast experience. Smaller colony sizes compared Látrabjarg Westmannaeyjaar balanced superior accessibility facilities proximity major tourist routes positioning Dyrhólaey ideal choice travelers seeking memorable puffin encounters without extensive detours remote locations. Fenced areas protect nesting zones ensuring visitor safety preventing cliff edge accidents while maintaining birds' peace enabling successful breeding seasons sustaining healthy puffin populations future generations wildlife enthusiasts.",
+  "address": "Dyrhólaey, 871 Vík, South Iceland",
+  "coordinates": {
+    "longitude": -19.1239,
+    "latitude": 63.3975,
+    "altitude": 120.0
+  },
+  "rating": 4.7,
+  "reviews_count": 8340,
+  "category": "Puffin Watching",
+  "website": "https://www.south.is/en/place/dyrholaey",
+  "phone": "+354 487 1395",
+  "images": [
+    "https://www.south.is/images/dyrholaey-puffins-arch.jpg"
+  ],
+  "opening_hours": {
+    "season": "Puffins present May 1 - August 15",
+    "restricted_access": "May 1-June 25: 9AM-7PM only",
+    "unrestricted_access": "June 26-August: 24/7",
+    "best_viewing": "Early morning or late evening",
+    "height": "120m promontory with natural arch",
+    "distance": "2.5 hours from Reykjavík",
+    "closure": "Evening/morning closed May 1-June 25 (7PM-9AM)"
+  }
+}

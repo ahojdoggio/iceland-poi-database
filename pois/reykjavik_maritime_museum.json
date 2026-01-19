@@ -1,0 +1,26 @@
+{
+  "name": "Reykjavík Maritime Museum",
+  "description": "The Reykjavík Maritime Museum (Víkin Sjóminjasafn) chronicles Iceland's deep connection to the sea, housed in a former fish-freezing plant at Grandagarður harbor. The museum's exhibitions trace Iceland's maritime heritage from the earliest Viking settlements through the cod wars of the 20th century to modern fishing industry innovations. The centerpiece attraction is the Óðinn, a decommissioned Coast Guard vessel that played a crucial role in the Cod Wars between Iceland and Britain during the 1950s-1970s. Visitors can explore the ship's bridge, engine room, crew quarters, and weapons systems on guided tours offered at 1 PM, 2 PM, and 3 PM daily. Inside the main museum building, interactive displays showcase traditional fishing methods, navigation equipment, and the evolution of Iceland's fishing fleet. Exhibits detail the harsh realities of life at sea, including dramatic rescue operations and maritime disasters that shaped Icelandic history. The museum preserves authentic fishing equipment, ship models, photographs, and personal stories from generations of Icelandic fishermen. Special exhibitions explore topics like marine conservation, the impact of climate change on fish stocks, and Iceland's sustainable fisheries management. The museum also houses an extensive archive of maritime records and photographs available for research. Located in the vibrant harbor district, the museum is surrounded by working fishing vessels, seafood restaurants, and whale-watching tour operators, providing context for Iceland's continued reliance on marine resources. Free admission for children, seniors, and disabled visitors makes this important cultural institution accessible to all.",
+  "address": "Grandagarður 8, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.9520,
+    "latitude": 64.1544,
+    "altitude": 0.0
+  },
+  "rating": 4.3,
+  "reviews_count": 2800,
+  "category": "Museum",
+  "website": "https://borgarsogusafn.is/en/reykjavik-maritime-museum",
+  "phone": "+354 411 6300",
+  "images": [
+    "https://borgarsogusafn.is/wp-content/uploads/2020/03/maritime-museum-odinn.jpg"
+  ],
+  "opening_hours": {
+    "daily": "10:00 AM - 5:00 PM",
+    "admission_adults": "1,700 ISK",
+    "admission_children": "Free (0-17 years)",
+    "admission_seniors": "Free (67+ and disabled)",
+    "odinn_tour": "1,300 ISK (guided tours at 1 PM, 2 PM, 3 PM)",
+    "combo_ticket": "2,600 ISK (Museum + Óðinn tour)"
+  }
+}

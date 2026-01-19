@@ -1,0 +1,31 @@
+{
+  "name": "Glaumbær Farm & Turf House Museum",
+  "description": "Glaumbær Farm stands as one of Iceland's best-preserved and most authentic turf farmsteads, offering visitors an immersive experience of traditional Icelandic rural life through 13 interconnected turf buildings that housed multiple generations of farming families from the 18th century until the last residents departed in 1947, when the farm was designated a national heritage site and transformed into the centerpiece of the Skagafjörður Heritage Museum. Located in the fertile Skagafjörður valley in North Iceland, Glaumbær exemplifies the distinctive Icelandic architectural tradition of turf construction that developed over centuries as an ingenious adaptation to Iceland's harsh climate, scarcity of timber, and abundance of turf—the sod and soil held together by grass roots that, when stacked in thick walls and covered with grass roofs, provided excellent insulation against brutal winters while remaining affordable for even modest farming families. The Glaumbær complex demonstrates the classic Icelandic turf farm layout where individual buildings—dwelling rooms, pantries, storage areas, workrooms, and even a dairy—connect via a central passageway, allowing residents to move between spaces without venturing into harsh weather. Walking through these dark, low-ceilinged rooms with their earth floors, tiny windows, and pervasive turf smell provides visceral understanding of how Icelanders lived for centuries: cramped, dark, smoky conditions where entire families slept together in communal bedrooms called baðstofa, cooked over open hearths that filled rooms with smoke before chimneys became common, and spent long winter months engaged in handwork like spinning, weaving, and storytelling that created Iceland's rich literary and craft traditions. The museum preserves authentic furnishings, tools, and household objects from various periods, showing the evolution of rural Icelandic life from basic subsistence farming to the early 20th century introduction of modern conveniences. Each room tells stories of specific activities and social customs: the baðstofa where families gathered for meals, work, and entertainment; the búr (pantry) stocked with preserved foods for winter survival; workrooms where women processed wool and wove textiles that formed the basis of Iceland's pre-industrial economy; and the more comfortable rooms added in later periods as prosperity increased. The museum includes Áshús, a yellow timber house built in 1884-86 that represents the transition from turf to timber construction as imported wood became more available and Icelanders began abandoning traditional building methods. Áshús now houses the museum café serving traditional Icelandic pastries and hearty soup in an atmospheric historical setting. Guides provide context about farming practices, the annual rhythm of sheep herding and haying, the extreme isolation of winter when farms were cut off by snow, and the communal traditions that helped families survive. The Skagafjörður valley surrounding Glaumbær remains predominantly agricultural, allowing visitors to see the landscape much as it appeared when the farm was actively worked.",
+  "address": "Glaumbær, 551 Sauðárkrókur, Skagafjörður, North Iceland",
+  "coordinates": {
+    "longitude": -19.4833,
+    "latitude": 65.6167,
+    "altitude": 25.0
+  },
+  "rating": 4.7,
+  "reviews_count": 1950,
+  "category": "Museum",
+  "website": "https://www.glaumbaer.is/en",
+  "phone": "+354 453 6173",
+  "images": [
+    "https://www.glaumbaer.is/images/turf-houses-exterior.jpg"
+  ],
+  "opening_hours": {
+    "high_season": "Daily 10:00 AM - 6:00 PM",
+    "spring_autumn": "Weekdays 10:00 AM - 4:00 PM (Sept 21-Oct 20, April 1-May 19)",
+    "winter": "By request (Oct 21-March 31)",
+    "admission_adults": "2,000 ISK",
+    "admission_seniors_students": "1,700 ISK",
+    "admission_children": "Free (under 17)",
+    "combined_ticket": "Available with Víðimýri Turf Church",
+    "buildings": "13 interconnected turf structures",
+    "last_residents": "1947 (then designated national heritage site)",
+    "cafe": "Áshús timber house (1884-86) serves traditional pastries & soup",
+    "group_booking": "byggdasafn@skagafjordur.is or +354 453 6173 (2 days advance)"
+  }
+}

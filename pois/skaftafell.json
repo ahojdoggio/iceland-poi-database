@@ -1,0 +1,32 @@
+{
+  "name": "Skaftafell",
+  "description": "Skaftafell is a nature reserve within Vatnajökull National Park, located in southeast Iceland between Kirkjubæjarklaustur and Höfn. Covering 4,807 square kilometers, it serves as the main gateway to Iceland's largest national park and is one of the country's most visited natural areas. The reserve features dramatic glaciers, including Skaftafellsjökull, the iconic 20-meter Svartifoss waterfall surrounded by hexagonal basalt columns, and Iceland's highest peak, Hvannadalshnjúkur at 2,110 meters. Located 319 kilometers from Reykjavík along Ring Road (Route 1), the area sits in the Öræfi preservation region. Originally established as an independent national park in 1967, Skaftafell merged with Vatnajökull National Park in 2008 to create one of Europe's largest protected wilderness areas. The reserve is renowned for its microclimate, receiving less precipitation than surrounding areas due to its sheltered position, creating unusually lush birch forests at the foot of vast glaciers. This unique combination of glacial tongues, volcanic peaks, and verdant vegetation creates a dramatic landscape contrast rarely seen elsewhere in Iceland. The area contains multiple glacier outlets from Vatnajökull, Iceland's largest ice cap, offering accessible glacier viewing and hiking opportunities. The Skaftafellsstofa Visitor Centre, open year-round, provides exhibitions on park geology, hiking information, and ranger services. Popular trails include the 1.5-kilometer hike to Svartifoss (3 kilometers round-trip, 1.5 hours), the easy Skaftafellsjökull glacier viewpoint walk (90 minutes), and the scenic 5.5-kilometer Svartifoss-Sjónarsker-Sel loop (2-3 hours) offering 360-degree glacier views and historic turf houses at Sel. Guided glacier walks and ice cave tours operate year-round for those wishing to explore the ice formations with professional guides.",
+  "address": "Skaftafell, 785 Öræfi, Iceland",
+  "coordinates": {
+    "longitude": -16.9665,
+    "latitude": 64.0160,
+    "altitude": 0.0
+  },
+  "rating": 4.7,
+  "reviews_count": 8500,
+  "category": "Nature Reserve",
+  "website": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell",
+  "phone": "+354 470 8300",
+  "images": [
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Skaftafellsj%C3%B6kull"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Lenticularis_cloud_above_gletscher_Skaftafell_Iceland_26jun05.JPG"
+    }
+  ],
+  "opening_hours": {
+    "visitor_center": "Daily 09:00-16:30 (summer), 09:00-15:30 (winter weekdays)",
+    "park_access": "Open 24/7 year-round",
+    "parking_fee": "1,000 ISK per vehicle per day",
+    "camping": "2,500 ISK per person per night",
+    "notes": "Rangers available during visitor center hours for trail information and safety briefings"
+  }
+}

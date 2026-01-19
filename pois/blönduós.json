@@ -1,0 +1,25 @@
+{
+  "name": "Blönduós - Textile Museum Town",
+  "description": "Blönduós establishes northwestern service center where approximately 880 residents inhabit Blanda river estuary providing regional hub Húnafjörður area offering fuel accommodations dining medical services supporting dispersed rural populations demonstrating functional importance beyond modest population statistics serving agricultural communities travelers Route 1 Ring Road establishing essential infrastructure isolated northwestern section lacking alternative comprehensive services. Textile Museum Heimilisiðnaðarsafnið preserves Icelandic handicraft traditions showcasing historical textiles weaving knitting lopapeysur sweater traditions establishing cultural heritage institution supporting traditional crafts education tourism demonstrating how specialized museums differentiate small towns creating distinctive attractions beyond purely functional service roles. Hrútey Island bird sanctuary river mouth protects important nesting habitat accessible walking bridge enabling easy wildlife viewing requiring minimal hiking effort establishing convenient nature attraction supporting eco-tourism family-friendly activities. Swimming pool Sundlaug Blönduóss provides geothermal bathing facilities establishing essential municipal amenity supporting community health recreation social gathering reflecting universal Icelandic swimming pool culture regardless town size. Church Blönduóskirkja represents modern ecclesiastical architecture contrasting historical turf churches though active congregation maintains religious community functions establishing contemporary architectural landmark. Agricultural economy dominates hinterlands where sheep dairy farming support regional livelihoods though declining rural populations challenge maintaining services infrastructure creating demographic pressures characteristic northwestern Iceland facing urbanization trends.",
+  "address": "Blönduós, 540 North Iceland",
+  "coordinates": {
+    "longitude": -20.2878,
+    "latitude": 65.6631,
+    "altitude": 5.0
+  },
+  "rating": 4.2,
+  "reviews_count": 1890,
+  "category": "Town - North Iceland",
+  "website": "https://www.sveitarfelagid-skagastrond.is",
+  "phone": "+354 452 4520",
+  "images": [
+    "https://www.northiceland.is/images/blonduos.jpg"
+  ],
+  "opening_hours": {
+    "population": "~880",
+    "location": "Blanda river estuary, Route 1 Ring Road",
+    "textile_museum": "Heimilisiðnaðarsafnið handicraft heritage",
+    "hrutey_island": "Bird sanctuary, walking bridge access",
+    "character": "Service center, textile heritage, Ring Road stop"
+  }
+}
