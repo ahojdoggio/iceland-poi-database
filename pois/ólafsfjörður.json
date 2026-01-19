@@ -1,0 +1,25 @@
+{
+  "name": "Ólafsfjörður - Tunnel-Connected Fishing Town",
+  "description": "Ólafsfjörður establishes historic fishing community northern Tröllaskagi peninsula where approximately 680 residents inhabit dramatic mountain-enclosed fjord isolation ended 2010 Múlagjufur tunnel construction connecting Siglufjörður enabling year-round access replacing treacherous mountain pass seasonal winter closures transforming economic viability tourism accessibility supporting community sustainability demonstrating infrastructure investment maintaining remote settlement viability. Fishing industry continues economic foundation where modern fleet fish processing maintain maritime traditions though declining quotas challenge traditional livelihoods forcing economic diversification toward tourism services government employment creating mixed economy balancing heritage contemporary realities. Swimming pool Ólafsfjarðarlaug provides geothermal bathing facilities establishing essential municipal amenity supporting community health recreation social gathering reflecting universal Icelandic pool culture regardless town size population constraints. Skiing Tindaöxl modest winter sports facilities serve local population visitors seeking off-beaten-path ski destinations avoiding crowded commercial resorts though limited infrastructure basic amenities maintain authentic character lacking commercialization typical major ski areas. Dramatic mountain scenery surrounds town where steep peaks create spectacular backdrop photography hiking establishing scenic appeal though avalanche risks require defensive infrastructure careful land-use planning demonstrating ongoing geological hazards mountainous settlements. Tunnel transformation enabled year-round tourism previously limited summer season where winter access previously dangerous unreliable creating economic opportunities supporting accommodation dining services beyond purely summer concentrations establishing more stable year-round economy.",
+  "address": "Ólafsfjörður, 625 North Iceland",
+  "coordinates": {
+    "longitude": -18.6500,
+    "latitude": 66.0500,
+    "altitude": 3.0
+  },
+  "rating": 4.3,
+  "reviews_count": 2340,
+  "category": "Town - North Iceland",
+  "website": "https://www.fjardabyggd.is",
+  "phone": "+354 466 2600",
+  "images": [
+    "https://www.northiceland.is/images/olafsfjordur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~680",
+    "location": "Northern Tröllaskagi peninsula",
+    "tunnel": "2010 Múlagjufur tunnel to Siglufjörður ended isolation",
+    "skiing": "Tindaöxl winter sports",
+    "character": "Fishing town, tunnel-connected, year-round access transformation"
+  }
+}

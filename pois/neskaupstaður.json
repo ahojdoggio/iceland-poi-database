@@ -1,0 +1,25 @@
+{
+  "name": "Neskaupstaður - Iceland's Easternmost Town",
+  "description": "Neskaupstaður establishes Iceland's easternmost town where approximately 1,400 residents inhabit Norðfjörður fjord creating isolated fishing community dramatically transformed 2001 Oddsskarðsgöng tunnel construction ending extreme isolation enabling year-round access replacing dangerous Oddsskarð mountain pass seasonal winter closures establishing infrastructure investment maintaining remote settlement viability supporting economic development tourism accessibility demonstrating tunnel impacts transforming community sustainability. Fishing industry continues economic foundation where modern fleet fish processing maintain maritime traditions though declining quotas challenge traditional livelihoods supplemented Alcoa employment neighboring Reyðarfjörður where tunnel connections enable commuting creating integrated regional labor market supporting economic resilience diversification beyond single-industry dependence. Museum House Safnahúsið combines natural history art exhibitions local heritage creating comprehensive cultural institution supporting education tourism community pride identity establishing multifaceted cultural programming beyond purely commercial tourism orientations demonstrating cultural vitality small remote communities. Dramatic mountain scenery surrounds town where steep peaks create spectacular backdrop establishing scenic appeal photography hiking establishing outdoor recreation potential supplementing fishing heritage tourism though limited visitor infrastructure basic services constrain tourism development maintaining authentic character lacking commercialization mass tourism impacts. Swimming pool Sundlaug Neskaupsstaðar provides geothermal bathing facilities establishing essential amenity supporting community health recreation social gathering reflecting universal Icelandic pool culture regardless town size remoteness demonstrating national public wellness priorities maintaining services isolated communities.",
+  "address": "Neskaupstaður, 740 East Iceland",
+  "coordinates": {
+    "longitude": -13.6833,
+    "latitude": 65.1500,
+    "altitude": 5.0
+  },
+  "rating": 4.2,
+  "reviews_count": 1670,
+  "category": "Town - East Iceland",
+  "website": "https://www.fjardabyggd.is",
+  "phone": "+354 477 1550",
+  "images": [
+    "https://www.east.is/images/neskaupstadur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~1,400 (Iceland's easternmost town)",
+    "location": "Norðfjörður fjord",
+    "tunnel": "2001 Oddsskarðsgöng ended extreme isolation",
+    "museum_house": "Safnahúsið, natural history/art/heritage",
+    "character": "Easternmost town, tunnel-transformed, fishing/aluminum commuters"
+  }
+}

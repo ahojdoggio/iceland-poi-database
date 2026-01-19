@@ -1,0 +1,25 @@
+{
+  "name": "Varmahlíð - Skagafjörður Service Junction",
+  "description": "Varmahlíð establishes Route 1 Ring Road service center Skagafjörður valley where approximately 140 residents support significantly larger service area providing essential fuel accommodations dining supplies travelers exploring northern Iceland Tröllaskagi peninsula establishing functional importance exceeding tiny population demonstrating strategic crossroads positioning where Routes 1 752 intersection creates transportation hub serving dispersed rural populations visitor flows. Horse riding tours dominate tourism economy where Skagafjörður valley Iceland's premier horse breeding region enables exceptional horseback riding experiences multi-day treks highland excursions creating specialized adventure tourism supporting local guiding outfitting economies establishing Varmahlíð gateway Icelandic horse tourism worldwide demonstrating agricultural heritage supporting contemporary tourism development. Víðimýri turf church nearby represents perfectly preserved traditional Icelandic architecture 1834 construction maintaining active congregation establishing living heritage site contrasting museum-only turf structures demonstrating continuous community use historical buildings beyond purely preservation tourism functions though located separate Varmahlíð jurisdiction nevertheless associated regional tourism. Swimming pool Varmahlíðarlaug provides geothermal bathing facilities establishing essential amenity supporting tiny community recreation social gathering reflecting universal Icelandic pool culture regardless settlement size population constraints demonstrating national priorities public health wellness social equity. Agricultural services support regional farming where equipment suppliers veterinary services feed stores create specialized retail serving Skagafjörður valley horse sheep farms establishing functional commercial character beyond purely traveler-oriented services demonstrating genuine service center supporting agricultural hinterlands. Minimal residential population creates service-center-without-town character where commercial infrastructure exceeds residential base establishing functional junction rather traditional town demonstrating how strategic locations create disproportionate service importance regardless local population demographics.",
+  "address": "Varmahlíð, 560 North Iceland",
+  "coordinates": {
+    "longitude": -19.4000,
+    "latitude": 65.5667,
+    "altitude": 60.0
+  },
+  "rating": 4.2,
+  "reviews_count": 2120,
+  "category": "Village - North Iceland",
+  "website": "https://www.skagafjordur.is",
+  "phone": "+354 455 6161",
+  "images": [
+    "https://www.northiceland.is/images/varmahlio.jpg"
+  ],
+  "opening_hours": {
+    "population": "~140",
+    "location": "Route 1 Ring Road, Skagafjörður valley junction",
+    "horse_tours": "Gateway to Icelandic horse riding adventures",
+    "vidimyri": "Nearby 1834 turf church (active parish)",
+    "character": "Service junction, horse tourism gateway, strategic crossroads"
+  }
+}

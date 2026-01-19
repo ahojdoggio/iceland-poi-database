@@ -1,0 +1,26 @@
+{
+  "name": "Reyðarfjörður - Aluminum Smelter Industrial Town",
+  "description": "Reyðarfjörður establishes industrial town eastern Iceland where approximately 1,300 residents inhabit Reyðarfjörður fjord transformed 2004-2007 Alcoa aluminum smelter construction creating massive economic development controversy where 940,000-ton annual capacity facility employs hundreds workers providing stable industrial employment contrasting traditional fishing though environmental concerns hydroelectric Kárahnjúkar dam impacts divided opinions creating ongoing debates balancing economic development environmental preservation. Aluminum smelter dominates local economy where high-paying industrial jobs attract workers nationwide creating boom-town dynamics transforming quiet fishing village industrial settlement establishing economic stability though dependence single major employer creates vulnerability market fluctuations corporate decisions aluminum prices affecting community prosperity demonstrating resource-industry dependence characteristic many Icelandic towns though aluminum replaces traditional fishing. Icelandic Wartime Museum Stríðssafn Íslands documents World War II Allied occupation where British later American forces established military base protecting Atlantic shipping routes creating historical military heritage unique Iceland's generally peaceful history establishing cultural tourism dimension beyond industrial aluminum tourism establishing diverse visitor appeals. Swimming pool Sundlaug Reyðarfjarðar provides comprehensive geothermal bathing facilities establishing essential amenity supporting community health recreation social gathering though smelter workers influx strained capacity requiring infrastructure upgrades accommodating population growth. Community character reflects industrial town dynamics where transient worker populations challenge social cohesion compared traditional fishing villages maintaining multigenerational continuity though economic prosperity infrastructure investment create positive development supporting quality-of-life amenities services.",
+  "address": "Reyðarfjörður, 730 East Iceland",
+  "coordinates": {
+    "longitude": -14.2167,
+    "latitude": 65.0333,
+    "altitude": 5.0
+  },
+  "rating": 4.1,
+  "reviews_count": 1890,
+  "category": "Town - East Iceland",
+  "website": "https://www.fjardabyggd.is",
+  "phone": "+354 470 9000",
+  "images": [
+    "https://www.east.is/images/reydarfjordur.jpg"
+  ],
+  "opening_hours": {
+    "population": "~1,300",
+    "location": "Reyðarfjörður fjord",
+    "alcoa_smelter": "940,000-ton annual aluminum production (2007-present)",
+    "wartime_museum": "WWII Allied occupation heritage",
+    "karahnjukar": "Controversial hydroelectric dam powers smelter",
+    "character": "Industrial town, aluminum economy, boom-town transformation"
+  }
+}
