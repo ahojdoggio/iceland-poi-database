@@ -33,6 +33,7 @@
     "pois/bryggjan_bruggh\u00fas.json",
     "pois/budakirkja.json",
     "pois/b\u00e6jarins_beztu.json",
+    "pois/b\u00fa\u00f0ardalur.json",
     "pois/caf\u00e9_loki.json",
     "pois/christmas_house.json",
     "pois/christmas_house_akureyri.json",
@@ -87,6 +88,7 @@
     "pois/grillmarka\u00f0urinn.json",
     "pois/grindav\u00edk.json",
     "pois/grjotagja.json",
+    "pois/grundarfj\u00f6r\u00f0ur.json",
     "pois/grundarfoss.json",
     "pois/gr\u00e1brok.json",
     "pois/gr\u00edmsey.json",
@@ -250,6 +252,7 @@
     "pois/strandarkirkja.json",
     "pois/stu\u00f0lagil_canyon.json",
     "pois/stykkisholmur.json",
+    "pois/stykkish\u00f3lmur.json",
     "pois/sumac_restaurant.json",
     "pois/sun_voyager.json",
     "pois/sundh\u00f6llin.json",
@@ -287,6 +290,7 @@
     "pois/\u00e1sgar\u00f0slaug.json",
     "pois/\u00edsafj\u00f6r\u00f0ur_airport.json",
     "pois/\u00f3lafsfj\u00f6r\u00f0ur_swimming_pool.json",
+    "pois/\u00f3lafsv\u00edk.json",
     "pois/\u00f6lverk_brewery.json",
     "pois/\u00feingeyrar_church.json",
     "pois/\u00feingvellir_national_park.json",
@@ -295,5 +299,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 292
+  "total_files": 296
 }
