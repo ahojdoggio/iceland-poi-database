@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 127/258 (49%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **262/393 (67%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 133/258 (52%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **268/393 (68%)** |
 
 ---
 
@@ -374,22 +374,24 @@
 
 ---
 
-## 📋 PRIORITY 4: Specialized Sites (258 remaining)
+## 📋 PRIORITY 4: Specialized Sites (125 remaining, 133 complete)
 
-### By Category:
+### Completed Categories ✅
+- **Swimming Pools:** ✅ COMPLETE (35/35) - 18 new Priority 4 pools created
+- **Restaurants & Cafés:** ✅ COMPLETE (25/25) - 25 created
+- **Breweries & Bars:** ✅ COMPLETE (7/7) - 7 created
+- **Churches & Heritage:** ✅ COMPLETE (15/15) - 7 new created
+- **Islands:** ✅ COMPLETE (7/7) - 6 new created
+- **Canyons & Gorges:** ✅ COMPLETE (6/6) - 3 new created
+- **Volcanoes & Craters:** ✅ COMPLETE (8/8) - 7 new created
+- **Lava Fields & Caves:** ✅ COMPLETE (8/8) - 6 new created
+- **Beaches:** ✅ COMPLETE (7-8/8) - 5 new created
+- **Lighthouses:** ✅ COMPLETE (7/7) - 5 new created
+- **Wildlife Sites:** ✅ COMPLETE (6/6) - 6 new created
+
+### Remaining Categories
 - **Waterfalls:** 22 remaining
 - **Museums:** 25 remaining
-- **Swimming Pools:** 25+ remaining
-- **Restaurants & Cafés:** 25 remaining
-- **Breweries & Bars:** 8 remaining
-- **Churches & Heritage:** 15 remaining
-- **Islands:** 7 remaining
-- **Canyons & Gorges:** 6 remaining
-- **Volcanoes & Craters:** 8 remaining
-- **Lava Fields & Caves:** 8 remaining
-- **Beaches:** 8 remaining
-- **Lighthouses:** 7 remaining
-- **Wildlife Sites:** 6 remaining
 - **Hiking Trails:** 5 remaining
 - **Highlands:** 10 remaining
 - **Airports:** 5 remaining
@@ -713,13 +715,13 @@ Running: [X]/393 ([X]%)
 - [x] Bjargtangar - Europe's westernmost, Látrabjarg cliffs, August 12 2026 eclipse
 - [x] Hólmsbergsviti - Keflavík harbor lighthouse (1956), 9.3m tall, working marina
 
-### Wildlife Sites (6)
-- [ ] Húsavík Whales
-- [ ] Reykjavík Whales
-- [ ] Látrabjarg Puffins
-- [ ] Dyrhólaey Puffins
-- [ ] Borgarfjörður Puffins
-- [ ] Vatnsnes Seals
+### Wildlife Sites ✅ COMPLETE (6/6)
+- [x] Húsavík Whales - Europe's Whale Capital (97% success rate)
+- [x] Reykjavík Whales - Old Harbor whale watching (90%+ sightings)
+- [x] Látrabjarg Puffins - 14km cliff, Europe's largest seabird colony
+- [x] Dyrhólaey Puffins - South coast accessible viewing
+- [x] Borgarfjörður Puffins - Hafnarhólmi 10,000 breeding pairs
+- [x] Vatnsnes Seals - Peninsula seal watching, Illugastaðir/Hvítserkur
 
 ### Trails (5)
 - [ ] Laugavegur
