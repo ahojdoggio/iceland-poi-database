@@ -162,6 +162,7 @@
     "pois/jaja_ding_dong_h\u00fasav\u00edk.json",
     "pois/jokulsarlon_glacier_lagoon.json",
     "pois/j\u00f6kuls\u00e1rglj\u00fafur_canyon.json",
+    "pois/j\u00f6kuls\u00e1rl\u00f3n.json",
     "pois/kaffibarinn.json",
     "pois/kaldi_bar.json",
     "pois/katla.json",
@@ -236,6 +237,7 @@
     "pois/reykjav\u00edk_roasters.json",
     "pois/reykjav\u00edk_whale_watching.json",
     "pois/reynisdrangar.json",
+    "pois/reynisfjara.json",
     "pois/reynisfjara_black_sand_beach.json",
     "pois/rey\u00f0arfj\u00f6r\u00f0ur.json",
     "pois/rif.json",
@@ -278,6 +280,7 @@
     "pois/stodvarfjordur.json",
     "pois/stokksnes.json",
     "pois/strandarkirkja.json",
+    "pois/strokkur.json",
     "pois/stu\u00f0lagil_canyon.json",
     "pois/stykkisholmur.json",
     "pois/stykkish\u00f3lmur.json",
@@ -328,11 +331,12 @@
     "pois/\u00f3lafsv\u00edk.json",
     "pois/\u00f6lverk_brewery.json",
     "pois/\u00feingeyrar_church.json",
+    "pois/\u00feingvellir.json",
     "pois/\u00feingvellir_national_park.json",
     "pois/\u00fer\u00edhn\u00fakag\u00edgur.json",
     "pois/\u00fe\u00f3rsm\u00f6rk_valley.json"
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 331
+  "total_files": 335
 }

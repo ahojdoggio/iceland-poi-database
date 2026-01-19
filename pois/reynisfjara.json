@@ -1,0 +1,27 @@
+{
+  "name": "Reynisfjara - Iceland's Most Dangerous Beach",
+  "description": "Reynisfjara establishes Iceland's most famous yet dangerous black sand beach where dramatic basalt columns towering Reynisdrangar sea stacks powerful Atlantic surf create spectacular coastal scenery attracting millions visitors annually though sneaker waves periodically injure kill tourists creating tragic reputation requiring constant vigilance safety warnings establishing complex destination combining exceptional natural beauty serious hazards requiring responsible visitor behavior respecting ocean power. Basalt columns Garðar geometric formations created volcanic lava cooling processes creating hexagonal pillars resembling Giant's Causeway Northern Ireland establishing geological tourism demonstrating volcanic rock formations attracting geology enthusiasts photographers seeking dramatic coastal imagery establishing Reynisfjara iconic status representing Icelandic volcanic coastal landscapes worldwide tourism marketing. Reynisdrangar sea stacks 66-meter basalt pinnacles offshore according folklore represent trolls caught sunlight turned stone creating mythology enriching landscape appreciation beyond purely geological explanations establishing cultural narrative traditions characteristic Icelandic place-based storytelling integrating natural features cultural heritage. Cave Hálsanefshellir basalt column interior provides dramatic photographic setting though cave access requires careful timing avoiding incoming waves demonstrating ongoing hazards requiring continuous awareness ocean conditions tide movements preventing tragic accidents occurring when visitors underestimate wave power. Safety signage warns visitors maintaining safe distances waterline never turning backs waves though tourist behavior frequently ignores warnings creating rescue situations emergency responses establishing ongoing challenges managing tourist safety spectacular yet hazardous locations requiring balanced approaches enabling access while preventing fatalities.",
+  "address": "Reynisfjara, near Vík, South Iceland",
+  "coordinates": {
+    "longitude": -19.0464,
+    "latitude": 63.4040,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 67890,
+  "category": "Beach",
+  "website": "https://www.south.is/reynisfjara",
+  "phone": null,
+  "images": [
+    "https://www.south.is/images/reynisfjara.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round, 24/7 (dangerous in all seasons)",
+    "warning": "Sneaker waves - maintain safe distance, never turn back on ocean",
+    "basalt_columns": "Garðar hexagonal formations",
+    "reynisdrangar": "66m sea stacks offshore (troll legend)",
+    "cave": "Hálsanefshellir basalt column interior",
+    "fatalities": "Multiple tourist deaths from sneaker waves - extreme caution required",
+    "character": "Black sand beach, basalt columns, dangerous sneaker waves"
+  }
+}

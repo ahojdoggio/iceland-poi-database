@@ -1,0 +1,26 @@
+{
+  "name": "Jökulsárlón - Glacier Lagoon Iceland's Crown Jewel",
+  "description": "Jökulsárlón establishes Iceland's most spectacular glacier lagoon where massive icebergs calve Breiðamerkurjökull glacier tongue floating across 18-square-kilometer lagoon creating ethereal seascapes attracting visitors worldwide seeking witness climate change impacts glacial recession creating ever-changing landscape establishing premier south coast attraction demonstrating Iceland's glacial environments accessible formats enabling boat tours amphibian vehicle excursions providing intimate iceberg encounters. Diamond Beach adjacent lagoon presents ice chunks washed ashore black volcanic sand creating stunning contrast where translucent ice resembles scattered diamonds sunlight creating photographic paradise attracting professional amateur photographers seeking capture unique natural phenomena establishing Instagram-worthy location featured countless social media posts tourism promotions worldwide establishing global recognition transforming remote lagoon major tourism destination. Seal populations inhabit lagoon waters creating wildlife viewing opportunities supplementing glacial tourism where harbor seals rest icebergs hunt fish creating unexpected Arctic wildlife encounters establishing ecological dimension beyond purely geological glacial tourism demonstrating diverse natural values supporting comprehensive environmental education. James Bond film locations including Die Another Day A View to Kill established pop-culture recognition where action sequences spectacular lagoon scenery introduced millions viewers Icelandic landscapes creating cinema tourism phenomenon attracting film enthusiasts seeking iconic movie locations establishing unexpected celebrity status remote natural feature.",
+  "address": "Jökulsárlón, Route 1 Ring Road, Southeast Iceland",
+  "coordinates": {
+    "longitude": -16.2306,
+    "latitude": 64.0781,
+    "altitude": 0.0
+  },
+  "rating": 4.9,
+  "reviews_count": 124560,
+  "category": "Glacier Lagoon",
+  "website": "https://icelagoon.is",
+  "phone": "+354 478 2222",
+  "images": [
+    "https://icelagoon.is/images/jokulsarlon.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round, boat tours May-October",
+    "area": "18 km² lagoon",
+    "diamond_beach": "Adjacent ice-on-black-sand beach",
+    "boat_tours": "Zodiac and amphibian vehicle options",
+    "james_bond": "Film locations Die Another Day, A View to Kill",
+    "character": "Glacier lagoon, icebergs, Diamond Beach, iconic Iceland"
+  }
+}

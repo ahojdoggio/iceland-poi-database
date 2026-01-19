@@ -1,0 +1,26 @@
+{
+  "name": "Þingvellir National Park - UNESCO World Heritage Site",
+  "description": "Þingvellir establishes Iceland's most historically culturally significant site where Alþingi parliament founded AD 930 created world's oldest continuous parliamentary institution UNESCO World Heritage recognition 2004 acknowledging exceptional historical cultural geological values combining political heritage dramatic rift valley landscape where North American Eurasian tectonic plates diverge creating visible geological processes establishing premier destination demonstrating Iceland's unique combination human natural history attracting visitors seeking understand Icelandic identity formation geological foundations democratic traditions establishing essential Golden Circle component representing historical cultural pillars Icelandic society. Almannagjá rift gorge represents visible tectonic plate boundary where continental drift creates widening chasm Law Rock Lögberg located where lawspeaker recited laws chieftains debated legislation creating outdoor parliamentary assembly demonstrating democratic governance predating European parliaments establishing Icelandic pride political heritage influencing modern governance values emphasizing consensus democratic participation historical continuity. Öxarárfoss waterfall Þingvallavatn lake diving snorkeling Silfra fissure create diverse natural attractions beyond historical significance where crystal-clear glacial water enables exceptional underwater visibility attracting divers worldwide seeking unique geological diving experiences swimming between continental plates creating unforgettable adventure tourism opportunities supplementing heritage tourism establishing multifaceted destination combining history geology recreation creating comprehensive visitor experiences supporting extended stays thorough exploration.",
+  "address": "Þingvellir National Park, Golden Circle, Southwest Iceland",
+  "coordinates": {
+    "longitude": -21.1300,
+    "latitude": 64.2558,
+    "altitude": 101.0
+  },
+  "rating": 4.9,
+  "reviews_count": 89230,
+  "category": "National Park",
+  "website": "https://www.thingvellir.is",
+  "phone": "+354 482 2660",
+  "images": [
+    "https://www.thingvellir.is/images/thingvellir.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round, visitor center seasonal hours",
+    "unesco": "World Heritage Site 2004",
+    "althingi": "Parliament site AD 930-1798",
+    "silfra": "Diving/snorkeling between tectonic plates",
+    "golden_circle": "Essential component classic day-trip",
+    "character": "Historical parliament site, UNESCO heritage, rift valley"
+  }
+}
