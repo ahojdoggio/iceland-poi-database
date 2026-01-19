@@ -71,6 +71,7 @@
     "pois/foss_a_sidu.json",
     "pois/gar\u00f0ab\u00e6r.json",
     "pois/gar\u00f0skagi.json",
+    "pois/gar\u00f0ur.json",
     "pois/geitafoss.json",
     "pois/geysir.json",
     "pois/glaumbaer_farm_museum.json",
@@ -84,6 +85,7 @@
     "pois/grafarvogslaug.json",
     "pois/grettislaug_pool.json",
     "pois/grillmarka\u00f0urinn.json",
+    "pois/grindav\u00edk.json",
     "pois/grjotagja.json",
     "pois/grundarfoss.json",
     "pois/gr\u00e1brok.json",
@@ -99,6 +101,7 @@
     "pois/harpa_concert_hall.json",
     "pois/heimaey.json",
     "pois/hekla.json",
+    "pois/hella.json",
     "pois/hellnar.json",
     "pois/hellulaug.json",
     "pois/hengifoss.json",
@@ -119,6 +122,7 @@
     "pois/husavik.json",
     "pois/hvalfj\u00f6r\u00f0ur.json",
     "pois/hveragerdi.json",
+    "pois/hverager\u00f0i.json",
     "pois/hveravellir_geothermal.json",
     "pois/hverfjall.json",
     "pois/hv\u00edtserkur.json",
@@ -291,5 +295,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 288
+  "total_files": 292
 }
