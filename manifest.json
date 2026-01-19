@@ -18,6 +18,7 @@
     "pois/berserkjahraun.json",
     "pois/bessasta\u00f0ir.json",
     "pois/birkimelur_swimming_pool.json",
+    "pois/bjargtangar.json",
     "pois/blue_lagoon.json",
     "pois/bolungarvik.json",
     "pois/borg_bruggh\u00fas.json",
@@ -62,6 +63,7 @@
     "pois/flatey.json",
     "pois/forest_lagoon_akureyri.json",
     "pois/foss_a_sidu.json",
+    "pois/gar\u00f0skagi.json",
     "pois/geitafoss.json",
     "pois/geysir.json",
     "pois/glaumbaer_farm_museum.json",
@@ -78,6 +80,7 @@
     "pois/grundarfoss.json",
     "pois/gr\u00e1brok.json",
     "pois/gr\u00edmsey.json",
+    "pois/gr\u00f3tta.json",
     "pois/gullfoss.json",
     "pois/gunnuhver.json",
     "pois/gvendarlaug.json",
@@ -175,6 +178,7 @@
     "pois/reykholt.json",
     "pois/reykjadalur.json",
     "pois/reykjafjardarlaug_hot_pool.json",
+    "pois/reykjanesviti.json",
     "pois/reykjavik_art_museum.json",
     "pois/reykjavik_botanic_garden.json",
     "pois/reykjavik_maritime_museum.json",
@@ -260,5 +264,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 257
+  "total_files": 261
 }
