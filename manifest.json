@@ -112,6 +112,7 @@
     "pois/hverfjall.json",
     "pois/hv\u00edtserkur.json",
     "pois/h\u00f3lar_cathedral.json",
+    "pois/h\u00f3lmsbergsviti.json",
     "pois/h\u00f3tel_b\u00fa\u00f0ir_restaurant.json",
     "pois/h\u00fasav\u00edk_lighthouse.json",
     "pois/h\u00fasav\u00edk_whale_museum.json",
@@ -264,5 +265,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 261
+  "total_files": 262
 }
