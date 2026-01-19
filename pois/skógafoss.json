@@ -1,0 +1,27 @@
+{
+  "name": "Skógafoss - Iceland's Most Photogenic Waterfall",
+  "description": "Skógafoss establishes Iceland's most iconic accessible waterfall where 60-meter cascade 25-meter width creates spectacular curtain falls positioned Route 1 Ring Road enabling convenient viewing extensive infrastructure supporting millions annual visitors establishing premier south coast attraction demonstrating perfect combination natural beauty accessibility creating Instagram-worthy compositions featured countless tourism promotions worldwide establishing global recognition transforming modest fishing village Skógar major tourism destination. Double rainbow phenomena frequent sunny conditions where waterfall mist refracts sunlight creating spectacular optical effects attracting photographers seeking magical imagery establishing Skógafoss reputation natural wonder beyond purely scale power considerations demonstrating how atmospheric optical phenomena enhance waterfall tourism appeals creating memorable visitor experiences. Staircase 527 steps enables summit access providing panoramic coastal views Skógá river valley perspectives rewarding energetic visitors willing climb though platform base provides excellent photography without hiking effort accommodating diverse fitness levels time constraints enabling comprehensive visitor access. Folklore treasure legend claims Viking settler Þrasi hid treasure chest behind waterfall creating enduring mythology enhancing cultural narrative beyond purely geological natural features establishing multidimensional appeal combining nature history folklore creating rich interpretive tourism experiences.",
+  "address": "Skógafoss, Route 1, South Iceland (Skógar village)",
+  "coordinates": {
+    "longitude": -19.5117,
+    "latitude": 63.5320,
+    "altitude": 15.0
+  },
+  "rating": 4.9,
+  "reviews_count": 78920,
+  "category": "Waterfall",
+  "website": "https://www.south.is/skogafoss",
+  "phone": null,
+  "images": [
+    "https://www.south.is/images/skogafoss.jpg"
+  ],
+  "opening_hours": {
+    "access": "Year-round, Route 1 Ring Road adjacent",
+    "height": "60 meters",
+    "width": "25 meters",
+    "stairs": "527 steps to summit viewpoint",
+    "rainbow": "Frequent double rainbows sunny conditions",
+    "folklore": "Viking treasure legend behind falls",
+    "character": "Iconic photogenic waterfall, double rainbows, summit access"
+  }
+}

@@ -94,6 +94,7 @@
     "pois/glymur_waterfall_trail.json",
     "pois/gl\u00f3_restaurant.json",
     "pois/godafoss.json",
+    "pois/go\u00f0afoss.json",
     "pois/grafarkirkja.json",
     "pois/grafarvogslaug.json",
     "pois/greniv\u00edk.json",
@@ -186,6 +187,7 @@
     "pois/landmannalaugar_hot_spring.json",
     "pois/langjokull_glacier.json",
     "pois/lauf\u00e1s_museum_and_heritage_site.json",
+    "pois/laugar.json",
     "pois/laugardalslaug.json",
     "pois/laugarvatn_fontana_spa.json",
     "pois/laugavegur_street.json",
@@ -266,6 +268,7 @@
     "pois/skriduklaustur.json",
     "pois/sky_lagoon.json",
     "pois/sk\u00e1lholt_cathedral.json",
+    "pois/sk\u00f3gafoss.json",
     "pois/slippbarinn.json",
     "pois/snaefellsjokull_national_park.json",
     "pois/sn\u00e6fellsj\u00f6kull.json",
@@ -331,5 +334,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 328
+  "total_files": 331
 }
