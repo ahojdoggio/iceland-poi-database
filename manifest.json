@@ -131,6 +131,7 @@
     "pois/h\u00f3lar_cathedral.json",
     "pois/h\u00f3lmsbergsviti.json",
     "pois/h\u00f3tel_b\u00fa\u00f0ir_restaurant.json",
+    "pois/h\u00f6fn.json",
     "pois/h\u00fasav\u00edk_airport.json",
     "pois/h\u00fasav\u00edk_lighthouse.json",
     "pois/h\u00fasav\u00edk_whale_museum.json",
@@ -148,6 +149,7 @@
     "pois/keflav\u00edk_international_airport.json",
     "pois/keri\u00f0.json",
     "pois/kerlingarfj\u00f6ll.json",
+    "pois/kirkjub\u00e6jarklaustur.json",
     "pois/kirkjufell.json",
     "pois/kirkjufellsfoss.json",
     "pois/kj\u00f6lur_highland_route.json",
@@ -279,6 +281,7 @@
     "pois/vik.json",
     "pois/vi\u00f0ey.json",
     "pois/vogafj\u00f3s_restaurant.json",
+    "pois/v\u00edk.json",
     "pois/v\u00ed\u00f0gelmir.json",
     "pois/v\u00ed\u00f0im\u00fdrarkirkja.json",
     "pois/whales_of_iceland.json",
@@ -299,5 +302,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 296
+  "total_files": 299
 }
