@@ -23,6 +23,7 @@
     "pois/borg_bruggh\u00fas.json",
     "pois/borgarnes.json",
     "pois/brau\u00f0_&_co.json",
+    "pois/brei\u00f0av\u00edk.json",
     "pois/brei\u00f0holtslaug.json",
     "pois/bruarfoss.json",
     "pois/bryggjan_bruggh\u00fas.json",
@@ -106,6 +107,7 @@
     "pois/hvalfj\u00f6r\u00f0ur.json",
     "pois/hveragerdi.json",
     "pois/hverfjall.json",
+    "pois/hv\u00edtserkur.json",
     "pois/h\u00f3lar_cathedral.json",
     "pois/h\u00f3tel_b\u00fa\u00f0ir_restaurant.json",
     "pois/h\u00fasav\u00edk_lighthouse.json",
@@ -155,6 +157,7 @@
     "pois/namaskard.json",
     "pois/national_gallery_of_iceland.json",
     "pois/national_museum_of_iceland.json",
+    "pois/nauth\u00f3lsv\u00edk.json",
     "pois/nonnis_house.json",
     "pois/old_harbour.json",
     "pois/oxararfoss.json",
@@ -168,6 +171,7 @@
     "pois/punk_museum.json",
     "pois/raudfeldsgja_gorge.json",
     "pois/raufarh\u00f3lshellir.json",
+    "pois/rau\u00f0isandur.json",
     "pois/reykholt.json",
     "pois/reykjadalur.json",
     "pois/reykjafjardarlaug_hot_pool.json",
@@ -242,6 +246,7 @@
     "pois/v\u00ed\u00f0gelmir.json",
     "pois/v\u00ed\u00f0im\u00fdrarkirkja.json",
     "pois/whales_of_iceland.json",
+    "pois/ytri-tunga.json",
     "pois/ytri_tunga.json",
     "pois/\u00e1lftaneslaug.json",
     "pois/\u00e1rb\u00e6jarlaug.json",
@@ -255,5 +260,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 252
+  "total_files": 257
 }
