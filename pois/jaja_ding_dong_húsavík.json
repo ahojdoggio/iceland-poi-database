@@ -1,6 +1,6 @@
 {
   "name": "Jaja Ding Dong Húsavík",
-  "description": "Colourful bar and café attached to the Húsavík Eurovision Exhibition, inspired by the Netflix film "Eurovision Song Contest: The Story of Fire Saga". Guests can enjoy cocktails, coffee and light bites surrounded by costumes, props and memorabilia from the movie. It's a fun hangout for Eurovision fans with lively sing-alongs and views over Húsavík and Skjálfandi Bay.",
+  "description": "Colourful bar and café attached to the Húsavík Eurovision Exhibition, inspired by the Netflix film 'Eurovision Song Contest: The Story of Fire Saga'. Guests can enjoy cocktails, coffee and light bites surrounded by costumes, props and memorabilia from the movie. It's a fun hangout for Eurovision fans with lively sing-alongs and views over Húsavík and Skjálfandi Bay.",
   "address": "Laugarbrekka, 640 Húsavík, Iceland",
   "coordinates": {
     "longitude": -17.3534639,
@@ -13,10 +13,7 @@
   "website": "https://eurovisionhusavik.com",
   "phone": "+354 463 3399",
   "images": [
-    {
-      "source": "Jaja Ding Dong Húsavík – Facebook",
-      "url": "https://www.facebook.com/jajahusavik/photos"
-    }
+    "https://www.facebook.com/jajahusavik/photos"
   ],
   "opening_hours": {
     "general": "Seasonal hours; typically open daily from late afternoon into the evening. Check the Eurovision Exhibition website for current times."

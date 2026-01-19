@@ -9,7 +9,6 @@
     "pois/akureyri_museum.json",
     "pois/akureyri_swimming_pool.json",
     "pois/aldeyjarfoss.json",
-    "pois/aldeyjarfoss_waterfall.json",
     "pois/apotek_restaurant.json",
     "pois/arbaer_open_air_museum.json",
     "pois/arctic_fox_center.json",
@@ -80,7 +79,6 @@
     "pois/fagradalsfjall.json",
     "pois/fagrifoss.json",
     "pois/faskrudsfjordur.json",
-    "pois/faxi.json",
     "pois/faxi_waterfall.json",
     "pois/fimmv\u00f6r\u00f0uh\u00e1ls_trail.json",
     "pois/fiskf\u00e9lagi\u00f0.json",
@@ -234,7 +232,6 @@
     "pois/lava_centre.json",
     "pois/lei\u00f0arendi.json",
     "pois/litlanesfoss.json",
-    "pois/litlanesfoss_waterfall.json",
     "pois/lnsrfi_viewpoint.json",
     "pois/logn_restaurant.json",
     "pois/londrangar.json",
@@ -274,7 +271,6 @@
     "pois/raufarh\u00f3lshellir.json",
     "pois/rau\u00f0isandur.json",
     "pois/reykholt.json",
-    "pois/reykjadalur.json",
     "pois/reykjadalur_pool.json",
     "pois/reykjafjardarlaug_hot_pool.json",
     "pois/reykjanesviti.json",
@@ -396,5 +392,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 393
+  "total_files": 389
 }
