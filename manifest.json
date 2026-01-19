@@ -117,6 +117,7 @@
     "pois/husavik.json",
     "pois/hvalfj\u00f6r\u00f0ur.json",
     "pois/hveragerdi.json",
+    "pois/hveravellir_geothermal.json",
     "pois/hverfjall.json",
     "pois/hv\u00edtserkur.json",
     "pois/h\u00f3lar_cathedral.json",
@@ -141,6 +142,7 @@
     "pois/kerlingarfj\u00f6ll.json",
     "pois/kirkjufell.json",
     "pois/kirkjufellsfoss.json",
+    "pois/kj\u00f6lur_highland_route.json",
     "pois/kleifarvatn.json",
     "pois/kol_restaurant.json",
     "pois/kolugljufur_canyon.json",
@@ -149,6 +151,7 @@
     "pois/krossneslaug_pool.json",
     "pois/kvernufoss.json",
     "pois/k\u00f3pavogslaug.json",
+    "pois/lakag\u00edgar_craters.json",
     "pois/lake_myvatn.json",
     "pois/lake_viti.json",
     "pois/landmannalaugar_hot_spring.json",
@@ -169,6 +172,7 @@
     "pois/messinn.json",
     "pois/micro_bar.json",
     "pois/myrdalsjokull_glacier.json",
+    "pois/m\u00fdrdalssandur_plain.json",
     "pois/m\u00fdvatn_nature_baths.json",
     "pois/namaskard.json",
     "pois/national_gallery_of_iceland.json",
@@ -231,6 +235,7 @@
     "pois/sn\u00e6fellsj\u00f6kull.json",
     "pois/solheimajokull_glacier.json",
     "pois/solheimasandur_plane_wreck.json",
+    "pois/sprengisandur_route.json",
     "pois/stodvarfjordur.json",
     "pois/stokksnes.json",
     "pois/strandarkirkja.json",
@@ -276,9 +281,10 @@
     "pois/\u00f6lverk_brewery.json",
     "pois/\u00feingeyrar_church.json",
     "pois/\u00feingvellir_national_park.json",
-    "pois/\u00fer\u00edhn\u00fakag\u00edgur.json"
+    "pois/\u00fer\u00edhn\u00fakag\u00edgur.json",
+    "pois/\u00fe\u00f3rsm\u00f6rk_valley.json"
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 277
+  "total_files": 283
 }

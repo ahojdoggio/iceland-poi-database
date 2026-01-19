@@ -150,8 +150,8 @@
 | **1** | Top 50 Attractions | 50 | 12-15h | 50/50 (100%) ✅ |
 | **2** | Major Routes | 50 | 8-10h | 50/50 (100%) ✅ |
 | **3** | Towns & Capitals | 35 | 6-8h | 35/35 (100%) ✅ |
-| **4** | Specialized Sites | 258 | 40-50h | 142/258 (55%) 🔄 |
-| **TOTAL** | | **393** | **66-83h** | **277/393 (70%)** |
+| **4** | Specialized Sites | 258 | 40-50h | 148/258 (57%) 🔄 |
+| **TOTAL** | | **393** | **66-83h** | **283/393 (72%)** |
 
 ---
 
@@ -374,7 +374,7 @@
 
 ---
 
-## 📋 PRIORITY 4: Specialized Sites (116 remaining, 142 complete)
+## 📋 PRIORITY 4: Specialized Sites (110 remaining, 148 complete)
 
 ### Completed Categories ✅
 - **Swimming Pools:** ✅ COMPLETE (35/35) - 18 new Priority 4 pools created
@@ -390,11 +390,11 @@
 - **Wildlife Sites:** ✅ COMPLETE (6/6) - 6 new created
 - **Hiking Trails:** ✅ COMPLETE (5/5) - 5 new created
 - **Airports:** ✅ COMPLETE (5/5) - 4 new created (Keflavík updated from Priority 1)
+- **Highlands:** ✅ COMPLETE (10/10) - 6 new created (4 existed from Priority 1-3)
 
 ### Remaining Categories
 - **Waterfalls:** 22 remaining
 - **Museums:** 25 remaining
-- **Highlands:** 10 remaining
 - **Towns & Villages:** 50+ remaining
 
 **Full detailed lists in sections below** ↓
@@ -730,17 +730,17 @@ Running: [X]/393 ([X]%)
 - [x] Hornstrandir - Europe's last wilderness, Westfjords remote multi-day treks
 - [x] Askja - Highland volcanic caldera trail, Víti crater, 4x4 access only
 
-### Highlands (10)
-- [ ] Landmannalaugar
-- [ ] Þórsmörk
-- [ ] Kerlingarfjöll
-- [ ] Askja
-- [ ] Lakagígar
-- [ ] Hveravellir
-- [ ] Kjölur Route
-- [ ] Sprengisandur Route
-- [ ] Mýrdalssandur
-- [ ] Skaftafell
+### Highlands ✅ COMPLETE (10/10)
+- [x] Landmannalaugar - Existed as landmannalaugar_hot_spring.json (Priority 1 geothermal)
+- [x] Þórsmörk - Valley between 3 glaciers, Laugavegur/Fimmvörðuháls endpoint
+- [x] Kerlingarfjöll - Existed from Priority 4 Volcanoes & Craters category
+- [x] Askja - Existed as askja_víti.json + askja_caldera_trail.json
+- [x] Lakagígar - 1783 Laki eruption, 130 craters, F206 access
+- [x] Hveravellir - Geothermal oasis, Kjölur midpoint, hot springs
+- [x] Kjölur Route - F35, 168km, no river crossings, easiest highland route
+- [x] Sprengisandur Route - F26, 196km, Iceland's longest/most remote highland track
+- [x] Mýrdalssandur - Black sand glacial outwash, Katla jökulhlaup floods
+- [x] Skaftafell - Existed from Priority 2 South Coast (skaftafell.json)
 
 ### Airports ✅ COMPLETE (5/5)
 - [x] Keflavík International - Iceland's main gateway, 7.51M passengers 2026, 29 airlines, 90 destinations
