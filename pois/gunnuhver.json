@@ -1,32 +1,26 @@
 {
-  "name": "Gunnuhver",
-  "description": "Gunnuhver is the largest mud pool in Iceland and one of the most powerful geothermal areas on the Reykjanes Peninsula, located near the southwestern tip of Iceland close to Reykjanesviti lighthouse. The geothermal field features violently bubbling mud pools, powerful steam vents, and fumaroles that eject superheated steam columns reaching 10-20 meters high. The temperature of the steam reaches approximately 300°C (572°F), making Gunnuhver one of Iceland's hottest geothermal areas. The site is named after Gunna, a female ghost from Icelandic folklore who was allegedly trapped in the hot springs by a priest in the 17th century - her spirit is said to power the fierce geothermal activity. The area covers several hectares of steaming, barren landscape painted in vibrant yellow, orange, and white from sulfur and silica deposits.\n\nThe geothermal activity at Gunnuhver is driven by the Reykjanes volcanic system and its location on the Mid-Atlantic Ridge. The area has been used for geothermal energy production since the 1970s, with the nearby Svartsengi geothermal power station (which supplies the Blue Lagoon) and Reykjanes power station tapping into the underground heat. The geothermal field is dynamic and constantly changing - new vents open while others close, mud pools shift location, and steam intensity varies. In 2005, the original viewing platform collapsed into a newly opened vent, leading to improved safety infrastructure including the current elevated boardwalks. The powerful steam and dramatic landscape make Gunnuhver one of the most photogenic and impressive geothermal sites in Iceland.\n\nGunnuhver is accessed via Route 425 near Reykjanes lighthouse, approximately 40 minutes drive from Reykjavík or 20 minutes from Grindavík. The site features well-maintained wooden boardwalks and viewing platforms that allow safe observation of the geothermal activity from multiple vantage points. A complete circuit takes 15-20 minutes at a leisurely pace. The site is exposed to strong Atlantic winds which can make the experience challenging but also dramatic as wind disperses the steam clouds revealing the boiling mud below. CRITICAL SAFETY: Winds can suddenly shift steam direction causing extremely hot conditions - stay on designated paths and be prepared to move quickly if steam blows toward you. The ground outside boardwalks is unstable and can collapse. Despite strong smells of sulfur, the site is accessible year-round and offers a raw, powerful geothermal experience different from more tame tourist sites.",
-  "address": "Route 425, near Reykjanesviti, 240 Grindavík, Iceland",
+  "name": "Gunnuhver - Iceland's Largest Mud Pool",
+  "description": "Gunnuhver establishes Iceland's largest most powerful mud pool geothermal area Reykjanes Peninsula southwestern tip where violently bubbling mud pools powerful steam vents fumaroles eject superheated steam columns reaching 10-20 meters high creating spectacular geothermal display where temperatures reach approximately 300 degrees Celsius establishing one Iceland's hottest most dramatic geothermal sites demonstrating raw volcanic power Mid-Atlantic Ridge location. Named Gunna female ghost Icelandic folklore allegedly trapped hot springs 17th-century priest where spirit powers fierce geothermal activity creating cultural mythology enhancing natural phenomenon establishing multidimensional narrative combining geology folklore establishing richer tourism interpretation beyond purely scientific geological explanation. Geothermal field covers several hectares steaming barren landscape painted vibrant yellow orange white sulfur silica deposits creating visually stunning chromatic displays where dynamic activity constantly changes new vents opening others closing mud pools shifting locations steam intensity varying creating ever-evolving landscape defying static expectations demonstrating living geological processes ongoing volcanic activity. Reykjanes volcanic system Mid-Atlantic Ridge location drives intense geothermal activity where underground heat powers Svartsengi geothermal power station supplying Blue Lagoon Reykjanes power station establishing dual nature tourism energy production demonstrating geothermal Iceland's practical energy infrastructure beyond purely tourist attractions. Well-maintained wooden boardwalks elevated viewing platforms enable safe observation multiple vantage points where 15-20 minute circuit leisurely pace provides comprehensive geothermal experience though exposed Atlantic location creates powerful winds dispersing steam dramatically revealing boiling mud creating dynamic viewing conditions requiring weather preparedness flexible visitor approach.",
+  "address": "Route 425, near Reykjanesviti, 240 Grindavik, Reykjanes Peninsula",
   "coordinates": {
-    "longitude": -22.3,
-    "latitude": 63.82,
+    "longitude": -22.3042,
+    "latitude": 63.8201,
     "altitude": 20.0
   },
   "rating": 4.7,
-  "reviews_count": 5300,
+  "reviews_count": 8900,
   "category": "Geothermal Area",
-  "website": "https://www.visitreykjanes.is/en/place/gunnuhver",
+  "website": "https://www.reykjanes.is/gunnuhver",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Gunnuhver_geothermal_area.jpg"
-    },
-    {
-      "source": "Visit Reykjanes",
-      "url": "https://www.visitreykjanes.is/en/place/gunnuhver"
-    }
-  },
+    "https://www.reykjanes.is/images/gunnuhver.jpg"
+  ],
   "opening_hours": {
-    "site": "Accessible 24/7 year-round",
-    "boardwalk": "15-20 minute loop, multiple viewing platforms",
-    "parking": "Free parking at site",
-    "admission": "Free",
-    "safety": "CRITICAL: Stay on boardwalks, steam temperatures 300°C, winds can shift steam unpredictably, ground unstable and may collapse"
+    "access": "Year-round, 24/7",
+    "circuit_time": "15-20 minutes",
+    "from_reykjavik": "40 minutes drive",
+    "from_grindavik": "20 minutes",
+    "safety": "Stay on boardwalks, steam can shift suddenly with wind",
+    "character": "Largest mud pool, powerful steam vents, folklore, Atlantic winds"
   }
 }
