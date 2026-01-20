@@ -34,18 +34,28 @@
 **4. Empty Images Array Fix (58 files)**
 - ✅ Removed empty `images: []` arrays that were causing frontend parsing failures
 - ✅ Website requires images field to either have URLs or be completely absent
-- ✅ Fixed the 388/389 display discrepancy on GitHub Pages
+
+**5. Images Format Fix (111 files) - CRITICAL FIX**
+- ✅ Converted images from object arrays to string arrays
+- ✅ Before: `[{"source": "...", "url": "..."}]`
+- ✅ After: `["url"]`
+- ✅ Frontend expects simple string arrays, object format was breaking parsing
+- ✅ Fixed 109 POIs automatically + 2 manually (berserkjahraun, birkimelur_swimming_pool)
+- ✅ **This fix resolves the 388/389 display discrepancy on GitHub Pages**
 
 **Before optimization:**
 - Average description: 2341 chars
 - 193 POIs over 2500 chars
 - 10 POIs over 4000 chars
 - 58 POIs with empty images arrays
+- 111 POIs with object-formatted images (breaking frontend)
 
 **After optimization:**
 - Average description: 1403 chars
 - 0 POIs over 2500 chars
 - 0 POIs with empty images arrays
+- 0 POIs with object-formatted images
+- All 389 POIs frontend-compatible
 - Consistent, readable descriptions across all POIs
 
 **Final count:** 389 unique, validated, optimized POIs
@@ -132,13 +142,17 @@ $ python -c "import json, os; lengths=[len(json.load(open(f'pois/{f}'))['descrip
 
 - **Modified:** 193 POI JSON files (description optimization)
 - **Modified:** 58 POI JSON files (empty images array removal)
+- **Modified:** 111 POI JSON files (images format fix: object arrays → string arrays)
 - **Modified:** 12 POI files (JSON validation fixes)
 - **Removed:** 4 duplicate POI files
 - **Modified:**
   - `manifest.json` (updated to 389 entries)
   - `docs/WORK_CHECKLIST.md` (marked 389/389 complete)
   - `PR_SUMMARY.md` (this file - updated with all changes)
-- **Total:** 267 files modified, all validated and optimized
+- **Added:**
+  - `fix_images_format.py` (automated images format conversion script)
+  - `validate_all_pois.py` (frontend compatibility validation script)
+- **Total:** 378 files modified/added, all validated and optimized
 
 ## 🚀 Deployment Process
 
@@ -182,9 +196,10 @@ All 389 POIs are complete, validated, optimized, and ready for production deploy
 1. ✅ Fixed 12 POI files with invalid JSON
 2. ✅ Removed 4 duplicate POIs
 3. ✅ Optimized 193 POI descriptions (2500+ chars → 1400-1800 chars)
-4. ✅ Fixed 58 POIs with empty images arrays (causing 388/389 discrepancy)
-5. ✅ Updated all documentation
-6. ✅ Regenerated manifest.json
+4. ✅ Fixed 58 POIs with empty images arrays
+5. ✅ **Fixed 111 POIs with object-formatted images (THE FIX for 388/389 discrepancy)**
+6. ✅ Updated all documentation
+7. ✅ Regenerated manifest.json
 
 **Why these changes matter:**
 - **Website performance:** Shorter descriptions = faster page loads
