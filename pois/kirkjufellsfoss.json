@@ -13,14 +13,8 @@
   "website": "https://www.west.is/en/place/kirkjufellsfoss",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Kirkjufellsfoss_and_Kirkjufell.jpg"
-    },
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/kirkjufellsfoss"
-    }
+    "https://commons.wikimedia.org/wiki/File:Kirkjufellsfoss_and_Kirkjufell.jpg",
+    "https://www.west.is/en/place/kirkjufellsfoss"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

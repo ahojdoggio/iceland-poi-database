@@ -13,22 +13,10 @@
   "website": "https://www.bluelagoon.com",
   "phone": "+354 420 8800",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQVsxvKJZQrQZLfcVXV_RNg3C5s2irAaeG7VRzEHCKSh51ZgNSfNLeulBDAVA778rAT357wdzu10XpYFle6tUxn5GimamsRTu_nmHpkOhAQDeTRrwTznVXUxyic3up1sJIpM5tZOQYuxT8MOqe3wShsj31D_AVbBBEOPapVHew6gJu5a40CT4IR3dzgUzCG1cphEAI?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTjOvuf6VOktkVxblC74BcrXNXr69xABwpQv6fK80oXYtMTz1WHNHqIK85W8cynTPb0wzJrn5bV5daJKymWSeR8p-09pNfnXJ7Ht6L1zCfZAbVGwQfrSQJjaM8KsspB872s9YDBo6ZlxwoLQVz9oczuoKz3fo2z7OstcIVLMaS5WCb29wFqlO0ul7YNHv2CiZNQOhU?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTdQuPD2xeYmy2KsSHJsEbAkcouJnw3zOKMa-gYOsEmut_0A-54JGXi1S96sU3YRrzfK1qDB8geOzOGwDaI-CFYiRRtxuNkTihKjQ3z9qlEn-jog9RwK43pwfzTBS820GeqnjTDQj0gFPQECLE-n_-PzbrGFX-zDJl_H2k4Cev901i4TUeVIKY0pXTl4kVqDt5lm84?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://lh3.googleusercontent.com/-789Ei6rWUbM/VGupuV83nOI/AAAAAAAAAbc/XTRF2eAYIFA-s0d20K8LGhuDKz4NywQEwCJkC/s1600-w791-h529/blue-lagoon-iceland-travel-63.jpg"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQVsxvKJZQrQZLfcVXV_RNg3C5s2irAaeG7VRzEHCKSh51ZgNSfNLeulBDAVA778rAT357wdzu10XpYFle6tUxn5GimamsRTu_nmHpkOhAQDeTRrwTznVXUxyic3up1sJIpM5tZOQYuxT8MOqe3wShsj31D_AVbBBEOPapVHew6gJu5a40CT4IR3dzgUzCG1cphEAI?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTjOvuf6VOktkVxblC74BcrXNXr69xABwpQv6fK80oXYtMTz1WHNHqIK85W8cynTPb0wzJrn5bV5daJKymWSeR8p-09pNfnXJ7Ht6L1zCfZAbVGwQfrSQJjaM8KsspB872s9YDBo6ZlxwoLQVz9oczuoKz3fo2z7OstcIVLMaS5WCb29wFqlO0ul7YNHv2CiZNQOhU?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTdQuPD2xeYmy2KsSHJsEbAkcouJnw3zOKMa-gYOsEmut_0A-54JGXi1S96sU3YRrzfK1qDB8geOzOGwDaI-CFYiRRtxuNkTihKjQ3z9qlEn-jog9RwK43pwfzTBS820GeqnjTDQj0gFPQECLE-n_-PzbrGFX-zDJl_H2k4Cev901i4TUeVIKY0pXTl4kVqDt5lm84?authuser=0&fife=s16383",
+    "https://lh3.googleusercontent.com/-789Ei6rWUbM/VGupuV83nOI/AAAAAAAAAbc/XTRF2eAYIFA-s0d20K8LGhuDKz4NywQEwCJkC/s1600-w791-h529/blue-lagoon-iceland-travel-63.jpg"
   ],
   "opening_hours": {
     "summer": "Daily: 07:00 - 00:00 (June 1 - August 20)",

@@ -13,14 +13,8 @@
   "website": "https://www.visitreykjavik.is/mount-esja",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Mount_Esjan.jpg"
-    },
-    {
-      "source": "Visit Reykjavík",
-      "url": "https://www.visitreykjavik.is/mount-esja"
-    }
+    "https://commons.wikimedia.org/wiki/File:Mount_Esjan.jpg",
+    "https://www.visitreykjavik.is/mount-esja"
   ],
   "opening_hours": {
     "site": "Accessible year-round",

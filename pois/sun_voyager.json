@@ -13,14 +13,8 @@
   "website": "https://www.visitreykjavik.is/sun-voyager",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Sun_Voyager_Reykjavik_Iceland.jpg"
-    },
-    {
-      "source": "Visit Reykjavík",
-      "url": "https://www.visitreykjavik.is/sun-voyager"
-    }
+    "https://commons.wikimedia.org/wiki/File:Sun_Voyager_Reykjavik_Iceland.jpg",
+    "https://www.visitreykjavik.is/sun-voyager"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

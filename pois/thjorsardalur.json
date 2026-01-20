@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/travel-info/newsblog/thjorsardalur-hidden-gem-iceland",
   "phone": null,
   "images": [
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/travel-info/newsblog/thjorsardalur-hidden-gem-iceland"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/thjorsardalur"
-    }
+    "https://www.south.is/en/travel-info/newsblog/thjorsardalur-hidden-gem-iceland",
+    "https://guidetoiceland.is/travel-iceland/drive/thjorsardalur"
   ],
   "opening_hours": {
     "valley_access": "Summer only (late May to early October), best June-September",

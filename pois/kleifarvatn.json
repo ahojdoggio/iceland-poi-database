@@ -13,14 +13,8 @@
   "website": "https://www.visitreykjanes.is/en/place/kleifarvatn",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Kleifarvatn_lake.jpg"
-    },
-    {
-      "source": "Visit Reykjanes",
-      "url": "https://www.visitreykjanes.is/en/place/kleifarvatn"
-    }
+    "https://commons.wikimedia.org/wiki/File:Kleifarvatn_lake.jpg",
+    "https://www.visitreykjanes.is/en/place/kleifarvatn"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

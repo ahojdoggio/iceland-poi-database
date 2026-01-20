@@ -13,14 +13,8 @@
   "website": "https://www.west.is/en/place/langjokull",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Langjokull_glacier.jpg"
-    },
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/langjokull"
-    }
+    "https://commons.wikimedia.org/wiki/File:Langjokull_glacier.jpg",
+    "https://www.west.is/en/place/langjokull"
   ],
   "opening_hours": {
     "access_roads": "F-roads open June-September only, 4WD required",

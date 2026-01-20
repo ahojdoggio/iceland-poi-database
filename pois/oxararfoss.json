@@ -13,14 +13,8 @@
   "website": "https://www.thingvellir.is",
   "phone": "+354 482 2660",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Oxararfoss_Thingvellir.jpg"
-    },
-    {
-      "source": "Þingvellir National Park",
-      "url": "https://www.thingvellir.is/en"
-    }
+    "https://commons.wikimedia.org/wiki/File:Oxararfoss_Thingvellir.jpg",
+    "https://www.thingvellir.is/en"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

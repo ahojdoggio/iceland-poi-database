@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/connect-with-locals/5176/arnarstapi-as-a-photography-location",
   "phone": "+354 662 2990",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSZwiwxY13GjH2yBikqkOOF5vSA6qDjEilrki9PwnkLRgZQF98Du4mElLsIGbmAReDleFtXtG287qG3PX33rGG7PoF8myVZSRBnp3vEeMjUAAD2cxyc6QZ3ZNXFjW_AovixgQ7EicPbahC_hnA6BeaSg_RiW9z91XMvkTMzRAEFAz-xVAnDnVk_COYk5wHxgJnk6gE?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQdE7YN-XWOAPyynr0wYI296J8uVOQfISM8YiywLGbgLGTR3RD6lIscdNRbSdc8L_O20Ic4WwYinbCRalibM-tkfJ_oOsKrCor7qu_1q_S8Gv9PB3MWxsj1DMStcZNAU_anvrv6ssizQF3HLVjVAHEAmYovyCKpHU7Wi7jyDnU_7vTJjT9sGl4pfOCxjM4yV1XS3hE?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSZwiwxY13GjH2yBikqkOOF5vSA6qDjEilrki9PwnkLRgZQF98Du4mElLsIGbmAReDleFtXtG287qG3PX33rGG7PoF8myVZSRBnp3vEeMjUAAD2cxyc6QZ3ZNXFjW_AovixgQ7EicPbahC_hnA6BeaSg_RiW9z91XMvkTMzRAEFAz-xVAnDnVk_COYk5wHxgJnk6gE?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQdE7YN-XWOAPyynr0wYI296J8uVOQfISM8YiywLGbgLGTR3RD6lIscdNRbSdc8L_O20Ic4WwYinbCRalibM-tkfJ_oOsKrCor7qu_1q_S8Gv9PB3MWxsj1DMStcZNAU_anvrv6ssizQF3HLVjVAHEAmYovyCKpHU7Wi7jyDnU_7vTJjT9sGl4pfOCxjM4yV1XS3hE?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7 (public space)"

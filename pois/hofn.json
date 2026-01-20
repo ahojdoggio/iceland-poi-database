@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/destinations/towns-regions/towns/hofn",
   "phone": "+354 478 1500",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:Sveitarfélagið_Hornafjörður"
-    },
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/destinations/towns-regions/towns/hofn"
-    }
+    "https://commons.wikimedia.org/wiki/Category:Sveitarfélagið_Hornafjörður",
+    "https://www.south.is/en/destinations/towns-regions/towns/hofn"
   ],
   "opening_hours": {
     "town_access": "Open 24/7 year-round",

@@ -13,14 +13,8 @@
   "website": "https://www.visitreykjanes.is/en/place/seltun-krysuvik-geothermal-area",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Seltun_Krysuvik.jpg"
-    },
-    {
-      "source": "Visit Reykjanes",
-      "url": "https://www.visitreykjanes.is/en/place/seltun-krysuvik-geothermal-area"
-    }
+    "https://commons.wikimedia.org/wiki/File:Seltun_Krysuvik.jpg",
+    "https://www.visitreykjanes.is/en/place/seltun-krysuvik-geothermal-area"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

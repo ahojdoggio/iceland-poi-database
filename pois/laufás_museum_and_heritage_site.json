@@ -13,10 +13,7 @@
   "website": "https://www.minjasafnid.is/en/moya/page/laufas_heritage",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Laufas.jpg"
-    }
+    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Laufas.jpg"
   ],
   "opening_hours": {
     "summer": "Daily: 11:00 - 17:00 (Approx. June 1 - mid-September)",

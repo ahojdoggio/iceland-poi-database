@@ -13,10 +13,7 @@
   "website": null,
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...4By46BGshYtD3KNcID-wnEMYIzS0QDrQW6XbPeVA?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...4By46BGshYtD3KNcID-wnEMYIzS0QDrQW6XbPeVA?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Accessible year-round as a natural site with no formal facilities; weather and road conditions can limit access, and bathing is not allowed."

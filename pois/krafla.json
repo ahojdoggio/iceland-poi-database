@@ -13,14 +13,8 @@
   "website": "https://www.visitmyvatn.is",
   "phone": null,
   "images": [
-    {
-      "source": "Visit Mývatn",
-      "url": "https://www.visitmyvatn.is"
-    },
-    {
-      "source": "Travel Reykjavík",
-      "url": "https://www.travelreykjavik.com/attractions/iceland/krafla-volcano/"
-    }
+    "https://www.visitmyvatn.is",
+    "https://www.travelreykjavik.com/attractions/iceland/krafla-volcano/"
   ],
   "opening_hours": {
     "caldera_access": "Open 24/7 year-round, best visited during daylight hours",

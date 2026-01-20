@@ -13,14 +13,8 @@
   "website": "https://www.budakirkja.is",
   "phone": null,
   "images": [
-    {
-      "source": "Búðakirkja Official",
-      "url": "https://www.budakirkja.is"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/budakirkja-church"
-    }
+    "https://www.budakirkja.is",
+    "https://guidetoiceland.is/travel-iceland/drive/budakirkja-church"
   ],
   "opening_hours": {
     "exterior_access": "Accessible 24/7 year-round for exterior viewing and photography",

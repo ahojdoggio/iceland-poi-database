@@ -13,10 +13,7 @@
   "website": null,
   "phone": "+354 463 1433",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jólahúsið_2016.jpg"
-    }
+    "https://upload.wikimedia.org/wikipedia/commons/1/15/Jólahúsið_2016.jpg"
   ],
   "opening_hours": {
     "summer": "Daily: 10:00 - 18:00 (Approx. June - August)",

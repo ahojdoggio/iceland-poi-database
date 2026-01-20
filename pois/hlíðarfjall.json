@@ -13,10 +13,7 @@
   "website": "http://www.hlidarfjall.is",
   "phone": "+354 460 2280",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hl%C3%AD%C3%B0arfjall%2C_Akureyri%2C_Iceland.png"
-    }
+    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hl%C3%AD%C3%B0arfjall%2C_Akureyri%2C_Iceland.png"
   ],
   "opening_hours": {
     "winter": "Seasonal operation for skiing, dependent on snow conditions.",

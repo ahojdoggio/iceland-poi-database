@@ -13,14 +13,8 @@
   "website": "https://www.visitreykjavik.is/tjornin-the-pond",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Tjornin_Reykjavik.jpg"
-    },
-    {
-      "source": "Visit Reykjavík",
-      "url": "https://www.visitreykjavik.is/tjornin-the-pond"
-    }
+    "https://commons.wikimedia.org/wiki/File:Tjornin_Reykjavik.jpg",
+    "https://www.visitreykjavik.is/tjornin-the-pond"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

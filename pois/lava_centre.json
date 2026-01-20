@@ -13,14 +13,8 @@
   "website": "https://lavacentre.is",
   "phone": "+354 415 5200",
   "images": [
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/service/lava-centre"
-    },
-    {
-      "source": "LAVA Centre Official",
-      "url": "https://lavacentre.is"
-    }
+    "https://www.south.is/en/service/lava-centre",
+    "https://lavacentre.is"
   ],
   "opening_hours": {
     "exhibition": "Daily 09:00-19:00 year-round",

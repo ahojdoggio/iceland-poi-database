@@ -13,14 +13,8 @@
   "website": "https://www.west.is/en/place/berserkjahraun-lava",
   "phone": null,
   "images": [
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/berserkjahraun-lava"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/berserkjahraun"
-    }
+    "https://www.west.is/en/place/berserkjahraun-lava",
+    "https://guidetoiceland.is/travel-iceland/drive/berserkjahraun"
   ],
   "opening_hours": {
     "access": "Open 24/7 year-round, free admission",

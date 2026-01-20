@@ -4,7 +4,7 @@
   "address": "Skaftafell, 785 Öræfi, Iceland",
   "coordinates": {
     "longitude": -16.9665,
-    "latitude": 64.0160,
+    "latitude": 64.016,
     "altitude": 0.0
   },
   "rating": 4.7,
@@ -13,14 +13,8 @@
   "website": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell",
   "phone": "+354 470 8300",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:Skaftafellsj%C3%B6kull"
-    },
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Lenticularis_cloud_above_gletscher_Skaftafell_Iceland_26jun05.JPG"
-    }
+    "https://commons.wikimedia.org/wiki/Category:Skaftafellsj%C3%B6kull",
+    "https://commons.wikimedia.org/wiki/File:Lenticularis_cloud_above_gletscher_Skaftafell_Iceland_26jun05.JPG"
   ],
   "opening_hours": {
     "visitor_center": "Daily 09:00-16:30 (summer), 09:00-15:30 (winter weekdays)",

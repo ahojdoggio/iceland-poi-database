@@ -13,14 +13,8 @@
   "website": "https://www.west.is/en/place/borgarnes",
   "phone": "+354 437 1600",
   "images": [
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/borgarnes"
-    },
-    {
-      "source": "Settlement Center",
-      "url": "https://www.landnam.is"
-    }
+    "https://www.west.is/en/place/borgarnes",
+    "https://www.landnam.is"
   ],
   "opening_hours": {
     "town_access": "Open 24/7 year-round",

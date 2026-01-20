@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/destinations/travel-routes/the-volcanic-way/eyjafjallajokull",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:Eyjafjallaj%C3%B6kull"
-    },
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:2010_eruption_series_in_the_Eyjafjallaj%C3%B6kull_volcanic_system"
-    }
+    "https://commons.wikimedia.org/wiki/Category:Eyjafjallaj%C3%B6kull",
+    "https://commons.wikimedia.org/wiki/Category:2010_eruption_series_in_the_Eyjafjallaj%C3%B6kull_volcanic_system"
   ],
   "opening_hours": {
     "volcano_viewing": "Visible from Ring Road year-round, weather permitting",

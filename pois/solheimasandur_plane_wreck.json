@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/solheimasandur",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:1973_S%C3%B3lheimasandur_Douglas_DC-3_crash"
-    },
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Sólheimasandur_Plane_Wreck,_South_Iceland_(37872346766).jpg"
-    }
+    "https://commons.wikimedia.org/wiki/Category:1973_S%C3%B3lheimasandur_Douglas_DC-3_crash",
+    "https://commons.wikimedia.org/wiki/File:Sólheimasandur_Plane_Wreck,_South_Iceland_(37872346766).jpg"
   ],
   "opening_hours": {
     "access": "24/7 year-round, walking or shuttle only (no driving allowed since 2016)",

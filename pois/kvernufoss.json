@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/kvernufoss",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Kvernufoss_waterfall.jpg"
-    },
-    {
-      "source": "South Iceland",
-      "url": "https://www.south.is/en/place/kvernufoss"
-    }
+    "https://commons.wikimedia.org/wiki/File:Kvernufoss_waterfall.jpg",
+    "https://www.south.is/en/place/kvernufoss"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

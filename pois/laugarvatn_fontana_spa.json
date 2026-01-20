@@ -13,22 +13,10 @@
   "website": "https://www.fontana.is",
   "phone": "+354 486 1400",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...fZb9iXWAafRrui-GrC8QR_treJQ2l35kNTpESgA?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...CE-kRLcyrRvgP--u4MC2BpObbdA4Sioi_TI7qGw?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...dXJrpgC08WD4mfkyeFd4PrCPz2WMlP9szfrdhVM?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...xbsAn1jPbunk8jEGhdXwPilRVqETJgt3RlusEA?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...fZb9iXWAafRrui-GrC8QR_treJQ2l35kNTpESgA?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m...CE-kRLcyrRvgP--u4MC2BpObbdA4Sioi_TI7qGw?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m...dXJrpgC08WD4mfkyeFd4PrCPz2WMlP9szfrdhVM?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m...xbsAn1jPbunk8jEGhdXwPilRVqETJgt3RlusEA?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Usually open daily around 10:00–21:00; hours can vary by season, check official website."

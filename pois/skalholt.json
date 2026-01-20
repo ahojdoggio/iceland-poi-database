@@ -13,14 +13,8 @@
   "website": "https://www.skalholt.is",
   "phone": "+354 486 8870",
   "images": [
-    {
-      "source": "Skálholt Official",
-      "url": "https://www.skalholt.is/en"
-    },
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/service/skalholt-cathedral"
-    }
+    "https://www.skalholt.is/en",
+    "https://www.south.is/en/service/skalholt-cathedral"
   ],
   "opening_hours": {
     "cathedral_access": "Generally open daily for visitors, hours vary seasonally",

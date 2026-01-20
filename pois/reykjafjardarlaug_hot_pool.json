@@ -13,10 +13,7 @@
   "website": "https://icelandtravelguide.is/locations/reykjafjardarlaug-hot-spring/",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...FrUD5g2QiAFBMNRewWgGUX95CmX9ctBh-qYSNYA?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...FrUD5g2QiAFBMNRewWgGUX95CmX9ctBh-qYSNYA?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Open year-round with no formal staff; concrete pool with nearby natural hot spring and simple changing facilities."

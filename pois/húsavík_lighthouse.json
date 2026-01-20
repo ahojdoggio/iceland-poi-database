@@ -13,10 +13,7 @@
   "website": "https://www.northiceland.is/en/place/husavik-lighthouse",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%BAsav%C3%ADk_lighthouse.jpg"
-    }
+    "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%BAsav%C3%ADk_lighthouse.jpg"
   ],
   "opening_hours": {
     "general": "Accessible at all times by foot; no staffed opening hours."

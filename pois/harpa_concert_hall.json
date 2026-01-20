@@ -13,14 +13,8 @@
   "website": "https://www.harpa.is/en",
   "phone": "+354 528 5000",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Harpa_Concert_Hall.jpg"
-    },
-    {
-      "source": "Visit Reykjavík",
-      "url": "https://www.visitreykjavik.is/harpa-concert-hall-and-conference-centre"
-    }
+    "https://commons.wikimedia.org/wiki/File:Harpa_Concert_Hall.jpg",
+    "https://www.visitreykjavik.is/harpa-concert-hall-and-conference-centre"
   ],
   "opening_hours": {
     "building": "Daily 08:00-24:00",

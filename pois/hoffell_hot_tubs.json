@@ -13,10 +13,7 @@
   "website": "https://glacierworld.is",
   "phone": "+354 478 1514",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...SYgGMbWvZ7EYM1sKZZy09ox6NSAj1p8X_58aA-g?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...SYgGMbWvZ7EYM1sKZZy09ox6NSAj1p8X_58aA-g?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Typically open daily roughly 07:00–22:00 in season; access may depend on Glacier World opening times."

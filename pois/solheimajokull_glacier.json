@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/solheimajokull-glacier",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Solheimajokull_glacier.jpg"
-    },
-    {
-      "source": "South Iceland",
-      "url": "https://www.south.is/en/place/solheimajokull-glacier"
-    }
+    "https://commons.wikimedia.org/wiki/File:Solheimajokull_glacier.jpg",
+    "https://www.south.is/en/place/solheimajokull-glacier"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

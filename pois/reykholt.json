@@ -13,14 +13,8 @@
   "website": "https://www.snorrastofa.is",
   "phone": "+354 433 8000",
   "images": [
-    {
-      "source": "Snorrastofa",
-      "url": "https://www.snorrastofa.is/en/reykholt"
-    },
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/reykholt"
-    }
+    "https://www.snorrastofa.is/en/reykholt",
+    "https://www.west.is/en/place/reykholt"
   ],
   "opening_hours": {
     "site_access": "Exterior grounds and Snorralaug viewable 24/7 year-round",

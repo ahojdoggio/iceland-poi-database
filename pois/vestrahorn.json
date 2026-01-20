@@ -13,14 +13,8 @@
   "website": "https://www.east.is/en/place/vestrahorn",
   "phone": "+354 478 1717",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn_mountain.jpg"
-    },
-    {
-      "source": "East Iceland",
-      "url": "https://www.east.is/en/place/vestrahorn"
-    }
+    "https://commons.wikimedia.org/wiki/File:Vestrahorn_mountain.jpg",
+    "https://www.east.is/en/place/vestrahorn"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round (weather permitting)",

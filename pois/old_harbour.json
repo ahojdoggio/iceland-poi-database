@@ -13,14 +13,8 @@
   "website": "https://www.visitreykjavik.is/reykjavik-old-harbour",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Reykjavik_Old_Harbour.jpg"
-    },
-    {
-      "source": "Visit Reykjavík",
-      "url": "https://www.visitreykjavik.is/reykjavik-old-harbour"
-    }
+    "https://commons.wikimedia.org/wiki/File:Reykjavik_Old_Harbour.jpg",
+    "https://www.visitreykjavik.is/reykjavik-old-harbour"
   ],
   "opening_hours": {
     "area": "Accessible 24/7 year-round",

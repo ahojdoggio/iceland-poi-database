@@ -13,10 +13,7 @@
   "website": "https://www.hrisey.is/en",
   "phone": "Ferry Phone: +354 695 5544",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hrisey.JPG"
-    }
+    "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hrisey.JPG"
   ],
   "opening_hours": {
     "ferry_summer": "Daily scheduled departures (Approx. June 1 - August 31).",

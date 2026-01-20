@@ -13,14 +13,8 @@
   "website": "https://listasafnreykjavikur.is/en",
   "phone": "+354 411 6400",
   "images": [
-    {
-      "source": "Reykjavík Art Museum Official",
-      "url": "https://listasafnreykjavikur.is/en"
-    },
-    {
-      "source": "Visit Reykjavík",
-      "url": "https://visitreykjavik.is/reykjavik-art-museum-hafnarhus"
-    }
+    "https://listasafnreykjavikur.is/en",
+    "https://visitreykjavik.is/reykjavik-art-museum-hafnarhus"
   ],
   "opening_hours": {
     "admission": "Single ticket valid 24 hours for all three locations",

@@ -13,14 +13,8 @@
   "website": "https://www.east.is/en/place/fagrifoss",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Fagrifoss_waterfall.jpg"
-    },
-    {
-      "source": "East Iceland",
-      "url": "https://www.east.is/en/place/fagrifoss"
-    }
+    "https://commons.wikimedia.org/wiki/File:Fagrifoss_waterfall.jpg",
+    "https://www.east.is/en/place/fagrifoss"
   ],
   "opening_hours": {
     "access": "Summer only (mid-June to early September), 4WD required",

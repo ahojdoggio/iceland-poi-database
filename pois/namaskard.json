@@ -13,14 +13,8 @@
   "website": "https://www.visitmyvatn.is/en/place/namaskard-hverir",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Namaskard_Hverir.jpg"
-    },
-    {
-      "source": "Visit Mývatn",
-      "url": "https://www.visitmyvatn.is/en/place/namaskard-hverir"
-    }
+    "https://commons.wikimedia.org/wiki/File:Namaskard_Hverir.jpg",
+    "https://www.visitmyvatn.is/en/place/namaskard-hverir"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

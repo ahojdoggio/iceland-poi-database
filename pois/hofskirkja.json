@@ -13,14 +13,8 @@
   "website": "https://www.thjodminjasafn.is/en/soguleg-husasofn/hofskirkja-a-oraefum",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:Hofskirkja_(í_Öræfum)"
-    },
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Hofskirkja,_Hofi_í_Öræfum.JPG"
-    }
+    "https://commons.wikimedia.org/wiki/Category:Hofskirkja_(í_Öræfum)",
+    "https://commons.wikimedia.org/wiki/File:Hofskirkja,_Hofi_í_Öræfum.JPG"
   ],
   "opening_hours": {
     "exterior_viewing": "Accessible 24/7 year-round from perimeter fence",

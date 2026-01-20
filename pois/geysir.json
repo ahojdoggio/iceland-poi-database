@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/book-trips-holiday/nature-tours/golden-circle",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTg1LhKO6DZCYyHvALvOSv1uo-NWKkGtZxZMPT4GRxi-0wrWr1oHgGYVmgaELVpuradjmxMb912M6OZwo6QhCEqYFH2SulD7lwqdCDXUtBCORLpaGBsdf4ZAoQVjwj2JtJyGdmcD5OkzWm8hxYQqYSidcK6OUnUdv2p4ZSob2UjIfs6q94BPmAVksZ3GiQgxV1U0Rc?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSX2xY7Ov29ByPW8YFrF2gkPTwH5IhsCfDv_9_iVpt4fvb6Izp-SaD1nMn4DPP2wZBHrcsddUuJgbjYVsOn4KYPRxvtE3FfAzqGjR6-Bw3Atu6Qvvu81dq2yDu_ji82RCkBucmlHcxPg-Gz17G7HuEw3DWB7fX6hNs6fsQcQil1DnFHPXLa81Q6bbAR8ia42THnuM?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTg1LhKO6DZCYyHvALvOSv1uo-NWKkGtZxZMPT4GRxi-0wrWr1oHgGYVmgaELVpuradjmxMb912M6OZwo6QhCEqYFH2SulD7lwqdCDXUtBCORLpaGBsdf4ZAoQVjwj2JtJyGdmcD5OkzWm8hxYQqYSidcK6OUnUdv2p4ZSob2UjIfs6q94BPmAVksZ3GiQgxV1U0Rc?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSX2xY7Ov29ByPW8YFrF2gkPTwH5IhsCfDv_9_iVpt4fvb6Izp-SaD1nMn4DPP2wZBHrcsddUuJgbjYVsOn4KYPRxvtE3FfAzqGjR6-Bw3Atu6Qvvu81dq2yDu_ji82RCkBucmlHcxPg-Gz17G7HuEw3DWB7fX6hNs6fsQcQil1DnFHPXLa81Q6bbAR8ia42THnuM?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7 (geothermal area)"

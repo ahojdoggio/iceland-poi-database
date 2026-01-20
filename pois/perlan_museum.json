@@ -13,14 +13,8 @@
   "website": "https://www.perlan.is",
   "phone": "+354 566 9000",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Perlan_Reykjavik.jpg"
-    },
-    {
-      "source": "Perlan Official",
-      "url": "https://www.perlan.is"
-    }
+    "https://commons.wikimedia.org/wiki/File:Perlan_Reykjavik.jpg",
+    "https://www.perlan.is"
   ],
   "opening_hours": {
     "museum": "Daily 09:00-19:00 (last entry 18:00)",

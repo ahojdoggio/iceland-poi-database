@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/connect-with-locals/regina/djupalonssandur-beach---a-lava-wonderland",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSOnnjGQPTp0CZO-kvqwABEB1G2juo__D37xMx962ALdV9knUczOAFiMedNcJ50zr7C7eWp0SNT7boOnV5h7gJra74pwApGSZZisbLyYhQNTd4obWGB-C0G3vlqqqKbBI5aMtFhYY1Mrw3XMEkzJPDYtZmP0ZWIbloAHXn7L_obMSrVyT7b2bWCVNI0slO6Md4bz_E?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRvI5sPiYqg5PpXb9_9GXicajUnQY8SrLNpxbHFPVfuhkwhbvPfcX6KMnrWTIjG2GbZDFV1gQsFSM9yE8GDyZKGiONh8s1qDiarupS6JABvbAQWQktqGko-Ct7WflFuSTfiifEHdLB0hY23KeukOuXfqtJQD3OK1kGlc5SdoD1emgUJrbN2skxUBMUGVSvc3FWcfU4?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSOnnjGQPTp0CZO-kvqwABEB1G2juo__D37xMx962ALdV9knUczOAFiMedNcJ50zr7C7eWp0SNT7boOnV5h7gJra74pwApGSZZisbLyYhQNTd4obWGB-C0G3vlqqqKbBI5aMtFhYY1Mrw3XMEkzJPDYtZmP0ZWIbloAHXn7L_obMSrVyT7b2bWCVNI0slO6Md4bz_E?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRvI5sPiYqg5PpXb9_9GXicajUnQY8SrLNpxbHFPVfuhkwhbvPfcX6KMnrWTIjG2GbZDFV1gQsFSM9yE8GDyZKGiONh8s1qDiarupS6JABvbAQWQktqGko-Ct7WflFuSTfiifEHdLB0hY23KeukOuXfqtJQD3OK1kGlc5SdoD1emgUJrbN2skxUBMUGVSvc3FWcfU4?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7 (public space)"

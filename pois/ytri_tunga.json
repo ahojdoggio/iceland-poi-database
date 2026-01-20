@@ -13,14 +13,8 @@
   "website": "https://www.west.is/en/service/seals-at-ytri-tunga",
   "phone": null,
   "images": [
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/service/seals-at-ytri-tunga"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/ytri-tunga-beach"
-    }
+    "https://www.west.is/en/service/seals-at-ytri-tunga",
+    "https://guidetoiceland.is/travel-iceland/drive/ytri-tunga-beach"
   ],
   "opening_hours": {
     "access": "Open 24/7 year-round",

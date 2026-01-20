@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/travel-iceland/drive/hvalfjordur",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgSe6wbM01jmpNHi3Go4dpN28-dU2HV9la2CJu9RDzgfjOxBQ-AnFuA5UkCembVxFw1JLgA0cXOtNjUJh2iqAwJhPX5Yv4XGl7OZ0QOz9MaldOg8yGIwInsmR0zGo2jCbx4oBQP_o2ET0Gp1pLK4R6kGh03BTrOtz7vYt_iwfmZh8Csg25c7ol-k4WAlRfX6ahlaI?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRYp7b4W6J6EKtm0CE48rNprXSEJunF-TDSZOt4EbEOwDKgKr_hEXIMTMkX4cndBsEfusa4WJTEvRDhCEZr33NvoQV-gNqFGbfKQkZruh0K032lFktet3NMdNCqBawmTLyghNFTJqFBX-4qZ1P_nvTbAGM9NQ6PnKhBqTdJbZzIdAxAG49JunMg7nHl4Svd3OnmF80?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgSe6wbM01jmpNHi3Go4dpN28-dU2HV9la2CJu9RDzgfjOxBQ-AnFuA5UkCembVxFw1JLgA0cXOtNjUJh2iqAwJhPX5Yv4XGl7OZ0QOz9MaldOg8yGIwInsmR0zGo2jCbx4oBQP_o2ET0Gp1pLK4R6kGh03BTrOtz7vYt_iwfmZh8Csg25c7ol-k4WAlRfX6ahlaI?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRYp7b4W6J6EKtm0CE48rNprXSEJunF-TDSZOt4EbEOwDKgKr_hEXIMTMkX4cndBsEfusa4WJTEvRDhCEZr33NvoQV-gNqFGbfKQkZruh0K032lFktet3NMdNCqBawmTLyghNFTJqFBX-4qZ1P_nvTbAGM9NQ6PnKhBqTdJbZzIdAxAG49JunMg7nHl4Svd3OnmF80?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7 (natural area)"

@@ -13,14 +13,8 @@
   "website": "https://www.visitstykkisholmur.is",
   "phone": "+354 433 8120",
   "images": [
-    {
-      "source": "Visit Stykkishólmur",
-      "url": "https://www.visitstykkisholmur.is"
-    },
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/stykkisholmur"
-    }
+    "https://www.visitstykkisholmur.is",
+    "https://www.west.is/en/place/stykkisholmur"
   ],
   "opening_hours": {
     "town_access": "Open 24/7 year-round",
