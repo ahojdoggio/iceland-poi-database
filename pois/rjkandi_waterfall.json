@@ -3,8 +3,8 @@
   "description": "Rjúkandi represents 93m East Iceland cascade where cascading waters create scenic natural feature attracting visitors exploring Icelandic waterfall diversity establishing regional tourism destination supporting local communities through visitor spending demonstrating how natural attractions sustain rural economies beyond traditional industries creating economic opportunities remote locations.",
   "address": "Rjúkandi, Iceland",
   "coordinates": {
-    "longitude": -15.2000,
-    "latitude": 65.2500,
+    "longitude": -15.2,
+    "latitude": 65.25,
     "altitude": 100.0
   },
   "rating": 4.3,
@@ -12,7 +12,6 @@
   "category": "Waterfall",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal, check local conditions",
     "character": "Natural waterfall, scenic attraction"

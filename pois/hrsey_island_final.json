@@ -4,7 +4,7 @@
   "address": "Hrísey Island, Iceland",
   "coordinates": {
     "longitude": -18.3833,
-    "latitude": 66.0000,
+    "latitude": 66.0,
     "altitude": 25.0
   },
   "rating": 4.4,
@@ -12,7 +12,6 @@
   "category": "Attraction",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal hours vary",
     "character": "Cultural/natural attraction"

@@ -4,7 +4,7 @@
   "address": "Flatey Island, Iceland",
   "coordinates": {
     "longitude": -22.9167,
-    "latitude": 65.3750,
+    "latitude": 65.375,
     "altitude": 25.0
   },
   "rating": 4.4,
@@ -12,7 +12,6 @@
   "category": "Attraction",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal hours vary",
     "character": "Cultural/natural attraction"

@@ -3,8 +3,8 @@
   "description": "Slippurinn establishes popular Vestmannaeyjar dining destination where local cuisine friendly service create welcoming atmosphere supporting regional tourism providing essential hospitality services visitors exploring Iceland demonstrating restaurant industry importance sustaining local economies through visitor spending employment opportunities.",
   "address": "Slippurinn, Vestmannaeyjar, Iceland",
   "coordinates": {
-    "longitude": -20.2700,
-    "latitude": 63.4400,
+    "longitude": -20.27,
+    "latitude": 63.44,
     "altitude": 50.0
   },
   "rating": 4.4,
@@ -12,7 +12,6 @@
   "category": "Restaurant/Cafe",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "hours": "Seasonal hours vary",
     "character": "Local dining, regional cuisine"

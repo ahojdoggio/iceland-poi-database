@@ -3,7 +3,7 @@
   "description": "Hótel Rangá Restaurant establishes popular Hella area dining destination where local cuisine friendly service create welcoming atmosphere supporting regional tourism providing essential hospitality services visitors exploring Iceland demonstrating restaurant industry importance sustaining local economies through visitor spending employment opportunities.",
   "address": "Hótel Rangá Restaurant, Hella area, Iceland",
   "coordinates": {
-    "longitude": -20.4000,
+    "longitude": -20.4,
     "latitude": 63.8333,
     "altitude": 50.0
   },
@@ -12,7 +12,6 @@
   "category": "Restaurant/Cafe",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "hours": "Seasonal hours vary",
     "character": "Local dining, regional cuisine"

@@ -4,7 +4,7 @@
   "address": "Systrakaffi, Kirkjubæjarklaustur, Iceland",
   "coordinates": {
     "longitude": -18.0567,
-    "latitude": 63.7950,
+    "latitude": 63.795,
     "altitude": 50.0
   },
   "rating": 4.4,
@@ -12,7 +12,6 @@
   "category": "Restaurant/Cafe",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "hours": "Seasonal hours vary",
     "character": "Local dining, regional cuisine"
