@@ -3,7 +3,7 @@
   "description": "Hrunalaug provides authentic Icelandic bathing experience where geothermal waters natural settings create memorable soaking opportunities demonstrating Iceland's abundant geothermal resources supporting bathing culture establishing destination beyond commercial spa environments providing authentic natural bathing reflecting traditional Icelandic practices.",
   "address": "Hrunalaug, South area, Iceland",
   "coordinates": {
-    "longitude": -20.2000,
+    "longitude": -20.2,
     "latitude": 64.1167,
     "altitude": 150.0
   },
@@ -12,7 +12,6 @@
   "category": "Swimming Pool/Hot Spring",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Natural pool, year-round weather permitting",
     "character": "Geothermal bathing, natural pools"

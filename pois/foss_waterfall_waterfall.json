@@ -3,7 +3,7 @@
   "description": "Fossá Waterfall represents Westfjords cascade where cascading waters create scenic natural feature attracting visitors exploring Icelandic waterfall diversity establishing regional tourism destination supporting local communities through visitor spending demonstrating how natural attractions sustain rural economies beyond traditional industries creating economic opportunities remote locations.",
   "address": "Fossá Waterfall, Iceland",
   "coordinates": {
-    "longitude": -23.8000,
+    "longitude": -23.8,
     "latitude": 65.6333,
     "altitude": 100.0
   },
@@ -12,7 +12,6 @@
   "category": "Waterfall",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal, check local conditions",
     "character": "Natural waterfall, scenic attraction"

@@ -3,7 +3,7 @@
   "description": "Faxi represents Golden Circle modest waterfall where cascading waters create scenic natural feature attracting visitors exploring Icelandic waterfall diversity establishing regional tourism destination supporting local communities through visitor spending demonstrating how natural attractions sustain rural economies beyond traditional industries creating economic opportunities remote locations.",
   "address": "Faxi, Iceland",
   "coordinates": {
-    "longitude": -20.1000,
+    "longitude": -20.1,
     "latitude": 64.1667,
     "altitude": 100.0
   },
@@ -12,7 +12,6 @@
   "category": "Waterfall",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal, check local conditions",
     "character": "Natural waterfall, scenic attraction"

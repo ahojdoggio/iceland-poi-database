@@ -4,7 +4,7 @@
   "address": "Látrabjarg Cliffs, Iceland",
   "coordinates": {
     "longitude": -24.5333,
-    "latitude": 65.5000,
+    "latitude": 65.5,
     "altitude": 200.0
   },
   "rating": 4.6,
@@ -12,7 +12,6 @@
   "category": "Natural Feature/Viewpoint",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal, weather dependent",
     "character": "Natural landmark, scenic viewpoint"

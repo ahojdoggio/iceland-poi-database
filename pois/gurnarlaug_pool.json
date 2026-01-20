@@ -3,7 +3,7 @@
   "description": "Guðrúnarlaug provides authentic Icelandic bathing experience where geothermal waters natural settings create memorable soaking opportunities demonstrating Iceland's abundant geothermal resources supporting bathing culture establishing destination beyond commercial spa environments providing authentic natural bathing reflecting traditional Icelandic practices.",
   "address": "Guðrúnarlaug, Snæfellsnes area, Iceland",
   "coordinates": {
-    "longitude": -23.4000,
+    "longitude": -23.4,
     "latitude": 64.8833,
     "altitude": 150.0
   },
@@ -12,7 +12,6 @@
   "category": "Swimming Pool/Hot Spring",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Natural pool, year-round weather permitting",
     "character": "Geothermal bathing, natural pools"

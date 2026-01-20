@@ -3,7 +3,7 @@
   "description": "Kerlingarfjöll represents spectacular natural feature where dramatic landscapes create exceptional viewpoints attracting visitors photographers seeking capture Iceland's diverse geological formations establishing regional tourism destination demonstrating natural beauty accessible various visitor capabilities supporting outdoor recreation education.",
   "address": "Kerlingarfjöll, Iceland",
   "coordinates": {
-    "longitude": -19.3000,
+    "longitude": -19.3,
     "latitude": 64.6667,
     "altitude": 200.0
   },
@@ -12,7 +12,6 @@
   "category": "Natural Feature/Viewpoint",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Seasonal, weather dependent",
     "character": "Natural landmark, scenic viewpoint"

@@ -4,7 +4,7 @@
   "address": "Grettislaug Sauðárkrókur, Sauðárkrókur area, Iceland",
   "coordinates": {
     "longitude": -19.6375,
-    "latitude": 65.7500,
+    "latitude": 65.75,
     "altitude": 150.0
   },
   "rating": 4.5,
@@ -12,7 +12,6 @@
   "category": "Swimming Pool/Hot Spring",
   "website": null,
   "phone": null,
-  "images": [],
   "opening_hours": {
     "access": "Natural pool, year-round weather permitting",
     "character": "Geothermal bathing, natural pools"
