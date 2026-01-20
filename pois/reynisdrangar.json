@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/reynisdrangar",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Reynisdrangar_sea_stacks.jpg"
-    },
-    {
-      "source": "South Iceland",
-      "url": "https://www.south.is/en/place/reynisdrangar"
-    }
+    "https://commons.wikimedia.org/wiki/File:Reynisdrangar_sea_stacks.jpg",
+    "https://www.south.is/en/place/reynisdrangar"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

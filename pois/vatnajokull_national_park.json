@@ -13,14 +13,8 @@
   "website": "https://www.vatnajokulsthjodgardur.is/en",
   "phone": "+354 470 8300",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Vatnajokull_National_Park.jpg"
-    },
-    {
-      "source": "Vatnajökull National Park",
-      "url": "https://www.vatnajokulsthjodgardur.is/en"
-    }
+    "https://commons.wikimedia.org/wiki/File:Vatnajokull_National_Park.jpg",
+    "https://www.vatnajokulsthjodgardur.is/en"
   ],
   "opening_hours": {
     "park": "Accessible year-round (winter limits highland access)",

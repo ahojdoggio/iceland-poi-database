@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/dyrholaey",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Dyrholaey_Arch.jpg"
-    },
-    {
-      "source": "South Iceland",
-      "url": "https://www.south.is/en/place/dyrholaey"
-    }
+    "https://commons.wikimedia.org/wiki/File:Dyrholaey_Arch.jpg",
+    "https://www.south.is/en/place/dyrholaey"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

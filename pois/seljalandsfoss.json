@@ -13,14 +13,8 @@
   "website": "https://seljalandsfoss.org",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Iceland.jpg"
-    },
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/place/seljalandsfoss-waterfall"
-    }
+    "https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Iceland.jpg",
+    "https://www.south.is/en/place/seljalandsfoss-waterfall"
   ],
   "opening_hours": {
     "waterfall": "Accessible 24/7 year-round",

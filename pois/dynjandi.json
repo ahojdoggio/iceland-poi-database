@@ -13,14 +13,8 @@
   "website": "https://www.westfjords.is/en/place/dynjandi",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Dynjandi_waterfall.jpg"
-    },
-    {
-      "source": "Westfjords",
-      "url": "https://www.westfjords.is/en/place/dynjandi"
-    }
+    "https://commons.wikimedia.org/wiki/File:Dynjandi_waterfall.jpg",
+    "https://www.westfjords.is/en/place/dynjandi"
   ],
   "opening_hours": {
     "site": "Accessible June-September (winter access very difficult)",

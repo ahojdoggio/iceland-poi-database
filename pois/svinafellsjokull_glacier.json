@@ -13,14 +13,8 @@
   "website": "https://www.vatnajokulsthjodgardur.is/en",
   "phone": "+354 470 8300",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Svinafellsjokull_glacier.jpg"
-    },
-    {
-      "source": "Vatnajökull National Park",
-      "url": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell"
-    }
+    "https://commons.wikimedia.org/wiki/File:Svinafellsjokull_glacier.jpg",
+    "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell"
   ],
   "opening_hours": {
     "site": "Accessible year-round",

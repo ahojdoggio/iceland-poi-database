@@ -13,10 +13,7 @@
   "website": "https://husavikurkirkja.is",
   "phone": "+354 835 1907",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HusavikChurch.jpg"
-    }
+    "https://commons.wikimedia.org/wiki/Special:FilePath/HusavikChurch.jpg"
   ],
   "opening_hours": {
     "general": "Generally open daily in daytime during the main season; hours may vary with services and events."

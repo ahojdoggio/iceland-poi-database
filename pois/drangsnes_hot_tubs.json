@@ -13,10 +13,7 @@
   "website": null,
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/..."
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/..."
   ],
   "opening_hours": {
     "all_year": "Open 24/7, free access"

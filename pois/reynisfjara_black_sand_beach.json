@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/reynisfjara",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Reynisfjara_Black_Sand_Beach,_Iceland.jpg"
-    },
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/place/reynisfjara"
-    }
+    "https://commons.wikimedia.org/wiki/File:Reynisfjara_Black_Sand_Beach,_Iceland.jpg",
+    "https://www.south.is/en/place/reynisfjara"
   ],
   "opening_hours": {
     "beach": "Accessible 24/7 year-round",

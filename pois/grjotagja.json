@@ -13,14 +13,8 @@
   "website": "https://www.visitmyvatn.is",
   "phone": null,
   "images": [
-    {
-      "source": "Visit Mývatn",
-      "url": "https://www.visitmyvatn.is"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/grjotagja"
-    }
+    "https://www.visitmyvatn.is",
+    "https://guidetoiceland.is/travel-iceland/drive/grjotagja"
   ],
   "opening_hours": {
     "viewing_access": "Viewable from outside 24/7 year-round, viewing and photography permitted from entrance",

@@ -13,14 +13,8 @@
   "website": "https://www.vestrahorn.is",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:Dunes_in_Iceland"
-    },
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/place/stokksnes"
-    }
+    "https://commons.wikimedia.org/wiki/Category:Dunes_in_Iceland",
+    "https://www.south.is/en/place/stokksnes"
   ],
   "opening_hours": {
     "access": "24/7 year-round via private property entrance",

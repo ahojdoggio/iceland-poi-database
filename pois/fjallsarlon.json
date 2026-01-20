@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/fjallsarlon",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Fjallsarlon_glacier_lagoon.jpg"
-    },
-    {
-      "source": "South Iceland",
-      "url": "https://www.south.is/en/place/fjallsarlon"
-    }
+    "https://commons.wikimedia.org/wiki/File:Fjallsarlon_glacier_lagoon.jpg",
+    "https://www.south.is/en/place/fjallsarlon"
   ],
   "opening_hours": {
     "site": "Accessible 24/7 year-round",

@@ -13,10 +13,7 @@
   "website": "https://www.heydalur.is",
   "phone": "+354 456 4824",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Gs0fCDlO3cglA5nMTiK3QCk0uUIZQ-e513Vwxg?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...Gs0fCDlO3cglA5nMTiK3QCk0uUIZQ-e513Vwxg?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Hotel guests have access to indoor pool and natural hot spring; day visitors usually welcome during hotel opening season."

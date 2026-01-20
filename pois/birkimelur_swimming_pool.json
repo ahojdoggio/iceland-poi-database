@@ -13,10 +13,7 @@
   "website": "https://www.westfjords.is/en/service/birkimelur-swimming-pool",
   "phone": "+354 846 9474",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Ls2_nYXEdyNgeFaEm5KDc5V2iOtgcghCVZSJbzcrx5KFswktqEtgmOshSJheYzixLniTzr2OHuia0973Je0N4?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...Ls2_nYXEdyNgeFaEm5KDc5V2iOtgcghCVZSJbzcrx5KFswktqEtgmOshSJheYzixLniTzr2OHuia0973Je0N4?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Usually open daily in summer (June–mid August); small geothermal pool and nearby natural hot tub by the shore."

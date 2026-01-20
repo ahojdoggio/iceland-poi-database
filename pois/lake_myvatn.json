@@ -13,14 +13,8 @@
   "website": "https://www.visitmyvatn.is",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Lake_Myvatn.jpg"
-    },
-    {
-      "source": "Visit Mývatn",
-      "url": "https://www.visitmyvatn.is"
-    }
+    "https://commons.wikimedia.org/wiki/File:Lake_Myvatn.jpg",
+    "https://www.visitmyvatn.is"
   ],
   "opening_hours": {
     "lake": "Accessible 24/7 year-round",

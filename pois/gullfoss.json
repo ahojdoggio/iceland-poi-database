@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/book-holiday-trips/river-rafting-in-gullfoss-canyon",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRJgBu6oJv42bgt-Rb9pe_AfhyeI8c0wK9_sHekg3nyb1Z676i_zSeGYyB5Q-coQVbqRSXgoYI_uMCo1MUDKBY_44oJGPFESZFH0EXwUCQLkOZtxL_PPEms20L9porrZmm1V4K5YvfkJR0baStCsmzRw79uqTAJD4h6finIeQjse4WcUKRJK7kucQPINbkpctEnHCY?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTNFtvIPW60LdB_oM6ue9OwVwDj4Cd-L741q_-nwk8E94EINYRTqLfqWWkWHEvWSgnF9wE3V70blynJ8cHLZvWzLXgqdEFE0eT7GdGYCF-1ydKzA9GKHt4SDoFkOPR-zy2yDBMqt-di4268WmZxjVOeM0Yp_pz-ITMJS39gaJ3_OHs2MRyQ6d8IkCC_rZimSXO6vsA?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRJgBu6oJv42bgt-Rb9pe_AfhyeI8c0wK9_sHekg3nyb1Z676i_zSeGYyB5Q-coQVbqRSXgoYI_uMCo1MUDKBY_44oJGPFESZFH0EXwUCQLkOZtxL_PPEms20L9porrZmm1V4K5YvfkJR0baStCsmzRw79uqTAJD4h6finIeQjse4WcUKRJK7kucQPINbkpctEnHCY?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTNFtvIPW60LdB_oM6ue9OwVwDj4Cd-L741q_-nwk8E94EINYRTqLfqWWkWHEvWSgnF9wE3V70blynJ8cHLZvWzLXgqdEFE0eT7GdGYCF-1ydKzA9GKHt4SDoFkOPR-zy2yDBMqt-di4268WmZxjVOeM0Yp_pz-ITMJS39gaJ3_OHs2MRyQ6d8IkCC_rZimSXO6vsA?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7 (waterfall and viewing platform)",

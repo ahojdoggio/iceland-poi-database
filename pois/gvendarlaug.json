@@ -13,10 +13,7 @@
   "website": "https://www.laugarholl.is",
   "phone": "+354 451 3380",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...D7dDqjf51M5cCZL_yFzIPXUf-aOZnPGlS28NVw?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...D7dDqjf51M5cCZL_yFzIPXUf-aOZnPGlS28NVw?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Outdoor geothermal swimming pool and adjacent hot spring next to Hotel Laugarhóll; pool usually open daily roughly 08:00–22:00 in season."

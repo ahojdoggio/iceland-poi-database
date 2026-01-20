@@ -13,14 +13,8 @@
   "website": "https://www.west.is/en/place/kirkjufell-mountain",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Kirkjufell_mountain.jpg"
-    },
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/place/kirkjufell-mountain"
-    }
+    "https://commons.wikimedia.org/wiki/File:Kirkjufell_mountain.jpg",
+    "https://www.west.is/en/place/kirkjufell-mountain"
   ],
   "opening_hours": {
     "viewing": "Accessible 24/7 year-round from multiple viewpoints",

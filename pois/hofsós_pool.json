@@ -13,10 +13,7 @@
   "website": "https://sundlaugar.is/en/sundlaugasafn/hofsos-2/",
   "phone": "+354 455 6070",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...9FX_zEA9Cn4cI3z0hVCxK37QT-G0BdWFzA44zQ?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...9FX_zEA9Cn4cI3z0hVCxK37QT-G0BdWFzA44zQ?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Municipal outdoor pool with hours that vary by season; typically open daily in summer and limited hours in winter."

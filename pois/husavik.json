@@ -13,14 +13,8 @@
   "website": "https://www.northiceland.is/en/destinations/towns/husavik",
   "phone": "+354 464 1860",
   "images": [
-    {
-      "source": "Visit North Iceland",
-      "url": "https://www.northiceland.is/en/destinations/towns/husavik"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/husavik"
-    }
+    "https://www.northiceland.is/en/destinations/towns/husavik",
+    "https://guidetoiceland.is/travel-iceland/drive/husavik"
   ],
   "opening_hours": {
     "town_access": "Open 24/7 year-round, residential town with full services",

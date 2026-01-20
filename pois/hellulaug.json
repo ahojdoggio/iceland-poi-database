@@ -13,10 +13,7 @@
   "website": "https://www.westfjords.is/en/place/hellulaug",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...viCb4FzaPExNGJeVP7lmFefSqCv2WWeRU-AJPw?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...viCb4FzaPExNGJeVP7lmFefSqCv2WWeRU-AJPw?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Natural seaside hot pool open all year with no facilities or staff."

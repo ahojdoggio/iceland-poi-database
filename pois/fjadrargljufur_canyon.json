@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/fjadrargljufur-canyon",
   "phone": null,
   "images": [
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/place/fjadrargljufur-canyon"
-    },
-    {
-      "source": "Iceland Travel Guide",
-      "url": "https://icelandtravelguide.is/locations/fjadrargljufur-canyon/"
-    }
+    "https://www.south.is/en/place/fjadrargljufur-canyon",
+    "https://icelandtravelguide.is/locations/fjadrargljufur-canyon/"
   ],
   "opening_hours": {
     "access": "Open 24/7 year-round, no restrictions",

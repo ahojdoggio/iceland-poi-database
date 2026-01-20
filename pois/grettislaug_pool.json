@@ -13,10 +13,7 @@
   "website": "https://www.northiceland.is/en/experiences/bathing-wellness/geothermal-baths/reykir-reykjastrond-guesthouse",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...NGdi9UyGfIGp_fu-QtnRgMi7XGAd5T0-CawG-Q?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...NGdi9UyGfIGp_fu-QtnRgMi7XGAd5T0-CawG-Q?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Typically open daily in summer with a small entrance fee collected by the adjacent campsite/guesthouse."

@@ -13,10 +13,7 @@
   "website": "https://icelandtravelguide.is/locations/pollurinn-hot-spring-westfjords/",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Zuqk-kL9_HGbopom78QbQ2yozGNm2No3J3Eg9X4?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...Zuqk-kL9_HGbopom78QbQ2yozGNm2No3J3Eg9X4?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Open 24/7; three small concrete hot pools above Tálknafjörður maintained by locals."

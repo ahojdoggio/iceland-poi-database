@@ -13,10 +13,7 @@
   "website": "https://www.explorationmuseum.com",
   "phone": "+354 848 7600",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Exploration_Museum_interior.jpg"
-    }
+    "https://commons.wikimedia.org/wiki/Special:FilePath/The_Exploration_Museum_interior.jpg"
   ],
   "opening_hours": {
     "general": "Typically open daily around 09:00–18:00; hours may vary by season. Check the museum website for up-to-date times."

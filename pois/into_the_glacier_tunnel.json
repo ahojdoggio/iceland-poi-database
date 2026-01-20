@@ -13,14 +13,8 @@
   "website": "https://www.intotheglacier.is",
   "phone": "+354 578 2550",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Into_the_Glacier_tunnel.jpg"
-    },
-    {
-      "source": "Into the Glacier",
-      "url": "https://www.intotheglacier.is"
-    }
+    "https://commons.wikimedia.org/wiki/File:Into_the_Glacier_tunnel.jpg",
+    "https://www.intotheglacier.is"
   ],
   "opening_hours": {
     "season": "Year-round tours, weather permitting",

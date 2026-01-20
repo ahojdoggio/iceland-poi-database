@@ -13,18 +13,9 @@
   "website": "https://guidetoiceland.is/reykjavik-guide",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgMtGkneITBEGV7WDEOm3s4zvGUO4D3YCZnrzEkjTY8I7N3Bd6SpsuJAavOymlmmcpqLVD8zn0ZV0ZIyndyTxnfMb0ExmgVgMFMnU0KKs3oEG-5bK9tcF0Elh7voMf_d0AnWaLCsJxRpyY5Q_XHhfOstqM49Iw0P5gUd4llqZxkBstbFK_CfwPfGgQdqLYn1tALWk?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSkI7nuTjgGV5Swy3CfGe1j2Rclvo1tvQ7UqvAejshttHXDooLctsYDy7nv4O2a-_GZTnA1rYv_JiGyeF8EwIg3vgDC0ugoz4f_tGVjSFrzt7GJ1RqQllvO6xQJTLCYhr8IUKtNQJjtbsXXRPg04AtmyQ_SsucBECeRDHBFf7Hdd3sLI4MKu7ROFzosPjGPdHS9Vik?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQZ3xvK8zYeGSc3hidQiLkgbc5Ayffn5jWEzJTjCmjXN-OFGFZDAB8aVj47AMajU1t_OHSfa0FuVFNg8RfDlWqOjHe40iq-jetBa7geWxMhQ4rw6twbHfoCPxNP7BXuEDSL9wPLNS4vKnxY0TMH-sFgiD8J5YKgEeApveIGdVKl1ESwmMsAiPzWvZ972ScTNbEDgog?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgMtGkneITBEGV7WDEOm3s4zvGUO4D3YCZnrzEkjTY8I7N3Bd6SpsuJAavOymlmmcpqLVD8zn0ZV0ZIyndyTxnfMb0ExmgVgMFMnU0KKs3oEG-5bK9tcF0Elh7voMf_d0AnWaLCsJxRpyY5Q_XHhfOstqM49Iw0P5gUd4llqZxkBstbFK_CfwPfGgQdqLYn1tALWk?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSkI7nuTjgGV5Swy3CfGe1j2Rclvo1tvQ7UqvAejshttHXDooLctsYDy7nv4O2a-_GZTnA1rYv_JiGyeF8EwIg3vgDC0ugoz4f_tGVjSFrzt7GJ1RqQllvO6xQJTLCYhr8IUKtNQJjtbsXXRPg04AtmyQ_SsucBECeRDHBFf7Hdd3sLI4MKu7ROFzosPjGPdHS9Vik?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQZ3xvK8zYeGSc3hidQiLkgbc5Ayffn5jWEzJTjCmjXN-OFGFZDAB8aVj47AMajU1t_OHSfa0FuVFNg8RfDlWqOjHe40iq-jetBa7geWxMhQ4rw6twbHfoCPxNP7BXuEDSL9wPLNS4vKnxY0TMH-sFgiD8J5YKgEeApveIGdVKl1ESwmMsAiPzWvZ972ScTNbEDgog?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "tourist_info_office": "Hours vary, the tourist information office is at Hverfisgata 105"

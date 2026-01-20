@@ -13,14 +13,8 @@
   "website": "https://www.snaefellsjokull.is/en",
   "phone": "+354 436 6860",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Snaefellsjokull_National_Park.jpg"
-    },
-    {
-      "source": "Snæfellsjökull National Park",
-      "url": "https://www.snaefellsjokull.is/en"
-    }
+    "https://commons.wikimedia.org/wiki/File:Snaefellsjokull_National_Park.jpg",
+    "https://www.snaefellsjokull.is/en"
   ],
   "opening_hours": {
     "park": "Accessible 24/7 year-round",

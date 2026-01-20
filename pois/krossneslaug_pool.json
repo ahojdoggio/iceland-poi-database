@@ -13,10 +13,7 @@
   "website": "https://www.facebook.com/krossneslaug/",
   "phone": "+354 888 5077",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...kFmDRcsAkDBMGybKpHA-sw0p-iZYOF6dwXG5Bw?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...kFmDRcsAkDBMGybKpHA-sw0p-iZYOF6dwXG5Bw?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "Generally open daily during summer (roughly May–August); closed or limited access in winter."

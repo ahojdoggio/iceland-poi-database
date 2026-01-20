@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/hjorleifshofdi",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Category:Hjörleifshöfði"
-    },
-    {
-      "source": "Visit South Iceland",
-      "url": "https://www.south.is/en/place/hjorleifshofdi"
-    }
+    "https://commons.wikimedia.org/wiki/Category:Hjörleifshöfði",
+    "https://www.south.is/en/place/hjorleifshofdi"
   ],
   "opening_hours": {
     "access": "Open 24/7 year-round, weather permitting",

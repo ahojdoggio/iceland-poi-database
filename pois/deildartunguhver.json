@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/book-holiday-trips/2-day-snaefellsnes-borgarfjordur-ice-cave",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRkaQWESGByPVr-SmzUhbOSEPWm3kkEvZLZPxkOSsp5dJsdFfxLmlONdc4pTB15TtSM1nRvZkw-3ni8IlDMOCLf2Vur-hl2veydkaG-LF1JXEGxLrtFLQ-2cDq6Aq5et9FoNOYwKjN7ng_5DH-P5fgmrdzk4xq_8MGgysWt5M_s9lWSk2F1AdAlgFr8oPy7_Pck250?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSzQmbBHVLWm0Nrs1rox9idId97fzpxyOFYpHE19OAzCZ_sgV2E2Gz--bwsoOzzbJIC-LRn-WohfZvaidKsz4w_SGQxi8uz2rQuEvfJGDCgPMmjuFJpH0awzC5m1621JSlC2sfThgQSyGFumG9G_pCjnNhryZ-_2f3Rx_i4E2Ig585nIPb7g1eTDLyXKBIS8VJBwQs?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRkaQWESGByPVr-SmzUhbOSEPWm3kkEvZLZPxkOSsp5dJsdFfxLmlONdc4pTB15TtSM1nRvZkw-3ni8IlDMOCLf2Vur-hl2veydkaG-LF1JXEGxLrtFLQ-2cDq6Aq5et9FoNOYwKjN7ng_5DH-P5fgmrdzk4xq_8MGgysWt5M_s9lWSk2F1AdAlgFr8oPy7_Pck250?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSzQmbBHVLWm0Nrs1rox9idId97fzpxyOFYpHE19OAzCZ_sgV2E2Gz--bwsoOzzbJIC-LRn-WohfZvaidKsz4w_SGQxi8uz2rQuEvfJGDCgPMmjuFJpH0awzC5m1621JSlC2sfThgQSyGFumG9G_pCjnNhryZ-_2f3Rx_i4E2Ig585nIPb7g1eTDLyXKBIS8VJBwQs?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7 (Viewing platforms and paths are accessible year-round)"

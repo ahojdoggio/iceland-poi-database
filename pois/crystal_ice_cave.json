@@ -13,14 +13,8 @@
   "website": "https://www.vatnajokulsthjodgardur.is",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Crystal_Ice_Cave_Iceland.jpg"
-    },
-    {
-      "source": "Vatnajökull National Park",
-      "url": "https://www.vatnajokulsthjodgardur.is/en"
-    }
+    "https://commons.wikimedia.org/wiki/File:Crystal_Ice_Cave_Iceland.jpg",
+    "https://www.vatnajokulsthjodgardur.is/en"
   ],
   "opening_hours": {
     "season": "November-March only (winter when caves are stable)",

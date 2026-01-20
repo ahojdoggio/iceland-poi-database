@@ -4,7 +4,7 @@
   "address": "Skaftafell, Vatnajökull National Park, 785 Öræfi, Iceland",
   "coordinates": {
     "longitude": -16.975278,
-    "latitude": 64.027500,
+    "latitude": 64.0275,
     "altitude": 230.0
   },
   "rating": 4.7,
@@ -13,14 +13,8 @@
   "website": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell",
   "phone": "+354 470 8300",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Svartifoss_Waterfall.jpg"
-    },
-    {
-      "source": "Vatnajökull National Park",
-      "url": "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/svartifoss"
-    }
+    "https://commons.wikimedia.org/wiki/File:Svartifoss_Waterfall.jpg",
+    "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/svartifoss"
   ],
   "opening_hours": {
     "site": "Accessible year-round, conditions permitting",

@@ -13,14 +13,8 @@
   "website": "https://www.east.is/en/place/hengifoss",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Hengifoss_waterfall.jpg"
-    },
-    {
-      "source": "East Iceland",
-      "url": "https://www.east.is/en/place/hengifoss"
-    }
+    "https://commons.wikimedia.org/wiki/File:Hengifoss_waterfall.jpg",
+    "https://www.east.is/en/place/hengifoss"
   ],
   "opening_hours": {
     "site": "Accessible May-October (winter access difficult)",

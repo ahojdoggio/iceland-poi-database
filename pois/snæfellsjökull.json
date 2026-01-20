@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/book-trips-holiday/day-tours/snaefellsnes-tours",
   "phone": "+354 436 6888",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTpr0fGQJOcBTXipETo-OXXW7G_27aKBsLO6f4-4FwuPYJw0RG-jP1LqTNk6_k1OyDu2vG119OMFVX-jny3oee5LhMfZ-SnEGnY7x-5EEEZ2xEozrTbg8eDAaPKbHVT3XKHMahJUKnizwMf4GkUc2ibhEIXxXoy36ofugonJPoW0JikTxN5J1gGrCbgOEZcLNuetkQ?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQOYhrO4IUW2Hof0vEg9EFumSZOH9kFTwRR5QnEcmddD1T-iLaTUrc_MhWDxuykN1HXAUUU78JyRB92o3UKHetI0sEabSo_36tFJ8itUggQaE2uSAcReBzgPMWI0I1gRpZD78Mem4oXrVw61QKf6_c_M6LTKGWGvnfeW5Fn0zgesxbRrUSxQLcf3LUGPun6aLbUwLI?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTpr0fGQJOcBTXipETo-OXXW7G_27aKBsLO6f4-4FwuPYJw0RG-jP1LqTNk6_k1OyDu2vG119OMFVX-jny3oee5LhMfZ-SnEGnY7x-5EEEZ2xEozrTbg8eDAaPKbHVT3XKHMahJUKnizwMf4GkUc2ibhEIXxXoy36ofugonJPoW0JikTxN5J1gGrCbgOEZcLNuetkQ?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQOYhrO4IUW2Hof0vEg9EFumSZOH9kFTwRR5QnEcmddD1T-iLaTUrc_MhWDxuykN1HXAUUU78JyRB92o3UKHetI0sEabSo_36tFJ8itUggQaE2uSAcReBzgPMWI0I1gRpZD78Mem4oXrVw61QKf6_c_M6LTKGWGvnfeW5Fn0zgesxbRrUSxQLcf3LUGPun6aLbUwLI?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "national_park": "Open 24/7 (glacier access is weather dependent)"

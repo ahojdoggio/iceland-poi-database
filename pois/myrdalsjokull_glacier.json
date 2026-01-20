@@ -13,14 +13,8 @@
   "website": "https://www.south.is/en/place/myrdalsjokull-glacier",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Myrdalsjokull_glacier.jpg"
-    },
-    {
-      "source": "South Iceland",
-      "url": "https://www.south.is/en/place/myrdalsjokull-glacier"
-    }
+    "https://commons.wikimedia.org/wiki/File:Myrdalsjokull_glacier.jpg",
+    "https://www.south.is/en/place/myrdalsjokull-glacier"
   ],
   "opening_hours": {
     "glacier": "Visible year-round from Route 1 and surrounding areas",

@@ -13,10 +13,7 @@
   "website": "https://www.earthlagoon.is",
   "phone": "+354 464 4411",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m...Pm7l3K6GQHY_OJCftPdmbASYngY8tv5lhCSWmi8?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m...Pm7l3K6GQHY_OJCftPdmbASYngY8tv5lhCSWmi8?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "general": "High season (Jun–Aug) usually 09:00–24:00, low season (Sep–May) roughly 12:00–22:00. Check official website for exact hours."

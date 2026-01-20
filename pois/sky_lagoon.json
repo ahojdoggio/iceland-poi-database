@@ -13,14 +13,8 @@
   "website": "https://www.skylagoon.com",
   "phone": "+354 527 6800",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Sky_Lagoon.jpg"
-    },
-    {
-      "source": "Sky Lagoon",
-      "url": "https://www.skylagoon.com"
-    }
+    "https://commons.wikimedia.org/wiki/File:Sky_Lagoon.jpg",
+    "https://www.skylagoon.com"
   ],
   "opening_hours": {
     "daily": "10:00-22:00 year-round (last entry 21:00)",

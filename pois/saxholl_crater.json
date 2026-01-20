@@ -13,14 +13,8 @@
   "website": "https://www.snaefellsjokull.is",
   "phone": null,
   "images": [
-    {
-      "source": "Snæfellsjökull National Park",
-      "url": "https://www.snaefellsjokull.is"
-    },
-    {
-      "source": "Guide to Iceland",
-      "url": "https://guidetoiceland.is/travel-iceland/drive/saxholl"
-    }
+    "https://www.snaefellsjokull.is",
+    "https://guidetoiceland.is/travel-iceland/drive/saxholl"
   ],
   "opening_hours": {
     "access": "Open 24/7 year-round, free admission",

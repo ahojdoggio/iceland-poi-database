@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/travel-iceland/drive/hraunfossar",
   "phone": null,
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTwJybpeN7tCbyv1P3joaNFFhLZVr3B1_OtFkyD3cpj_3aV_w1L8rchQP4VXaEl_EDItoy99fCbKGeuHO5TjEd5edZ34xgqdrfox8xoMQQK1KQudGtBk8xGT3W33IKJMQk8qTRAm_dsDQTB_UDNeexQv6kts3est1YpsFO9XauIiZh9K1S7Xnhvr-uOSNzjGvZaIZI?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTaevDkBWgyYTV-jiWW5SuGJlG_X37C7T4HPOnKh1Z4EjGUef5qZ36qonkqSlj-OxJQO1JidU4Rb0geSSkZdvK9QjbkkhGxF2s2TH89fI43YNNDzz3M9iBQM6rE-4s1EMllmsKkJiUFbE4qn-nl19VZ9V5MWso4_dqSYxXP2uimyZVgY16CO9OkAgkt9fQxaQE2J8I?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTwJybpeN7tCbyv1P3joaNFFhLZVr3B1_OtFkyD3cpj_3aV_w1L8rchQP4VXaEl_EDItoy99fCbKGeuHO5TjEd5edZ34xgqdrfox8xoMQQK1KQudGtBk8xGT3W33IKJMQk8qTRAm_dsDQTB_UDNeexQv6kts3est1YpsFO9XauIiZh9K1S7Xnhvr-uOSNzjGvZaIZI?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTaevDkBWgyYTV-jiWW5SuGJlG_X37C7T4HPOnKh1Z4EjGUef5qZ36qonkqSlj-OxJQO1JidU4Rb0geSSkZdvK9QjbkkhGxF2s2TH89fI43YNNDzz3M9iBQM6rE-4s1EMllmsKkJiUFbE4qn-nl19VZ9V5MWso4_dqSYxXP2uimyZVgY16CO9OkAgkt9fQxaQE2J8I?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "all_year": "Open 24/7"

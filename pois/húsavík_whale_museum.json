@@ -13,10 +13,7 @@
   "website": "https://www.hvalasafn.is/en",
   "phone": "+354 414 2800",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Husavikwhalemuseum.jpg"
-    }
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Husavikwhalemuseum.jpg"
   ],
   "opening_hours": {
     "summer": "April–October: 09:00–18:00",

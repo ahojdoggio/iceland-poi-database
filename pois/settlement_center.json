@@ -13,14 +13,8 @@
   "website": "https://www.landnam.is",
   "phone": "+354 437 1600",
   "images": [
-    {
-      "source": "Settlement Center Official",
-      "url": "https://www.landnam.is/eng/"
-    },
-    {
-      "source": "West Iceland",
-      "url": "https://www.west.is/en/service/the-settlement-center"
-    }
+    "https://www.landnam.is/eng/",
+    "https://www.west.is/en/service/the-settlement-center"
   ],
   "opening_hours": {
     "museum": "Hours vary seasonally - typically 10:00-17:00 summer, reduced hours winter",

@@ -13,10 +13,7 @@
   "website": "https://sundlaugar.is/en/sundlaugasafn/akureyri-swimming-pool/",
   "phone": null,
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Akureyri_pool.jpg"
-    }
+    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Akureyri_pool.jpg"
   ],
   "opening_hours": {
     "general": "Open year-round",

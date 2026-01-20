@@ -13,14 +13,8 @@
   "website": "https://www.hveragerdi.is",
   "phone": "+354 483 4601",
   "images": [
-    {
-      "source": "Visit Hveragerði",
-      "url": "https://www.hveragerdi.is"
-    },
-    {
-      "source": "Iceland Highlights",
-      "url": "https://www.iceland-highlights.com/destination/hveragerdi-town/"
-    }
+    "https://www.hveragerdi.is",
+    "https://www.iceland-highlights.com/destination/hveragerdi-town/"
   ],
   "opening_hours": {
     "town_access": "Open 24/7 year-round, residential community with full services",

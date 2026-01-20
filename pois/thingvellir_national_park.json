@@ -13,14 +13,8 @@
   "website": "https://guidetoiceland.is/book-holiday-trips/snorkeling-and-the-golden-circle",
   "phone": "+354 488 1800",
   "images": [
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR4_9fnEH7IUTWEMsOdjLE7uU3JsB61-0mkFyIBvsV34MTXr2AQu4e1syVQDGypfnhNjdAFjr4JZs6EoLAwRcgTAXnNUdjhfEcJ656ehVJzQK3h4uSUdw959Mb37saNGI5HR1QW8opS7rC-QCqmNq5x8GOq28NTG0DTvKFkMtvVTkaJ9xOgtLBnis8aUPL-KlwtS44?authuser=0&fife=s16383"
-    },
-    {
-      "source": "Google My Maps",
-      "url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQsv6-Qzq4fT5CHQNTXyXr2HIz6ree2vLfubBYPTKgTE0VHyqz-cpYECe0-MRejg-HZpjIYRo358Xz3FCSQuBEqrZa2Kt3fmzXSWPTO6395cqX9jvZcpxcp8IYqM1pax8ufYYvUlxbG2r-gCnah7tyGpcHFiAs0IK7Ggmz-x122kllHLpf17c9b-JgYXhkfCD30boI?authuser=0&fife=s16383"
-    }
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR4_9fnEH7IUTWEMsOdjLE7uU3JsB61-0mkFyIBvsV34MTXr2AQu4e1syVQDGypfnhNjdAFjr4JZs6EoLAwRcgTAXnNUdjhfEcJ656ehVJzQK3h4uSUdw959Mb37saNGI5HR1QW8opS7rC-QCqmNq5x8GOq28NTG0DTvKFkMtvVTkaJ9xOgtLBnis8aUPL-KlwtS44?authuser=0&fife=s16383",
+    "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQsv6-Qzq4fT5CHQNTXyXr2HIz6ree2vLfubBYPTKgTE0VHyqz-cpYECe0-MRejg-HZpjIYRo358Xz3FCSQuBEqrZa2Kt3fmzXSWPTO6395cqX9jvZcpxcp8IYqM1pax8ufYYvUlxbG2r-gCnah7tyGpcHFiAs0IK7Ggmz-x122kllHLpf17c9b-JgYXhkfCD30boI?authuser=0&fife=s16383"
   ],
   "opening_hours": {
     "park": "Open 24 hours a day, year-round",

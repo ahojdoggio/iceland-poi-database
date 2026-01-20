@@ -3,8 +3,8 @@
   "description": "Jökulsárlón is Iceland's most famous glacier lagoon and deepest lake, reaching over 284 meters in depth. Located in Vatnajökull National Park in southeast Iceland, this stunning glacial lake formed around 1935 when Breiðamerkurjökull glacier began retreating from the Atlantic Ocean. The lagoon has quadrupled in size since the 1970s and now spans approximately 25 square kilometers. Massive icebergs, some over 1,000 years old, calve from the glacier and drift through the crystal-clear waters before floating out to sea. The lagoon's unique blue-green color comes from its mix of freshwater and seawater. Visitors can observe seals lounging on icebergs, take boat tours among the ice formations, or walk to nearby Diamond Beach where ice chunks wash up on black sand, sparkling like diamonds in the sunlight. The site has been featured in numerous films including James Bond movies 'Die Another Day' and 'A View to a Kill', as well as 'Lara Croft: Tomb Raider' and 'Batman Begins'.",
   "address": "Route 1, 781 Höfn, Iceland",
   "coordinates": {
-    "longitude": -16.230600,
-    "latitude": 64.078400,
+    "longitude": -16.2306,
+    "latitude": 64.0784,
     "altitude": 0.0
   },
   "rating": 4.8,
@@ -13,14 +13,8 @@
   "website": "https://icelagoon.is",
   "phone": "+354 478 2222",
   "images": [
-    {
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Jokulsarlon_Glacier_Lagoon,_Iceland.jpg"
-    },
-    {
-      "source": "Official Tourism",
-      "url": "https://www.south.is/en/place/jokulsarlon-glacier-lagoon"
-    }
+    "https://commons.wikimedia.org/wiki/File:Jokulsarlon_Glacier_Lagoon,_Iceland.jpg",
+    "https://www.south.is/en/place/jokulsarlon-glacier-lagoon"
   ],
   "opening_hours": {
     "lagoon": "Accessible 24/7 year-round",
