@@ -345,7 +345,6 @@
     "pois/systrakaffi.json",
     "pois/s\u00e6greifinn.json",
     "pois/s\u00fa\u00f0av\u00edk.json",
-    "pois/thingvellir_national_park.json",
     "pois/thjofafoss.json",
     "pois/thjorsardalur.json",
     "pois/tjornin.json",
@@ -392,5 +391,5 @@
   ],
   "app_folder_files": [],
   "database_files": [],
-  "total_files": 389
+  "total_files": 388
 }

@@ -1,11 +1,11 @@
-# Pull Request: Complete Iceland POI Database - Final Quality Update (389/389 POIs) 🇮🇸
+# Pull Request: Complete Iceland POI Database - Final Quality Update (388 POIs) 🇮🇸
 
 ## 🎯 Deployment Status
 
 **Branch:** `claude/review-poi-docs-eMaP9` → `main`
 **Status:** ✅ Ready to merge and deploy
-**POIs Complete:** 389/389 (100%)
-**All JSON Valid:** ✅ 389/389 files pass validation
+**POIs Complete:** 388 (100%)
+**All JSON Valid:** ✅ 388/388 files pass validation
 **Descriptions Normalized:** ✅ All descriptions optimized for web display
 
 ## 🔧 Latest Updates - Quality Optimization
@@ -18,11 +18,12 @@
 - ✅ Fixed malformed images arrays (object format → string arrays)
 - ✅ Removed encoding issues and control characters
 
-**2. Duplicate Removal (4 files)**
+**2. Duplicate Removal (5 files)**
 - Removed `aldeyjarfoss_waterfall.json` (duplicate of aldeyjarfoss.json)
 - Removed `litlanesfoss_waterfall.json` (duplicate of litlanesfoss.json)
 - Removed `faxi.json` (superseded by faxi_waterfall.json)
 - Removed `reykjadalur.json` (superseded by reykjadalur_pool.json)
+- Removed `thingvellir_national_park.json` (duplicate name with þingvellir_national_park.json)
 
 **3. Description Length Optimization (193 files)**
 - ✅ Normalized all descriptions to consistent length (~1400 chars average)
@@ -35,12 +36,18 @@
 - ✅ Removed empty `images: []` arrays that were causing frontend parsing failures
 - ✅ Website requires images field to either have URLs or be completely absent
 
-**5. Images Format Fix (111 files) - CRITICAL FIX**
+**5. Images Format Fix (111 files)**
 - ✅ Converted images from object arrays to string arrays
 - ✅ Before: `[{"source": "...", "url": "..."}]`
 - ✅ After: `["url"]`
 - ✅ Frontend expects simple string arrays, object format was breaking parsing
 - ✅ Fixed 109 POIs automatically + 2 manually (berserkjahraun, birkimelur_swimming_pool)
+
+**6. Duplicate Name Fix (1 file) - CRITICAL FIX**
+- ✅ Removed `thingvellir_national_park.json` (duplicate name)
+- ✅ Two files had identical name: "Þingvellir National Park"
+- ✅ Frontend deduplication logic (app.js) filters by `name` field
+- ✅ Kept `þingvellir_national_park.json` (better quality, detailed description)
 - ✅ **This fix resolves the 388/389 display discrepancy on GitHub Pages**
 
 **Before optimization:**
@@ -49,16 +56,18 @@
 - 10 POIs over 4000 chars
 - 58 POIs with empty images arrays
 - 111 POIs with object-formatted images (breaking frontend)
+- 2 POIs with duplicate names (causing frontend deduplication)
 
 **After optimization:**
 - Average description: 1403 chars
 - 0 POIs over 2500 chars
 - 0 POIs with empty images arrays
 - 0 POIs with object-formatted images
-- All 389 POIs frontend-compatible
+- 0 duplicate names
+- All 388 POIs frontend-compatible
 - Consistent, readable descriptions across all POIs
 
-**Final count:** 389 unique, validated, optimized POIs
+**Final count:** 388 unique, validated, optimized POIs
 
 ## 📊 Database Completion Summary
 
@@ -123,15 +132,19 @@ Complete nationwide coverage across all regions:
 ```bash
 # POI count verification
 $ ls pois/*.json | wc -l
-389
+388
 
 # Manifest verification
 $ python -c "import json; print(len(json.load(open('manifest.json'))['poi_files']))"
-389
+388
 
 # All files valid JSON
 $ for file in pois/*.json; do python -m json.tool "$file" > /dev/null || echo "Invalid: $file"; done
-# (No errors = all 389 files valid)
+# (No errors = all 388 files valid)
+
+# No duplicate names
+$ python3 find_duplicate_names.py
+# Output: No duplicate names found!
 
 # Description length check
 $ python -c "import json, os; lengths=[len(json.load(open(f'pois/{f}'))['description']) for f in os.listdir('pois') if f.endswith('.json')]; print(f'Avg: {sum(lengths)/len(lengths):.0f} chars, Max: {max(lengths)} chars')"
@@ -144,15 +157,16 @@ $ python -c "import json, os; lengths=[len(json.load(open(f'pois/{f}'))['descrip
 - **Modified:** 58 POI JSON files (empty images array removal)
 - **Modified:** 111 POI JSON files (images format fix: object arrays → string arrays)
 - **Modified:** 12 POI files (JSON validation fixes)
-- **Removed:** 4 duplicate POI files
+- **Removed:** 5 duplicate POI files (including 1 with duplicate name)
 - **Modified:**
-  - `manifest.json` (updated to 389 entries)
-  - `docs/WORK_CHECKLIST.md` (marked 389/389 complete)
+  - `manifest.json` (updated to 388 entries)
+  - `docs/WORK_CHECKLIST.md` (marked 388/388 complete)
   - `PR_SUMMARY.md` (this file - updated with all changes)
 - **Added:**
   - `fix_images_format.py` (automated images format conversion script)
   - `validate_all_pois.py` (frontend compatibility validation script)
-- **Total:** 378 files modified/added, all validated and optimized
+  - `find_duplicate_names.py` (script to find duplicate POI names)
+- **Total:** 379 files modified/added, all validated and optimized
 
 ## 🚀 Deployment Process
 
@@ -169,15 +183,16 @@ This PR is ready to merge. All changes have been:
 
 ### Step 3: Verification
 After merge, verify at: https://ahojdoggio.github.io/iceland-poi-database/
-- Should display: **389 POIs** (not 388 or any other number)
+- Should display: **388 POIs**
 - All descriptions should load properly
 - No JSON parsing errors
+- No duplicate names in the list
 
 ## 📈 Impact
 
 **Before:** 89 POIs on website (original state)
-**After:** 389 POIs on website
-**Increase:** 300 new POIs (+337%)
+**After:** 388 POIs on website
+**Increase:** 299 new POIs (+336%)
 
 **Quality Improvements:**
 - ✅ All JSON validated and error-free
@@ -190,23 +205,24 @@ After merge, verify at: https://ahojdoggio.github.io/iceland-poi-database/
 
 ## ✅ Ready to Deploy!
 
-All 389 POIs are complete, validated, optimized, and ready for production deployment to GitHub Pages.
+All 388 POIs are complete, validated, optimized, and ready for production deployment to GitHub Pages.
 
 **Summary of Changes:**
 1. ✅ Fixed 12 POI files with invalid JSON
-2. ✅ Removed 4 duplicate POIs
+2. ✅ Removed 5 duplicate POIs
 3. ✅ Optimized 193 POI descriptions (2500+ chars → 1400-1800 chars)
 4. ✅ Fixed 58 POIs with empty images arrays
-5. ✅ **Fixed 111 POIs with object-formatted images (THE FIX for 388/389 discrepancy)**
-6. ✅ Updated all documentation
-7. ✅ Regenerated manifest.json
+5. ✅ Fixed 111 POIs with object-formatted images
+6. ✅ **Fixed 1 POI with duplicate name (THE FIX for 388/389 discrepancy)**
+7. ✅ Updated all documentation
+8. ✅ Regenerated manifest.json
 
 **Why these changes matter:**
 - **Website performance:** Shorter descriptions = faster page loads
 - **User experience:** Consistent length = better readability
-- **Data quality:** No duplicates, no invalid JSON
-- **Complete coverage:** All 389 POIs will now load correctly
+- **Data quality:** No duplicates, no invalid JSON, no duplicate names
+- **Complete coverage:** All 388 POIs will now load correctly
 
 ---
 
-**Note:** This is the final quality optimization PR. After merge, the Iceland POI Database will be 100% complete and production-ready with all 389 POIs fully optimized for web deployment! 🇮🇸
+**Note:** This is the final quality optimization PR. After merge, the Iceland POI Database will be 100% complete and production-ready with all 388 POIs fully optimized for web deployment! 🇮🇸

@@ -9,8 +9,8 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total POIs** | 389 |
-| **Completed** | 389 (100%) |
+| **Total POIs** | 388 |
+| **Completed** | 388 (100%) |
 | **Remaining** | 0 (0%) |
 | **Time Invested** | ~66 hours |
 | **Time Remaining** | 0 hours |
