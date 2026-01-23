@@ -1,0 +1,392 @@
+Total POIs in database: 388
+
+Current POI Names:
+============================================================
+- Akranes
+- Akureyrarkirkja (Akureyri Church)
+- Akureyri - Capital of North Iceland
+- Akureyri Airport - North Iceland Aviation Hub
+- Akureyri Art Museum (Listasafnið á Akureyri)
+- Akureyri Botanical Garden (Lystigarður Akureyrar)
+- Akureyri Museum (Minjasafnið á Akureyri)
+- Akureyri Swimming Pool
+- Aldeyjarfoss - Highland Basalt Waterfall
+- Apotek Kitchen + Bar - Historic Pharmacy Building Restaurant
+- Arctic Fox Center (Melrakkasetur Íslands)
+- Arnarstapi
+- Askja Caldera & Víti Crater - Iceland's Highland Volcanic Wonder
+- Askja Caldera & Víti Crater Trail - Highland Volcanic Trek
+- Aurora Reykjavík - The Northern Lights Center
+- Berserkjahraun
+- Bessastaðir - Iceland's Presidential Residence
+- Birkimelur Swimming Pool
+- Bjargarsteinn Mathús - Waterfront dining
+- Bjargtangar - Europe's Westernmost Lighthouse
+- Bjarnarhöfn Shark Museum - Hákarl Heritage
+- Blue Lagoon
+- Blönduós - Textile Museum Town
+- Bolungarvík - Iceland's Northernmost Fishing Village
+- Bolungarvík - Iceland's Second Westernmost Town
+- Borg Brugghús - Award-Winning Progressive Craft Brewery
+- Borgarfjörður Eystri - Puffin Colony Remote Village
+- Borgarfjörður Eystri Puffins - Hafnarhólmi Colony
+- Borgarnes
+- Brauð & Co - Famous Cinnamon Roll Bakery
+- Breiðavík - Golden Sand Beach in Remote Westfjords
+- Breiðavík Beach - Golden sand Westfjords
+- Breiðdalsvík - Geology Museum Village
+- Breiðholtslaug - Modern Pool Complex in South Reykjavík
+- Bryggjan Brugghús - Grandi Harbor Brewery & Bistro
+- Brúarfoss - Iceland's Bluest Waterfall
+- Brúarfoss - Iceland's bluest waterfall
+- Bæjarfoss - The Town Waterfall of Ólafsvík
+- Bæjarins Beztu Pylsur - Iceland's Most Famous Hot Dog Stand
+- Bíldudalur - Sea Monster Museum Town
+- Búðakirkja
+- Búðardalur - Saga Valley Service Center
+- Café Loki - Traditional Icelandic Cuisine Across from Hallgrímskirkja
+- Christmas House
+- Crystal Ice Cave
+- Dalvík - Fishing Town & Arctic Henge Gateway
+- Dalvík Swimming Pool - Sports Centre Complex
+- Deildartunguhver
+- Dettifoss - Europe's Most Powerful Waterfall
+- Diamond Beach (Breiðamerkursandur)
+- Dill Restaurant - Iceland's Only Michelin-Starred Restaurant
+- Dimmuborgir - Dark Castles Lava Formations
+- Djúpalónssandur
+- Djúpavík - Abandoned Herring Factory Ghost Town
+- Djúpivogur - Eastfjords Artistic Harbor Village
+- Djúpivogur - The Village of Eggs
+- Drangey Island - Dramatic island Skagafjörður
+- Drangsnes - Free Hot Tubs Coastal Village
+- Drangsnes Hot Tubs
+- Dynjandi
+- Dyrhólaey
+- Dyrhólaey Puffin Colony - South Coast Bird Sanctuary
+- East Iceland Heritage Museum (Minjasafn Austurlands)
+- Egilsstaðir - Capital of East Iceland
+- Egilsstaðir Airport - East Iceland Gateway
+- Eldgjá - Massive volcanic canyon
+- Eldhraun - World's Largest Moss-Covered Lava Field
+- Elliðaár River - Reykjavík salmon river
+- Esjan
+- Eskifjörður - Maritime Museum Fishing Town
+- Exploration Museum
+- Eyjafjallajökull
+- Eyrarbakki - Historic village south
+- Fagradalsfjall - The Tourist Volcano of Reykjanes Peninsula
+- Fagrifoss
+- Faxi - Golden Circle modest waterfall
+- Fimmvörðuháls Trail - Between Glaciers Trek
+- Fiskfélagið - The Fish Company
+- Fjallsárlón
+- Fjaðrárgljúfur Canyon
+- Fjöruborðið - Iceland's Most Famous Langoustine Restaurant
+- Flatey - Colorful Summer Island in Breiðafjörður
+- Flatey Island - Car-free island Breiðafjörður
+- Forest Lagoon
+- Foss á Síðu - The Blown Away Waterfall
+- Fosshótel Dining - Hotel restaurant south coast
+- Fosslaug - Waterfall hot tub
+- Fossá Waterfall - Westfjords cascade
+- Fáskrúðsfjörður - French Connection Village
+- Fáskrúðsfjörður - The French Village
+- Garðabær - Upscale Residential Suburb
+- Garðskagi - Iceland's Twin Lighthouses
+- Garður - Twin Lighthouses & Aviation Heritage
+- Geitafoss - The Goats' Waterfall
+- Geysir
+- Glaumbær Farm & Turf House Museum
+- Gljúfrabúi
+- Gluggafoss - The Window Waterfall
+- Glymur
+- Glymur Waterfall Trail - Iceland's Second-Tallest Cascade
+- Gló - Iceland's Pioneer Organic & Healthy Restaurant
+- Goðafoss (Waterfall of the Gods)
+- Goðafoss - Waterfall of the Gods
+- Grafarkirkja - Iceland's Oldest Turf Church
+- Grafarvogslaug - Tranquil Pool in Northeast Reykjavík
+- Grenivík - Quiet Eyjafjörður Fishing Village
+- Grettislaug Sauðárkrókur - Saga pool
+- Grettislaug pool
+- Grillmarkaðurinn - The Grill Market
+- Grindavík - Fishing Town & Blue Lagoon Gateway
+- Grjótagjá
+- Grotta Lighthouse - Reykjavík peninsula lighthouse
+- Grundarfjörður - Kirkjufell's Home Town
+- Grundarfoss - Snæfellsnes Peninsula's Tall Cascade
+- Grábrok Crater Chain - Accessible Volcanic Wonder on Ring Road
+- Grímsey - Iceland's Arctic Circle Island
+- Grótta Lighthouse - Reykjavík's Northern Lights Haven
+- Gullfoss
+- Gunnuhver - Iceland's Largest Mud Pool
+- Guðrúnarlaug - Historic bathing pool
+- Gvendarlaug
+- Hafnarfjörður - Iceland's Viking Town & Elf Capital
+- Hafragilsfoss - Canyon Depths Waterfall
+- Hallgrímskirkja
+- Hallgrímskirkja Church - Reykjavík iconic church
+- Harpa Concert Hall
+- Harpa Concert Hall - Reykjavík glass facade
+- Hauganes - Free Seaside Hot Tub Village
+- Heimaey - Largest Westman Island & Volcanic Survivor
+- Heimaey - Westman Islands largest
+- Hekla - Gateway to Hell & Iceland's Most Active Volcano
+- Hella - South Iceland Service Hub
+- Hellnar
+- Hellulaug
+- Hellulaug - Seaside hot pool
+- Hengifoss
+- Herring Era Museum - Iceland's Atlantic Klondike
+- Herðubreið - Queen of Mountains table mountain
+- Hjálparfoss - The Helping Waterfall
+- Hjálparfoss - Y-shaped twin waterfall
+- Hjörleifshöfði
+- Hlíðarfjall
+- Hoffell Hot Tubs
+- Hofskirkja
+- Hofsós - Infinity Pool Scenic Village
+- Hofsós Pool
+- Hornbjarg Cliffs - Hornstrandir wilderness cliffs
+- Hornstrandir Nature Reserve - Europe's Last Wilderness
+- Hotel Heydalur + Pools
+- Hrafnabjargafoss - The Raven Rocks Waterfall
+- Hraun Restaurant - Ólafsvík Snæfellsnes Casual Dining
+- Hraunfossar & Barnafossar
+- Hrunalaug - Secret natural pool
+- Hrísey
+- Hrísey Island - Car-free tractor transport
+- Hvalfjörður
+- Hvammstangi - Icelandic Seal Center Town
+- Hveragerði
+- Hveragerði - Geothermal Greenhouse Town
+- Hveravellir - Highland Geothermal Oasis
+- Hveravellir - Highland hot springs
+- Hverfjall (Hverfell) - Iceland's Perfect Tephra Crater
+- Hvítserkur - Elephant rock sea stack
+- Hvítserkur - The Dragon Rock of Northwest Iceland
+- Háifoss - The High Waterfall
+- Hólar Cathedral - Iceland's Oldest Stone Church & Northern Episcopal Seat
+- Hólmavík - Witchcraft Museum Town
+- Hólmsbergsviti - Keflavík Harbor Lighthouse
+- Hótel Búðir Restaurant - Snæfellsnes Peninsula Fine Dining
+- Hótel Húsavík Restaurant - Harbor view dining
+- Hótel Rangá Restaurant - Fine dining southern Iceland
+- Höfn
+- Höfn - Langoustine Capital & Glacier Gateway
+- Húsavík
+- Húsavík - Whale Watching Capital of Europe
+- Húsavík Airport - Whale Watching Capital Gateway
+- Húsavík Lighthouse
+- Húsavík Whale Museum
+- Húsavík Whale Watching - Europe's Whale Capital
+- Húsavík Wooden Church
+- Icelandic Aviation Museum (Flugsafn Íslands)
+- Icelandic Phallological Museum - World's Only Penis Museum
+- Icelandic Punk Museum - Underground Music Heritage
+- Icelandic Seal Center (Selasetur Íslands)
+- Into the Glacier Tunnel
+- Jaja Ding Dong Húsavík
+- Jólahúsið (Christmas House)
+- Jökulsárgljúfur Canyon - Iceland's Grand Canyon of the North
+- Jökulsárlón - Glacier Lagoon Iceland's Crown Jewel
+- Jökulsárlón Glacier Lagoon
+- Kaffi Hornið - Cozy corner cafe
+- Kaffi Krús - Artist cafe
+- Kaffi Kú - Cow-themed cafe
+- Kaffi Lára - Local favorite cafe
+- Kaffibarinn - The Word That Screams Reykjavík Nightlife Since 1993
+- Kaldi Bar - Iceland's First Microbrewery Beers
+- Katla - Iceland's Sleeping Giant Under Mýrdalsjökull
+- Keflavík International Airport
+- Kerið
+- Kerlingarfjöll - Colorful rhyolite mountains
+- Kerlingarfjöll - Rhyolite Mountains & Geothermal Wonderland
+- Kirkjubæjarklaustur - Laki Eruption Miracle Town
+- Kirkjufell
+- Kirkjufellsfoss
+- Kjarnaskógur Forest - Akureyri recreation forest
+- Kjölur Highland Route (F35) - Classic Mountain Crossing
+- Kleifarvatn
+- Kol Restaurant - Kitchen & Bar on Rainbow Street
+- Kolugljúfur Canyon & Kolufossar Waterfalls
+- Krafla
+- Krauma Spa
+- Krossneslaug Pool
+- Kvernufoss
+- Kópavogslaug - One of Iceland's Largest Aquatic Centers
+- Kópavogur - Iceland's Second Largest City
+- LAVA Centre
+- LOGN Restaurant & Bar - Westfjords Contemporary Dining
+- Lakagígar (Laki Craters) - 1783 Eruption Site
+- Lake Mývatn
+- Lake Viti
+- Landbrotalaug - Ancient stone pool
+- Landmannalaugar - Rainbow mountains highlands
+- Landmannalaugar Natural Hot Spring Pool
+- Langjökull Glacier
+- Laufás Museum and heritage site
+- Laugar - Geothermal Spa Village Northeast Iceland
+- Laugardalslaug - Reykjavík's Largest Pool Complex
+- Laugarvatn Fontana Spa
+- Laugavegur Street
+- Laugavegur Trail - Iceland's Premier Multi-Day Trek
+- Leiðarendi - The End of the Road Lava Cave
+- Litlanesfoss - Basalt Column Falls
+- Lágafellslaug - Mosfellsbær Swimming Complex
+- Látrabjarg Cliffs - Europe's westernmost point
+- Látrabjarg Puffin Cliffs - Europe's Largest Seabird Colony
+- Lóndrangar
+- Lónsöræfi - Remote wilderness area
+- Maritime Museum Reykjavík - Coast Guard vessel exhibit
+- Matur og Drykkur - Traditional Icelandic with Modern Twists
+- Messinn - The Icelandic Fish Pan Seafood Restaurant
+- Micro Bar - Reykjavík's First Craft Beer Bar
+- Mosfellsbær - Gateway to Nature & Sagas
+- Mýrdalsjökull Glacier
+- Mýrdalssandur - Black Sand Glacial Outwash Plain
+- Mývatn Nature Baths
+- National Gallery of Iceland
+- National Museum Iceland - Comprehensive heritage Reykjavík
+- National Museum of Iceland
+- Nauthólsvík - Reykjavík's Geothermal Beach
+- Nauthólsvík Beach - Geothermal beach Reykjavík
+- Neskaupstaður - Iceland's Easternmost Town
+- Nonni's House (Nonnahús)
+- Námaskarð (Hverir)
+- Old Harbour (Gamla Höfnin)
+- Pablo Discobar - Reykjavík's Premier Tropical Disco Destination
+- Pakkhús Restaurant - Höfn's Langoustine Capital Seafood
+- Papey Island - Puffin island east
+- Patreksfjörður - Gateway to Látrabjarg
+- Perlan Museum
+- Perlan Viewing Deck - Reykjavík panoramic views
+- Petra's Stone and Mineral Collection (Steinasafn Petru)
+- Pollurinn Hot Tubs
+- Raufarhólshellir - The Lava Tunnel with Award-Winning Lighting
+- Rauðasandur Beach - Red sand beach Westfjords
+- Rauðfeldsgjá Gorge
+- Rauðisandur (Rauðasandur) - Iceland's Red Sand Beach
+- Reykholt
+- Reykjadalur - Hot river bathing
+- Reykjafjardarlaug Hot Pool
+- Reykjanesviti - Iceland's Oldest Lighthouse
+- Reykjavík
+- Reykjavík Art Museum
+- Reykjavík Botanic Garden
+- Reykjavík Maritime Museum
+- Reykjavík Roasters - Third-Wave Specialty Coffee
+- Reykjavík Whale Watching - Old Harbor
+- Reynisdrangar
+- Reynisfjara - Iceland's Most Dangerous Beach
+- Reynisfjara Black Sand Beach
+- Reyðarfjörður - Aluminum Smelter Industrial Town
+- Rif
+- Rjúkandi (Rjúkandafoss) - Iceland's 12th Tallest Waterfall
+- Rjúkandi - 93m East Iceland cascade
+- Rub23 - Akureyri's Sushi & Fusion Seafood Restaurant
+- Saga Museum
+- Sandholt Bakery - Fourth-Generation Artisan Bakers Since 1920
+- Sauðárkrókur - Skagafjörður Service Center
+- Sauðárkrókur Swimming Pool - Skagafjörður Regional Pool
+- Saxhóll Crater
+- Secret Lagoon
+- Selfoss - South Iceland's Largest Town
+- Selfoss Waterfall - Dettifoss's Upstream Neighbor
+- Seljalandsfoss
+- Seljavallalaug - Mountain pool 1923
+- Seltjarnarnes - Iceland's Smallest & Westernmost Municipality
+- Seltjarnarneslaug - Oceanside Pool in Seltjarnarnes
+- Seltún (Krýsuvík)
+- Selárlaug - Remote Donation Pool in Vopnafjörður
+- Settlement Center
+- Seyðisfjörður - The Colorful Harbor Town
+- Siglufjörður - Herring Era Museum Town
+- Skaftafell
+- Skagaströnd - Artist Residency Coastal Town
+- Skriðuklaustur - Centre of Culture & History
+- Sky Lagoon
+- Skálholt
+- Skálholt Cathedral - Southern Iceland's Ancient Episcopal Seat
+- Skógafoss
+- Skógafoss - Iceland's Most Photogenic Waterfall
+- Skógar Museum - Comprehensive Folk Heritage Complex
+- Slippbarinn - Old Harbor's First Craft Cocktail Bar
+- Slippurinn - Island gourmet dining
+- Snæfellsjökull
+- Snæfellsjökull National Park
+- Sprengisandur Route (F26) - Iceland's Ultimate Highland Challenge
+- Stokkseyri - Coastal village south
+- Stokksnes
+- Strandarkirkja - Iceland's Miracle Church
+- Strokkur - Reliable Erupting Geyser
+- Stuðlagil Canyon - East Iceland's Basalt Column Masterpiece
+- Stykkishólmur
+- Stykkishólmur - Snæfellsnes Gateway & Ferry Port
+- Stöðvarfjörður - Home of Petra's Stones
+- Stöðvarfjörður - Petra's Stone Collection Village
+- Sumac Grill + Drinks - Middle Eastern Flavors in Reykjavík
+- Sun Voyager (Sólfar)
+- Sundhöllin - Reykjavík's Historic Central Pool (1937)
+- Surtsey - Iceland's Youngest Island & Living Laboratory
+- Suðurbæjarlaug - Hafnarfjörður Swimming Pool
+- Svartifoss
+- Svínafellsjökull Glacier
+- Systrafoss - The Sisters' Waterfall
+- Systrafoss Kirkjubæjarklaustur - Sisters Falls village waterfall
+- Systrakaffi - Sisters Cafe local charm
+- Sægreifinn - The Sea Baron's World-Famous Lobster Soup
+- Sólheimajökull Glacier
+- Sólheimasandur Plane Wreck
+- Súðavík - Arctic Fox Center Village
+- The Coocoo's Nest - Family-Run Brunch & Sourdough Pizza
+- The Settlement Exhibition (Reykjavík 871±2)
+- Tjörnin (The Pond)
+- Tjöruhúsið - Westfjords Family-Style Fish Buffet in Historic Tar Factory
+- Tálknafjörður - Natural Geothermal Pools Village
+- Urriðafoss - Highest volume waterfall Iceland
+- Urriðafoss - Iceland's Highest Volume Waterfall
+- Varmahlíð - Skagafjörður Service Junction
+- Varmaland Swimming Pool - Seasonal Highland Retreat
+- Vatnajökull Glacier
+- Vatnajökull National Park
+- Vatnshellir - Ancient Lava Tube in Snæfellsjökull National Park
+- Vatnsnes Peninsula Seal Watching - Iceland's Seal Capital
+- Vestmannaeyjar - Westman Islands Archipelago
+- Vestrahorn
+- Vesturbæjarlaug - West Reykjavík Pool Complex
+- Vigur Island - Puffin island Westfjords
+- Viðey - Reykjavík's Art Island with Imagine Peace Tower
+- Viðey Island - Reykjavík art island
+- Vogafjós Cowshed Café - Farm-to-Table Dining with the Cows
+- Vík í Mýrdal
+- Vík í Mýrdal - Iceland's Southernmost Village
+- Víðgelmir - Iceland's Largest Lava Tube Cave
+- Víðimýrarkirkja - Iceland's Most Beautiful Turf Church
+- Vök Baths - Floating geothermal pools
+- Whales of Iceland
+- Ytri-Tunga
+- Ytri-Tunga - Iceland's Premier Seal Watching Beach
+- Álftaneslaug - Garðabær's Indoor-Outdoor Pool with Wave Pool
+- Árbæjarlaug - Family-Friendly Pool in East Reykjavík
+- Árbær Open Air Museum
+- Ásbyrgi Canyon - Iceland's Horseshoe-Shaped Wonder
+- Ásgarðslaug - Outdoor Pool in Garðabær
+- Ísafjörður - Capital of the Westfjords
+- Ísafjörður - Westfjords Capital
+- Ísafjörður Airport - Westfjords Dramatic Mountain Gateway
+- Ólafsfjörður - Tunnel-Connected Fishing Town
+- Ólafsfjörður Swimming Pool - Black Hole Slide Destination
+- Ólafsvík - Snæfellsnes Western Hub
+- Ölverk Pizza & Brewery - Geothermal-Powered Craft Brewing
+- Öskjuhlíð Hill - Reykjavík forest hill
+- Öxarárfoss
+- Þingeyrakirkja - Stone Church on Ancient Monastery Site
+- Þingvellir National Park
+- Þingvellir National Park - UNESCO World Heritage Site
+- Þjófafoss - The Thieves' Waterfall
+- Þjófafoss - Thieves Falls hydroelectric
+- Þjórsárdalur
+- Þríhnúkagígur - Journey Inside a Volcano's Magma Chamber
+- Þórsmörk Valley - Thor's Mountain Haven

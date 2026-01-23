@@ -1,0 +1,20 @@
+{
+  "name": "Þingeyri",
+  "description": "Þingeyri is a historic fishing village and the largest settlement in the Dýrafjörður fjord of the Westfjords, with a population of approximately 260 residents. Founded as a trading post in the 16th century, Þingeyri is one of Iceland's oldest continuously inhabited communities and served as a major commercial center during the golden age of Westfjords herring fishing. The town's name derives from 'Þing,' meaning parliament or assembly, as it was historically a meeting place for regional governance. Today, Þingeyri offers authentic small-town Icelandic life with colorful traditional houses, a picturesque harbor, and dramatic mountain backdrops including the distinctive flat-topped mountain Sandafell. The town features one of Iceland's oldest general stores, Símb ærinn, which has operated continuously since 1915 and now serves as both a shop and local museum showcasing early 20th-century commerce. Þingeyri is a popular base for exploring the remote Westfjords, offering essential services including grocery stores, a swimming pool, accommodation, and one of the region's few year-round restaurants. The town hosts an annual music festival celebrating traditional Icelandic folk music. Nearby attractions include scenic hiking trails, abandoned farms in side valleys, and some of Iceland's least-visited but most spectacular fjords.",
+  "address": "Þingeyri, 470 Westfjords, Iceland",
+  "coordinates": {
+    "longitude": -23.517800,
+    "latitude": 65.871400,
+    "altitude": 5.0
+  },
+  "rating": 4.4,
+  "reviews_count": 310,
+  "category": "Village",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Accessible year-round via Route 60 (paved)",
+    "services": "Grocery store, swimming pool, accommodation, restaurant",
+    "note": "Services limited in winter months"
+  }
+}

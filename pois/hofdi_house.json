@@ -1,0 +1,20 @@
+{
+  "name": "Höfði House",
+  "description": "Höfði House is a historic white wooden building in Reykjavík that gained international fame as the venue for the pivotal 1986 summit meeting between US President Ronald Reagan and Soviet General Secretary Mikhail Gorbachev. This summit, held on October 11-12, 1986, is widely credited as a crucial turning point in the Cold War, leading to subsequent arms reduction treaties and improved East-West relations. Built in 1909, the elegant two-story structure originally served as the French consulate before becoming a residence for visiting dignitaries and state guests. The building's classical Nordic architecture features white painted timber cladding, large windows, and a distinctive turret, exemplifying early 20th-century Icelandic design. Today, Höfði House functions as a venue for official city receptions and international meetings, though it is not regularly open to the public for tours. The building is surrounded by well-maintained grounds overlooking Faxaflói Bay, with views toward Mount Esja. A commemorative plaque outside marks the historic summit, and the site has become a popular photo stop for visitors interested in Cold War history and international diplomacy. The house is also rumored to be haunted, with several reported ghost sightings over the decades, adding to its mystique. Located along Reykjavík's scenic coastal path, Höfði House can be viewed from the outside year-round and photographed from the adjacent public areas.",
+  "address": "Borgartún, 105 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.916667,
+    "latitude": 64.149722,
+    "altitude": 5.0
+  },
+  "rating": 4.3,
+  "reviews_count": 680,
+  "category": "Historic Building",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "exterior": "Visible 24/7 from public road and coastal path",
+    "interior": "Not open to public (official city venue)",
+    "access": "Free to view from outside"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Reykjavík Domestic Airport",
+  "description": "Reykjavík Domestic Airport (Reykjavíkurflugvöllur) is Iceland's oldest airport and second-busiest, located in the heart of Reykjavík just 2 kilometers from the city center. Established in 1919, this historic airport primarily serves domestic flights connecting Reykjavík with regional destinations including Akureyri, Egilsstaðir, Ísafjörður, and the Westman Islands. The airport plays a crucial role in Iceland's domestic transportation network, providing essential connections to remote communities, especially during winter when road travel becomes challenging. Several airlines operate from the airport, including Icelandair's domestic division and Eagle Air, offering scheduled and charter services. The single terminal building is compact and efficient, with check-in, security, and boarding areas all easily navigable within minutes. The airport is also home to sightseeing flight operators offering aerial tours of Reykjavík, whale watching flights, and day trips to destinations like the Westman Islands and glaciers. Additionally, the airport serves as a base for Iceland's Coast Guard and search-and-rescue helicopter services. The aviation history at Reykjavík Domestic Airport is significant, with the facility having served as a military base during World War II and later as Iceland's primary international gateway before Keflavík Airport took over that role. The airport's central location makes it uniquely accessible, reachable by bus, taxi, or even bicycle from downtown Reykjavík.",
+  "address": "Reykjavíkurflugvöllur, 102 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.941400,
+    "latitude": 64.130000,
+    "altitude": 14.0
+  },
+  "rating": 4.1,
+  "reviews_count": 680,
+  "category": "Airport",
+  "website": "https://www.isavia.is/en/reykjavik-airport",
+  "phone": "+354 424 4000",
+  "opening_hours": {
+    "terminal": "Daily 06:00-22:00 (hours vary by flight schedule)",
+    "services": "Domestic flights, sightseeing tours, helicopter services",
+    "access": "Bus, taxi, walking distance from downtown Reykjavík"
+  }
+}

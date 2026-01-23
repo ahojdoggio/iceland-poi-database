@@ -1,0 +1,20 @@
+{
+  "name": "Eldborg",
+  "description": "Eldborg, meaning 'Fire Fortress,' is a perfectly symmetrical volcanic crater located in the Eld hraun lava field in West Iceland, approximately 80 kilometers north of Reykjavík. This textbook example of a scoria cone rises 60 meters above the surrounding lava field, with a crater rim diameter of 200 meters and a depth of 50 meters. The crater formed approximately 5,000-8,000 years ago during a volcanic eruption that created the surrounding 200-square-kilometer Eldhraun lava field. Eldborg's near-perfect circular shape and intact rim make it one of Iceland's most photogenic volcanic features and a popular subject for photographers and geologists alike. The crater is accessible via a well-marked 1.5-kilometer trail across the moss-covered lava field, beginning from a parking area off Route 54. The moderately easy hike takes about 45 minutes round trip, with a gentle ascent to the crater rim where visitors can walk the full circumference and peer into the deep bowl-shaped interior. From the rim, panoramic views extend across the Borgafjörður region, with Snæfellsjökull glacier visible on clear days. The lava field surrounding Eldborg is covered in soft moss and low-growing vegetation, creating a surreal green carpet effect. Information panels at the trailhead explain the crater's formation and the volcanic processes that created this remarkable landscape. Eldborg is accessible year-round, though winter snow may obscure the trail.",
+  "address": "Route 54, Borgarbyggð, West Iceland",
+  "coordinates": {
+    "longitude": -21.663900,
+    "latitude": 64.779200,
+    "altitude": 60.0
+  },
+  "rating": 4.6,
+  "reviews_count": 720,
+  "category": "Crater, Volcano",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Open 24/7 year-round",
+    "hiking": "1.5km trail (45 min round trip), easy-moderate difficulty",
+    "parking": "Free parking off Route 54"
+  }
+}

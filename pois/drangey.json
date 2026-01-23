@@ -1,0 +1,20 @@
+{
+  "name": "Drangey",
+  "description": "Drangey is a dramatic cliff island rising 180 meters straight out of Skagafjörður fjord in North Iceland, located approximately 7 kilometers from the mainland. This imposing basalt fortress is home to millions of seabirds and features prominently in Icelandic sagas, particularly the Grettis Saga where the outlaw Grettir Ásmundarson hid for three years before his death. The island's sheer cliffs are composed of volcanic rock approximately 700,000 years old, creating nesting habitats for enormous colonies of puffins, guillemots, razorbills, fulmars, and kittiwakes. During nesting season (May-August), the cliffs teem with bird activity and the cacophony of calls creates an unforgettable sensory experience. Access to Drangey requires a boat trip from Drangsnes or other nearby coastal points, with several tour operators offering guided excursions during summer months. Landing on the island involves climbing a steep rope ladder system installed in the 1960s, requiring reasonable fitness and a head for heights. Once atop the island's flat summit, visitors can walk across grassy meadows offering spectacular 360-degree views of the surrounding fjord, mountains, and coastline. The island has a small lighthouse and ruins of ancient structures. Egg collection from the cliffs was historically an important local tradition, though this practice has largely ceased. Boat trips typically last 3-4 hours including landing time, weather permitting, as sea conditions frequently prevent safe landing.",
+  "address": "Skagafjörður, North Iceland",
+  "coordinates": {
+    "longitude": -19.666700,
+    "latitude": 65.950000,
+    "altitude": 180.0
+  },
+  "rating": 4.8,
+  "reviews_count": 380,
+  "category": "Island",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "season": "Boat tours available June-August only",
+    "weather": "Highly weather-dependent, advance booking required",
+    "fitness": "Rope ladder climbing required, moderate fitness needed"
+  }
+}

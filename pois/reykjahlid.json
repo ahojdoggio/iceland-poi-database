@@ -1,0 +1,20 @@
+{
+  "name": "Reykjahlíð",
+  "description": "Reykjahlíð is the main service village and tourist hub for the Lake Mývatn region in North Iceland, located on the northeastern shore of Iceland's fourth-largest lake. With a permanent population of around 300 residents, this small village serves as the primary base for exploring Mývatn's extraordinary volcanic landscape and rich birdlife. The village's name means 'Smoky Hill,' referencing the geothermal activity in the surrounding area. Reykjahlíð offers comprehensive tourist infrastructure including hotels, guesthouses, restaurants, a supermarket, gas station, and visitor information center - essential services in this remote region located 100 kilometers east of Akureyri. The village church, rebuilt after being surrounded by lava during the 1729 Mývatn Fires eruption, stands as a symbol of survival, with the lava flow miraculously diverting around the original wooden church. Today's modern church incorporates elements honoring this remarkable event. From Reykjahlíð, visitors can easily access Mývatn's pseudocraters, Dimmuborgir lava formations, Hverir geothermal area, Grjótagjá cave, and Mývatn Nature Baths. The village is also a key stop on the Diamond Circle route and serves as a gateway to the Askja caldera and other highland destinations accessible via F-roads during summer months. Reykjahlíð experiences Iceland's warmest summer temperatures and coldest winter temperatures due to its inland location and northern latitude.",
+  "address": "Reykjahlíð, 660 Mývatn, Iceland",
+  "coordinates": {
+    "longitude": -16.912200,
+    "latitude": 65.643300,
+    "altitude": 277.0
+  },
+  "rating": 4.3,
+  "reviews_count": 520,
+  "category": "Village",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Accessible year-round via Route 1 (Ring Road)",
+    "services": "Full services including supermarket, gas, accommodation, restaurants",
+    "visitor_center": "Daily 09:00-17:00 (summer), limited winter hours"
+  }
+}
