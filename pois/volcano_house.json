@@ -1,0 +1,20 @@
+{
+  "name": "Volcano House",
+  "description": "Volcano House is an educational cinema and exhibition center in downtown Reykjavík dedicated to Iceland's volcanic activity and geological history. Located near Hallgrímskirkja church, this attraction features two award-winning documentary films showcasing Iceland's most dramatic volcanic eruptions. The main films include footage of the 1973 Heimaey eruption, which buried much of the Westman Islands town, and the 2010 Eyjafjallajökull eruption that disrupted European air traffic for weeks. The documentaries, filmed by acclaimed Icelandic cinematographers, provide rare close-up footage of lava flows, explosive eruptions, and the devastating yet fascinating power of volcanic forces. Screenings run continuously throughout the day on a comfortable 50-seat cinema. The films are shown in English with optional subtitles in multiple languages. In addition to the cinema, Volcano House features a small geological exhibition explaining Iceland's position on the Mid-Atlantic Ridge, plate tectonics, and the formation of the island over millions of years. Displays include volcanic rock samples, interactive maps, and information about Iceland's 32 active volcanic systems. The knowledgeable staff can answer questions about volcanic activity and provide recommendations for visiting volcanic sites around Iceland. The museum shop sells books, maps, and volcano-themed souvenirs. Volcano House provides an excellent introduction to Icelandic geology, particularly valuable for visitors who may not have opportunities to witness volcanic landscapes firsthand during their trip.",
+  "address": "Tryggvagata 11, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.931700,
+    "latitude": 64.146900,
+    "altitude": 10.0
+  },
+  "rating": 4.5,
+  "reviews_count": 1600,
+  "category": "Museum",
+  "website": "https://www.volcanohouse.is",
+  "phone": "+354 555 1900",
+  "opening_hours": {
+    "general": "Daily 09:00-22:00 (last showing 21:00)",
+    "admission": "Adults 2,200 ISK, Children 6-14 years 1,000 ISK, Under 6 free",
+    "films": "Two films shown back-to-back, total runtime approximately 55 minutes"
+  }
+}

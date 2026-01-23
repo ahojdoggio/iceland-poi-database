@@ -1,0 +1,20 @@
+{
+  "name": "Fish Company",
+  "description": "Fish Company (Fiskfélagið) is one of Reykjavík's most acclaimed seafood restaurants, located in a beautifully restored early 20th-century fish factory in the Old Harbor area. Opened in 2007, the restaurant has become renowned for its innovative approach to Icelandic cuisine, combining traditional ingredients with international culinary techniques, particularly drawing influence from Asian and Mediterranean cooking styles. The menu focuses on fresh Icelandic seafood including Arctic char, cod, langoustine, and blue ling, sourced daily from local fishermen. Signature dishes include the seven-course tasting menu that showcases the chef's creativity and Iceland's seasonal bounty. The restaurant's interior maintains industrial elements from its factory heritage while incorporating modern design and intimate lighting, creating an atmosphere that is both sophisticated and welcoming. Fish Company has received numerous accolades including recognition in the Michelin Guide and consistent high rankings among Iceland's best restaurants. The wine list is extensive, featuring both Old and New World selections carefully paired to complement the seafood-forward menu. Reservations are highly recommended, especially during summer tourist season and winter weekends. The restaurant offers both à la carte dining and tasting menu options, with dishes designed for sharing encouraged. Located in the vibrant Grandi district, Fish Company sits among Reykjavík's maritime museums, whale watching departure points, and seafood markets, making it an ideal dinner destination after exploring the Old Harbor area.",
+  "address": "Vesturgata 2a, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.949200,
+    "latitude": 64.152800,
+    "altitude": 5.0
+  },
+  "rating": 4.4,
+  "reviews_count": 2800,
+  "category": "Restaurant",
+  "website": "https://www.fiskfelagid.is",
+  "phone": "+354 552 5300",
+  "opening_hours": {
+    "dinner": "Daily 17:30-22:00 (kitchen closes 21:30)",
+    "reservation": "Advance booking strongly recommended",
+    "price": "Main courses from 4,500-7,500 ISK, tasting menu from 9,900 ISK"
+  }
+}

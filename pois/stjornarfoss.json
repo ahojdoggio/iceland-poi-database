@@ -1,0 +1,20 @@
+{
+  "name": "Stjórnarfoss",
+  "description": "Stjórnarfoss, also known as 'The Government Falls,' is a beautiful cascade located approximately 3 kilometers northwest of Kirkjubæjarklaustur in South Iceland. The waterfall earned its unusual name after the Icelandic government (Alþingi) held a memorable meeting near the falls in 1936 during a tour of the region. The waterfall drops approximately 15 meters over a cliff composed of columnar basalt into a series of clear pools below, surrounded by green moss-covered rocks and birch vegetation. Unlike many of Iceland's powerful glacial waterfalls, Stjórnarfoss features crystal-clear spring water originating from underground aquifers in the nearby mountains, making it particularly photogenic with its transparent turquoise pools. The waterfall is easily accessible via a short 5-minute walk from a parking area just off Route 1 (Ring Road), following a well-maintained gravel path suitable for most visitors. Multiple viewing points provide different perspectives of the falls and the surrounding landscape. Information signs at the site explain the waterfall's naming history and geological features. Stjórnarfoss is significantly less crowded than nearby famous waterfalls like Skógafoss or Seljalandsfoss, offering a peaceful experience. The site includes a small parking area with space for approximately 10-15 vehicles. In winter, the waterfall often freezes partially, creating spectacular ice formations and icicles that transform the already beautiful falls into an ice sculpture gallery.",
+  "address": "Near Kirkjubæjarklaustur, Route 203, South Iceland",
+  "coordinates": {
+    "longitude": -18.045600,
+    "latitude": 63.783400,
+    "altitude": 150.0
+  },
+  "rating": 4.5,
+  "reviews_count": 680,
+  "category": "Waterfall",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Open 24/7 year-round",
+    "parking": "Free parking off Route 203",
+    "walking": "5-minute walk from parking area"
+  }
+}

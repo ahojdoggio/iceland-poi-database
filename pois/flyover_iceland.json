@@ -1,0 +1,21 @@
+{
+  "name": "FlyOver Iceland",
+  "description": "FlyOver Iceland is an immersive 5D flight simulation experience located in the Grandi harbor district of Reykjavík. This cutting-edge attraction uses a suspended flying theater with a massive curved screen spanning 20 meters, creating the sensation of soaring over Iceland's most spectacular landscapes. Opened in 2019, the attraction features state-of-the-art technology including moving seats, wind effects, mist, and scents that transport visitors on an unforgettable aerial journey across glaciers, waterfalls, volcanoes, and black sand beaches. The main film, 'The Inspired Island,' was filmed over three years using specialized helicopter-mounted cameras, capturing footage from locations often inaccessible to regular tourists. The experience lasts approximately 35 minutes including pre-show exhibitions showcasing Iceland's geology, Viking history, and modern culture. FlyOver Iceland is particularly popular during winter months when weather conditions may prevent visitors from seeing certain natural attractions in person. The facility includes interactive exhibitions, a viewing platform overlooking Reykjavík's old harbor, and a gift shop featuring Icelandic design products. The attraction is suitable for all ages (height restrictions apply for young children) and offers an excellent introduction to Iceland's diverse geography. Audio commentary is available in multiple languages, and the theater can accommodate up to 72 visitors per showing.",
+  "address": "Fiskislóð 43, 101 Reykjavík, Iceland",
+  "coordinates": {
+    "longitude": -21.950833,
+    "latitude": 64.155278,
+    "altitude": 5.0
+  },
+  "rating": 4.6,
+  "reviews_count": 3200,
+  "category": "Attraction",
+  "website": "https://www.flyovericeland.com",
+  "phone": "+354 519 4000",
+  "opening_hours": {
+    "general": "Daily 10:00-20:00 (last show at 19:00)",
+    "admission": "Adults from 4,990 ISK, Children 7-12 years 2,990 ISK, Family packages available",
+    "duration": "35 minutes total (8 min pre-show + 8 min main flight + exhibits)",
+    "notes": "Online booking recommended, minimum height 102cm for safety"
+  }
+}

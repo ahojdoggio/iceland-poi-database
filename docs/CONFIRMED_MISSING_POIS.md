@@ -1,15 +1,17 @@
 # Confirmed Missing POIs
 
-*Generated: 2026-01-23*
+*Generated: 2026-01-23 | Updated: 2026-01-23*
 
 **Total Truly Missing: 91 POIs**
+**Completed: 20 POIs (22% complete)**
+**Remaining: 71 POIs**
 
 ---
 
 
 ## Airports (1)
 
-- [ ] Reykjavík Domestic Airport
+- [x] Reykjavík Domestic Airport
 
 ## Beaches (1)
 
@@ -51,33 +53,33 @@
 
 - [ ] Alþingishúsið
 - [ ] Austurvöllur
-- [ ] Höfði House
+- [x] Höfði House
 - [ ] Menntaskólinn í Reykjavík
 
 ## Hot Springs & Pools (7)
 
 - [ ] Grettislaug Reykir
 - [ ] Hafnarfjörður Pool
-- [ ] Húsafell Canyon Baths
+- [x] Húsafell Canyon Baths
 - [ ] Kvika Footbath
 - [ ] Laugavallalaug
-- [ ] Lýsuhólslaug
+- [x] Lýsuhólslaug
 - [ ] Pollurinn Tálknafjörður
 
 ## Industrial (4)
 
-- [ ] Hellisheiði Power Plant
-- [ ] Kárahnjúkar Dam
+- [x] Hellisheiði Power Plant
+- [x] Kárahnjúkar Dam
 - [ ] Nesjavellir Power Plant
 - [ ] Svartsengi Power Station
 
 ## Islands (1)
 
-- [ ] Drangey
+- [x] Drangey
 
 ## Mountains & Viewpoints (8)
 
-- [ ] Borgarvirki
+- [x] Borgarvirki
 - [ ] Hafnarfjall
 - [ ] Helgafell (Snæfellsnes)
 - [ ] Helgafell (Þingvellir)
@@ -88,21 +90,21 @@
 
 ## Museums (11)
 
-- [ ] FlyOver Iceland
+- [x] FlyOver Iceland
 - [ ] Langabúð Djúpivogur
-- [ ] Library of Water
+- [x] Library of Water
 - [ ] Living Art Museum
 - [ ] Museum of Design and Applied Art
 - [ ] Museum of Icelandic Sorcery & Witchcraft
 - [ ] Nonsense Museum Ísafjörður
-- [ ] Skógar Folk Museum
+- [x] Skógar Folk Museum
 - [ ] Tales from Iceland
-- [ ] Volcano House
+- [x] Volcano House
 - [ ] Þórbergur Center
 
 ## Restaurants (5)
 
-- [ ] Fish Company
+- [x] Fish Company
 - [ ] Langoustine Festival Höfn
 - [ ] Skál!
 - [ ] Þrír Frakkar
@@ -112,16 +114,16 @@
 
 - [ ] Hnífsdalur
 - [ ] Mjóifjörður
-- [ ] Reykjahlíð
+- [x] Reykjahlíð
 - [ ] Suðureyri
-- [ ] Þingeyri
+- [x] Þingeyri
 - [ ] Þorlákshöfn
 
 ## Volcanic Sites (11)
 
 - [ ] Bjarnarflag
 - [ ] Búri
-- [ ] Eldborg
+- [x] Eldborg
 - [ ] Hveradalir
 - [ ] Hverarönd
 - [ ] Leirhnjúkur
@@ -135,15 +137,15 @@
 
 - [ ] Basaltic Organ Waterfall
 - [ ] Folaldafoss
-- [ ] Glanni
+- [x] Glanni
 - [ ] Gvendarfoss
 - [ ] Hundafoss
 - [ ] Klifbrekkufossar
 - [ ] Múlagljúfur Canyon Waterfall
-- [ ] Sigöldufoss
-- [ ] Stjórnarfoss
+- [x] Sigöldufoss
+- [x] Stjórnarfoss
 - [ ] Strompgljúfrafoss
-- [ ] Ófærufoss
+- [x] Ófærufoss
 
 ## Wildlife (4)
 

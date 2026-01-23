@@ -1,0 +1,21 @@
+{
+  "name": "Skógar Folk Museum",
+  "description": "Skógar Folk Museum (Skógasafn) is one of Iceland's most comprehensive cultural heritage museums, located in the village of Skógar in South Iceland, directly below the famous Skógafoss waterfall. Founded in 1949 by local teacher Þórður Tómasson, who dedicated his life to preserving Icelandic heritage, the museum has grown to encompass over 15,000 artifacts spanning 1,000 years of Icelandic history. The indoor museum building houses three floors of exhibits including traditional costumes, fishing equipment, domestic items, tools, and Iceland's largest collection of communications technology. The outdoor section features a remarkable collection of 19 historic buildings relocated from around Iceland, including turf houses, a 19th-century timber church, a traditional schoolhouse, and various farm buildings demonstrating how Icelanders lived and worked in centuries past. Visitors can walk through authentically furnished turf houses with their characteristic grass roofs, experiencing the harsh living conditions endured by early Icelanders. The transportation section displays boats, carts, and early vehicles. The museum also maintains significant archives of photographs and manuscripts documenting Icelandic life. During summer, costumed guides provide demonstrations of traditional crafts and daily activities. Allow 2-3 hours to fully explore all sections. The museum is located just steps from Skógafoss waterfall, making it easy to combine both attractions in one visit.",
+  "address": "Skógar, 861 Hvolsvöllur, South Iceland",
+  "coordinates": {
+    "longitude": -19.518900,
+    "latitude": 63.528600,
+    "altitude": 25.0
+  },
+  "rating": 4.7,
+  "reviews_count": 2100,
+  "category": "Museum",
+  "website": "https://www.skogasafn.is",
+  "phone": "+354 487 8845",
+  "opening_hours": {
+    "summer": "Daily 09:00-18:00 (June-August)",
+    "spring_fall": "Daily 10:00-17:00 (April-May, September)",
+    "winter": "Daily 10:00-16:00 (October-March)",
+    "admission": "Adults 2,500 ISK, Students/Seniors 2,000 ISK, Children under 12 free"
+  }
+}

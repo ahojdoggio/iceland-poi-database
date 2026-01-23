@@ -1,26 +1,20 @@
 {
-  "name": "Dimmuborgir - Dark Castles Lava Formations",
-  "description": "Dimmuborgir establishes extraordinary lava formation landscape eastern Lake Myvatn where dramatic basaltic pillars arches caves create otherworldly terrain resembling ancient fortress ruins where 2,300-year-old volcanic eruption created steam explosions fragmenting cooling lava forming bizarre geological structures rising 20 meters creating labyrinthine dark castle landscape establishing prime Diamond Circle attraction North Iceland. Geological formation process occurred massive lava lake formed over marshy wetland where superheated water converted steam creating violent explosions fragmenting solidifying lava establishing unique rootless vent landscape creating pillars where lava solidified around burning trees leaving hollow vertical tunnels establishing extraordinary volcanic remnant landscape. Icelandic folklore mythology adds mystical significance describing Dimmuborgir location Satan landed cast heaven establishing home Iceland 13 Yule Lads mischievous Christmas trolls visiting children December nights creating cultural narrative beyond purely geological interest establishing dual natural-cultural tourism appeal. Game of Thrones filming location features HBO series Season 3 where dramatic formations served Wildling encampment north Wall Mance Rayder gathering Free Folk creating international fame attracting pop culture tourism supplementing geological interest establishing multifaceted visitor appeal combining nature mythology entertainment tourism establishing diverse audience attraction. Multiple marked hiking trails varying lengths difficulties enable exploration where short 20-30 minute family-friendly circuits longer hour loops comprehensive formation viewing enable diverse visitor accommodations fitness levels timeframes establishing accessible tourism infrastructure supporting mass visitation managing environmental impacts protecting fragile formations.",
-  "address": "Dimmuborgir, 660 Myvatn, North Iceland",
+  "name": "Dimmuborgir",
+  "description": "Dimmuborgir, meaning 'Dark Castles' or 'Dark Cities,' is an otherworldly lava formation area located on the eastern shore of Lake Mývatn in North Iceland. This 2,000-year-old lava field features bizarre rock formations, collapsed lava tubes, towering pillars, caves, and natural arches that create an atmosphere reminiscent of an ancient ruined city or fortress. The formations were created when lava from the Þrengslaborgir and Lúdentsborgir crater rows flowed over wetlands, causing the water underneath to boil. The resulting steam explosions blasted through the cooling lava crust, creating pillars and strange formations as the remaining lava drained away. The site covers several square kilometers and includes multiple marked hiking trails ranging from 400 meters to 2.4 kilometers, allowing visitors to explore the labyrinthine landscape at various difficulty levels. Notable formations include Kirkjan ('The Church'), a cave-like structure reaching 10 meters high that resembles a Gothic cathedral interior, and Gatklettur, a natural arch that has become one of Iceland's most photographed lava formations. According to Icelandic folklore, Dimmuborgir is home to the Yule Lads (Jólasveinar), Iceland's mischievous Christmas figures, and their mother Grýla, adding mythological significance to the already mysterious landscape. The area is also rich with bird life and features unique vegetation that has colonized the lava. Dimmuborgir is easily accessible year-round via paved roads from Reykjahlíð village, with parking and facilities including a visitor center and café.",
+  "address": "Dimmuborgir, 660 Mývatn, Iceland",
   "coordinates": {
-    "longitude": -16.9127,
-    "latitude": 65.5899,
-    "altitude": 30.0
+    "longitude": -16.911700,
+    "latitude": 65.593300,
+    "altitude": 320.0
   },
-  "rating": 4.8,
-  "reviews_count": 12500,
-  "category": "Lava Formation",
-  "website": "https://www.north.is/dimmuborgir",
+  "rating": 4.7,
+  "reviews_count": 5200,
+  "category": "Lava Field",
+  "website": null,
   "phone": null,
-  "images": [
-    "https://www.north.is/images/dimmuborgir.jpg"
-  ],
   "opening_hours": {
-    "access": "Year-round, 24/7",
-    "trails": "Multiple marked trails (20 min - 1 hour)",
-    "parking": "Parking fees may apply",
-    "facilities": "Summer cafe and restrooms",
-    "diamond_circle": "Major Diamond Circle attraction",
-    "character": "Volcanic lava formations, Game of Thrones filming location"
+    "access": "Open 24/7 year-round",
+    "parking": "500 ISK parking fee May-September",
+    "trails": "Multiple marked trails (0.4km-2.4km), 30-90 minutes"
   }
 }

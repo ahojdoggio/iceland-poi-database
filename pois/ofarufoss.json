@@ -1,0 +1,20 @@
+{
+  "name": "Ófærufoss",
+  "description": "Ófærufoss is a spectacular two-tiered waterfall located in the Eldgjá canyon, one of the largest volcanic canyons in the world, in Iceland's southern highlands. The waterfall plunges approximately 30 meters in two dramatic drops into the Ófæra river below, with the upper tier falling 20 meters and the lower tier dropping another 10 meters. Until 1993, a natural basalt rock arch spanned the middle section of the waterfall, creating one of Iceland's most photographed natural wonders, but the arch collapsed during powerful spring floods. Despite losing its iconic arch, Ófærufoss remains a stunning attraction with its powerful cascade surrounded by steep canyon walls composed of columnar basalt formations. The waterfall is accessible via highland road F208, requiring a 4x4 vehicle and careful navigation of rough terrain. From the parking area, a moderate 1.5-kilometer hike leads to the waterfall, with the trail crossing volcanic landscapes of black sand and moss-covered lava. The surrounding Eldgjá canyon was formed during a massive volcanic eruption around 934-940 AD, one of the largest volcanic events in recorded human history, which ejected an estimated 19.6 cubic kilometers of lava. The canyon stretches for 40 kilometers and reaches depths of 270 meters in places. Visitors to Ófærufoss experience true highland wilderness with pristine nature and minimal infrastructure.",
+  "address": "Eldgjá, F208, Highlands, Iceland",
+  "coordinates": {
+    "longitude": -18.683100,
+    "latitude": 64.034400,
+    "altitude": 600.0
+  },
+  "rating": 4.7,
+  "reviews_count": 650,
+  "category": "Waterfall",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "June-September only (F-roads closed in winter)",
+    "vehicle": "4x4 required for F208 highland road",
+    "hiking": "1.5km moderate hike from parking"
+  }
+}

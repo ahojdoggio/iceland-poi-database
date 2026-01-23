@@ -1,0 +1,20 @@
+{
+  "name": "Hellisheiði Power Plant",
+  "description": "Hellisheiði Geothermal Power Plant is one of the world's largest geothermal power facilities, located approximately 30 kilometers east of Reykjavík in the Hengill geothermal area. This state-of-the-art facility harnesses Iceland's volcanic energy to produce 303 megawatts of electricity and 133 megawatts of thermal energy for heating Reykjavík and surrounding communities. Opened in 2006 and expanded several times since, Hellisheiði represents the cutting edge of sustainable energy technology. The plant offers one of Iceland's most popular industrial tours through its interactive exhibition, 'The Geothermal Exhibition,' which explains how geothermal energy works, Iceland's volcanic geology, and the technology used to convert underground heat into usable power. Visitors descend into the bowels of the power plant, witnessing massive turbines, examining actual geothermal boreholes, and experiencing the heat and power of the earth firsthand. The exhibition includes multimedia displays, hands-on demonstrations, and presentations about Iceland's goal of carbon neutrality. Hellisheiði is also home to the innovative CarbFix project, which captures CO2 emissions and injects them into basalt rock formations where they mineralize into solid carbonate within two years, representing breakthrough technology in carbon sequestration. The 1-hour guided tours are available daily and provide insight into how Iceland meets 100% of its electricity needs from renewable sources. The visitor center includes a café and gift shop.",
+  "address": "Nesjavellir, 806 Selfoss, Iceland",
+  "coordinates": {
+    "longitude": -21.314400,
+    "latitude": 64.030600,
+    "altitude": 380.0
+  },
+  "rating": 4.6,
+  "reviews_count": 1800,
+  "category": "Industrial Site, Power Plant",
+  "website": "https://www.on.is/hellisheidi-power-station",
+  "phone": "+354 412 6000",
+  "opening_hours": {
+    "tours": "Daily 09:00-17:00 (last tour 16:00)",
+    "admission": "Adults 3,900 ISK, Children 13-17 years 1,950 ISK, Under 13 free",
+    "duration": "1 hour guided tour including exhibition"
+  }
+}

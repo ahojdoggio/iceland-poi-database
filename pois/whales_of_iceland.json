@@ -1,24 +1,21 @@
 {
   "name": "Whales of Iceland",
-  "description": "Whales of Iceland is Europe's largest whale exhibition, located in Reykjavík's historic Grandi harbor area. This immersive museum features life-size models of all 23 whale species found in Icelandic coastal waters, suspended from the ceiling to recreate the experience of diving beneath the ocean surface. The exhibition spans 1,500 square meters and includes the magnificent blue whale model stretching 25 meters in length, alongside sperm whales, orcas, humpbacks, and minke whales rendered in stunning anatomical detail. Interactive displays provide insights into whale behavior, migration patterns, and conservation efforts, while multimedia installations feature underwater recordings of whale songs and communication. A documentary theater screens films about Iceland's whaling history and marine research. The museum offers free audio guides in 17 languages, making the experience accessible to international visitors. Daily guided tours provide deeper insights into cetacean biology and the threats facing whale populations. The exhibition also explores the cultural significance of whales in Icelandic history and folklore, from ancient Norse mythology to modern eco-tourism. Located just a 15-minute walk from downtown Reykjavík, the museum complements whale-watching tours that depart from the nearby Old Harbor, allowing visitors to learn about these magnificent creatures before or after seeing them in their natural habitat. The Grandi area surrounding the museum has become a hub for Icelandic seafood restaurants and maritime culture.",
+  "description": "Whales of Iceland is the largest whale exhibition in Europe, located in Reykjavík's Old Harbor district at Grandi. This impressive museum features 23 life-size models of whale species found in Icelandic waters, including the enormous 25-meter-long blue whale, suspended from the ceiling in lifelike poses. Opened in 2014, the exhibition occupies a massive 1,500 square meter former fishery building, providing visitors with an intimate understanding of these magnificent marine mammals. The incredibly detailed models were created using real whale skeletons as references, with each model taking up to two years to complete. The exhibition includes interactive multimedia displays, underwater soundscapes featuring actual whale songs, and touchscreen stations providing information about whale behavior, migration patterns, and conservation efforts. Visitors can walk beneath the suspended whales, experiencing their true scale and majesty from multiple angles. The museum also features a dedicated children's corner with hands-on activities, a small cinema screening whale documentaries, and exhibits about Iceland's whaling history and the ongoing debate between tradition and conservation. Audio guides are available in 10 languages, providing detailed information about each species, their characteristics, feeding habits, and the best locations around Iceland for whale watching. The gift shop offers whale-themed products and supports marine conservation initiatives.",
   "address": "Fiskislóð 23-25, 101 Reykjavík, Iceland",
   "coordinates": {
-    "longitude": -21.9570,
-    "latitude": 64.1556,
-    "altitude": 0.0
+    "longitude": -21.948056,
+    "latitude": 64.154167,
+    "altitude": 5.0
   },
   "rating": 4.5,
-  "reviews_count": 5200,
+  "reviews_count": 4100,
   "category": "Museum",
-  "website": "https://www.whalesoficeland.is",
+  "website": "https://whalesoficeland.is",
   "phone": "+354 571 0077",
-  "images": [
-    "https://www.whalesoficeland.is/wp-content/uploads/2019/06/whales-of-iceland-exhibition.jpg"
-  ],
   "opening_hours": {
-    "daily": "10:00 AM - 5:00 PM",
-    "closed": "December 25",
-    "admission_note": "Audio guide included in admission (17 languages available)",
-    "guided_tours": "Daily live tours available"
+    "winter": "Daily 10:00-17:00 (October-March)",
+    "summer": "Daily 10:00-19:00 (April-September)",
+    "admission": "Adults 3,500 ISK, Children 7-15 years 1,700 ISK, Under 7 free, Family discounts available",
+    "duration": "Allow 45-90 minutes for full experience"
   }
 }

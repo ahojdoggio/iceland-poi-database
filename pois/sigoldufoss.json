@@ -1,0 +1,20 @@
+{
+  "name": "Sigöldufoss",
+  "description": "Sigöldufoss is a powerful waterfall on the Tungnaá glacial river in the Icelandic highlands, located along the Fjallabak route approximately 170 kilometers from Reykjavík. The waterfall drops approximately 20 meters into a narrow gorge, creating impressive spray and mist that can be seen from considerable distances across the highland landscape. The name derives from the nearby Sigöldugil canyon, which translates to 'Sickle Canyon' due to its curved shape cutting through the volcanic terrain. Sigöldufoss is fed by glacial meltwater from Vatnajökull, Iceland's largest glacier, giving the water a distinctive grey-white color from suspended sediment. The surrounding landscape consists of black sand deserts, colorful rhyolite mountains, and distant glacier views, epitomizing Iceland's dramatic highland scenery. Access to Sigöldufoss requires traveling highland road F208, which demands a 4x4 vehicle and experience navigating rough terrain. The road crosses rivers and volcanic gravel plains, making it suitable only for capable vehicles and drivers. Upstream from the waterfall, the Sigöldulón reservoir was created by a hydroelectric dam, which has altered the natural flow patterns, though the waterfall remains impressive during high water periods in summer. The area is remote with no facilities, requiring visitors to be fully self-sufficient. The falls are typically accessible only during summer months (June-September) when highland roads are open.",
+  "address": "Tungnaá, Fjallabak, F208, Highlands, Iceland",
+  "coordinates": {
+    "longitude": -18.501200,
+    "latitude": 64.123400,
+    "altitude": 550.0
+  },
+  "rating": 4.5,
+  "reviews_count": 340,
+  "category": "Waterfall",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "F208 open June-September only, 4x4 required",
+    "facilities": "No facilities, remote highland location",
+    "conditions": "River crossings may be required, check road.is before traveling"
+  }
+}

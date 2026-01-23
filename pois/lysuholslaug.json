@@ -1,0 +1,20 @@
+{
+  "name": "Lýsuhólslaug",
+  "description": "Lýsuhólslaug is a unique geothermal swimming pool located on the Snæfellsnes peninsula in West Iceland, distinguished by its naturally carbonated mineral-rich water. Built in 1981, this small public pool is fed by a natural hot spring that bubbles up from underground with naturally occurring carbon dioxide, creating a gentle fizzy sensation on the skin. The water temperature is maintained at a comfortable 37-39°C year-round, making it perfect for relaxation while enjoying views of the surrounding landscape. The pool measures approximately 12 meters in diameter and can accommodate up to 20 people comfortably, though it rarely becomes crowded due to its off-the-beaten-path location. The mineral content gives the water a slightly greenish tint and is believed to have therapeutic properties, particularly beneficial for skin conditions and muscle relaxation. Unlike many geothermal pools in Iceland, Lýsuhólslaug maintains a rustic, authentic atmosphere with minimal facilities - just a small changing room and basic amenities. The pool is surrounded by moss-covered lava fields with views toward Snæfellsjökull glacier on clear days. Popular with both locals and informed travelers, it offers an authentic Icelandic bathing experience away from tourist crowds. The site is accessible via gravel road F570, suitable for most vehicles in summer. A small honor-system fee box collects nominal entrance fees to support maintenance.",
+  "address": "Lýsuhóll, 356 Snæfellsbær, Iceland",
+  "coordinates": {
+    "longitude": -23.443900,
+    "latitude": 64.876100,
+    "altitude": 45.0
+  },
+  "rating": 4.7,
+  "reviews_count": 890,
+  "category": "Swimming Pool, Hot Spring",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Open 24/7 year-round (self-service)",
+    "admission": "500 ISK honor system (cash box)",
+    "facilities": "Basic changing room, outdoor shower"
+  }
+}

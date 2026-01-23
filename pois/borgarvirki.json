@@ -1,0 +1,20 @@
+{
+  "name": "Borgarvirki",
+  "description": "Borgarvirki is a natural basalt fortress located in northwest Iceland, approximately 177 kilometers from Reykjavík near the village of Víðidalur. This dramatic geological formation consists of columnar basalt cliffs rising 10-15 meters above the surrounding landscape, creating natural walls that were reinforced and used as a fortification during Iceland's medieval period. The name translates to 'City Fortress' or 'Rock Fort,' and archaeological evidence suggests the site was occupied and defended during the Sturlunga Age civil wars of the 13th century. The fortress sits atop a hill offering panoramic views across Húnaflói bay, the Vatnsnes peninsula, and inland mountain ranges. The basalt columns formed approximately 15 million years ago through volcanic activity, and their geometric hexagonal patterns create an almost artificial appearance. A wooden staircase now provides safe access to the top of the formation, where visitors can walk along the ancient defensive walls and explore the natural chambers within the rock. The site includes informational signs about its geological formation and historical significance. Borgarvirki is relatively undiscovered by mass tourism, offering a peaceful experience with impressive views. The surrounding area features rich birdlife, including nesting Arctic terns during summer months. The fortress is easily accessible via paved road Route 716, with free parking available at the base.",
+  "address": "Víðidalur, Route 716, Northwest Iceland",
+  "coordinates": {
+    "longitude": -20.626700,
+    "latitude": 65.552200,
+    "altitude": 177.0
+  },
+  "rating": 4.5,
+  "reviews_count": 480,
+  "category": "Historic Site, Mountain",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Open 24/7 year-round",
+    "parking": "Free parking at base",
+    "facilities": "Staircase to summit, informational signs"
+  }
+}

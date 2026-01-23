@@ -1,0 +1,20 @@
+{
+  "name": "Library of Water",
+  "description": "The Library of Water (Vatnasafn) is a unique art installation and cultural space housed in a historic library building in Stykkishólmur, West Iceland. Created by American artist Roni Horn and opened in 2007, this remarkable project transforms the former Stykkishólmur Library into an immersive sensory experience centered around water in its various forms. The main exhibition space features 24 floor-to-ceiling glass columns filled with glacial meltwater collected from Iceland's major glaciers, including Vatnajökull, Langjökull, and Snæfellsjökull. Each column contains water from a different glacier, creating a stunning visual installation that reflects changing light conditions throughout the day and seasons. The building's windows have been fitted with rubber floor panels that visitors can stand on while looking out at Stykkishólmur harbor and Breiðafjörður bay, creating an experience of standing on water. The upper floor houses a collection of weather reports contributed by local residents, documenting their personal observations and poetic reflections on Icelandic weather patterns. The Library of Water is both a meditation on climate change and a celebration of Iceland's elemental forces. The building's minimalist design and the simple yet powerful concept create a contemplative atmosphere that encourages visitors to consider water, weather, and environmental transformation. Admission is free, though donations are appreciated.",
+  "address": "Bókhlöðustígur 17, 340 Stykkishólmur, Iceland",
+  "coordinates": {
+    "longitude": -22.732500,
+    "latitude": 65.075000,
+    "altitude": 15.0
+  },
+  "rating": 4.7,
+  "reviews_count": 420,
+  "category": "Art Gallery",
+  "website": "https://www.libraryofwater.is",
+  "phone": "+354 438 1650",
+  "opening_hours": {
+    "summer": "Tuesday-Sunday 13:00-17:00 (June-August)",
+    "winter": "By appointment only (September-May)",
+    "admission": "Free entry, donations welcome"
+  }
+}

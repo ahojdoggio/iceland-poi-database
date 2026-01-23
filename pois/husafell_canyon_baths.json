@@ -1,0 +1,20 @@
+{
+  "name": "Húsafell Canyon Baths",
+  "description": "Húsafell Canyon Baths is a spectacular geothermal bathing experience opened in 2023, located in a remote canyon near Húsafell in West Iceland. This innovative development features naturally heated pools built into the dramatic Húsafellsgljúfur canyon, offering visitors an unprecedented combination of geothermal bathing and pristine wilderness. The facility includes multiple interconnected pools at varying temperatures (38-42°C), sourced from geothermal springs that have been used by locals for generations. The canyon setting provides a stunning natural amphitheater with basalt rock walls rising up to 60 meters on either side, creating an intimate and sheltered environment. Unlike more developed geothermal spas, Húsafell Canyon Baths maintains a rustic, nature-focused atmosphere with minimal infrastructure that blends seamlessly into the landscape. Visitors access the baths via a scenic 900-meter walking path through the canyon, passing cascading waterfalls and ancient rock formations. The facility includes changing rooms, lockers, and a small café serving light refreshments. The baths are particularly magical during winter when snow covers the surrounding landscape and northern lights may be visible overhead. Located approximately 130 kilometers from Reykjavík, the site is accessible year-round via paved roads, though winter driving conditions require caution. Advanced booking is strongly recommended as capacity is limited to preserve the natural environment.",
+  "address": "Húsafell, 311 Borgarbyggð, Iceland",
+  "coordinates": {
+    "longitude": -20.871944,
+    "latitude": 64.698611,
+    "altitude": 150.0
+  },
+  "rating": 4.8,
+  "reviews_count": 850,
+  "category": "Geothermal Spa",
+  "website": "https://www.husafellcanyonbaths.com",
+  "phone": "+354 435 1552",
+  "opening_hours": {
+    "general": "Daily 11:00-21:00 (last entry 20:00)",
+    "admission": "Adults 7,900 ISK, Children 13-15 years 3,900 ISK, Under 13 not permitted",
+    "booking": "Online reservation required, walk-ins only if space available"
+  }
+}

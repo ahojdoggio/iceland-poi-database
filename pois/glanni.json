@@ -1,0 +1,20 @@
+{
+  "name": "Glanni",
+  "description": "Glanni is a picturesque multi-tiered waterfall located on the Norðurá river in Borgarfjörður, West Iceland, approximately 64 kilometers north of Reykjavík. The name 'Glanni' translates to 'the gleaming one' in Icelandic, referring to the way sunlight reflects brilliantly off the cascading water. The waterfall drops approximately 6 meters over a series of natural ledges and rock formations, creating multiple smaller falls that spread across a wide section of the river. Unlike many of Iceland's powerful glacial waterfalls, Glanni features crystal-clear water that allows visibility of the riverbed and creates beautiful turquoise pools. The waterfall is surrounded by lush green vegetation during summer months, with moss-covered rocks and birch trees creating a verdant setting unusual for Iceland. A well-maintained gravel path leads from the parking area to multiple viewing platforms, making Glanni accessible for visitors of all ages and mobility levels. The site includes picnic tables and benches, making it popular with Icelandic families for afternoon outings. Glanni flows year-round, though it's most impressive during spring snowmelt when water volume increases significantly. In winter, ice formations create stunning sculptural effects around the falls. The waterfall has been a gathering place for locals for generations, and folklore tells of hidden elves living in the surrounding rock formations.",
+  "address": "Norðurá, Borgarfjörður, 311 Borgarnes, Iceland",
+  "coordinates": {
+    "longitude": -21.512700,
+    "latitude": 64.683900,
+    "altitude": 80.0
+  },
+  "rating": 4.6,
+  "reviews_count": 920,
+  "category": "Waterfall",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "Open 24/7 year-round",
+    "parking": "Free parking available",
+    "facilities": "Picnic area, viewing platforms, marked trails"
+  }
+}

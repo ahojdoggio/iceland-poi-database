@@ -1,0 +1,20 @@
+{
+  "name": "Kárahnjúkar Dam",
+  "description": "Kárahnjúkar Dam is one of Europe's largest and most controversial hydroelectric projects, located in the remote highlands of East Iceland. Completed in 2009 after five years of construction, this massive engineering feat consists of several dams, with the main Kárahnjúkavirkjun dam standing 193 meters high and 730 meters long, creating the Hálslón reservoir which covers 57 square kilometers and holds 2.1 cubic kilometers of water. The dam harnesses the power of glacial rivers flowing from Vatnajökull glacier, generating 4,600 GWh of electricity annually, primarily to power the Alcoa aluminum smelter in Reyðarfjörður. The project sparked intense environmental debate in Iceland, as it required flooding pristine wilderness including reindeer habitats and unique highland ecosystems. Despite the controversy, the dam represents remarkable engineering accomplishment, built to withstand Iceland's harsh conditions including earthquakes, extreme weather, and glacial flooding. The dam and reservoir are accessible via highland road F910 during summer months (June-September), requiring a 4x4 vehicle and careful navigation. The journey to Kárahnjúkar offers spectacular highland scenery passing through Vatnajökull National Park. Visitors can view the dam from designated viewpoints, though access to the dam structure itself is restricted. Information signs explain the project's scale and impact. The area around Hálslón reservoir offers dramatic vistas of an artificial lake set against raw volcanic landscape.",
+  "address": "F910, East Iceland Highlands",
+  "coordinates": {
+    "longitude": -15.733300,
+    "latitude": 65.083300,
+    "altitude": 625.0
+  },
+  "rating": 4.4,
+  "reviews_count": 290,
+  "category": "Dam, Infrastructure",
+  "website": null,
+  "phone": null,
+  "opening_hours": {
+    "access": "F910 open June-September only (4x4 required)",
+    "viewing": "Public viewpoints accessible, dam structure restricted",
+    "facilities": "Information signs, parking areas"
+  }
+}
