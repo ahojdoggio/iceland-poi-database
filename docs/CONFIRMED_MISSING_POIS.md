@@ -6,6 +6,20 @@
 **Completed: 20 POIs (22% complete)**
 **Remaining: 71 POIs**
 
+**Camping Sites & Accommodations: 179 POIs** *(Not included in main database - see note below)*
+
+---
+
+## Database Scope Note
+
+**Camping sites and temporary accommodations are excluded from the main POI database.**
+
+The database focuses on permanent tourist attractions, natural landmarks, cultural sites, and infrastructure. Camping sites have different data requirements (pricing, capacity, seasonal availability) and change frequently.
+
+**179 camping sites identified** from user data including: camping sites across all regions, mountain huts (Álftavatn, Básar, etc.), guesthouses, hostels, cottages, glamping sites, and CampEast network locations.
+
+**10 locations from camping data already in database** as tourist destinations/towns (not as camping facilities): Skaftafell, Landmannalaugar, Ásbyrgi, Þingvellir, Arnarstapi, Þórsmörk, Akranes, Borgarnes, Höfn, Vík.
+
 ---
 
 

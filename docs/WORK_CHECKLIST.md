@@ -13,7 +13,14 @@
 | **Completed** | 408 (100%) |
 | **Expansion Phase 1** | 20 POIs added (91 identified) |
 | **Remaining Expansion** | 71 POIs (from confirmed missing list) |
+| **Camping Sites Analyzed** | 179 POIs *(excluded from database - see scope note)* |
 | **Time Invested** | ~68 hours |
+
+### Database Scope
+
+**Included:** Tourist attractions, natural landmarks, cultural sites, restaurants, museums, pools, towns, churches, and infrastructure.
+
+**Excluded:** Camping sites and temporary accommodations (179 sites analyzed but not added - different data model needed for pricing, capacity, seasonal availability).
 
 ---
 
@@ -799,4 +806,81 @@ Created 20 high-priority POIs from confirmed missing list:
 
 ---
 
-*Checklist v2.1 - Updated January 23, 2026*
+## 🏕️ CAMPING SITES ANALYSIS (179 POIs - Excluded from Database)
+
+**Analysis Date:** January 23, 2026
+**Status:** Analyzed but **not added** to main database
+
+### Summary
+Analyzed **179 camping sites and accommodations** from user-provided data:
+- Camping sites across all regions of Iceland
+- Mountain huts (Álftavatn Hut, Básar Hut, Landmannahellir, Volcano Huts Þórsmörk, etc.)
+- Guesthouses (Goðafoss Guest House, Úrðartindur Guesthouse, etc.)
+- Hostels (Dalur HI Hostel, Berunes Hostel, etc.)
+- Cottages and glamping sites (Vestmannaeyjar Glamping, Vinland Camping Pods, etc.)
+- CampEast network locations (Breiðalsvík, Fáskrúðsfjörður, Reyðarfjörður, Stöðvarfjörður, Fossárdalur)
+
+### Locations Already in Database (as tourist destinations)
+10 locations from camping data exist in database but documented as tourist destinations/towns, not camping facilities:
+1. **Skaftafell** (pois/skaftafell.json) - National park area
+2. **Landmannalaugar** (pois/landmannalaugar_hot_spring.json) - Geothermal area
+3. **Ásbyrgi** (pois/ásbyrgi_canyon.json) - Canyon
+4. **Þingvellir** (pois/þingvellir_national_park.json) - National park
+5. **Arnarstapi** (pois/arnarstapi.json) - Coastal village
+6. **Þórsmörk** (pois/þórsmörk_valley.json) - Valley
+7. **Akranes** (pois/akranes.json) - Town
+8. **Borgarnes** (pois/borgarnes.json) - Town
+9. **Höfn** (pois/hofn.json) - Town
+10. **Vík** (pois/vík.json) - Town
+
+### Why Excluded from Database
+
+**Recommendation:** Maintain current database scope focused on tourist attractions.
+
+**Rationale:**
+- Different use case (finding attractions vs. finding accommodation)
+- Camping information changes frequently (prices, availability, seasonal closures)
+- Would require 179 new entries, nearly doubling database size (408 → 587)
+- Requires different schema optimized for accommodations (pricing, capacity, facilities, seasonal info)
+- Ongoing maintenance burden for temporary accommodations
+
+### Sample Camping Sites Identified
+
+**Major Tourist Area Camping:**
+- Skaftafell Camping (+354 4708300)
+- Landmannalaugar Camping (+354 8603335)
+- Þingvellir Camping / Nyrri Leirar (+354 4881800)
+- Ásbyrgi Camping (+354 4707100)
+- Mývatn Camping (+354 4644240)
+- Reykjavík Camping (+354 5686944)
+
+**Highland Huts:**
+- Álftavatn Hut (+354 5621000)
+- Básar Hut (+354 8932910)
+- Emstrur-Botnar Hut (+354 4990647)
+- Fimmvörðuháls Hut (+354 8233399)
+- Hrafntinnusker Hut (+354 4990679)
+- Hvítarnes Hut (+354 6550173)
+- Landmannahellir (+354 8938407)
+- Volcano Huts Þórsmörk (+354 4194000)
+
+**Regional Camping Sites (75+):**
+- Akranes, Árnes, Bíldudalur, Bolungarvík, Boreyri, Borgarfjörður Eystri, Borgarnes, Dalvík, Drangsnes, Egilsstaðir, Flúðakalundur, Grenivík, Grindavík, Grundarfjörður, Hafnarfjörður, Hellissandur, Höfn, Hofsós, Hólmavík, Húsafell, Húsavík, Hvammstangi, Hveragerði, Kópasker, Patreksfjörður, Reykhólar, Sauðárkrókur, Seyðisfjörður, Siglufjörður, Skagaströnd, Stykkishólmur, Súðavík, Tálknafjörður, Varmahlíð, Vík, Vopnafjörður, and 40+ more
+
+**Full list:** 179 total camping sites with names and phone numbers documented.
+
+### Data Quality
+User-provided data included:
+- ✓ Names (all 179 entries)
+- ✓ Phone numbers (176 of 179 entries)
+- ✗ Coordinates (not provided)
+- ✗ Addresses (not provided)
+- ✗ Descriptions (not provided)
+- ✗ Websites (not provided)
+- ✗ Images (not provided)
+
+**To add to database would require:** ~100-150 hours additional work for full enrichment of all 179 sites.
+
+---
+
+*Checklist v2.2 - Updated January 23, 2026*
