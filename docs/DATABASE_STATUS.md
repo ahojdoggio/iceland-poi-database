@@ -574,15 +574,20 @@ All POIs must meet these requirements from `docs/ENRICHMENT_GUIDE.md`:
 ### File Structure
 ```
 iceland-poi-database/
+├── README.md                # Main project overview
+├── PHASE2_PR_DESCRIPTION.md # Phase 2 expansion documentation
+├── PR_DESCRIPTION.md        # Phase 1 expansion documentation
+├── PR_SUMMARY.md            # Original quality optimization docs
+├── manifest.json            # Generated POI index (479 entries)
 ├── pois/                    # 479 POI JSON files
 ├── docs/                    # Documentation
-│   ├── DATABASE_STATUS.md   # This file
-│   ├── ENRICHMENT_GUIDE.md  # POI creation standards
-│   ├── WORK_CHECKLIST.md    # Original checklist
-│   ├── CONFIRMED_MISSING_POIS.md  # Missing POIs list
-│   ├── POTENTIAL_MISSING_POIS.md  # Potential candidates
-│   └── PROJECT_SUMMARY.md   # Technical overview
-├── manifest.json            # Generated POI index (479 entries)
+│   ├── DATABASE_STATUS.md   # This file - Central status document
+│   └── ENRICHMENT_GUIDE.md  # POI creation standards
+├── scripts/                 # Utility scripts
+│   ├── generate_manifest.py
+│   ├── find_duplicate_names.py
+│   ├── identify_missing_pois.py
+│   └── extract_poi_names.py
 ├── camping_sites_raw.txt    # Camping data (179 entries)
 └── current_poi_names.txt    # All POI names snapshot
 ```
@@ -658,9 +663,10 @@ iceland-poi-database/
 ## Contact & Resources
 
 **Documentation:**
+- Main README: `README.md`
 - Enrichment Guide: `docs/ENRICHMENT_GUIDE.md`
-- Project Summary: `docs/PROJECT_SUMMARY.md`
-- Work Checklist: `docs/WORK_CHECKLIST.md`
+- Phase 1 Documentation: `PR_DESCRIPTION.md`
+- Phase 2 Documentation: `PHASE2_PR_DESCRIPTION.md`
 
 **Data Quality:**
 - All POIs validated for JSON structure
@@ -674,7 +680,7 @@ iceland-poi-database/
 ---
 
 *This document serves as the single source of truth for database status.*
-*For detailed work breakdown, see `docs/WORK_CHECKLIST.md`*
+*For detailed expansion phases, see individual phase documentation.*
 *For enrichment standards, see `docs/ENRICHMENT_GUIDE.md`*
 
 ---
