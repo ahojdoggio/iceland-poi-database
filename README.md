@@ -36,10 +36,16 @@ The Iceland POI Database is a curated collection of tourist attractions, natural
 - **Services:** Restaurants, cafes, breweries
 - **Locations:** Towns, villages, cities
 
-### Excluded (Future Work)
-- Camping sites and accommodations (179 sites identified for Phase 3)
-- Hotels and guesthouses
+### Expansion Roadmap (521 POIs planned)
+- **Phase 3:** Camping sites and accommodations (179 sites)
+- **Phases 4-10:** Additional historical sites, natural features, infrastructure (342 POIs)
+- **Target:** 1,000 total POIs
+- See [DATABASE_STATUS.md](docs/DATABASE_STATUS.md) for complete roadmap
+
+### Excluded
+- Hotels and commercial accommodations (beyond campsites/huts)
 - Temporary or seasonal facilities
+- Private property not open to public
 
 ---
 
@@ -116,11 +122,15 @@ Each POI is stored as a JSON file in the `pois/` directory:
 - Bridges (4), churches (4), historic sites (3), pools (5), towns (4)
 - Restaurants (4), wildlife sites (4), hiking trails (2), highland routes (2), beaches (1), industrial (2)
 
-### 📋 Phase 3: Camping & Accommodations (179 sites)
+### 📋 Phase 3-10: Expansion Roadmap (521 POIs → 1,000 total)
 **Status:** Future work
-- Camping sites, mountain huts, hostels, guesthouses
-- Requires coordinate research and full enrichment
-- Estimated effort: 100-150 hours
+- **Phase 3:** Camping & Accommodations (179 sites → 658 total)
+  - Camping sites, mountain huts, hostels, guesthouses
+  - Estimated effort: 100-150 hours
+- **Phases 4-10:** Additional categories (342 POIs → 1,000 total)
+  - Historical sites, natural features, infrastructure, services
+  - Comprehensive expansion across all categories
+  - Full roadmap in [DATABASE_STATUS.md](docs/DATABASE_STATUS.md)
 
 ---
 
@@ -152,8 +162,8 @@ See [ENRICHMENT_GUIDE.md](docs/ENRICHMENT_GUIDE.md) for complete standards.
 ```
 iceland-poi-database/
 ├── README.md                 # This file
-├── manifest.json             # POI index (408 entries)
-├── pois/                     # 408 POI JSON files
+├── manifest.json             # POI index (479 entries)
+├── pois/                     # 479 POI JSON files
 │   ├── gullfoss.json
 │   ├── geysir.json
 │   └── ...
@@ -204,11 +214,13 @@ Before submitting a POI:
 | Jan 16, 2026 | Fixed display bug | 388 |
 | Jan 23, 2026 | Phase 1 expansion | +20 (408 total) |
 | Jan 24, 2026 | Phase 2: Missing POIs | +71 (479 total) |
-| TBD | Phase 3: Camping sites | +179 (658 total) |
+| TBD | Phase 3-10: Full expansion | +521 (1000 total) |
 
 **Current:** 479 POIs
-**Target:** 658 POIs (when complete)
-**Progress:** 73% complete
+**Target:** 1,000 POIs (full roadmap)
+**Progress:** 48% complete
+
+*Phase 3 focuses on camping sites (179 POIs → 658 total), followed by Phases 4-10 covering additional categories to reach 1,000 total POIs. See [DATABASE_STATUS.md](docs/DATABASE_STATUS.md) for the complete expansion roadmap.*
 
 ---
 
@@ -229,4 +241,4 @@ For questions, issues, or contributions:
 
 **Last Updated:** January 24, 2026
 **Maintained by:** Iceland POI Database Team
-**Version:** 2.0
+**Version:** 3.0 - Expansion Roadmap to 1000 POIs

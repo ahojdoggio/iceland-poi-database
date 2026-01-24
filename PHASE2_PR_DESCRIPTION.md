@@ -7,7 +7,7 @@
 
 ## Summary
 
-This PR completes Phase 2 of the Iceland POI Database expansion, adding 71 high-quality POIs across all confirmed missing categories. The database has grown from 408 to 479 POIs (73% of the 658 total target).
+This PR completes Phase 2 of the Iceland POI Database expansion, adding 71 high-quality POIs across all confirmed missing categories. The database has grown from 408 to 479 POIs (48% of the 1,000 POI roadmap).
 
 ## Database Expansion: +71 POIs (408 → 479)
 
@@ -140,14 +140,16 @@ This PR completes Phase 2 of the Iceland POI Database expansion, adding 71 high-
 - Updated badge: 408 → 479 POIs
 - Updated statistics table
 - Marked Phase 2 as complete (January 24, 2026)
-- Updated progress: 62% → 73% complete
+- Updated progress to reflect 1,000 POI roadmap (48% complete)
 - Detailed Phase 2 completion information
+- Added Phase 3-10 expansion roadmap
 
 ### docs/DATABASE_STATUS.md
-- Updated version: 1.1 → 2.0
+- Updated version: 1.1 → 3.0
 - Updated metrics table showing Phase 2 complete
 - Last updated date: January 23 → January 24, 2026
 - Phase 2 section marked as complete
+- Added comprehensive expansion roadmap to 1,000 POIs (Phases 3-10)
 
 ### manifest.json
 - Regenerated with 479 POI entries
@@ -166,7 +168,7 @@ This PR completes Phase 2 of the Iceland POI Database expansion, adding 71 high-
 | **Mountains** | ~10 | ~17 | +7 |
 | **Glaciers** | ~10 | ~15 | +5 |
 | **Bridges** | 0 | 4 | +4 |
-| **Completion** | 62% | 73% | +11% |
+| **Progress to 1000** | 41% | 48% | +7% |
 
 ---
 
@@ -177,9 +179,9 @@ This PR completes Phase 2 of the Iceland POI Database expansion, adding 71 high-
 | Phase 0: Original Database | 388 | ✅ Complete | Jan 9, 2026 |
 | Phase 1: First Expansion | 20 | ✅ Complete | Jan 23, 2026 |
 | **Phase 2: Missing POIs** | **71** | **✅ Complete** | **Jan 24, 2026** |
-| Phase 3: Camping Sites | 179 | 🔄 Pending | TBD |
-| **Total Current** | **479** | **73%** | - |
-| **Total Target** | **658** | **100%** | - |
+| Phase 3-10: Full Expansion | 521 | 🔄 Pending | TBD |
+| **Total Current** | **479** | **48%** | - |
+| **Total Target** | **1,000** | **100%** | - |
 
 ---
 
@@ -205,14 +207,18 @@ ls -1 pois/*.json | wc -l        # Verified 479 files
 
 ## Next Steps (After Merge)
 
-**Phase 3: Camping Sites & Accommodations (179 POIs)**
+**Phase 3: Camping Sites & Accommodations (179 POIs → 658 total)**
 - Coordinate research required
 - Full enrichment following same standards
 - Estimated effort: 100-150 hours
-- Target: Complete database with 658 total POIs
+
+**Phases 4-10: Continued Expansion (342 POIs → 1,000 total)**
+- Waterfalls, lighthouses, pools, fjords, towns, outdoor activities
+- Specialized categories and hidden gems
+- See DATABASE_STATUS.md for complete roadmap
 
 ---
 
 **Ready for review and merge to main.**
 
-**Completion:** Phase 2 represents a major milestone, bringing the database to 73% completion with comprehensive coverage across all major POI categories in Iceland.
+**Completion:** Phase 2 represents a major milestone, bringing the database to 479 POIs (48% of 1,000 target) with comprehensive coverage across all major POI categories in Iceland.
