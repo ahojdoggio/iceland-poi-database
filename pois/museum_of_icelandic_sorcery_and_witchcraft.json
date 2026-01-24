@@ -1,0 +1,15 @@
+{
+  "name": "Museum of Icelandic Sorcery & Witchcraft",
+  "description": "The Museum of Icelandic Sorcery & Witchcraft (Strandagaldur) is a fascinating and atmospheric museum located in Hólmavík in the remote Strandir region of the Westfjords. This unique institution explores Iceland's dark history of witchcraft trials, magical traditions, and folk beliefs from the 16th and 17th centuries. During this period, Iceland experienced its own witch hunt era, though notably, the majority of those accused and executed were men rather than women—a reversal of the pattern seen elsewhere in Europe. The museum presents this history through carefully researched exhibits that blend historical documentation with recreations of magical practices and beliefs.\n\nThe museum's exhibits include authentic historical artifacts, manuscripts of magical staves (galdrastafir), reconstructions of magical rituals, and detailed explanations of Icelandic folk magic traditions. The most famous (and disturbing) exhibit is a replica of necropants (nábrók)—magical trousers supposedly made from a dead man's skin that were believed to produce endless money. Other displays cover magical staves used for various purposes from finding lost items to cursing enemies, love magic, protection spells, and the use of runes. The museum explains the social and economic conditions that led to witch trials in Iceland, where 120 people were burned at the stake between 1625 and 1683. Audio guides and detailed texts provide context about superstition, power dynamics, and the persecution of marginalized individuals.\n\nThe museum is located in Hólmavík, a small fishing village in the Strandir region, approximately 70 kilometers northwest of the Westfjords town of Búðardalur. The building itself adds to the atmospheric experience, housed in an old fish processing facility with dim lighting and evocative displays. The museum is open daily during summer months (June-August) with reduced hours in spring and autumn. Winter visits may require advance booking. Admission fees support the museum's research and preservation work. The museum shop offers books on Icelandic magic, replicas of magical staves, and unique souvenirs. Visitors often combine the museum with exploration of the remote and beautiful Strandir coastline.",
+  "category": "Museum",
+  "coordinates": {
+    "latitude": 65.710556,
+    "longitude": -21.699167,
+    "altitude": 10.0
+  },
+  "website": "https://www.galdrasyning.is",
+  "phone": "+354 897 6525",
+  "rating": 4.6,
+  "reviews_count": 780,
+  "opening_hours": "June-August: Daily 10:00-18:00; Reduced hours September-May"
+}

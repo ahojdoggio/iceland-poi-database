@@ -2,7 +2,7 @@
 
 **A comprehensive database of Points of Interest across Iceland**
 
-[![POIs](https://img.shields.io/badge/POIs-408-blue)]()
+[![POIs](https://img.shields.io/badge/POIs-479-blue)]()
 [![Status](https://img.shields.io/badge/status-active-green)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
@@ -16,12 +16,12 @@ The Iceland POI Database is a curated collection of tourist attractions, natural
 
 | Metric | Count |
 |--------|-------|
-| **Total POIs** | 408 |
-| **Waterfalls** | 30+ |
-| **Museums** | 29 |
-| **Geothermal Pools** | 35+ |
-| **Towns & Villages** | 50+ |
-| **Restaurants** | 25 |
+| **Total POIs** | 479 |
+| **Waterfalls** | 37 |
+| **Museums** | 36 |
+| **Geothermal Pools** | 40+ |
+| **Towns & Villages** | 54+ |
+| **Restaurants** | 29 |
 | **Complete Coverage** | All regions of Iceland |
 
 ---
@@ -109,11 +109,12 @@ Each POI is stored as a JSON file in the `pois/` directory:
 - Museums, waterfalls, industrial sites, hot springs, towns
 - Enhanced 2 existing POIs
 
-### 🔄 Phase 2: Confirmed Missing POIs (71 POIs)
-**Status:** Pending
-- Waterfalls, volcanic sites, museums, glaciers, bridges
-- Churches, historic sites, hot springs, restaurants
-- See [DATABASE_STATUS.md](docs/DATABASE_STATUS.md) for detailed list
+### ✅ Phase 2: Confirmed Missing POIs (71 POIs)
+**Status:** Complete (January 24, 2026)
+- Added 71 POIs across all categories
+- Waterfalls (7), volcanic sites (10), museums (7), glaciers (5), mountains (7)
+- Bridges (4), churches (4), historic sites (3), pools (5), towns (4)
+- Restaurants (4), wildlife sites (4), hiking trails (2), highland routes (2), beaches (1), industrial (2)
 
 ### 📋 Phase 3: Camping & Accommodations (179 sites)
 **Status:** Future work
@@ -202,12 +203,12 @@ Before submitting a POI:
 | Jan 9, 2026 | Original database complete | 388 |
 | Jan 16, 2026 | Fixed display bug | 388 |
 | Jan 23, 2026 | Phase 1 expansion | +20 (408 total) |
-| TBD | Phase 2: Missing POIs | +71 (479 total) |
+| Jan 24, 2026 | Phase 2: Missing POIs | +71 (479 total) |
 | TBD | Phase 3: Camping sites | +179 (658 total) |
 
-**Current:** 408 POIs
+**Current:** 479 POIs
 **Target:** 658 POIs (when complete)
-**Progress:** 62% complete
+**Progress:** 73% complete
 
 ---
 

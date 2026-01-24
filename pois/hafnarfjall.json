@@ -1,0 +1,13 @@
+{
+  "name": "Hafnarfjall",
+  "description": "Hafnarfjall is a distinctive 844-meter mountain located on the Reykjanes Peninsula in Southwest Iceland, rising prominently near the town of Hafnarfjörður. This rhyolite mountain stands out dramatically from the surrounding lava fields and lower terrain, serving as a landmark visible from much of the Greater Reykjavík area. The mountain formed during volcanic activity approximately 7-10 million years ago, making it significantly older than most volcanic features on the Reykjanes Peninsula. Hafnarfjall's colorful rock face displays bands of red, yellow, and grey stone, evidence of hydrothermal alteration and different mineral compositions that create striking visual patterns.\n\nHiking Hafnarfjall offers excellent opportunities for outdoor enthusiasts seeking panoramic views without venturing far from Reykjavík. Multiple trails lead to the summit, ranging from moderate to challenging depending on the route chosen. The most popular trail begins from Bolafjall and takes approximately 2-3 hours to reach the peak. From the summit, hikers are rewarded with spectacular 360-degree views encompassing Reykjavík, Esja mountain, Faxaflói bay, and on clear days, Snæfellsjökull glacier on the western horizon. The mountain supports diverse plant life including mosses, lichens, and Arctic flowering plants. Bird species such as ravens, meadow pipits, and occasional gyrfalcons can be observed. The terrain varies from easy walking on established paths to more technical scrambling near the summit.\n\nThe mountain is easily accessible from Hafnarfjörður, located just 10-15 minutes by car from central Reykjavík. Parking is available at several trailheads, and the routes are well-marked though not heavily trafficked. Hafnarfjall can be climbed year-round, though winter ascents require proper equipment and experience due to ice and snow. Summer months (June-September) offer the most comfortable hiking conditions with long daylight hours. The hike is suitable for fit individuals with some hiking experience. Proper footwear, warm layers, and wind protection are essential as weather can change rapidly. The mountain serves as an excellent training peak for those preparing for more challenging Icelandic mountains.",
+  "category": "Mountain",
+  "coordinates": {
+    "latitude": 64.067778,
+    "longitude": -21.962222,
+    "altitude": 844.0
+  },
+  "rating": 4.5,
+  "reviews_count": 420,
+  "opening_hours": "Accessible year-round (hiking trail, proper equipment required)"
+}
