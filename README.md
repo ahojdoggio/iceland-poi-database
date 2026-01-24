@@ -81,8 +81,8 @@ Each POI is stored as a JSON file in the `pois/` directory:
 
 📘 **[DATABASE_STATUS.md](docs/DATABASE_STATUS.md)**
 - Current database metrics and progress
-- Completed work summary
-- Pending work breakdown (71 POIs remaining)
+- Completed work summary (Phase 0, 1, 2 complete)
+- Pending work: Phase 3 camping sites (179 POIs)
 - Roadmap and next actions
 - **→ Start here for project status**
 
@@ -227,6 +227,6 @@ For questions, issues, or contributions:
 
 ---
 
-**Last Updated:** January 23, 2026
+**Last Updated:** January 24, 2026
 **Maintained by:** Iceland POI Database Team
-**Version:** 1.1
+**Version:** 2.0

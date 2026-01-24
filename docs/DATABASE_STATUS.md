@@ -121,134 +121,27 @@ All four priority levels completed:
 **Completion Date:** January 24, 2026
 **Added:** 71 POIs across all categories
 
-## Pending Work
-
 **Breakdown by Category:**
+- Waterfalls (7): Basaltic Organ Waterfall, Folaldafoss, Gvendarfoss, Hundafoss, Klifbrekkufossar, Múlagljúfur Canyon Waterfall, Strompgljúfrafoss
+- Volcanic Sites (10): Bjarnarflag, Búri, Hveradalir, Hverarönd, Leirhnjúkur, Lofthellir, Rauðhólar, Skútustaðagígar, Surtshellir, Valahnúkur
+- Museums (7): Langabúð Djúpivogur, Living Art Museum, Museum of Design and Applied Art, Museum of Icelandic Sorcery & Witchcraft, Nonsense Museum Ísafjörður, Tales from Iceland, Þórbergur Center
+- Mountains & Viewpoints (7): Hafnarfjall, Helgafell (Snæfellsnes), Helgafell (Þingvellir), Hvannadalshnjúkur, Kirkjufell Summit Trail, Stóri-Dímon, Öræfajökull
+- Glaciers (5): Drangajökull, Falljökull, Hofsjökull, Katla Ice Cave, Skaftafellsjökull
+- Bridges & Infrastructure (4): Hvalfjörður Tunnel, Jökulsá á Fjöllum Bridge, Skeiðará Bridge Monument, Ölfusá Bridge
+- Churches (4): Ingjaldshólskirkja, Núpsstaður Church, Reyniskirkja, Seljavallakirkja
+- Historic Sites (3): Alþingishúsið, Austurvöllur, Menntaskólinn í Reykjavík
+- Hot Springs & Pools (5): Grettislaug Reykir, Hafnarfjörður Pool, Kvika Footbath, Laugavallalaug, Pollurinn Tálknafjörður
+- Towns & Villages (4): Hnífsdalur, Mjóifjörður, Súðavík, Þorlákshöfn
+- Restaurants (4): Langoustine Festival Höfn, Skál!, Þrír Frakkar, VOX Restaurant
+- Wildlife Sites (4): Akureyri Whale Watching, Grundarfjörður Orca Watching, Illugastaðir Seal Colony, Ingólfshöfði Puffin Island
+- Highland Routes (2): Askja Route (F88), Holuhraun
+- Hiking Trails (2): Kleifarvatn Lake Walk, Víknaslóðir
+- Beaches (1): Krísuvíkurbjarg
+- Industrial (2): Nesjavellir Power Plant, Svartsengi Power Station
 
-| Category | Count | Priority |
-|----------|-------|----------|
-| Waterfalls | 7 | High |
-| Volcanic Sites | 7 | High |
-| Museums | 7 | High |
-| Mountains & Viewpoints | 7 | Medium |
-| Glaciers | 5 | Medium |
-| Bridges | 4 | Medium |
-| Churches | 4 | Medium |
-| Historic Sites | 3 | Medium |
-| Hot Springs & Pools | 4 | Medium |
-| Towns & Villages | 4 | Medium |
-| Restaurants | 4 | Low |
-| Wildlife Sites | 4 | Low |
-| Highland Routes | 2 | Low |
-| Hiking Trails | 2 | Low |
-| Beaches | 1 | Low |
-| Industrial | 2 | Low |
-| **Total** | **71** | - |
+---
 
-**Detailed List:**
-
-**Waterfalls (7):**
-- [ ] Basaltic Organ Waterfall
-- [ ] Folaldafoss
-- [ ] Gvendarfoss
-- [ ] Hundafoss
-- [ ] Klifbrekkufossar
-- [ ] Múlagljúfur Canyon Waterfall
-- [ ] Strompgljúfrafoss
-
-**Volcanic Sites (7):**
-- [ ] Bjarnarflag
-- [ ] Búri
-- [ ] Hveradalir
-- [ ] Hverarönd
-- [ ] Leirhnjúkur
-- [ ] Lofthellir
-- [ ] Rauðhólar
-- [ ] Skútustaðagígar
-- [ ] Surtshellir
-- [ ] Valahnúkur
-
-**Museums (7):**
-- [ ] Langabúð Djúpivogur
-- [ ] Living Art Museum
-- [ ] Museum of Design and Applied Art
-- [ ] Museum of Icelandic Sorcery & Witchcraft
-- [ ] Nonsense Museum Ísafjörður
-- [ ] Tales from Iceland
-- [ ] Þórbergur Center
-
-**Mountains & Viewpoints (7):**
-- [ ] Hafnarfjall
-- [ ] Helgafell (Snæfellsnes)
-- [ ] Helgafell (Þingvellir)
-- [ ] Hvannadalshnjúkur
-- [ ] Kirkjufell Summit Trail
-- [ ] Stóri-Dímon
-- [ ] Öræfajökull
-
-**Glaciers (5):**
-- [ ] Drangajökull
-- [ ] Falljökull
-- [ ] Hofsjökull
-- [ ] Katla Ice Cave
-- [ ] Skaftafellsjökull
-
-**Bridges (4):**
-- [ ] Hvalfjörður Tunnel
-- [ ] Jökulsá á Fjöllum Bridge
-- [ ] Skeiðará Bridge Monument
-- [ ] Ölfusá Bridge
-
-**Churches (4):**
-- [ ] Ingjaldshólskirkja
-- [ ] Núpsstaður Church
-- [ ] Reyniskirkja
-- [ ] Seljavallakirkja
-
-**Historic Sites (3):**
-- [ ] Alþingishúsið
-- [ ] Austurvöllur
-- [ ] Menntaskólinn í Reykjavík
-
-**Hot Springs & Pools (4):**
-- [ ] Grettislaug Reykir
-- [ ] Hafnarfjörður Pool
-- [ ] Kvika Footbath
-- [ ] Laugavallalaug
-- [ ] Pollurinn Tálknafjörður
-
-**Towns & Villages (4):**
-- [ ] Hnífsdalur
-- [ ] Mjóifjörður
-- [ ] Suðureyri
-- [ ] Þorlákshöfn
-
-**Restaurants (4):**
-- [ ] Langoustine Festival Höfn
-- [ ] Skál!
-- [ ] Þrír Frakkar
-- [ ] Ōx + Vox
-
-**Wildlife Sites (4):**
-- [ ] Akureyri Whale Watching
-- [ ] Grundarfjörður Orca Watching
-- [ ] Illugastaðir Seal Colony
-- [ ] Ingólfshöfði Puffin Island
-
-**Highland Routes (2):**
-- [ ] Askja Route (F88)
-- [ ] Holuhraun
-
-**Hiking Trails (2):**
-- [ ] Kleifarvatn Lake Walk
-- [ ] Víknaslóðir
-
-**Beaches (1):**
-- [ ] Krísuvíkurbjarg
-
-**Industrial (2):**
-- [ ] Nesjavellir Power Plant
-- [ ] Svartsengi Power Station
+## Pending Work
 
 ### Phase 3: Camping Sites & Accommodations (179 Sites)
 
@@ -442,6 +335,6 @@ iceland-poi-database/
 
 ---
 
-**Last Updated:** 2026-01-23
+**Last Updated:** 2026-01-24
 **Maintained by:** Claude Code
-**Version:** 1.1
+**Version:** 2.0
