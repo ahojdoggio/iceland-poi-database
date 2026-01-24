@@ -1,0 +1,13 @@
+{
+  "name": "Drangajökull",
+  "description": "Drangajökull is Iceland's northernmost glacier and the only major ice cap located in the Westfjords region, covering approximately 160 square kilometers at elevations between 200 and 925 meters. Unlike Iceland's better-known glaciers like Vatnajökull or Langjökull, Drangajökull remains remarkably remote and rarely visited, preserving a sense of wilderness increasingly rare in modern Iceland. The glacier's name means 'Rock Glacier' or 'Pillar Glacier,' possibly referring to the rocky peaks that protrude through the ice. Drangajökull is notable for being Iceland's only glacier that has shown relatively stable mass balance in recent decades, neither advancing nor retreating significantly despite climate change affecting most of Iceland's other glaciers.\n\nThe glacier feeds several outlet tongues that descend into surrounding valleys, creating dramatic landscapes of ice, rock, and Arctic vegetation. Kaldalónsvirkjun is the most accessible outlet glacier, reaching down toward Kaldalón fjord in the Strandir region. The ice cap supports unique ecosystems adapted to the harsh Arctic climate, with limited vegetation on surrounding moraines and specialized bird species nesting on nearby cliffs. The glacier's relatively stable condition makes it valuable for scientific study as researchers work to understand why it resists the melting affecting other Icelandic glaciers. Current theories suggest its northern location, maritime climate with heavy snowfall, and relatively low summer temperatures contribute to its stability.\n\nAccessing Drangajökull requires significant effort due to its remote location in the sparsely populated Westfjords. The nearest significant settlement is Djúpavík on the Strandir coast, though most visitors approach from Ísafjörður via long gravel roads. Reaching the glacier requires either multi-day hiking trips or 4x4 vehicle access followed by strenuous hikes. The area has minimal infrastructure with no marked trails or facilities near the glacier. Visiting Drangajökull is primarily for experienced hikers, mountaineers, and adventurers seeking genuine wilderness experiences. The best access period is July-August when highland roads may be passable and snow has melted from approaches. Guided tours are occasionally offered. Anyone visiting should be fully self-sufficient with navigation skills, camping equipment, and emergency supplies.",
+  "category": "Glacier",
+  "coordinates": {
+    "latitude": 66.111111,
+    "longitude": -22.205556,
+    "altitude": 925.0
+  },
+  "rating": 4.8,
+  "reviews_count": 125,
+  "opening_hours": "July-August (remote access, experienced hikers only)"
+}

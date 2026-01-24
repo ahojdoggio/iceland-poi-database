@@ -1,0 +1,14 @@
+{
+  "name": "Hvalfjörður Tunnel",
+  "description": "The Hvalfjörður Tunnel (Hvalfjarðargöng) is a 5,770-meter undersea tunnel connecting the northern and southern shores of Hvalfjörður ('Whale Fjord') in West Iceland, opened in 1998 to dramatically shorten travel times between Reykjavík and North Iceland. Before the tunnel's construction, traffic had to navigate the 64-kilometer route around the entire fjord, adding nearly an hour to journeys. The tunnel descends to 165 meters below sea level at its deepest point, making it one of Iceland's most impressive engineering achievements. Its completion revolutionized travel in Iceland and contributed significantly to economic development by improving connections between regions.\n\nThe tunnel features modern safety systems including ventilation, lighting, emergency exits, and communication equipment. A toll is charged for vehicles using the tunnel, collected at a toll station on the southern approach. The toll revenue helps maintain the tunnel and partially funds other infrastructure projects. For those interested in engineering or wanting to avoid tolls, the old coastal route around Hvalfjörður remains open and offers scenic views, historic sites including an old whaling station, and beautiful coastal landscapes. The tunnel itself provides a unique experience of descending deep beneath a fjord, with depth markers indicating the level below sea level.\n\nThe tunnel is located on Route 1 (Ring Road) approximately 45 kilometers north of Reykjavík. It operates 24/7 year-round with toll collection automated through license plate recognition for registered users or cash/card payment at toll booths. Speed limits are enforced with cameras, and the tunnel is generally very safe with modern construction standards. The tunnel has become an essential part of Iceland's transportation infrastructure, used by thousands of vehicles daily including tourists, commercial traffic, and local commuters.",
+  "category": "Infrastructure",
+  "coordinates": {
+    "latitude": 64.350000,
+    "longitude": -21.500000,
+    "altitude": -165.0
+  },
+  "website": "https://www.veggjald.is",
+  "rating": 4.5,
+  "reviews_count": 1250,
+  "opening_hours": "Open 24/7 (toll applies)"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hofsjökull",
+  "description": "Hofsjökull is Iceland's third-largest glacier, covering approximately 890 square kilometers of the central highlands between Langjökull and Vatnajökull. This roughly circular ice cap reaches its highest point at 1,765 meters elevation and covers an active volcanic system that last erupted during the Settlement period around 900 AD. The glacier's name means 'Temple Glacier' or 'Hof Glacier,' though the origin of this name is uncertain. Hofsjökull is the source of several major Icelandic rivers including Þjórsá (Iceland's longest river), Blanda, and Jökulsá á Fjöllum, making it crucial to Iceland's ecosystem and hydroelectric power generation. The glacier feeds the spectacular Kerlingarfjöll geothermal area on its southwestern flank.\n\nThe ice cap displays classic dome-shaped morphology with several outlet glaciers descending in different directions, though none extend as far down as those from larger ice caps like Vatnajökull. The glacier surface is relatively smooth compared to more crevassed glaciers, though bergschrunds and crevasses do exist near steeper sections. The underlying volcanic system maintains geothermal activity that creates ice cauldrons and subglacial lakes, requiring continuous monitoring by Icelandic scientists. Hofsjökull has experienced significant retreat in recent decades, losing both ice volume and surface area as climate warming affects Iceland's glaciers. The retreating ice edges reveal volcanic bedrock and glacially sculpted landscapes.\n\nHofsjökull is located in Iceland's uninhabited interior highlands, making it one of the most remote and rarely visited glaciers. Access requires 4x4 vehicles capable of fording rivers and navigating rough F-roads, primarily the Sprengisandur route (F26) which passes along the glacier's eastern edge. The Kjölur route (F35) passes to the west, providing distant views. Both routes are only open during summer months (July-August typically). There are no facilities in the area, and visitors must be fully self-sufficient. Organized tours occasionally visit the glacier edge during summer. The glacier is best viewed from elevated points along highland roads or from Kerlingarfjöll area. Climbing onto the glacier should only be attempted by experienced mountaineers with appropriate equipment and knowledge of glacial hazards.",
+  "category": "Glacier",
+  "coordinates": {
+    "latitude": 64.792222,
+    "longitude": -18.902222,
+    "altitude": 1765.0
+  },
+  "rating": 4.6,
+  "reviews_count": 210,
+  "opening_hours": "July-August (remote highland access, 4x4 required)"
+}

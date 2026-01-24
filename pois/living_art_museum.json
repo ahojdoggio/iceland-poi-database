@@ -1,0 +1,15 @@
+{
+  "name": "Living Art Museum",
+  "description": "The Living Art Museum (Nýlistasafnið) is Iceland's premier contemporary art institution, dedicated to collecting, preserving, and exhibiting modern and contemporary Icelandic art. Established in 1978 by a group of forward-thinking artists, the museum was founded on the principle that artists themselves should control and manage art institutions. This artist-run model remains unique in Iceland and has made the Living Art Museum a vital platform for experimental, conceptual, and avant-garde art practices. The museum houses an extensive collection of over 5,500 works by Icelandic artists from the 1960s to present day, representing the evolution of contemporary Icelandic art.\n\nThe museum's exhibitions feature a dynamic rotation of works from the permanent collection alongside temporary exhibitions showcasing emerging and established Icelandic artists. The exhibition program emphasizes challenging conventional boundaries and providing a platform for artistic experimentation. Past exhibitions have included installations, video art, performance art, photography, painting, and sculpture. The museum actively collects contemporary works, with artists donating pieces to the collection as part of the cooperative model. This has created one of the most comprehensive archives of contemporary Icelandic art. The museum also hosts artist talks, performances, and educational programs that engage the public with contemporary art practices.\n\nThe Living Art Museum is located in Reykjavík's harbor area at Grandi, in a converted fish factory building that provides an appropriately industrial aesthetic for contemporary art. The space features high ceilings, concrete floors, and flexible exhibition areas that can accommodate large-scale installations. The museum is open Tuesday through Sunday with free admission, making contemporary art accessible to all visitors. Guided tours can be arranged for groups. The harbor location places the museum among Reykjavík's vibrant cultural district, near the Marshall House, Grandi Mathöll food hall, and various galleries and cafés. The museum's bookshop offers art catalogs, books, and artist publications.",
+  "category": "Museum",
+  "coordinates": {
+    "latitude": 64.153611,
+    "longitude": -21.957778,
+    "altitude": 5.0
+  },
+  "website": "https://www.nylo.is",
+  "phone": "+354 551 4350",
+  "rating": 4.4,
+  "reviews_count": 285,
+  "opening_hours": "Tuesday-Sunday: 12:00-17:00; Monday: Closed"
+}
