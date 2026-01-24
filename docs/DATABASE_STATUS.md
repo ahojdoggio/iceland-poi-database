@@ -1,8 +1,8 @@
 # Iceland POI Database - Central Status Document
 
 **Last Updated:** 2026-01-24
-**Database Version:** 2.0
-**Total POIs:** 479 (core database) + 179 (camping sites - Phase 3)
+**Database Version:** 3.0
+**Total POIs:** 479 (core database) + 521 (planned expansion to 1000)
 
 ---
 
@@ -18,8 +18,8 @@ The Iceland POI Database is a comprehensive collection of points of interest acr
 | **Original Database** | 388 | ✅ Complete |
 | **Expansion Phase 1** | 20 | ✅ Complete |
 | **Expansion Phase 2** | 71 | ✅ Complete |
-| **Camping Sites (Phase 3)** | 179 | 🔄 Pending |
-| **Total When Complete** | 658 | 🎯 Target |
+| **Planned Expansions (Phase 3-10)** | 521 | 📋 Planned |
+| **Total Target** | **1000** | 🎯 **Target** |
 
 ---
 
@@ -210,6 +210,339 @@ All four priority levels completed:
 
 ---
 
+## Expansion Roadmap to 1000 POIs
+
+**Current Status:** 479 POIs complete
+**Target:** 1000 POIs
+**Remaining:** 521 POIs across Phases 3-10
+
+### Phase 3: Camping Sites & Accommodations (179 POIs)
+
+**Priority:** High
+**Estimated Effort:** 100-150 hours
+**Status:** 🔄 Data Received, Enrichment Pending
+
+See details above in Pending Work section.
+
+---
+
+### Phase 4: Waterfalls Expansion (50 POIs)
+
+**Priority:** High
+**Target Count:** 50 additional waterfalls
+**Current in Database:** ~37 waterfalls
+**Total After Phase 4:** ~87 waterfalls
+
+**Rationale:** Iceland has 10,000+ waterfalls. Epic Iceland cataloged 130+ named waterfalls. We can add 50 more significant named waterfalls beyond what we currently have.
+
+**Candidate Categories:**
+- Hidden waterfalls in Westfjords (15)
+- East Iceland waterfalls (10)
+- North Iceland waterfalls (10)
+- Highland waterfalls (10)
+- Lesser-known South Coast waterfalls (5)
+
+**Data Sources:**
+- [Epic Iceland Waterfalls Map](https://epiciceland.net/all-waterfalls-iceland/) - 130+ waterfalls
+- [Guide to Iceland Waterfalls](https://guidetoiceland.is/nature-info/waterfalls-in-iceland)
+- [Explore with Alec - 35 Beautiful Waterfalls](https://explorewithalec.com/iceland-waterfalls/)
+
+---
+
+### Phase 5: Lighthouses & Maritime (40 POIs)
+
+**Priority:** Medium
+**Target Count:** 40 POIs
+**Iceland Total:** 104 lighthouses
+
+**Breakdown:**
+- Lighthouses (30) - Select most accessible and historically significant
+- Maritime museums (5)
+- Historic fishing stations (5)
+
+**Data Sources:**
+- [Wikipedia List of Lighthouses in Iceland](https://en.wikipedia.org/wiki/List_of_lighthouses_in_Iceland) - Complete list of 104
+- [ibiblio.org East/South Iceland Lighthouses](https://www.ibiblio.org/lighthouse/islse.htm) - 41 lighthouses
+- [ibiblio.org Western Iceland Lighthouses](https://www.ibiblio.org/lighthouse/islw.htm) - 41 lighthouses
+
+**Notable Examples:**
+- Dalatangi (easternmost point)
+- Garðskagi (tallest on Reykjanes, 26m)
+- Bjargtangar (westernmost point in Europe)
+- Þrídrangaviti (dramatic 36m basalt sea stack)
+
+---
+
+### Phase 6: Swimming Pools & Geothermal Baths (50 POIs)
+
+**Priority:** Medium-High
+**Target Count:** 50 POIs
+**Iceland Total:** 120+ public swimming pools (1 per 2,000 people)
+
+**Current in Database:** ~15-20 pools/baths
+**Breakdown:**
+- Municipal swimming pools (30) - One in nearly every town
+- Geothermal pools and hot pots (15)
+- Natural hot springs (5)
+
+**Data Sources:**
+- [Visit Reykjavík Geothermal Pools](https://visitreykjavik.is/see-and-do/activities/geothermal-pools-spas)
+- [Nordic Visitor - 24 Top Hot Springs](https://www.nordicvisitor.com/blog/best-iceland-hot-springs-geothermal-pools-guide/)
+- [Guide to Iceland - 30 Best Hot Springs](https://guidetoiceland.is/best-of-iceland/the-5-best-hot-springs-in-iceland)
+
+**Notable Pools by Region:**
+- Reykjavík Area: 18 pools (Laugardalslaug, Sundhöllin, etc.)
+- North Iceland: Akureyri, Hofsós, GeoSea, Forest Lagoon
+- Each town has a local pool with hot tubs
+
+---
+
+### Phase 7: Fjords, Peninsulas & Geographic Features (40 POIs)
+
+**Priority:** Medium
+**Target Count:** 40 POIs
+
+**Breakdown:**
+- Major fjords (20) - Iceland has 109 fjords
+- Peninsulas (13) - All 13 named peninsulas
+- Notable valleys and canyons (7)
+
+**Data Sources:**
+- [Wikipedia List of Fjords of Iceland](https://en.wikipedia.org/wiki/List_of_fjords_of_Iceland) - 109 fjords
+- [Iceland.org Fjords](https://www.iceland.org/geography/fjord/)
+- [Iceland.org Peninsulas](https://www.iceland.org/geography/peninsula/) - 13 peninsulas
+- [Guide to Iceland - Top 11 Canyons](https://guidetoiceland.is/best-of-iceland/top-11-canyons-in-iceland)
+- [Traveo - 16 Most Stunning Canyons](https://traveo.is/how-to-explore-16-of-icelands-most-stunning-canyons/)
+
+**Notable Fjords:**
+- Eyjafjörður (longest, 60km)
+- Ísafjarðardjúp (Westfjords)
+- Hvalfjörður, Borgarfjörður (West)
+- All Westfjords fjords (39 named)
+- All Eastfjords fjords
+
+**All 13 Peninsulas:**
+- Snæfellsnes, Reykjanes, Westfjords, Tjörnes, Seltjarnarnes, Álftanes, Stórhöfði, Vatnsnes, Tröllaskagi, Hornstrandir, Langanes, Rifstangi, Dyrhólaey
+
+---
+
+### Phase 8: Towns, Villages & Cultural Sites (60 POIs)
+
+**Priority:** Medium
+**Target Count:** 60 POIs
+
+**Breakdown:**
+- Small towns and villages (30) - Iceland has 100+ towns/villages, 63 named localities
+- Museums and galleries (15) - Many museums beyond what we have
+- Cultural centers and libraries (10)
+- Public art and monuments (5)
+
+**Data Sources:**
+- [Wikipedia Localities of Iceland](https://en.wikipedia.org/wiki/Localities_of_Iceland) - 63 named localities
+- [Visit Iceland Towns & Villages](https://www.visiticeland.com/icelandic-towns-and-villages/) - 100+ settlements
+- [Guide to Iceland Art Museums](https://guidetoiceland.is/reykjavik-guide/reykjaviks-best-art-museums-and-photo-exhibitions)
+- [Visit Reykjavík Museums](https://visitreykjavik.is/see-and-do/museums-exhibitions)
+
+**Notable Additions:**
+- Small Westfjords villages (Bolungarvík, Bíldudalur, etc.)
+- East fjords settlements (Seyðisfjörður, Fáskrúðsfjörður)
+- Museums: Reykjavík Art Museum (3 locations), photography museum, design museum
+- Libraries: Reykjavík City Library (8 locations), National Library
+- Monuments: Sun Voyager, Unknown Bureaucrat, Arctic Henge, Bárður statue
+
+---
+
+### Phase 9: Outdoor Activities & Adventure Sites (52 POIs)
+
+**Priority:** Medium
+**Target Count:** 52 POIs
+
+**Breakdown:**
+- Hiking trails (15) - Major multi-day and day hikes beyond Laugavegur
+- Viewpoints and photography spots (12)
+- Caves and lava tubes (10) - Many notable caves
+- Ski resorts (7) - Iceland has ~20 ski resorts
+- Golf courses (8) - Iceland has 39-65 golf courses
+
+**Data Sources:**
+- [Guide to Iceland Caves](https://guidetoiceland.is/nature-info/caves-in-iceland)
+- [Iceland Travel Guide Lava Caves](https://icelandtravelguide.is/blog-posts/best-lava-caves-in-iceland/)
+- [SkiResort.info Iceland](https://www.skiresort.info/ski-resorts/iceland/) - ~20 resorts
+- [Leading Courses Golf](https://www.leadingcourses.com/region/europe+iceland/) - 39 clubs
+- [Guide to Iceland Viewpoints](https://guidetoiceland.is/best-of-iceland/top-13-viewpoints-in-iceland)
+
+**Notable Additions:**
+**Caves & Lava Tubes:**
+- Víðgelmir (largest lava cave in Iceland)
+- Vatnshellir (8,000 years old)
+- Leiðarendi (near Blue Mountains)
+- Grjótagjá (Game of Thrones cave)
+- Yoda Cave, Caves of Hella
+
+**Ski Resorts (Top 7 of ~20):**
+- Bláfjöll (largest, near Reykjavík)
+- Hlíðarfjall (Akureyri, biggest and most popular)
+- Dalvík (winter sports hub)
+- Plus 4 more from North Iceland's 7 resorts
+
+**Golf Courses (Top 8 of 39+):**
+- Vestmannaeyjar Golf Club (below volcano)
+- Akureyri Golf Club
+- Brautarholt, Oddur, Keilir, Leynir, etc.
+
+---
+
+### Phase 10: Specialized Categories & Hidden Gems (50 POIs)
+
+**Priority:** Low-Medium
+**Target Count:** 50 POIs
+
+**Breakdown:**
+- Islands (10) - Iceland has 30+ notable islands, 2000+ total with islets
+- Beaches (10) - Black sand, white sand, golden sand beaches
+- Festivals and annual events (8)
+- Breweries and distilleries (7) - Nearly 30 beer companies
+- Horse farms and agritourism (8)
+- Diving and snorkeling sites (3)
+- Shopping areas and bookstores (4)
+
+**Data Sources:**
+- [Iceland.org Islands](https://www.iceland.org/geography/island/) - 30 notable islands
+- [Guide to Iceland Islands](https://guidetoiceland.is/nature-info/best-islands-to-visit-in-iceland)
+- [Guide to Iceland Black Sand Beaches](https://guidetoiceland.is/nature-info/top-13-beaches-of-iceland)
+- [Guide to Iceland Festivals](https://guidetoiceland.is/best-of-iceland/the-top-10-festivals-in-iceland) - 25+ festivals
+- [Guide to Iceland Breweries](https://guidetoiceland.is/best-of-iceland/best-breweries-and-distilleries-to-visit-in-iceland)
+
+**Notable Islands (10 of 30+):**
+- Flatey (Breiðafjörður) - 5-6 year-round residents
+- Grímsey (Arctic Circle) - 86 residents
+- Hrísey (second largest) - 151 residents
+- Heimaey (Westman Islands main) - 4,500 residents
+- Surtsey (UNESCO, emerged 1963)
+- Vigur, Lundey, Drangey, Papey, Elliðaey
+
+**Beaches (10):**
+- Reynisfjara (most famous black sand)
+- Djúpalónssandur (Snæfellsnes black sand)
+- Stokksnes Beach
+- Rauðisandur (golden-red sand, 10km)
+- Nauthólsvík Geothermal Beach
+- Plus 5 more from various regions
+
+**Festivals & Events (8):**
+- Iceland Airwaves (November music festival)
+- Reykjavík Pride (August)
+- Culture Night (August)
+- RIFF Film Festival (September-October)
+- DesignMarch, Winter Lights Festival, Food and Fun, Viking Festival
+
+**Breweries & Distilleries (7 of ~30):**
+- Eimverk Distillery (Iceland's only whiskey distillery - Flóki)
+- Einstök Brewery (Akureyri)
+- Kaldi Brewery (first microbrewery, 2006)
+- Ölvisholt Brewery (South Iceland)
+- Ölgerðin Brewery (Reykjavík tours)
+- Öldur Meadery
+- Ölverk Pizza and Brewery
+
+---
+
+## Expansion Summary by Phase
+
+| Phase | Category | POIs | Priority | Effort (hrs) | Status |
+|-------|----------|------|----------|--------------|--------|
+| 0 | Original Database | 388 | - | Completed | ✅ Complete |
+| 1 | First Expansion | 20 | - | Completed | ✅ Complete |
+| 2 | Missing POIs | 71 | - | Completed | ✅ Complete |
+| **3** | **Camping & Accommodations** | **179** | **High** | **100-150** | **🔄 Data Received** |
+| **4** | **Waterfalls Expansion** | **50** | **High** | **40-60** | **📋 Planned** |
+| **5** | **Lighthouses & Maritime** | **40** | **Medium** | **30-50** | **📋 Planned** |
+| **6** | **Pools & Geothermal Baths** | **50** | **Medium-High** | **40-60** | **📋 Planned** |
+| **7** | **Fjords & Geographic Features** | **40** | **Medium** | **30-50** | **📋 Planned** |
+| **8** | **Towns & Cultural Sites** | **60** | **Medium** | **50-80** | **📋 Planned** |
+| **9** | **Outdoor Activities** | **52** | **Medium** | **45-70** | **📋 Planned** |
+| **10** | **Specialized & Hidden Gems** | **50** | **Low-Medium** | **40-60** | **📋 Planned** |
+| | **TOTAL** | **1000** | | **~400-650 hrs** | **479 Complete, 521 Planned** |
+
+---
+
+## Category Distribution (Target at 1000 POIs)
+
+| Category | Current | Phase 3-10 | Total Target | % of Database |
+|----------|---------|-----------|--------------|---------------|
+| Waterfalls | 37 | +50 | 87 | 8.7% |
+| Museums & Cultural | 36 | +30 | 66 | 6.6% |
+| Swimming Pools & Hot Springs | ~20 | +50 | 70 | 7.0% |
+| Accommodations | 0 | +179 | 179 | 17.9% |
+| Towns & Villages | ~30 | +30 | 60 | 6.0% |
+| Lighthouses | 0 | +30 | 30 | 3.0% |
+| Fjords | 0 | +20 | 20 | 2.0% |
+| Peninsulas | 0 | +13 | 13 | 1.3% |
+| Caves & Lava Tubes | ~5 | +10 | 15 | 1.5% |
+| Hiking Trails | ~5 | +15 | 20 | 2.0% |
+| Viewpoints | ~10 | +12 | 22 | 2.2% |
+| Islands | ~3 | +10 | 13 | 1.3% |
+| Beaches | ~5 | +10 | 15 | 1.5% |
+| Golf Courses | 0 | +8 | 8 | 0.8% |
+| Ski Resorts | 0 | +7 | 7 | 0.7% |
+| Breweries/Distilleries | 0 | +7 | 7 | 0.7% |
+| Festivals & Events | 0 | +8 | 8 | 0.8% |
+| Other Categories | 328 | +32 | 360 | 36.0% |
+| **TOTAL** | **479** | **521** | **1000** | **100%** |
+
+---
+
+## Research Sources
+
+All expansion planning based on comprehensive web research conducted January 24, 2026:
+
+### Comprehensive POI Lists
+- [Epic Iceland Map](https://epiciceland.net/map/) - 2000+ spots in Iceland
+- [Guide to Iceland](https://guidetoiceland.is/) - Comprehensive travel guide
+- [Visit Iceland Official](https://www.visiticeland.com/) - Official tourism site
+
+### Geographic Features
+- [Wikipedia List of Fjords](https://en.wikipedia.org/wiki/List_of_fjords_of_Iceland) - 109 fjords
+- [Iceland.org Peninsulas](https://www.iceland.org/geography/peninsula/) - 13 peninsulas
+- [Canyons of Iceland](https://guidetoiceland.is/best-of-iceland/top-11-canyons-in-iceland) - 16+ canyons
+
+### Waterfalls
+- [Epic Iceland Waterfalls](https://epiciceland.net/all-waterfalls-iceland/) - 130+ waterfalls
+- [Wikipedia Waterfalls](https://en.wikipedia.org/wiki/List_of_waterfalls_in_Iceland)
+
+### Lighthouses
+- [Wikipedia Lighthouses](https://en.wikipedia.org/wiki/List_of_lighthouses_in_Iceland) - 104 lighthouses
+- [ibiblio.org East/South](https://www.ibiblio.org/lighthouse/islse.htm)
+- [ibiblio.org Western](https://www.ibiblio.org/lighthouse/islw.htm)
+
+### Swimming & Geothermal
+- [Nordic Visitor Hot Springs](https://www.nordicvisitor.com/blog/best-iceland-hot-springs-geothermal-pools-guide/) - 24 top sites
+- [Guide to Iceland Hot Springs](https://guidetoiceland.is/best-of-iceland/the-5-best-hot-springs-in-iceland) - 30 best
+- [Visit Reykjavík Pools](https://visitreykjavik.is/see-and-do/activities/geothermal-pools-spas)
+
+### Towns & Culture
+- [Wikipedia Localities](https://en.wikipedia.org/wiki/Localities_of_Iceland) - 63 named localities
+- [Visit Reykjavík Museums](https://visitreykjavik.is/see-and-do/museums-exhibitions)
+- [Guide to Iceland Art Museums](https://guidetoiceland.is/reykjavik-guide/reykjaviks-best-art-museums-and-photo-exhibitions)
+
+### Outdoor Activities
+- [Caves in Iceland](https://guidetoiceland.is/nature-info/caves-in-iceland)
+- [Ski Resorts](https://www.skiresort.info/ski-resorts/iceland/)
+- [Golf Courses](https://www.leadingcourses.com/region/europe+iceland/)
+- [Hiking Trails](https://guidetoiceland.is/travel-iceland/drive/laugavegur-hiking-trail)
+
+### Islands & Beaches
+- [Islands of Iceland](https://www.iceland.org/geography/island/) - 30+ notable islands
+- [Black Sand Beaches](https://guidetoiceland.is/nature-info/top-13-beaches-of-iceland)
+
+### Specialized
+- [Iceland Festivals](https://guidetoiceland.is/best-of-iceland/the-top-10-festivals-in-iceland) - 25+ festivals
+- [Breweries & Distilleries](https://guidetoiceland.is/best-of-iceland/best-breweries-and-distilleries-to-visit-in-iceland)
+- [Westfjords Guide](https://guidetoiceland.is/nature-info/the-wild-westfjords-of-iceland)
+- [Lonely Planet Westfjords](https://www.lonelyplanet.com/articles/top-things-to-do-in-westfjords)
+
+---
+
 ## Quality Standards
 
 All POIs must meet these requirements from `docs/ENRICHMENT_GUIDE.md`:
@@ -241,7 +574,7 @@ All POIs must meet these requirements from `docs/ENRICHMENT_GUIDE.md`:
 ### File Structure
 ```
 iceland-poi-database/
-├── pois/                    # 408 POI JSON files
+├── pois/                    # 479 POI JSON files
 ├── docs/                    # Documentation
 │   ├── DATABASE_STATUS.md   # This file
 │   ├── ENRICHMENT_GUIDE.md  # POI creation standards
@@ -249,7 +582,7 @@ iceland-poi-database/
 │   ├── CONFIRMED_MISSING_POIS.md  # Missing POIs list
 │   ├── POTENTIAL_MISSING_POIS.md  # Potential candidates
 │   └── PROJECT_SUMMARY.md   # Technical overview
-├── manifest.json            # Generated POI index (408 entries)
+├── manifest.json            # Generated POI index (479 entries)
 ├── camping_sites_raw.txt    # Camping data (179 entries)
 └── current_poi_names.txt    # All POI names snapshot
 ```
@@ -273,41 +606,52 @@ iceland-poi-database/
 ### Completed Milestones
 - ✅ January 9, 2026: Original database complete (388 POIs)
 - ✅ January 16, 2026: Fixed display bug (388/389 discrepancy)
-- ✅ January 23, 2026: Phase 1 expansion complete (20 POIs)
-- ✅ January 23, 2026: Camping sites analysis (179 sites)
+- ✅ January 23, 2026: Phase 1 expansion complete (408 POIs total)
+- ✅ January 23, 2026: Camping sites analysis (179 sites identified)
+- ✅ January 24, 2026: Phase 2 expansion complete (479 POIs total)
+- ✅ January 24, 2026: Comprehensive expansion research to 1000 POIs
 
 ### Upcoming Milestones
-- 🔄 Phase 2: Confirmed missing POIs (71 remaining)
-- 🔄 Phase 3: Camping sites addition (179 sites)
-- 🎯 Target: 658 total POIs when complete
+- 🔄 Phase 3: Camping sites addition (179 POIs) → 658 total
+- 📋 Phase 4: Waterfalls expansion (50 POIs) → 708 total
+- 📋 Phase 5: Lighthouses & maritime (40 POIs) → 748 total
+- 📋 Phase 6: Swimming pools & geothermal baths (50 POIs) → 798 total
+- 📋 Phase 7: Fjords & geographic features (40 POIs) → 838 total
+- 📋 Phase 8: Towns & cultural sites (60 POIs) → 898 total
+- 📋 Phase 9: Outdoor activities (52 POIs) → 950 total
+- 📋 Phase 10: Specialized categories (50 POIs) → **1000 total** 🎯
 
 ### Time Investment
 - Original database: ~66 hours
 - Phase 1 expansion: ~2 hours
-- Camping analysis: ~1 hour
-- **Total so far: ~69 hours**
-- **Estimated remaining: 110-160 hours**
+- Phase 2 expansion: ~15 hours
+- Expansion research: ~6 hours
+- **Total so far: ~89 hours**
+- **Estimated remaining (Phases 3-10): 400-650 hours**
+- **Grand total estimate: ~500-750 hours for 1000 POIs**
 
 ---
 
 ## Next Actions
 
 ### Immediate (Priority 1)
-1. **Decision needed:** Approach for camping sites (Option A, B, or C)
-2. **If proceeding:** Begin coordinate research for camping sites
-3. **Alternative:** Continue with Phase 2 confirmed missing POIs
+1. ✅ **Completed:** Phase 2 expansion (71 POIs)
+2. ✅ **Completed:** Comprehensive expansion research to 1000 POIs
+3. **Next:** Decide on Phase 3 approach (Camping sites)
+4. **Next:** Begin Phase 3 coordinate research and enrichment
 
 ### Short Term (Priority 2)
-1. Complete Phase 2: Add 71 confirmed missing POIs
-2. Update all documentation
-3. Regenerate manifest.json
-4. Run validation checks
+1. Complete Phase 3: Camping sites & accommodations (179 POIs)
+2. Begin Phase 4: Waterfalls expansion (50 POIs)
+3. Continue systematic expansion through Phases 5-10
+4. Maintain documentation updates with each phase
 
 ### Long Term (Priority 3)
-1. Complete camping sites integration
-2. Final database validation
-3. Create comprehensive deployment guide
-4. Archive analysis documents
+1. Complete all 10 expansion phases (1000 total POIs)
+2. Final comprehensive database validation
+3. Create deployment and API documentation
+4. Consider additional expansion beyond 1000 POIs
+5. Establish maintenance and update schedule
 
 ---
 
@@ -337,4 +681,4 @@ iceland-poi-database/
 
 **Last Updated:** 2026-01-24
 **Maintained by:** Claude Code
-**Version:** 2.0
+**Version:** 3.0 - Expansion Roadmap to 1000 POIs
