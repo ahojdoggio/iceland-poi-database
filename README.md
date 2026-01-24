@@ -241,4 +241,4 @@ For questions, issues, or contributions:
 
 **Last Updated:** January 24, 2026
 **Maintained by:** Iceland POI Database Team
-**Version:** 2.0
+**Version:** 3.0 - Expansion Roadmap to 1000 POIs
