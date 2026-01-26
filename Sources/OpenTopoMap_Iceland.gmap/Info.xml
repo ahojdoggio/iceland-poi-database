@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MapProduct xmlns="http://www.garmin.com/xmlschemas/MapProduct/v1">
+ <Name>OpenTopoMap Iceland 2026-01-22</Name>
+ <DataVersion>100</DataVersion>
+ <DataFormat>Original</DataFormat>
+ <ID>53425</ID>
+ <IDX>OpenTopoMap_Iceland.mdx</IDX>
+ <MDR>OpenTopoMap_Iceland_mdr</MDR>
+ <TYP>opentopomap.typ</TYP>
+<SubProduct>
+ <Name>OpenTopoMap Iceland 2026-01-22</Name>
+ <ID>1</ID>
+ <BaseMap>OpenTopoMap_Iceland</BaseMap>
+ <TDB>OpenTopoMap_Iceland.tdb</TDB>
+ <Directory>Product1</Directory>
+</SubProduct>
+</MapProduct>
