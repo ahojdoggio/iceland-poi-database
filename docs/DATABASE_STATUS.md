@@ -447,6 +447,102 @@ See details above in Pending Work section.
 
 ---
 
+### Phase 11: Garmin OpenTopoMap Source Data (2016 POIs)
+
+**Priority:** Low (future expansion beyond 1000 POI target)
+**Data Source:** `Sources/OpenTopoMap_Iceland.gmap` (uploaded 2026-01-26)
+**Status:** 📋 POI List Extracted, Pending Enrichment
+
+**Overview:**
+POIs extracted from Garmin map files containing OpenTopoMap data for Iceland. This data source provides comprehensive geographic coverage including many remote and lesser-known locations not typically found in tourist guides.
+
+**Extraction Summary:**
+- Total unique strings extracted: 48,495
+- Tourist-relevant POIs identified: 2,016
+- Categories: 13 major categories
+
+**Breakdown by Category:**
+
+| Category | Count | Description |
+|----------|-------|-------------|
+| Waterfalls | 406 | Named waterfalls across Iceland |
+| Churches | 348 | Traditional and historic Icelandic churches |
+| Accommodation | 277 | Hotels, hostels, guesthouses |
+| Glaciers | 264 | Named glacier features and outlets |
+| Hot Springs/Pools | 222 | Geothermal pools, hot springs, swimming facilities |
+| Restaurant | 116 | Cafés, restaurants, bars, bakeries |
+| Mountain Huts | 112 | Highland huts and shelters |
+| Museums | 103 | Museums, galleries, cultural centers |
+| Camping | 67 | Campgrounds and camping facilities |
+| Caves | 39 | Lava caves and other cave features |
+| Lighthouses | 34 | Coastal lighthouses |
+| Canyons | 23 | Gorges and canyon features |
+| Craters | 5 | Volcanic craters |
+| **TOTAL** | **2,016** | |
+
+**Notable Findings:**
+
+**Waterfalls (406):** Many lesser-known waterfalls including:
+- Bergárfoss, Bjarnafoss, Bólstaðafoss, Búrfoss
+- Djúpagilsfoss, Draugagilsfoss, Drekafoss
+- Fardagafoss, Finnbogafoss, Fjárdrápsfoss
+- Hástaðafoss, Hundafoss (various), Hvannárfoss
+- Scores more across all regions
+
+**Churches (348):** Nearly complete coverage of Icelandic churches:
+- Traditional rural churches (kirkja suffix)
+- Historic churches dating back centuries
+- Modern parish churches in towns
+
+**Hot Springs & Pools (222):** Extensive coverage including:
+- Municipal pools (sundlaug, swimming)
+- Natural hot springs (laug suffix)
+- Hidden geothermal bathing spots
+- Many not in standard tourist guides
+
+**Mountain Huts (112):** Highland shelter network:
+- Ferðafélag (hiking association) huts
+- Emergency shelters
+- Warden-staffed huts
+- Remote highland accommodations
+
+**Glaciers (264):** Detailed glacier outlet naming:
+- Main glacier caps and named outlets
+- Glacier tongues and ice features
+- Historical glacier positions
+
+**Data Quality Notes:**
+- Names are from official Icelandic mapping sources
+- Many include Icelandic characters (á, é, í, ó, ú, ý, þ, ð, æ, ö)
+- Some entries include metadata (road numbers, opening hours fragments)
+- Cross-reference with existing database to avoid duplicates
+- Coordinates NOT included - require separate research
+
+**Recommended Approach:**
+1. **Phase 11a:** High-priority tourist POIs (est. 200-300)
+   - Focus on waterfalls, hot springs, and viewpoints
+   - Select most accessible and significant sites
+
+2. **Phase 11b:** Infrastructure POIs (est. 200-300)
+   - Camping sites, mountain huts, accommodations
+   - Highland shelters and emergency facilities
+
+3. **Phase 11c:** Cultural heritage POIs (est. 300-400)
+   - Churches of historical significance
+   - Museums and cultural sites
+   - Regional landmarks
+
+4. **Phase 11d:** Remaining POIs (est. 1000+)
+   - Lesser-known natural features
+   - Remote locations
+   - Specialized interest sites
+
+**Effort Estimate:**
+- Full enrichment of all 2,016 POIs: 800-1200 hours
+- Phased approach recommended: 50-100 POIs per phase
+
+---
+
 ## Expansion Summary by Phase
 
 | Phase | Category | POIs | Priority | Effort (hrs) | Status |
@@ -462,7 +558,9 @@ See details above in Pending Work section.
 | **8** | **Towns & Cultural Sites** | **60** | **Medium** | **50-80** | **📋 Planned** |
 | **9** | **Outdoor Activities** | **52** | **Medium** | **45-70** | **📋 Planned** |
 | **10** | **Specialized & Hidden Gems** | **50** | **Low-Medium** | **40-60** | **📋 Planned** |
-| | **TOTAL** | **1000** | | **~400-650 hrs** | **479 Complete, 521 Planned** |
+| **11** | **Garmin OpenTopoMap POIs** | **2016** | **Low** | **TBD** | **📋 New Data Source** |
+| | **TOTAL (Phases 0-10)** | **1000** | | **~400-650 hrs** | **479 Complete, 521 Planned** |
+| | **TOTAL (Including Phase 11)** | **3016** | | **TBD** | **Extended Target** |
 
 ---
 
@@ -540,6 +638,13 @@ All expansion planning based on comprehensive web research conducted January 24,
 - [Breweries & Distilleries](https://guidetoiceland.is/best-of-iceland/best-breweries-and-distilleries-to-visit-in-iceland)
 - [Westfjords Guide](https://guidetoiceland.is/nature-info/the-wild-westfjords-of-iceland)
 - [Lonely Planet Westfjords](https://www.lonelyplanet.com/articles/top-things-to-do-in-westfjords)
+
+### Garmin Map Data (Phase 11 - Added 2026-01-26)
+- **Source File:** `Sources/OpenTopoMap_Iceland.gmap` - Garmin-format topographic map
+- **Data Origin:** OpenTopoMap project - based on OpenStreetMap data
+- **Coverage:** Comprehensive Iceland geographic data including remote locations
+- **POIs Extracted:** 2,016 tourist-relevant POIs across 13 categories
+- **Note:** Names only - coordinates require separate research for enrichment
 
 ---
 
